@@ -1,0 +1,46 @@
+# ═══════════════════════════════════════════════════════════════
+#  NORTH POINTE CAPITAL — GitHub Actions Trading Engine
+#  Runs every 15 minutes, 24/7, completely free
+#  No Railway, no servers, no extra cost
+# ═══════════════════════════════════════════════════════════════
+
+name: North Pointe Capital — Live Trading
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # Every 15 minutes, 24/7
+  workflow_dispatch:           # Manual trigger button in GitHub UI
+
+permissions:
+  contents: write              # Lets the bot save trades.json back to repo
+
+jobs:
+  trade:
+    name: Run Trading Agents
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run North Pointe Capital Trading Engine
+        env:
+          KALSHI_KEY: ${{ secrets.KALSHI_KEY }}
+          FH_KEY:     ${{ secrets.FH_KEY }}
+          NEWS_KEY:   ${{ secrets.NEWS_KEY }}
+        run: node trader.js
+
+      - name: Save trade data back to repo
+        run: |
+          git config user.name  "North Pointe Capital Bot"
+          git config user.email "bot@northpointecapital.com"
+          git add trades.json
+          git diff --staged --quiet || git commit -m "📈 NPC Trade Update — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
