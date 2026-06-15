@@ -1,0 +1,16 @@
+{
+  "cash": 200,
+  "startCash": 200,
+  "trades": [],
+  "positions": [],
+  "log": [],
+  "markets": [],
+  "prices": {},
+  "tick": 0,
+  "totalScanned": 0,
+  "learnData": {},
+  "learnAdjust": {},
+  "learnTotal": 0,
+  "lastRun": null,
+  "created": "2026-06-14T00:00:00.000Z"
+}
