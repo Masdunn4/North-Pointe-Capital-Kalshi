@@ -1,5 +1,5 @@
 {
-  "cash": 196,
+  "cash": 194,
   "startCash": 200,
   "trades": [
     {
@@ -51,6 +51,31 @@
       "payoutMult": "1.02",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1781996265375.6504,
+      "ticker": "KXUFCMOF-26JUN20BOLASW-KOTKODQ",
+      "market": "Will either competitor win the Gaston Bolanos vs. Michael Aswell UFC Fight Night fight by KO/TKO/DQ?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.98,
+      "currentPrice": 0.02,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-20T22:57:45.375Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-04T22:00:00Z",
+      "reasoning": "NO: 98¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.02",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "positions": [
@@ -68,7 +93,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -93,6 +118,31 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-04T22:00:00Z",
+      "reasoning": "NO: 98¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.02",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1781996265375.6504,
+      "ticker": "KXUFCMOF-26JUN20BOLASW-KOTKODQ",
+      "market": "Will either competitor win the Gaston Bolanos vs. Michael Aswell UFC Fight Night fight by KO/TKO/DQ?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.98,
+      "currentPrice": 0.02,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-20T22:57:45.375Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "med",
       "shortTerm": false,
@@ -106,6 +156,96 @@
     }
   ],
   "log": [
+    {
+      "t": "10:57:46 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 3",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:57:46 PM",
+      "who": "Knox",
+      "msg": "All 3 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:57:46 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Knox",
+      "msg": "Checking 3 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will either competitor win t\" · $2.00 · win 96% · profit if win: +$0.04",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Axel",
+      "msg": "Exposure: 2% · Cash: $196.00",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Flash",
+      "msg": "0 short · 1 long · YES:0 NO:1 (24 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:57:45 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:57:44 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,302 SPY $$746.74",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:57:43 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:57:42 PM",
+      "who": "System",
+      "msg": "═══ TICK #46 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "10:48:02 PM",
       "who": "System",
@@ -1214,96 +1354,6 @@
       "t": "7:41:10 AM",
       "who": "Flash",
       "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:41:10 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:41:09 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:41:09 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,526 SPY $$746.74",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:41:08 AM",
-      "who": "System",
-      "msg": "═══ TICK #26 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 0",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $200.00",
-      "type": ""
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "2:19:47 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:19:46 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "2:19:46 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,994 SPY $$746.74",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:19:45 AM",
-      "who": "System",
-      "msg": "═══ TICK #25 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:24:46 PM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 0",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:24:46 PM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
     }
   ],
@@ -6644,26 +6694,26 @@
       "pct": 0.5602731331524123
     },
     "BINANCE:BTCUSDT": {
-      "c": 64256.13,
-      "pc": 63302.01,
-      "pct": 1.5072507176312337
+      "c": 64301.91,
+      "pc": 63328.01,
+      "pct": 1.5378661037983057
     },
     "BINANCE:ETHUSDT": {
-      "c": 1741.47,
-      "pc": 1707.17,
-      "pct": 2.0091730759092505
+      "c": 1744.47,
+      "pc": 1707.95,
+      "pct": 2.1382358968353863
     },
     "BINANCE:SOLUSDT": {
       "c": 73.61,
-      "pc": 69.29,
-      "pct": 6.234665896954817
+      "pc": 69.37,
+      "pct": 6.112152227187537
     }
   },
-  "tick": 45,
-  "totalScanned": 4500,
+  "tick": 46,
+  "totalScanned": 4600,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-06-20T22:47:59.785Z",
+  "lastRun": "2026-06-20T22:57:42.869Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
