@@ -1,5 +1,5 @@
 {
-  "cash": 152,
+  "cash": 138,
   "startCash": 200,
   "trades": [
     {
@@ -476,6 +476,56 @@
       "payoutMult": "1.03",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1782061829335.3362,
+      "ticker": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1",
+      "market": "Nasser Al-Dawsari: 1+ goals",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.96,
+      "currentPrice": 0.04,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-21T17:10:29.335Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-05T16:00:00Z",
+      "reasoning": "NO: 96¢",
+      "kellyFrac": "12.5",
+      "payoutMult": "1.04",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1782061829702.7678,
+      "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1",
+      "market": "Musab Al-Juwayr: 1+ goals",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-21T17:10:29.702Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-05T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "positions": [
@@ -493,7 +543,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -518,7 +568,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -543,7 +593,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -568,7 +618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -593,7 +643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -618,7 +668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -643,7 +693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -668,7 +718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 6,
+      "ticksOpen": 7,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -693,7 +743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 6,
+      "ticksOpen": 7,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -718,7 +768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -743,7 +793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -768,7 +818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -793,7 +843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -818,7 +868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -843,7 +893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -868,7 +918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -893,7 +943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -918,7 +968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -943,7 +993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -953,9 +1003,275 @@
       "payoutMult": "1.03",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1782061829335.3362,
+      "ticker": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1",
+      "market": "Nasser Al-Dawsari: 1+ goals",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.96,
+      "currentPrice": 0.04,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-21T17:10:29.335Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-05T16:00:00Z",
+      "reasoning": "NO: 96¢",
+      "kellyFrac": "12.5",
+      "payoutMult": "1.04",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1782061829702.7678,
+      "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1",
+      "market": "Musab Al-Juwayr: 1+ goals",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-06-21T17:10:29.702Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "med",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-05T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "log": [
+    {
+      "t": "5:10:35 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 21",
+      "type": "lt-sys"
+    },
+    {
+      "t": "5:10:35 PM",
+      "who": "Knox",
+      "msg": "All 21 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "5:10:35 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 1¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:35 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 4¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:34 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 3¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:34 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:34 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:34 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 2¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:33 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:33 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:32 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:32 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:32 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:31 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:31 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:31 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:31 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:30 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:30 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:30 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:30 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "5:10:30 PM",
+      "who": "Knox",
+      "msg": "Checking 21 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Musab Al-Juwayr: 1+ goals\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Nasser Al-Dawsari: 1+ goals\" · $12.00 · win 96% · profit if win: +$0.50",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Axel",
+      "msg": "Exposure: 24% · Cash: $152.00",
+      "type": ""
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Flash",
+      "msg": "0 short · 11 long · YES:0 NO:11 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "5:10:29 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:10:28 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "5:10:28 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,199 SPY $$746.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:10:27 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:10:27 PM",
+      "who": "System",
+      "msg": "═══ TICK #55 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "5:06:30 PM",
       "who": "System",
@@ -1939,222 +2255,6 @@
       "who": "Flash",
       "msg": "0 short · 5 long · YES:0 NO:5 (0 killed)",
       "type": ""
-    },
-    {
-      "t": "9:06:00 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:05:59 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:05:59 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,996 SPY $$746.74",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:05:58 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:05:57 AM",
-      "who": "System",
-      "msg": "═══ TICK #49 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:16:37 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 7",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:16:37 AM",
-      "who": "Knox",
-      "msg": "All 7 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:16:37 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 2¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:36 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 89¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:36 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:36 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:36 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:35 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:35 AM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "5:16:35 AM",
-      "who": "Knox",
-      "msg": "Checking 7 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:16:35 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will Salvador Price win the \" · $2.00 · win 96% · profit if win: +$0.04",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: YES \"Will Gustavo Ribeiro de Alme\" · $12.00 · win 95% · profit if win: +$1.48",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Axel",
-      "msg": "Exposure: 5% · Cash: $190.00",
-      "type": ""
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Flash",
-      "msg": "0 short · 4 long · YES:1 NO:3 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:16:34 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,238 SPY $$746.74",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:16:33 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:16:32 AM",
-      "who": "System",
-      "msg": "═══ TICK #48 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:02:18 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 5",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:02:18 AM",
-      "who": "Knox",
-      "msg": "All 5 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "12:02:18 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 2¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "12:02:18 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 2¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "12:02:17 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "12:02:17 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "12:02:17 AM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "12:02:17 AM",
-      "who": "Knox",
-      "msg": "Checking 5 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "12:02:16 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "12:02:16 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
     }
   ],
   "markets": [
@@ -2922,7 +3022,7 @@
       "no_bid_dollars": "0.9200",
       "no_sub_title": "Saud Abdulhamid: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "17.10",
+      "open_interest_fp": "18.37",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -2946,15 +3046,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1",
       "title": "Saud Abdulhamid: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.83732Z",
-      "volume_24h_fp": "16.70",
-      "volume_fp": "17.10",
+      "volume_24h_fp": "17.10",
+      "volume_fp": "18.37",
       "yes_ask_dollars": "0.0800",
-      "yes_ask_size_fp": "8330.43",
+      "yes_ask_size_fp": "8329.16",
       "yes_bid_dollars": "0.0300",
       "yes_bid_size_fp": "266666.64",
       "yes_sub_title": "Saud Abdulhamid: 1+",
       "yes_bid": 0.03,
-      "volume": 17.1
+      "volume": 18.37
     },
     {
       "can_close_early": true,
@@ -2979,7 +3079,7 @@
       "no_bid_dollars": "0.9500",
       "no_sub_title": "Nasser Al-Dawsari: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "27.78",
+      "open_interest_fp": "29.08",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3003,15 +3103,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1",
       "title": "Nasser Al-Dawsari: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.83732Z",
-      "volume_24h_fp": "22.49",
-      "volume_fp": "27.78",
+      "volume_24h_fp": "27.78",
+      "volume_fp": "29.08",
       "yes_ask_dollars": "0.0500",
-      "yes_ask_size_fp": "306838.58",
+      "yes_ask_size_fp": "299970.62",
       "yes_bid_dollars": "0.0400",
-      "yes_bid_size_fp": "699999.72",
+      "yes_bid_size_fp": "799999.68",
       "yes_sub_title": "Nasser Al-Dawsari: 1+",
       "yes_bid": 0.04,
-      "volume": 27.78
+      "volume": 29.08
     },
     {
       "can_close_early": true,
@@ -3036,7 +3136,7 @@
       "no_bid_dollars": "0.3000",
       "no_sub_title": "Musab Al-Juwayr: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "12.82",
+      "open_interest_fp": "16.94",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3060,15 +3160,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1",
       "title": "Musab Al-Juwayr: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.83732Z",
-      "volume_24h_fp": "8.90",
-      "volume_fp": "12.82",
+      "volume_24h_fp": "12.82",
+      "volume_fp": "16.94",
       "yes_ask_dollars": "0.7000",
-      "yes_ask_size_fp": "92.15",
+      "yes_ask_size_fp": "88.03",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "33673.33",
+      "yes_bid_size_fp": "340.00",
       "yes_sub_title": "Musab Al-Juwayr: 1+",
       "yes_bid": 0.01,
-      "volume": 12.82
+      "volume": 16.94
     },
     {
       "can_close_early": true,
@@ -3090,10 +3190,10 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.7600",
+      "no_bid_dollars": "0.7500",
       "no_sub_title": "Hassan Al-Tombakti: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "18.35",
+      "open_interest_fp": "19.89",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3117,15 +3217,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAHALTO87-1",
       "title": "Hassan Al-Tombakti: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.83732Z",
-      "volume_24h_fp": "15.75",
-      "volume_fp": "18.35",
-      "yes_ask_dollars": "0.2400",
-      "yes_ask_size_fp": "195.00",
+      "volume_24h_fp": "18.35",
+      "volume_fp": "19.89",
+      "yes_ask_dollars": "0.2500",
+      "yes_ask_size_fp": "62658.34",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "5904899.41",
+      "yes_bid_size_fp": "4603159.54",
       "yes_sub_title": "Hassan Al-Tombakti: 1+",
       "yes_bid": 0.01,
-      "volume": 18.35
+      "volume": 19.89
     },
     {
       "can_close_early": true,
@@ -3150,7 +3250,7 @@
       "no_bid_dollars": "0.3100",
       "no_sub_title": "Ali Lajami: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "28.68",
+      "open_interest_fp": "31.06",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3174,15 +3274,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAALAJAM78-1",
       "title": "Ali Lajami: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.83732Z",
-      "volume_24h_fp": "24.82",
-      "volume_fp": "28.68",
+      "volume_24h_fp": "28.68",
+      "volume_fp": "31.06",
       "yes_ask_dollars": "0.6900",
-      "yes_ask_size_fp": "71.32",
+      "yes_ask_size_fp": "68.94",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "433460.29",
+      "yes_bid_size_fp": "533460.28",
       "yes_sub_title": "Ali Lajami: 1+",
       "yes_bid": 0.01,
-      "volume": 28.68
+      "volume": 31.06
     },
     {
       "can_close_early": true,
@@ -3231,12 +3331,12 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-KSAAALAM5-1",
       "title": "Abdulelah Al-Amri: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "14.57",
+      "volume_24h_fp": "16.70",
       "volume_fp": "16.70",
       "yes_ask_dollars": "0.2000",
-      "yes_ask_size_fp": "4988.21",
+      "yes_ask_size_fp": "14988.17",
       "yes_bid_dollars": "0.0900",
-      "yes_bid_size_fp": "107407.30",
+      "yes_bid_size_fp": "129629.50",
       "yes_sub_title": "Abdulelah Al-Amri: 1+",
       "yes_bid": 0.09,
       "volume": 16.7
@@ -3321,7 +3421,7 @@
       "no_bid_dollars": "0.8000",
       "no_sub_title": "Pedro Porro: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "15.24",
+      "open_interest_fp": "16.20",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3345,15 +3445,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-ESPPPORRO23-1",
       "title": "Pedro Porro: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "13.12",
-      "volume_fp": "15.24",
+      "volume_24h_fp": "15.24",
+      "volume_fp": "16.20",
       "yes_ask_dollars": "0.2000",
-      "yes_ask_size_fp": "1665.73",
+      "yes_ask_size_fp": "1664.77",
       "yes_bid_dollars": "0.0700",
-      "yes_bid_size_fp": "28571.40",
+      "yes_bid_size_fp": "52380.90",
       "yes_sub_title": "Pedro Porro: 1+",
       "yes_bid": 0.07,
-      "volume": 15.24
+      "volume": 16.2
     },
     {
       "can_close_early": true,
@@ -3375,7 +3475,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.7600",
+      "no_bid_dollars": "0.7500",
       "no_sub_title": "Pau Cubarsi: 1+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "20.84",
@@ -3402,10 +3502,10 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-ESPPCUBAR5-1",
       "title": "Pau Cubarsi: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "17.87",
+      "volume_24h_fp": "20.84",
       "volume_fp": "20.84",
-      "yes_ask_dollars": "0.2400",
-      "yes_ask_size_fp": "192.96",
+      "yes_ask_dollars": "0.2500",
+      "yes_ask_size_fp": "10666.64",
       "yes_bid_dollars": "0.0100",
       "yes_bid_size_fp": "1168946.55",
       "yes_sub_title": "Pau Cubarsi: 1+",
@@ -3546,10 +3646,10 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9800",
-      "no_bid_dollars": "0.8000",
+      "no_bid_dollars": "0.7900",
       "no_sub_title": "Aymeric Laporte: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "24.78",
+      "open_interest_fp": "27.27",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3573,15 +3673,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-ESPALAPOR14-1",
       "title": "Aymeric Laporte: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "21.82",
-      "volume_fp": "24.78",
-      "yes_ask_dollars": "0.2000",
-      "yes_ask_size_fp": "190.00",
+      "volume_24h_fp": "24.78",
+      "volume_fp": "27.27",
+      "yes_ask_dollars": "0.2100",
+      "yes_ask_size_fp": "7936.50",
       "yes_bid_dollars": "0.0200",
       "yes_bid_size_fp": "383333.18",
       "yes_sub_title": "Aymeric Laporte: 1+",
       "yes_bid": 0.02,
-      "volume": 24.78
+      "volume": 27.27
     },
     {
       "can_close_early": true,
@@ -3655,15 +3755,15 @@
       "expiration_value": "",
       "floor_strike": 1.5,
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4300",
+      "last_price_dollars": "0.4400",
       "latest_expiration_time": "2026-07-05T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9800",
-      "no_bid_dollars": "0.5700",
+      "no_bid_dollars": "0.5600",
       "no_sub_title": "Alex Baena: 2+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "18.22",
+      "open_interest_fp": "20.59",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3687,15 +3787,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-ESPABAENA10-2",
       "title": "Alex Baena: 2+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "16.71",
-      "volume_fp": "18.22",
-      "yes_ask_dollars": "0.4300",
-      "yes_ask_size_fp": "193.00",
+      "volume_24h_fp": "18.22",
+      "volume_fp": "20.59",
+      "yes_ask_dollars": "0.4400",
+      "yes_ask_size_fp": "65137.22",
       "yes_bid_dollars": "0.0200",
-      "yes_bid_size_fp": "1299999.48",
+      "yes_bid_size_fp": "1433332.76",
       "yes_sub_title": "Alex Baena: 2+",
       "yes_bid": 0.02,
-      "volume": 18.22
+      "volume": 20.59
     },
     {
       "can_close_early": true,
@@ -3716,11 +3816,11 @@
       "latest_expiration_time": "2026-07-05T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7200",
-      "no_bid_dollars": "0.5400",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Alex Baena: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "14.78",
+      "open_interest_fp": "15.64",
       "open_time": "2026-06-21T16:02:44Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3744,15 +3844,15 @@
       "ticker": "KXWCGOAL-26JUN21ESPKSA-ESPABAENA10-1",
       "title": "Alex Baena: 1+ goals",
       "updated_time": "2026-06-21T16:02:44.799192Z",
-      "volume_24h_fp": "14.24",
-      "volume_fp": "14.78",
-      "yes_ask_dollars": "0.4600",
-      "yes_ask_size_fp": "724.63",
-      "yes_bid_dollars": "0.2800",
-      "yes_bid_size_fp": "1190.47",
+      "volume_24h_fp": "14.78",
+      "volume_fp": "15.64",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Alex Baena: 1+",
-      "yes_bid": 0.28,
-      "volume": 14.78
+      "yes_bid": 0.01,
+      "volume": 15.64
     },
     {
       "can_close_early": true,
@@ -5462,7 +5562,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Jasson Domínguez: 1+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -5491,8 +5591,8 @@
       "updated_time": "2026-06-21T16:02:44.799192Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "200.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Jasson Domínguez: 1+",
@@ -5519,7 +5619,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0200",
+      "no_bid_dollars": "0.9300",
       "no_sub_title": "Jazz Chisholm Jr.: 3+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -5548,7 +5648,7 @@
       "updated_time": "2026-06-21T16:02:44.799192Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9800",
+      "yes_ask_dollars": "0.0700",
       "yes_ask_size_fp": "200.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -6317,7 +6417,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0200",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Anthony Volpe: 1+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -6346,8 +6446,8 @@
       "updated_time": "2026-06-21T16:02:44.747591Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9800",
-      "yes_ask_size_fp": "200.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Anthony Volpe: 1+",
@@ -7864,26 +7964,26 @@
       "pct": 0.5865359362689326
     },
     "BINANCE:BTCUSDT": {
-      "c": 64215.12,
-      "pc": 63934.01,
-      "pct": 0.43968773427476326
+      "c": 64199.21,
+      "pc": 63899.99,
+      "pct": 0.4682629840787161
     },
     "BINANCE:ETHUSDT": {
-      "c": 1731.32,
-      "pc": 1730.75,
-      "pct": 0.032933699263321466
+      "c": 1729.87,
+      "pc": 1729.64,
+      "pct": 0.013297564811162486
     },
     "BINANCE:SOLUSDT": {
-      "c": 74.54,
-      "pc": 71.47,
-      "pct": 4.295508605009105
+      "c": 74.4,
+      "pc": 71.43,
+      "pct": 4.157916841663164
     }
   },
-  "tick": 54,
-  "totalScanned": 5400,
+  "tick": 55,
+  "totalScanned": 5500,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-06-21T17:06:22.396Z",
+  "lastRun": "2026-06-21T17:10:27.417Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
