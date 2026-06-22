@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 21,
+      "ticksOpen": 22,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 21,
+      "ticksOpen": 22,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 20,
+      "ticksOpen": 21,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 19,
+      "ticksOpen": 20,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 19,
+      "ticksOpen": 20,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 18,
+      "ticksOpen": 19,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 18,
+      "ticksOpen": 19,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 17,
+      "ticksOpen": 18,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 17,
+      "ticksOpen": 18,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 16,
+      "ticksOpen": 17,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 16,
+      "ticksOpen": 17,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 15,
+      "ticksOpen": 16,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 15,
+      "ticksOpen": 16,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 14,
+      "ticksOpen": 15,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 14,
+      "ticksOpen": 15,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 13,
+      "ticksOpen": 14,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 13,
+      "ticksOpen": 14,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 12,
+      "ticksOpen": 13,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 12,
+      "ticksOpen": 13,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 11,
+      "ticksOpen": 12,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 11,
+      "ticksOpen": 12,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 10,
+      "ticksOpen": 11,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 6,
+      "ticksOpen": 7,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 6,
+      "ticksOpen": 7,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "11:05:58 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "11:05:58 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "11:05:58 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:58 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:58 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:57 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:57 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~45.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:57 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~45.0h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:57 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~45.0h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:56 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~45.0h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:56 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~44.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:56 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:55 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~43.5h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:55 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~43.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:55 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~43.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:54 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:54 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~43.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:54 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~43.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:54 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~43.1h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:53 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~42.5h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:53 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~42.5h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:53 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~42.5h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:52 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:52 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:52 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:52 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:51 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:51 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:51 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:50 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:50 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~44.2h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:50 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~44.2h left",
+      "type": ""
+    },
+    {
+      "t": "11:05:50 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:49 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:49 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:49 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:48 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:48 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~13d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:48 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:47 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:47 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:47 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:47 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~12d left",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 3 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Flash",
+      "msg": "0 short · 3 long · YES:0 NO:3 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "11:05:46 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,966 SPY $$744.39",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:05:45 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:05:44 PM",
+      "who": "System",
+      "msg": "═══ TICK #66 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:38:04 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~12d left",
       "type": ""
-    },
-    {
-      "t": "3:59:49 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~12d left",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~12d left",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 2 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Flash",
-      "msg": "0 short · 2 long · YES:0 NO:2 (24 killed)",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "3:59:48 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,834 SPY $$744.74",
-      "type": "lt-info"
-    },
-    {
-      "t": "3:59:47 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "3:59:46 PM",
-      "who": "System",
-      "msg": "═══ TICK #63 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:12:35 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:12:35 AM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "11:12:34 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:34 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:34 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:34 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:32 AM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:31 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:31 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:31 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:29 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:28 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:28 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:28 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:27 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:27 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:27 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:27 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:26 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:26 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:26 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:25 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:25 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:25 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:25 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:24 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~13d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:24 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~12d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:24 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~12d left",
-      "type": ""
-    },
-    {
-      "t": "11:12:23 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~12d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3273,7 +3273,7 @@
       "expiration_value": "",
       "floor_strike": 0.5,
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.0200",
       "latest_expiration_time": "2026-07-06T17:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -3281,7 +3281,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Marko Arnautovic: 1+",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "2.00",
       "open_time": "2026-06-22T19:02:58Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3305,15 +3305,15 @@
       "ticker": "KXWCGOAL-26JUN22ARGAUT-AUTMARNAU89-1",
       "title": "Marko Arnautovic: 1+ goals",
       "updated_time": "2026-06-22T19:02:58.927447Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "2.00",
+      "volume_fp": "2.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0200",
       "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Marko Arnautovic: 1+",
       "yes_bid": 0.02,
-      "volume": 0
+      "volume": 2
     },
     {
       "can_close_early": true,
@@ -8688,26 +8688,26 @@
       "pct": -1.8977975102289606
     },
     "BINANCE:BTCUSDT": {
-      "c": 64318,
-      "pc": 63726.84,
-      "pct": 0.9276468125518282
+      "c": 63966,
+      "pc": 63710,
+      "pct": 0.40182075027468217
     },
     "BINANCE:ETHUSDT": {
-      "c": 1733.47,
-      "pc": 1715.5,
-      "pct": 1.0475080151559328
+      "c": 1725.08,
+      "pc": 1713.93,
+      "pct": 0.6505516561353067
     },
     "BINANCE:SOLUSDT": {
-      "c": 72.64,
-      "pc": 72.84,
-      "pct": -0.2745744096650231
+      "c": 71.97,
+      "pc": 72.92,
+      "pct": -1.3027975863960544
     }
   },
-  "tick": 65,
-  "totalScanned": 6500,
+  "tick": 66,
+  "totalScanned": 6600,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-06-22T21:37:52.417Z",
+  "lastRun": "2026-06-22T23:05:44.765Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
