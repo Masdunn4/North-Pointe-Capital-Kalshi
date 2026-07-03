@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 144,
+      "ticksOpen": 145,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 144,
+      "ticksOpen": 145,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 143,
+      "ticksOpen": 144,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 142,
+      "ticksOpen": 143,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 142,
+      "ticksOpen": 143,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 141,
+      "ticksOpen": 142,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 141,
+      "ticksOpen": 142,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 140,
+      "ticksOpen": 141,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 140,
+      "ticksOpen": 141,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 139,
+      "ticksOpen": 140,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 139,
+      "ticksOpen": 140,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "10:30:40 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:30:40 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:30:40 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~47.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:39 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~47.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:39 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~45.7h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:39 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~45.7h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:38 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:38 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:38 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:37 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:37 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:37 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~45.6h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:37 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:36 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~40.0h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:34 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:33 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:33 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:33 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:33 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:32 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~41.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:32 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~40.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:32 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~40.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:31 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:31 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:30:31 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~47.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:30 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~47.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:30 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~33.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:30 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~33.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:30 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~41.3h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:29 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~41.3h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:29 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~23.0h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:29 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~23.0h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~23.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~23.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~23.5h left",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 2 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Flash",
+      "msg": "0 short · 2 long · YES:0 NO:2 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:30:28 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:30:27 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:30:27 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,636 SPY $$744.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:30:26 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:30:26 PM",
+      "who": "System",
+      "msg": "═══ TICK #189 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:21:07 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~27.4h left",
       "type": ""
-    },
-    {
-      "t": "6:37:06 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~27.4h left",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~27.4h left",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Flash",
-      "msg": "0 short · 1 long · YES:0 NO:1 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "6:37:05 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,218 SPY $$744.82",
-      "type": "lt-info"
-    },
-    {
-      "t": "6:37:04 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:37:03 PM",
-      "who": "System",
-      "msg": "═══ TICK #186 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:02:15 PM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:02:15 PM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:02:15 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:15 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:14 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:14 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:14 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:14 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:13 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:13 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:13 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:13 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:13 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:12 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:12 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:12 PM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~45.5h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:12 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:11 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:11 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:11 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:11 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:11 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:10 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:10 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:10 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:10 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:09 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:09 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~47.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:09 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~46.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:09 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~46.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:08 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:08 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:02:08 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:08 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:02:08 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~39.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:07 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~39.0h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:07 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~46.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:07 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~46.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:07 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~28.5h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:06 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~28.5h left",
-      "type": ""
-    },
-    {
-      "t": "5:02:06 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~29.0h left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3967,7 +3967,7 @@
       "no_sub_title": "Game goes to extra innings",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "12.00",
+      "open_interest_fp": "17.00",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3989,15 +3989,15 @@
       "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
       "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "12.00",
-      "volume_fp": "12.00",
+      "volume_24h_fp": "14.00",
+      "volume_fp": "17.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Game goes to extra innings",
       "yes_bid": 0,
-      "volume": 12
+      "volume": 17
     },
     {
       "can_close_early": true,
@@ -7969,7 +7969,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Gerrit Cole: 9+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -7999,8 +7999,8 @@
       "updated_time": "2026-07-03T01:07:04.759454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Gerrit Cole: 9+",
@@ -8085,7 +8085,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0400",
       "no_sub_title": "Gerrit Cole: 7+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8115,8 +8115,8 @@
       "updated_time": "2026-07-03T01:07:04.759454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9600",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Gerrit Cole: 7+",
@@ -8143,7 +8143,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.6100",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Gerrit Cole: 6+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8173,8 +8173,8 @@
       "updated_time": "2026-07-03T01:07:04.759454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.3900",
       "yes_bid_size_fp": "15.00",
       "yes_sub_title": "Gerrit Cole: 6+",
@@ -8375,7 +8375,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Gerrit Cole: 10+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8405,8 +8405,8 @@
       "updated_time": "2026-07-03T01:07:04.759454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Gerrit Cole: 10+",
@@ -8432,8 +8432,8 @@
       "latest_expiration_time": "2026-07-06T23:05:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Gerrit Cole: 18+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8463,12 +8463,12 @@
       "updated_time": "2026-07-03T01:07:04.759454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "75.00",
       "yes_sub_title": "Gerrit Cole: 18+",
-      "yes_bid": 0,
+      "yes_bid": 0.02,
       "volume": 0
     },
     {
@@ -8491,7 +8491,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.6100",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Cody Bellinger: 3+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8521,8 +8521,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.3900",
       "yes_bid_size_fp": "15.00",
       "yes_sub_title": "Cody Bellinger: 3+",
@@ -8549,7 +8549,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Cody Bellinger: 2+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8579,8 +8579,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Cody Bellinger: 2+",
@@ -8607,7 +8607,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Cody Bellinger: 1+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8637,8 +8637,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Cody Bellinger: 1+",
@@ -8715,7 +8715,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Cody Bellinger: 5+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:05:00Z",
@@ -8745,8 +8745,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Cody Bellinger: 5+",
@@ -9039,7 +9039,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Juan Soto: 2+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:15:00Z",
@@ -9069,8 +9069,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Juan Soto: 2+",
@@ -9201,7 +9201,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Francisco Lindor: 2+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:15:00Z",
@@ -9231,8 +9231,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Francisco Lindor: 2+",
@@ -9255,7 +9255,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Francisco Lindor: 1+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-04T02:15:00Z",
@@ -9285,8 +9285,8 @@
       "updated_time": "2026-07-03T01:07:04.717948Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "75.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Francisco Lindor: 1+",
@@ -9541,26 +9541,26 @@
       "pct": 0.6875181562893464
     },
     "BINANCE:BTCUSDT": {
-      "c": 62662.56,
-      "pc": 61540.92,
-      "pct": 1.8225921874421107
+      "c": 62635.91,
+      "pc": 61520,
+      "pct": 1.8138979193758182
     },
     "BINANCE:ETHUSDT": {
-      "c": 1765.36,
-      "pc": 1703.74,
-      "pct": 3.6167490344770856
+      "c": 1760.48,
+      "pc": 1696.22,
+      "pct": 3.7884236714577115
     },
     "BINANCE:SOLUSDT": {
-      "c": 82.51,
-      "pc": 81.04,
-      "pct": 1.8139190523198405
+      "c": 82.41,
+      "pc": 80.63,
+      "pct": 2.2076150316259473
     }
   },
-  "tick": 188,
-  "totalScanned": 18800,
+  "tick": 189,
+  "totalScanned": 18900,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-03T21:20:56.124Z",
+  "lastRun": "2026-07-03T22:30:26.386Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
