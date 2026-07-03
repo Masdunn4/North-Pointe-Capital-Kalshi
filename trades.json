@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 141,
+      "ticksOpen": 142,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 141,
+      "ticksOpen": 142,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 140,
+      "ticksOpen": 141,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 139,
+      "ticksOpen": 140,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 139,
+      "ticksOpen": 140,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 126,
+      "ticksOpen": 127,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 126,
+      "ticksOpen": 127,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "6:37:15 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "6:37:15 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "6:37:15 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:15 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:15 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:15 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:13 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:12 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~43.9h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:10 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:09 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:09 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~45.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~44.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~44.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:37:08 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:08 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:37:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~37.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~37.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~45.2h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~45.2h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:06 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~26.9h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:06 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~26.9h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:06 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~27.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:06 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~27.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~27.4h left",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Flash",
+      "msg": "0 short · 1 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "6:37:05 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,218 SPY $$744.82",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:37:04 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:37:03 PM",
+      "who": "System",
+      "msg": "═══ TICK #186 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "5:02:15 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~32.5h left",
       "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~32.5h left",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~32.5h left",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "1:28:28 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "1:28:27 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,100 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "1:28:26 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "1:28:26 PM",
-      "who": "System",
-      "msg": "═══ TICK #183 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:54:35 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:54:35 AM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "11:54:34 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:34 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:34 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:34 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:33 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:32 AM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:32 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:31 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:31 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:31 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:31 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:30 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:30 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:30 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:29 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:29 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:29 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:29 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:28 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:28 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:54:27 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:27 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:27 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~44.1h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:27 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~44.1h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:27 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:26 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "11:54:26 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~33.6h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:26 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~33.6h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:26 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~34.1h left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3428,7 +3428,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Pittsburgh,yes Cincinnati",
       "notional_value_dollars": "1.0000",
@@ -3459,10 +3459,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Pittsburgh,yes Cincinnati",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -3497,7 +3497,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Texas,yes Texas",
       "notional_value_dollars": "1.0000",
@@ -3528,10 +3528,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Texas,yes Texas",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -3566,7 +3566,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Tampa Bay,yes Reg Time: Tie",
       "notional_value_dollars": "1.0000",
@@ -3597,10 +3597,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Tampa Bay,yes Reg Time: Tie",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -3635,7 +3635,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Seattle,yes Reg Time: Australia",
       "notional_value_dollars": "1.0000",
@@ -3666,10 +3666,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Seattle,yes Reg Time: Australia",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -3842,7 +3842,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Los Angeles D,yes Chicago WS",
       "notional_value_dollars": "1.0000",
@@ -3873,10 +3873,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Los Angeles D,yes Chicago WS",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -3911,7 +3911,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Chicago C,yes Kansas City",
       "notional_value_dollars": "1.0000",
@@ -3942,10 +3942,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Chicago C,yes Kansas City",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4036,7 +4036,7 @@
       "no_sub_title": "Game goes to extra innings",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "9.00",
+      "open_interest_fp": "12.00",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4058,15 +4058,15 @@
       "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
       "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "9.00",
-      "volume_fp": "9.00",
+      "volume_24h_fp": "10.00",
+      "volume_fp": "12.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Game goes to extra innings",
       "yes_bid": 0,
-      "volume": 9
+      "volume": 12
     },
     {
       "can_close_early": true,
@@ -4081,16 +4081,16 @@
       "expiration_time": "2026-07-09T01:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.4300",
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6000",
-      "no_bid_dollars": "0.5800",
+      "no_ask_dollars": "0.5800",
+      "no_bid_dollars": "0.5600",
       "no_sub_title": "Los Angeles A",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4114,14 +4114,14 @@
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.4200",
-      "yes_ask_size_fp": "2.00",
-      "yes_bid_dollars": "0.4000",
-      "yes_bid_size_fp": "2.00",
+      "volume_fp": "5.00",
+      "yes_ask_dollars": "0.4400",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.4200",
+      "yes_bid_size_fp": "118.00",
       "yes_sub_title": "Los Angeles A",
-      "yes_bid": 0.4,
-      "volume": 0
+      "yes_bid": 0.42,
+      "volume": 5
     },
     {
       "can_close_early": true,
@@ -4136,11 +4136,11 @@
       "expiration_time": "2026-07-09T01:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.5900",
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.4200",
+      "no_ask_dollars": "0.4100",
       "no_bid_dollars": "0.4000",
       "no_sub_title": "Boston",
       "notional_value_dollars": "1.0000",
@@ -4168,15 +4168,15 @@
       "ticker": "KXMLBGAME-26JUL052130BOSLAA-BOS",
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "2.00",
+      "volume_fp": "2.00",
       "yes_ask_dollars": "0.6000",
       "yes_ask_size_fp": "2.00",
-      "yes_bid_dollars": "0.5800",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.5900",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Boston",
-      "yes_bid": 0.58,
-      "volume": 0
+      "yes_bid": 0.59,
+      "volume": 2
     },
     {
       "can_close_early": true,
@@ -4210,7 +4210,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Milwaukee,yes Reg Time: Cape Verde",
       "notional_value_dollars": "1.0000",
@@ -4241,10 +4241,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Milwaukee,yes Reg Time: Cape Verde",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4283,7 +4283,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Seattle,yes Reg Time: USA",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
+      "open_interest_fp": "200.00",
       "open_time": "2026-07-03T01:29:39Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4307,14 +4307,14 @@
       "title": "yes Seattle,yes Reg Time: USA",
       "updated_time": "2026-07-03T01:29:39.571001Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
+      "volume_fp": "200.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.4500",
       "yes_bid_size_fp": "2.00",
       "yes_sub_title": "yes Seattle,yes Reg Time: USA",
       "yes_bid": 0.45,
-      "volume": 100
+      "volume": 200
     },
     {
       "can_close_early": true,
@@ -4348,7 +4348,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Reg Time: Mexico,yes Chicago",
       "notional_value_dollars": "1.0000",
@@ -4379,10 +4379,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Reg Time: Mexico,yes Chicago",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4417,7 +4417,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Colorado,yes Chicago",
       "notional_value_dollars": "1.0000",
@@ -4448,10 +4448,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Colorado,yes Chicago",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4486,7 +4486,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes San Francisco,yes Golden State",
       "notional_value_dollars": "1.0000",
@@ -4517,10 +4517,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes San Francisco,yes Golden State",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4555,7 +4555,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Cincinnati,yes Reg Time: Mexico",
       "notional_value_dollars": "1.0000",
@@ -4586,10 +4586,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Cincinnati,yes Reg Time: Mexico",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4771,7 +4771,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Texas,yes Cincinnati",
       "notional_value_dollars": "1.0000",
@@ -4802,10 +4802,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Texas,yes Cincinnati",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4844,7 +4844,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Los Angeles A,yes Tampa Bay",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
+      "open_interest_fp": "200.00",
       "open_time": "2026-07-03T01:24:06Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4868,14 +4868,14 @@
       "title": "yes Los Angeles A,yes Tampa Bay",
       "updated_time": "2026-07-03T01:24:07.570529Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
+      "volume_fp": "200.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.4500",
       "yes_bid_size_fp": "2.00",
       "yes_sub_title": "yes Los Angeles A,yes Tampa Bay",
       "yes_bid": 0.45,
-      "volume": 100
+      "volume": 200
     },
     {
       "can_close_early": true,
@@ -4909,7 +4909,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Texas,yes Reg Time: Tie",
       "notional_value_dollars": "1.0000",
@@ -4940,10 +4940,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Texas,yes Reg Time: Tie",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -4978,7 +4978,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Texas,yes Boston",
       "notional_value_dollars": "1.0000",
@@ -5009,10 +5009,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Texas,yes Boston",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5117,7 +5117,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Seattle,yes Reg Time: Colombia",
       "notional_value_dollars": "1.0000",
@@ -5148,10 +5148,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Seattle,yes Reg Time: Colombia",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5186,7 +5186,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Seattle,yes Kansas City",
       "notional_value_dollars": "1.0000",
@@ -5217,10 +5217,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Seattle,yes Kansas City",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5255,7 +5255,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Kansas City,yes Dallas",
       "notional_value_dollars": "1.0000",
@@ -5286,10 +5286,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Kansas City,yes Dallas",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5462,7 +5462,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Minnesota,yes Chicago",
       "notional_value_dollars": "1.0000",
@@ -5493,10 +5493,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Minnesota,yes Chicago",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5531,7 +5531,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes New York Y,yes Reg Time: Portugal",
       "notional_value_dollars": "1.0000",
@@ -5562,10 +5562,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes New York Y,yes Reg Time: Portugal",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5600,7 +5600,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Cleveland,yes Houston",
       "notional_value_dollars": "1.0000",
@@ -5631,10 +5631,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Cleveland,yes Houston",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5669,7 +5669,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Chicago WS,yes Toronto",
       "notional_value_dollars": "1.0000",
@@ -5700,10 +5700,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Chicago WS,yes Toronto",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5738,7 +5738,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Tampa Bay,yes Atlanta",
       "notional_value_dollars": "1.0000",
@@ -5769,10 +5769,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Tampa Bay,yes Atlanta",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5807,7 +5807,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Pittsburgh,yes New York Y",
       "notional_value_dollars": "1.0000",
@@ -5838,10 +5838,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Pittsburgh,yes New York Y",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -5880,7 +5880,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Miami,yes Los Angeles D",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
+      "open_interest_fp": "200.00",
       "open_time": "2026-07-03T01:01:25Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -5904,14 +5904,14 @@
       "title": "yes Miami,yes Los Angeles D",
       "updated_time": "2026-07-03T01:01:26.569522Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
+      "volume_fp": "200.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.4500",
       "yes_bid_size_fp": "2.00",
       "yes_sub_title": "yes Miami,yes Los Angeles D",
       "yes_bid": 0.45,
-      "volume": 100
+      "volume": 200
     },
     {
       "can_close_early": true,
@@ -5945,7 +5945,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes San Francisco,yes Phoenix",
       "notional_value_dollars": "1.0000",
@@ -5976,10 +5976,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes San Francisco,yes Phoenix",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6014,7 +6014,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Minnesota,yes San Diego",
       "notional_value_dollars": "1.0000",
@@ -6045,10 +6045,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Minnesota,yes San Diego",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6152,7 +6152,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes San Francisco,yes Atlanta",
       "notional_value_dollars": "1.0000",
@@ -6183,10 +6183,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes San Francisco,yes Atlanta",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6221,7 +6221,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Colorado,yes Chicago",
       "notional_value_dollars": "1.0000",
@@ -6252,10 +6252,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Colorado,yes Chicago",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6290,7 +6290,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Chicago C,yes Reg Time: USA",
       "notional_value_dollars": "1.0000",
@@ -6321,10 +6321,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Chicago C,yes Reg Time: USA",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6359,7 +6359,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes St. Louis,yes Atlanta",
       "notional_value_dollars": "1.0000",
@@ -6390,10 +6390,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes St. Louis,yes Atlanta",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6428,7 +6428,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes St. Louis,yes A's",
       "notional_value_dollars": "1.0000",
@@ -6459,10 +6459,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes St. Louis,yes A's",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6566,7 +6566,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Atlanta,yes Reg Time: Australia",
       "notional_value_dollars": "1.0000",
@@ -6597,10 +6597,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Atlanta,yes Reg Time: Australia",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6635,7 +6635,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes New York M,yes Colorado",
       "notional_value_dollars": "1.0000",
@@ -6666,10 +6666,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes New York M,yes Colorado",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6704,7 +6704,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Tampa Bay,yes Arizona",
       "notional_value_dollars": "1.0000",
@@ -6735,10 +6735,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Tampa Bay,yes Arizona",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6773,7 +6773,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Baltimore,yes New York",
       "notional_value_dollars": "1.0000",
@@ -6804,10 +6804,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Baltimore,yes New York",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6842,7 +6842,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes New York Y,yes Miami",
       "notional_value_dollars": "1.0000",
@@ -6873,10 +6873,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes New York Y,yes Miami",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6911,7 +6911,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Chicago C,yes Los Angeles D",
       "notional_value_dollars": "1.0000",
@@ -6942,10 +6942,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Chicago C,yes Los Angeles D",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -6980,7 +6980,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Tampa Bay,yes New York M",
       "notional_value_dollars": "1.0000",
@@ -7011,10 +7011,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Tampa Bay,yes New York M",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -7049,7 +7049,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Cleveland,yes Dallas",
       "notional_value_dollars": "1.0000",
@@ -7080,10 +7080,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Cleveland,yes Dallas",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -7099,7 +7099,7 @@
       "expiration_time": "2026-07-17T18:00:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.5000",
       "latest_expiration_time": "2026-07-17T18:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -7108,7 +7108,7 @@
       "no_sub_title": "Wildcard Gaming",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-03T22:00:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "5.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -7131,15 +7131,15 @@
       "ticker": "KXR6GAME-26JUL031400WCGM80-WCG",
       "title": "Will Wildcard Gaming win the Wildcard Gaming vs. M80 R6 match?",
       "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "105.00",
+      "volume_fp": "105.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Wildcard Gaming",
       "yes_bid": 0,
-      "volume": 0
+      "volume": 105
     },
     {
       "can_close_early": true,
@@ -8000,7 +8000,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes New York Y,yes Arizona",
       "notional_value_dollars": "1.0000",
@@ -8031,10 +8031,10 @@
       "volume_fp": "100.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes New York Y,yes Arizona",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 100
     },
     {
@@ -9571,26 +9571,26 @@
       "pct": 0.7165682192311504
     },
     "BINANCE:BTCUSDT": {
-      "c": 62159.47,
-      "pc": 61655.91,
-      "pct": 0.8167262473297332
+      "c": 62218,
+      "pc": 61799.99,
+      "pct": 0.6763916952090155
     },
     "BINANCE:ETHUSDT": {
-      "c": 1734.43,
-      "pc": 1697.87,
-      "pct": 2.153286176209025
+      "c": 1739.23,
+      "pc": 1702.87,
+      "pct": 2.1352187777105787
     },
     "BINANCE:SOLUSDT": {
-      "c": 81.58,
-      "pc": 80.58,
-      "pct": 1.2410027302060065
+      "c": 81.89,
+      "pc": 80.99,
+      "pct": 1.1112483022595452
     }
   },
-  "tick": 185,
-  "totalScanned": 18500,
+  "tick": 186,
+  "totalScanned": 18600,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-03T17:02:04.157Z",
+  "lastRun": "2026-07-03T18:37:03.453Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
