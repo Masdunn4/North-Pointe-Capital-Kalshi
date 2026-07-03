@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 140,
+      "ticksOpen": 141,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 140,
+      "ticksOpen": 141,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 139,
+      "ticksOpen": 140,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 138,
+      "ticksOpen": 139,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 137,
+      "ticksOpen": 138,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 136,
+      "ticksOpen": 137,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 135,
+      "ticksOpen": 136,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 134,
+      "ticksOpen": 135,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 133,
+      "ticksOpen": 134,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 132,
+      "ticksOpen": 133,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 131,
+      "ticksOpen": 132,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 130,
+      "ticksOpen": 131,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 129,
+      "ticksOpen": 130,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 128,
+      "ticksOpen": 129,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 127,
+      "ticksOpen": 128,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 126,
+      "ticksOpen": 127,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 126,
+      "ticksOpen": 127,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 126,
+      "ticksOpen": 127,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 125,
+      "ticksOpen": 126,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 125,
+      "ticksOpen": 126,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "5:02:15 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "5:02:15 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "5:02:15 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:15 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:14 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:14 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:14 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:13 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:12 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~45.5h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:10 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:09 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:09 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~47.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~46.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~46.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:02:08 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:08 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:02:08 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~39.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~39.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~46.8h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:07 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~46.8h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:07 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~28.5h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~28.5h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~29.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~29.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~29.0h left",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Flash",
+      "msg": "0 short · 1 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "5:02:06 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,159 SPY $$744.82",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:02:04 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:02:04 PM",
+      "who": "System",
+      "msg": "═══ TICK #185 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "3:33:10 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~34.1h left",
       "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~34.1h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~34.1h left",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Flash",
-      "msg": "0 short · 1 long · YES:1 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "11:54:25 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,021 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:54:24 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "11:54:23 AM",
-      "who": "System",
-      "msg": "═══ TICK #182 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:33:16 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:33:16 AM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:33:16 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:15 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:15 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:15 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:15 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:14 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:14 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:14 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:13 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:13 AM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:13 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:13 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:12 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:12 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:12 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:11 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:11 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:11 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:11 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:10 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:10 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:10 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:09 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:09 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:09 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:09 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:08 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:08 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:08 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:07 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:33:07 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:07 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:07 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~46.4h left",
-      "type": ""
-    },
-    {
-      "t": "9:33:06 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~46.4h left",
-      "type": ""
-    },
-    {
-      "t": "9:33:06 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:06 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:33:05 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~35.9h left",
-      "type": ""
-    },
-    {
-      "t": "9:33:05 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~35.9h left",
-      "type": ""
-    },
-    {
-      "t": "9:33:05 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~36.4h left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3290,7 +3290,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "1.0000",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Los Angeles D,yes Detroit",
       "notional_value_dollars": "1.0000",
@@ -3321,10 +3321,10 @@
       "volume_fp": "119.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Los Angeles D,yes Detroit",
-      "yes_bid": 0,
+      "yes_bid": 0.01,
       "volume": 119
     },
     {
@@ -4036,7 +4036,7 @@
       "no_sub_title": "Game goes to extra innings",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "8.00",
+      "open_interest_fp": "9.00",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4058,15 +4058,15 @@
       "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
       "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "8.00",
-      "volume_fp": "8.00",
+      "volume_24h_fp": "9.00",
+      "volume_fp": "9.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Game goes to extra innings",
       "yes_bid": 0,
-      "volume": 8
+      "volume": 9
     },
     {
       "can_close_early": true,
@@ -4116,9 +4116,9 @@
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.4200",
-      "yes_ask_size_fp": "8.00",
+      "yes_ask_size_fp": "2.00",
       "yes_bid_dollars": "0.4000",
-      "yes_bid_size_fp": "12.00",
+      "yes_bid_size_fp": "2.00",
       "yes_sub_title": "Los Angeles A",
       "yes_bid": 0.4,
       "volume": 0
@@ -4140,8 +4140,8 @@
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.4400",
-      "no_bid_dollars": "0.4200",
+      "no_ask_dollars": "0.4200",
+      "no_bid_dollars": "0.4000",
       "no_sub_title": "Boston",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
@@ -4170,12 +4170,12 @@
       "updated_time": "2026-07-03T01:40:00.569378Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.5800",
-      "yes_ask_size_fp": "11.00",
-      "yes_bid_dollars": "0.5600",
-      "yes_bid_size_fp": "8.00",
+      "yes_ask_dollars": "0.6000",
+      "yes_ask_size_fp": "2.00",
+      "yes_bid_dollars": "0.5800",
+      "yes_bid_size_fp": "2.00",
       "yes_sub_title": "Boston",
-      "yes_bid": 0.56,
+      "yes_bid": 0.58,
       "volume": 0
     },
     {
@@ -7088,332 +7088,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-17T12:00:00Z",
-      "created_time": "2026-07-03T00:38:52.646696Z",
-      "custom_strike": {
-        "tennis_competitor": "c999978d-6f6d-403a-a1b9-170434c4161b"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERMATCH-26JUL03COMRIN",
-      "expected_expiration_time": "2026-07-03T15:00:00Z",
-      "expiration_time": "2026-07-17T12:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Daniel Rincon",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-03T15:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Daniel Rincon wins the Comesana vs Rincon professional tennis match in the 2026 ATP Challenger Milan Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Comesana vs Rincon professional tennis match in the 2026 ATP Challenger Milan Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERMATCH-26JUL03COMRIN-RIN",
-      "title": "Will Daniel Rincon win the Comesana vs Rincon: Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Daniel Rincon",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T12:00:00Z",
-      "created_time": "2026-07-03T00:38:52.646696Z",
-      "custom_strike": {
-        "tennis_competitor": "78ba6348-e658-4815-bc70-cc4e574c09ef"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERMATCH-26JUL03COMRIN",
-      "expected_expiration_time": "2026-07-03T15:00:00Z",
-      "expiration_time": "2026-07-17T12:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Francisco Comesana",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-03T15:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Francisco Comesana wins the Comesana vs Rincon professional tennis match in the 2026 ATP Challenger Milan Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Comesana vs Rincon professional tennis match in the 2026 ATP Challenger Milan Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERMATCH-26JUL03COMRIN-COM",
-      "title": "Will Francisco Comesana win the Comesana vs Rincon: Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Francisco Comesana",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T12:30:00Z",
-      "created_time": "2026-07-03T00:38:52.203457Z",
-      "custom_strike": {
-        "tennis_competitor": "46f5f2f0-f045-4a26-a13e-1f3be1fc9c6c"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFWMATCH-26JUL03LOPCLA",
-      "expected_expiration_time": "2026-07-03T18:30:00Z",
-      "expiration_time": "2026-07-17T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Esther Lopez Alcaraz",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Esther Lopez Alcaraz wins the Lopez Alcaraz vs Claeys professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Lopez Alcaraz vs Claeys professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFWMATCH-26JUL03LOPCLA-LOP",
-      "title": "Will Esther Lopez Alcaraz win the Lopez Alcaraz vs Claeys: W15 Getxo Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Esther Lopez Alcaraz",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T12:30:00Z",
-      "created_time": "2026-07-03T00:38:52.203457Z",
-      "custom_strike": {
-        "tennis_competitor": "8242a9df-cb2d-4269-bcd8-89987ffa8209"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFWMATCH-26JUL03LOPCLA",
-      "expected_expiration_time": "2026-07-03T18:30:00Z",
-      "expiration_time": "2026-07-17T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Lisa Claeys",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Lisa Claeys wins the Lopez Alcaraz vs Claeys professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Lopez Alcaraz vs Claeys professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFWMATCH-26JUL03LOPCLA-CLA",
-      "title": "Will Lisa Claeys win the Lopez Alcaraz vs Claeys: W15 Getxo Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Lisa Claeys",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T12:30:00Z",
-      "created_time": "2026-07-03T00:38:51.819109Z",
-      "custom_strike": {
-        "tennis_competitor": "8dd16183-880b-4a2f-a256-6b321bb10fab"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFWMATCH-26JUL03ZOZVAN",
-      "expected_expiration_time": "2026-07-03T18:30:00Z",
-      "expiration_time": "2026-07-17T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Eugenia Zozaya Menendez",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Eugenia Zozaya Menendez wins the Zozaya Menendez vs Van Impe professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Zozaya Menendez vs Van Impe professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFWMATCH-26JUL03ZOZVAN-ZOZ",
-      "title": "Will Eugenia Zozaya Menendez win the Zozaya Menendez vs Van Impe: W15 Getxo Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Eugenia Zozaya Menendez",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T12:30:00Z",
-      "created_time": "2026-07-03T00:38:51.819109Z",
-      "custom_strike": {
-        "tennis_competitor": "7162d24f-92ef-435f-a3c2-1e27cf35a659"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFWMATCH-26JUL03ZOZVAN",
-      "expected_expiration_time": "2026-07-03T18:30:00Z",
-      "expiration_time": "2026-07-17T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-17T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Amelie Van Impe",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Amelie Van Impe wins the Zozaya Menendez vs Van Impe professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Zozaya Menendez vs Van Impe professional tennis match in the 2026 W15 Getxo Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFWMATCH-26JUL03ZOZVAN-VAN",
-      "title": "Will Amelie Van Impe win the Zozaya Menendez vs Van Impe: W15 Getxo Quarterfinal match?",
-      "updated_time": "2026-07-03T01:07:04.759454Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Amelie Van Impe",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-17T18:00:00Z",
       "created_time": "2026-07-03T00:38:51.434153Z",
       "custom_strike": {
@@ -9544,6 +9218,330 @@
       "yes_sub_title": "Cody Bellinger: 3+",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:05:00Z",
+      "created_time": "2026-07-03T00:38:46.85161Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBTB-26JUL031905MINNYY",
+      "expected_expiration_time": "2026-07-04T02:05:00Z",
+      "expiration_time": "2026-07-06T23:05:00Z",
+      "expiration_value": "",
+      "floor_strike": 1.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:05:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Cody Bellinger: 2+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:05:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Cody Bellinger records 2+ total bases in the Minnesota vs New York Y professional baseball game originally scheduled for Jul 3, 2026 at 7:05 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Cody Bellinger is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Cody Bellinger starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Cody Bellinger is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Cody Bellinger is in the starting lineup and records at least one plate appearance the market will settle based on total bases recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBTB-26JUL031905MINNYY-NYYCBELLINGER35-2",
+      "title": "Cody Bellinger: 2+ total bases?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Cody Bellinger: 2+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:15:00Z",
+      "created_time": "2026-07-03T00:38:46.474615Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26JUL031915NYMATL",
+      "expected_expiration_time": "2026-07-04T02:15:00Z",
+      "expiration_time": "2026-07-06T23:15:00Z",
+      "expiration_value": "",
+      "floor_strike": 3.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:15:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Juan Soto: 4+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:15:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Juan Soto records 4+ hits in the New York M vs Atlanta professional baseball game originally scheduled for Jul 3, 2026 at 7:15 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Juan Soto is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Juan Soto starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Juan Soto is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Juan Soto is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26JUL031915NYMATL-NYMJSOTO22-4",
+      "title": "Juan Soto: 4+ hits?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Juan Soto: 4+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:15:00Z",
+      "created_time": "2026-07-03T00:38:46.474615Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26JUL031915NYMATL",
+      "expected_expiration_time": "2026-07-04T02:15:00Z",
+      "expiration_time": "2026-07-06T23:15:00Z",
+      "expiration_value": "",
+      "floor_strike": 2.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:15:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Juan Soto: 3+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:15:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Juan Soto records 3+ hits in the New York M vs Atlanta professional baseball game originally scheduled for Jul 3, 2026 at 7:15 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Juan Soto is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Juan Soto starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Juan Soto is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Juan Soto is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26JUL031915NYMATL-NYMJSOTO22-3",
+      "title": "Juan Soto: 3+ hits?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Juan Soto: 3+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:15:00Z",
+      "created_time": "2026-07-03T00:38:46.474615Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26JUL031915NYMATL",
+      "expected_expiration_time": "2026-07-04T02:15:00Z",
+      "expiration_time": "2026-07-06T23:15:00Z",
+      "expiration_value": "",
+      "floor_strike": 1.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:15:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Juan Soto: 2+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:15:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Juan Soto records 2+ hits in the New York M vs Atlanta professional baseball game originally scheduled for Jul 3, 2026 at 7:15 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Juan Soto is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Juan Soto starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Juan Soto is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Juan Soto is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26JUL031915NYMATL-NYMJSOTO22-2",
+      "title": "Juan Soto: 2+ hits?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Juan Soto: 2+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:15:00Z",
+      "created_time": "2026-07-03T00:38:46.474615Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26JUL031915NYMATL",
+      "expected_expiration_time": "2026-07-04T02:15:00Z",
+      "expiration_time": "2026-07-06T23:15:00Z",
+      "expiration_value": "",
+      "floor_strike": 0.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:15:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Juan Soto: 1+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:15:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Juan Soto records 1+ hits in the New York M vs Atlanta professional baseball game originally scheduled for Jul 3, 2026 at 7:15 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Juan Soto is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Juan Soto starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Juan Soto is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Juan Soto is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26JUL031915NYMATL-NYMJSOTO22-1",
+      "title": "Juan Soto: 1+ hits?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Juan Soto: 1+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-06T23:15:00Z",
+      "created_time": "2026-07-03T00:38:46.474615Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26JUL031915NYMATL",
+      "expected_expiration_time": "2026-07-04T02:15:00Z",
+      "expiration_time": "2026-07-06T23:15:00Z",
+      "expiration_value": "",
+      "floor_strike": 2.5,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-06T23:15:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Francisco Lindor: 3+",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-04T02:15:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Francisco Lindor records 3+ hits in the New York M vs Atlanta professional baseball game originally scheduled for Jul 3, 2026 at 7:15 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Francisco Lindor is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Francisco Lindor starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Francisco Lindor is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Francisco Lindor is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26JUL031915NYMATL-NYMFLINDOR12-3",
+      "title": "Francisco Lindor: 3+ hits?",
+      "updated_time": "2026-07-03T01:07:04.717948Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Francisco Lindor: 3+",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -9573,26 +9571,26 @@
       "pct": 0.7165682192311504
     },
     "BINANCE:BTCUSDT": {
-      "c": 62059.01,
-      "pc": 61755.35,
-      "pct": 0.491714483036698
+      "c": 62159.47,
+      "pc": 61655.91,
+      "pct": 0.8167262473297332
     },
     "BINANCE:ETHUSDT": {
-      "c": 1735.99,
-      "pc": 1700.41,
-      "pct": 2.0924365300133454
+      "c": 1734.43,
+      "pc": 1697.87,
+      "pct": 2.153286176209025
     },
     "BINANCE:SOLUSDT": {
-      "c": 81.34,
-      "pc": 80.74,
-      "pct": 0.7431260837255493
+      "c": 81.58,
+      "pc": 80.58,
+      "pct": 1.2410027302060065
     }
   },
-  "tick": 184,
-  "totalScanned": 18400,
+  "tick": 185,
+  "totalScanned": 18500,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-03T15:32:56.151Z",
+  "lastRun": "2026-07-03T17:02:04.157Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
