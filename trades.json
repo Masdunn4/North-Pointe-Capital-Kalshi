@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 171,
+      "ticksOpen": 172,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 158,
+      "ticksOpen": 159,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 158,
+      "ticksOpen": 159,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 158,
+      "ticksOpen": 159,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 157,
+      "ticksOpen": 158,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 157,
+      "ticksOpen": 158,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "7:57:10 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:57:10 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "7:57:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~2.0h left",
+      "type": ""
+    },
+    {
+      "t": "7:57:10 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~2.0h left",
+      "type": ""
+    },
+    {
+      "t": "7:57:10 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~13min left",
+      "type": ""
+    },
+    {
+      "t": "7:57:09 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~13min left",
+      "type": ""
+    },
+    {
+      "t": "7:57:09 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:09 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:09 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~8min left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:05 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:05 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:05 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:05 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:04 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:04 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:04 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:03 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:03 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:03 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:03 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:02 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:02 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~2.0h left",
+      "type": ""
+    },
+    {
+      "t": "7:57:02 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~2.0h left",
+      "type": ""
+    },
+    {
+      "t": "7:57:02 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:01 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:01 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:01 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:00 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:00 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:00 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:00 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Nova",
+      "msg": "Diversified: 1 short (13%) · 7 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Flash",
+      "msg": "1 short · 34 long · YES:0 NO:35 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:56:59 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,773 SPY $$744.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:56:58 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:56:58 PM",
+      "who": "System",
+      "msg": "═══ TICK #217 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "6:43:22 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Flash",
-      "msg": "0 short · 33 long · YES:0 NO:33 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "4:39:59 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:39:58 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "4:39:58 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,625 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:39:57 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "4:39:56 PM",
-      "who": "System",
-      "msg": "═══ TICK #214 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "3:34:48 PM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "3:34:48 PM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "3:34:47 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~6.4h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:47 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~6.4h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:47 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~4.6h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:47 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~4.6h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:46 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:46 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:46 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:46 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:46 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:45 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~4.5h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:45 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:45 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:45 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:44 PM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:44 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:44 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:44 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:43 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:43 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:43 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:43 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:43 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:42 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:42 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:42 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:42 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~25min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:41 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:41 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:41 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:41 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:41 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~6.4h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:40 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~6.4h left",
-      "type": ""
-    },
-    {
-      "t": "3:34:40 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:40 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:40 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~15min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:39 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~15min left",
-      "type": ""
-    },
-    {
-      "t": "3:34:39 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:39 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:34:39 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3920,7 +3920,7 @@
       "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
       "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "11.00",
+      "volume_24h_fp": "10.00",
       "volume_fp": "39.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
@@ -3975,15 +3975,15 @@
       "ticker": "KXMLBGAME-26JUL052130BOSLAA-LAA",
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "2064.02",
-      "volume_fp": "2225.02",
+      "volume_24h_fp": "2060.02",
+      "volume_fp": "2227.02",
       "yes_ask_dollars": "0.4300",
       "yes_ask_size_fp": "5.00",
       "yes_bid_dollars": "0.4100",
       "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Los Angeles A",
       "yes_bid": 0.41,
-      "volume": 2225.02
+      "volume": 2227.02
     },
     {
       "can_close_early": true,
@@ -4033,7 +4033,7 @@
       "volume_24h_fp": "44.00",
       "volume_fp": "72.00",
       "yes_ask_dollars": "0.6000",
-      "yes_ask_size_fp": "1000.00",
+      "yes_ask_size_fp": "500.00",
       "yes_bid_dollars": "0.3800",
       "yes_bid_size_fp": "99.00",
       "yes_sub_title": "Boston",
@@ -5018,281 +5018,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-07T17:30:00Z",
-      "created_time": "2026-07-03T00:38:37.722885Z",
-      "custom_strike": {
-        "cricket_team": "65d3fd39-660c-445a-b052-9ecdbf6b3461"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXT20MATCH-26JUL050930HUTSHI",
-      "expected_expiration_time": "2026-07-05T17:30:00Z",
-      "expiration_time": "2026-07-07T17:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-07T17:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Shivamogga Lions",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T17:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "1.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Shivamogga Lions wins the Shivamogga Lions vs Hubli Tigers men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 9:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "If the Shivamogga Lions vs Hubli Tigers men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 9:30 AM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will resolve to $0.50.\nIn the event of a forfeit, disqualification, or concession:\n  If it occurs before the match begins, all markets will resolve to $0.50.\n  If it occurs after the match has begun, and the governing body declares an official winner, the market will resolve based on that result.\nIf play begins but insufficient play occurs to determine an official result, all markets will resolve to $0.50.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXT20MATCH-26JUL050930HUTSHI-SHI",
-      "title": "Shivamogga Lions vs Hubli Tigers Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Shivamogga Lions",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-07T17:30:00Z",
-      "created_time": "2026-07-03T00:38:37.722885Z",
-      "custom_strike": {
-        "cricket_team": "87751833-a000-4f6b-807d-d6fcc1ab3f8b"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXT20MATCH-26JUL050930HUTSHI",
-      "expected_expiration_time": "2026-07-05T17:30:00Z",
-      "expiration_time": "2026-07-07T17:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-07T17:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Hubli Tigers",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T17:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "1.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Hubli Tigers wins the Shivamogga Lions vs Hubli Tigers men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 9:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "If the Shivamogga Lions vs Hubli Tigers men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 9:30 AM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will resolve to $0.50.\nIn the event of a forfeit, disqualification, or concession:\n  If it occurs before the match begins, all markets will resolve to $0.50.\n  If it occurs after the match has begun, and the governing body declares an official winner, the market will resolve based on that result.\nIf play begins but insufficient play occurs to determine an official result, all markets will resolve to $0.50.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXT20MATCH-26JUL050930HUTSHI-HUT",
-      "title": "Shivamogga Lions vs Hubli Tigers Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Hubli Tigers",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T16:30:00Z",
-      "created_time": "2026-07-03T00:38:37.288823Z",
-      "custom_strike": {
-        "rugby_team": "489314c5-09fb-457f-894e-cac4cae12c65"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH",
-      "expected_expiration_time": "2026-07-05T19:30:00Z",
-      "expiration_time": "2026-07-19T16:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T16:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Wigan Warriors",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T19:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Wigan Warriors is the winner in the Wigan Warriors vs St Helens professional Super League Rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wigan Warriors vs St Helens professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH-WGW",
-      "title": "Wigan Warriors vs St Helens Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Wigan Warriors",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T16:30:00Z",
-      "created_time": "2026-07-03T00:38:37.288823Z",
-      "custom_strike": {
-        "rugby_team": "71cbf84f-9e24-4002-9049-8cc1b6286aae"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH",
-      "expected_expiration_time": "2026-07-05T19:30:00Z",
-      "expiration_time": "2026-07-19T16:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T16:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Tie",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T19:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If tie is the result in the Wigan Warriors vs St Helens professional Super League Rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wigan Warriors vs St Helens professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH-TIE",
-      "title": "Wigan Warriors vs St Helens Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Tie",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T16:30:00Z",
-      "created_time": "2026-07-03T00:38:37.288823Z",
-      "custom_strike": {
-        "rugby_team": "861c32cf-ae1c-4bab-8781-da9a33b6cfab"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH",
-      "expected_expiration_time": "2026-07-05T19:30:00Z",
-      "expiration_time": "2026-07-19T16:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T16:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "St Helens",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T19:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If St Helens is the winner in the Wigan Warriors vs St Helens professional Super League Rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wigan Warriors vs St Helens professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 12:30 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WGWSTH-STH",
-      "title": "Wigan Warriors vs St Helens Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "St Helens",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-19T23:30:00Z",
       "created_time": "2026-07-03T00:38:36.849734Z",
       "custom_strike": {
@@ -5363,7 +5088,7 @@
       "latest_expiration_time": "2026-07-19T23:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
+      "no_ask_dollars": "0.6700",
       "no_bid_dollars": "0.0100",
       "no_sub_title": "Nautico",
       "notional_value_dollars": "1.0000",
@@ -5395,10 +5120,10 @@
       "volume_fp": "4.00",
       "yes_ask_dollars": "0.9900",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.3300",
+      "yes_bid_size_fp": "4.00",
       "yes_sub_title": "Nautico",
-      "yes_bid": 0,
+      "yes_bid": 0.33,
       "volume": 4
     },
     {
@@ -8120,8 +7845,8 @@
       "latest_expiration_time": "2026-07-08T21:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6800",
-      "no_bid_dollars": "0.5700",
+      "no_ask_dollars": "0.6900",
+      "no_bid_dollars": "0.5600",
       "no_sub_title": "Derbyshire",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T21:30:00Z",
@@ -8150,12 +7875,12 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.4300",
-      "yes_ask_size_fp": "3.00",
-      "yes_bid_dollars": "0.3200",
-      "yes_bid_size_fp": "3.00",
+      "yes_ask_dollars": "0.4400",
+      "yes_ask_size_fp": "4.00",
+      "yes_bid_dollars": "0.3100",
+      "yes_bid_size_fp": "4.00",
       "yes_sub_title": "Derbyshire",
-      "yes_bid": 0.32,
+      "yes_bid": 0.31,
       "volume": 0
     },
     {
@@ -9037,6 +8762,269 @@
       "yes_sub_title": "New Zealand Warriors",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-24T10:00:00Z",
+      "created_time": "2026-07-03T00:38:18.624947Z",
+      "custom_strike": {
+        "rugby_team": "71cbf84f-9e24-4002-9049-8cc1b6286aae"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXRUGBYNRLMATCH-26JUL10WTGWAR",
+      "expected_expiration_time": "2026-07-10T13:00:00Z",
+      "expiration_time": "2026-07-24T10:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-24T10:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Tie",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T13:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If tie is the result in the Wests Tigers vs New Zealand Warriors professional National Rugby League match originally scheduled for Jul 10, 2026 at 6:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Wests Tigers vs New Zealand Warriors professional National Rugby League rugby match originally scheduled for Jul 10, 2026 at 6:00 AM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXRUGBYNRLMATCH-26JUL10WTGWAR-TIE",
+      "title": "Wests Tigers vs New Zealand Warriors Winner?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Tie",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 89.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $89.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 89.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T89.99",
+      "title": "Will the brent crude oil close price be above 89.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $89.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 87.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $87.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 87.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T87.99",
+      "title": "Will the brent crude oil close price be above 87.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $87.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 85.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $85.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 85.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T85.99",
+      "title": "Will the brent crude oil close price be above 85.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $85.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 83.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $83.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 83.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T83.99",
+      "title": "Will the brent crude oil close price be above 83.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $83.99",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -9066,26 +9054,26 @@
       "pct": 0.6875181562893464
     },
     "BINANCE:BTCUSDT": {
-      "c": 62753.98,
-      "pc": 63146,
-      "pct": -0.6208152535394115
+      "c": 62772.74,
+      "pc": 63282.08,
+      "pct": -0.8048724062167423
     },
     "BINANCE:ETHUSDT": {
-      "c": 1780.93,
-      "pc": 1794.96,
-      "pct": -0.7816330168917397
+      "c": 1780.43,
+      "pc": 1792.23,
+      "pct": -0.6583976386959237
     },
     "BINANCE:SOLUSDT": {
-      "c": 81.2,
-      "pc": 82.24,
-      "pct": -1.2645914396887064
+      "c": 81.04,
+      "pc": 81.85,
+      "pct": -0.9896151496640051
     }
   },
-  "tick": 216,
-  "totalScanned": 21600,
+  "tick": 217,
+  "totalScanned": 21700,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-05T18:43:10.921Z",
+  "lastRun": "2026-07-05T19:56:58.019Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
