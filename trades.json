@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 174,
+      "ticksOpen": 175,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 173,
+      "ticksOpen": 174,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 173,
+      "ticksOpen": 174,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 171,
+      "ticksOpen": 172,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 171,
+      "ticksOpen": 172,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "10:46:14 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:46:14 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:46:14 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:14 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:14 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:13 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:13 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:12 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:12 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:11 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:11 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:10 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:10 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:10 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:09 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:09 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:09 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:09 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:08 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:08 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:08 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:08 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:07 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:07 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:07 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:07 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:06 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:06 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:06 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:06 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:05 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:05 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:05 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:05 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Nova",
+      "msg": "Diversified: 1 short (13%) · 7 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Flash",
+      "msg": "1 short · 34 long · YES:0 NO:35 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:46:04 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:46:03 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:46:03 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,636 SPY $$744.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:46:02 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:46:02 PM",
+      "who": "System",
+      "msg": "═══ TICK #220 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:47:34 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "7:57:00 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Nova",
-      "msg": "Diversified: 1 short (13%) · 7 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Flash",
-      "msg": "1 short · 34 long · YES:0 NO:35 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:56:59 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,773 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:56:58 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:56:58 PM",
-      "who": "System",
-      "msg": "═══ TICK #217 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:43:22 PM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:43:22 PM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "6:43:21 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~3.3h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:21 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~3.3h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:21 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~1.4h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:21 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~1.4h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:20 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:20 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:20 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:20 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:20 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:19 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~1.4h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:19 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:19 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:19 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:18 PM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:17 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:17 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:17 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:17 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:16 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:16 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:16 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:16 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:15 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:15 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:15 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:15 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:15 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~3.3h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:14 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~3.3h left",
-      "type": ""
-    },
-    {
-      "t": "6:43:14 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:14 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:14 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:13 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:13 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:13 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:43:13 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3605,75 +3605,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-08T19:00:00Z",
-      "created_time": "2026-07-03T01:33:30.992361Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL051430STLCHC,KXMLBGAME-26JUL051500PHIKC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL051430STLCHC-CHC,KXMLBGAME-26JUL051500PHIKC-KC",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C428BD23AB1"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C428BD23AB1",
-      "expected_expiration_time": "2026-07-05T22:00:00Z",
-      "expiration_time": "2026-07-08T19:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-07-08T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL051430STLCHC",
-          "market_ticker": "KXMLBGAME-26JUL051430STLCHC-CHC",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26JUL051500PHIKC",
-          "market_ticker": "KXMLBGAME-26JUL051500PHIKC-KC",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Chicago C,yes Kansas City",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-07-03T01:33:30Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026C428BD23AB1-3E9A0B366A8",
-      "title": "yes Chicago C,yes Kansas City",
-      "updated_time": "2026-07-03T01:33:31.569889Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Chicago C,yes Kansas City",
-      "yes_bid": 0,
-      "volume": 100
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-20T00:00:00Z",
       "created_time": "2026-07-03T01:32:24.018555Z",
       "custom_strike": {
@@ -3782,15 +3713,15 @@
       "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
       "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "17.00",
-      "volume_fp": "48.00",
+      "volume_24h_fp": "19.00",
+      "volume_fp": "51.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Game goes to extra innings",
       "yes_bid": 0,
-      "volume": 48
+      "volume": 51
     },
     {
       "can_close_early": true,
@@ -3805,16 +3736,16 @@
       "expiration_time": "2026-07-09T01:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
+      "last_price_dollars": "0.5000",
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.5600",
-      "no_bid_dollars": "0.5500",
+      "no_ask_dollars": "0.5500",
+      "no_bid_dollars": "0.5300",
       "no_sub_title": "Los Angeles A",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "653.00",
+      "open_interest_fp": "1093.97",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.4200",
       "previous_yes_ask_dollars": "0.4300",
@@ -3837,15 +3768,15 @@
       "ticker": "KXMLBGAME-26JUL052130BOSLAA-LAA",
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "2100.02",
-      "volume_fp": "2267.02",
-      "yes_ask_dollars": "0.4500",
-      "yes_ask_size_fp": "25.00",
-      "yes_bid_dollars": "0.4400",
-      "yes_bid_size_fp": "227.00",
+      "volume_24h_fp": "2675.61",
+      "volume_fp": "2935.62",
+      "yes_ask_dollars": "0.4700",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.4500",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Los Angeles A",
-      "yes_bid": 0.44,
-      "volume": 2267.02
+      "yes_bid": 0.45,
+      "volume": 2935.62
     },
     {
       "can_close_early": true,
@@ -3860,16 +3791,16 @@
       "expiration_time": "2026-07-09T01:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.5600",
+      "last_price_dollars": "0.6000",
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.4400",
+      "no_ask_dollars": "0.4200",
       "no_bid_dollars": "0.4000",
       "no_sub_title": "Boston",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "436.50",
+      "open_interest_fp": "785.32",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.5700",
       "previous_yes_ask_dollars": "0.6100",
@@ -3892,15 +3823,15 @@
       "ticker": "KXMLBGAME-26JUL052130BOSLAA-BOS",
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "403.50",
-      "volume_fp": "457.50",
+      "volume_24h_fp": "740.59",
+      "volume_fp": "843.32",
       "yes_ask_dollars": "0.6000",
-      "yes_ask_size_fp": "1000.00",
-      "yes_bid_dollars": "0.5600",
-      "yes_bid_size_fp": "152.25",
+      "yes_ask_size_fp": "964.38",
+      "yes_bid_dollars": "0.5800",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Boston",
-      "yes_bid": 0.56,
-      "volume": 457.5
+      "yes_bid": 0.58,
+      "volume": 843.32
     },
     {
       "can_close_early": true,
@@ -4120,76 +4051,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-19T00:00:00Z",
-      "created_time": "2026-07-03T01:21:18.008829Z",
-      "custom_strike": {
-        "Associated Events": "KXPGATOUR-JODC26,KXWCTOTAL-26JUL02PORCRO",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXPGATOUR-JODC26-BTOD,KXWCTOTAL-26JUL02PORCRO-3",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-S2026747B3AA3533"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-S2026747B3AA3533",
-      "expected_expiration_time": "2026-07-05T00:00:00Z",
-      "expiration_time": "2026-07-19T00:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T00:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXPGATOUR-JODC26",
-          "market_ticker": "KXPGATOUR-JODC26-BTOD",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWCTOTAL-26JUL02PORCRO",
-          "market_ticker": "KXWCTOTAL-26JUL02PORCRO-3",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Brendon Todd,yes Reg Time: Over 2.5 goals scored",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:21:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-S2026747B3AA3533-4386C1E4A49",
-      "title": "yes Brendon Todd,yes Reg Time: Over 2.5 goals scored",
-      "updated_time": "2026-07-03T01:21:18.569453Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Brendon Todd,yes Reg Time: Over 2.5 goals scored",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-18T01:30:00Z",
       "created_time": "2026-07-03T01:19:44.187167Z",
       "custom_strike": {
@@ -4254,144 +4115,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Seattle,yes Reg Time: Colombia",
-      "yes_bid": 0,
-      "volume": 100
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-08T19:00:00Z",
-      "created_time": "2026-07-03T01:16:26.261966Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL041610TORSEA,KXMLBGAME-26JUL051500PHIKC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL041610TORSEA-SEA,KXMLBGAME-26JUL051500PHIKC-KC",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269C7E2478FD3"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269C7E2478FD3",
-      "expected_expiration_time": "2026-07-05T22:00:00Z",
-      "expiration_time": "2026-07-08T19:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-07-08T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL041610TORSEA",
-          "market_ticker": "KXMLBGAME-26JUL041610TORSEA-SEA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26JUL051500PHIKC",
-          "market_ticker": "KXMLBGAME-26JUL051500PHIKC-KC",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Seattle,yes Kansas City",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-07-03T01:16:26Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269C7E2478FD3-CA0435520FE",
-      "title": "yes Seattle,yes Kansas City",
-      "updated_time": "2026-07-03T01:16:26.569555Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Seattle,yes Kansas City",
-      "yes_bid": 0,
-      "volume": 100
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-17T00:00:00Z",
-      "created_time": "2026-07-03T01:15:52.727325Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL051500PHIKC,KXWNBAGAME-26JUL02DALCONN",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL051500PHIKC-KC,KXWNBAGAME-26JUL02DALCONN-DAL",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20260F35244D0EF"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20260F35244D0EF",
-      "expected_expiration_time": "2026-07-05T22:00:00Z",
-      "expiration_time": "2026-07-17T00:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-07-17T00:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL051500PHIKC",
-          "market_ticker": "KXMLBGAME-26JUL051500PHIKC-KC",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWNBAGAME-26JUL02DALCONN",
-          "market_ticker": "KXWNBAGAME-26JUL02DALCONN-DAL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Kansas City,yes Dallas",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-07-03T01:15:52Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20260F35244D0EF-D4F6E8134B1",
-      "title": "yes Kansas City,yes Dallas",
-      "updated_time": "2026-07-03T01:15:53.569409Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Kansas City,yes Dallas",
       "yes_bid": 0,
       "volume": 100
     },
@@ -4673,75 +4396,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-08T20:30:00Z",
-      "created_time": "2026-07-03T00:42:41.804179Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL051335MINNYY,KXMLBGAME-26JUL051630MIAATH",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL051335MINNYY-NYY,KXMLBGAME-26JUL051630MIAATH-MIA",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC4E83CF384"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC4E83CF384",
-      "expected_expiration_time": "2026-07-05T23:30:00Z",
-      "expiration_time": "2026-07-08T20:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-07-08T20:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL051335MINNYY",
-          "market_ticker": "KXMLBGAME-26JUL051335MINNYY-NYY",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26JUL051630MIAATH",
-          "market_ticker": "KXMLBGAME-26JUL051630MIAATH-MIA",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes New York Y,yes Miami",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-07-03T00:42:41Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC4E83CF384-A3D0A10FF82",
-      "title": "yes New York Y,yes Miami",
-      "updated_time": "2026-07-03T00:42:42.56979Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes New York Y,yes Miami",
-      "yes_bid": 0,
-      "volume": 100
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-17T00:00:00Z",
       "created_time": "2026-07-03T00:39:21.908697Z",
       "custom_strike": {
@@ -4822,12 +4476,12 @@
       "expiration_time": "2026-07-19T23:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0500",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-07-19T23:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.2500",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Tie",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T02:30:00Z",
@@ -4854,15 +4508,15 @@
       "ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV-TIE",
       "title": "Nautico vs Juventude RS Winner?",
       "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "8.00",
-      "volume_fp": "8.00",
-      "yes_ask_dollars": "0.7500",
-      "yes_ask_size_fp": "3.00",
+      "volume_24h_fp": "234.00",
+      "volume_fp": "244.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Tie",
       "yes_bid": 0,
-      "volume": 8
+      "volume": 244
     },
     {
       "can_close_early": true,
@@ -4877,16 +4531,16 @@
       "expiration_time": "2026-07-19T23:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0500",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-07-19T23:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6400",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0100",
       "no_sub_title": "Nautico",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T02:30:00Z",
-      "open_interest_fp": "2.00",
+      "open_interest_fp": "12.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.7500",
@@ -4909,15 +4563,15 @@
       "ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV-NAU",
       "title": "Nautico vs Juventude RS Winner?",
       "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "4.00",
-      "volume_fp": "4.00",
+      "volume_24h_fp": "29.00",
+      "volume_fp": "49.00",
       "yes_ask_dollars": "0.9900",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.3600",
-      "yes_bid_size_fp": "8.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Nautico",
-      "yes_bid": 0.36,
-      "volume": 4
+      "yes_bid": 0,
+      "volume": 49
     },
     {
       "can_close_early": true,
@@ -4936,8 +4590,8 @@
       "latest_expiration_time": "2026-07-19T23:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.2500",
+      "no_ask_dollars": "0.7500",
+      "no_bid_dollars": "0.6300",
       "no_sub_title": "Juventude RS",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T02:30:00Z",
@@ -4966,12 +4620,12 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "6.00",
       "volume_fp": "6.00",
-      "yes_ask_dollars": "0.7500",
-      "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.3700",
+      "yes_ask_size_fp": "4.00",
+      "yes_bid_dollars": "0.2500",
+      "yes_bid_size_fp": "3.00",
       "yes_sub_title": "Juventude RS",
-      "yes_bid": 0,
+      "yes_bid": 0.25,
       "volume": 6
     },
     {
@@ -4987,7 +4641,7 @@
       "expiration_time": "2026-07-20T00:10:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.3000",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-07-20T00:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -5019,15 +4673,15 @@
       "ticker": "KXFIBAGAME-26JUL052010ARGPAN-PAN",
       "title": "Argentina vs Panama Winner?",
       "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "2.00",
-      "volume_fp": "6.00",
+      "volume_24h_fp": "40.00",
+      "volume_fp": "40.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Panama",
       "yes_bid": 0,
-      "volume": 6
+      "volume": 40
     },
     {
       "can_close_early": true,
@@ -5042,7 +4696,7 @@
       "expiration_time": "2026-07-20T00:10:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0500",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-07-20T00:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -5074,15 +4728,15 @@
       "ticker": "KXFIBAGAME-26JUL052010ARGPAN-ARG",
       "title": "Argentina vs Panama Winner?",
       "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "2.00",
-      "volume_fp": "2.00",
+      "volume_24h_fp": "8.00",
+      "volume_fp": "28.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Argentina",
       "yes_bid": 0,
-      "volume": 2
+      "volume": 28
     },
     {
       "can_close_early": true,
@@ -5097,16 +4751,16 @@
       "expiration_time": "2026-07-20T06:00:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.9900",
       "latest_expiration_time": "2026-07-20T06:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9500",
-      "no_bid_dollars": "0.0500",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Chinese Taipei",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T09:00:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "6.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.7500",
@@ -5129,15 +4783,15 @@
       "ticker": "KXFIBAGAME-26JUL060200TPECHN-TPE",
       "title": "Chinese Taipei vs China Winner?",
       "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9500",
-      "yes_ask_size_fp": "1.00",
+      "volume_24h_fp": "8.00",
+      "volume_fp": "8.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0500",
       "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Chinese Taipei",
       "yes_bid": 0.05,
-      "volume": 0
+      "volume": 8
     },
     {
       "can_close_early": true,
@@ -7638,8 +7292,8 @@
       "latest_expiration_time": "2026-07-08T21:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.6900",
+      "no_bid_dollars": "0.5600",
       "no_sub_title": "Derbyshire",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T21:30:00Z",
@@ -7668,12 +7322,12 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.4400",
+      "yes_ask_size_fp": "4.00",
+      "yes_bid_dollars": "0.3100",
+      "yes_bid_size_fp": "4.00",
       "yes_sub_title": "Derbyshire",
-      "yes_bid": 0,
+      "yes_bid": 0.31,
       "volume": 0
     },
     {
@@ -8974,6 +8628,266 @@
       "yes_sub_title": "above $77.99",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 75.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $75.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 75.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T75.99",
+      "title": "Will the brent crude oil close price be above 75.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $75.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 73.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $73.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 73.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T73.99",
+      "title": "Will the brent crude oil close price be above 73.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $73.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 71.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $71.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 71.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T71.99",
+      "title": "Will the brent crude oil close price be above 71.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $71.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 69.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $69.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 69.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T69.99",
+      "title": "Will the brent crude oil close price be above 69.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $69.99",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.848925Z",
+      "event_ticker": "KXBRENTW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 67.99,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $67.99",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for brent crude oil using the BRENTU6 contract on July 10, 2026 at 5:00 PM EDT is above 67.99 USD/Bbl, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 5 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 5 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXBRENTW-26JUL1017-T67.99",
+      "title": "Will the brent crude oil close price be above 67.99 USD/Bbl on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $67.99",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -9003,26 +8917,26 @@
       "pct": 0.6875181562893464
     },
     "BINANCE:BTCUSDT": {
-      "c": 62990.35,
-      "pc": 63298.35,
-      "pct": -0.4865845634206895
+      "c": 63636.03,
+      "pc": 63206.01,
+      "pct": 0.6803466948791687
     },
     "BINANCE:ETHUSDT": {
-      "c": 1782.29,
-      "pc": 1790.6,
-      "pct": -0.46409024907851815
+      "c": 1789.97,
+      "pc": 1785.47,
+      "pct": 0.2520344783166337
     },
     "BINANCE:SOLUSDT": {
-      "c": 81.56,
-      "pc": 82,
-      "pct": -0.5365853658536558
+      "c": 81.72,
+      "pc": 81.86,
+      "pct": -0.17102369899829045
     }
   },
-  "tick": 219,
-  "totalScanned": 21900,
+  "tick": 220,
+  "totalScanned": 22000,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-05T21:47:22.449Z",
+  "lastRun": "2026-07-05T22:46:02.347Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
