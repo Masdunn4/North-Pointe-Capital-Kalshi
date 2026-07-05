@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 162,
+      "ticksOpen": 163,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 161,
+      "ticksOpen": 162,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 160,
+      "ticksOpen": 161,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 159,
+      "ticksOpen": 160,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 158,
+      "ticksOpen": 159,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 158,
+      "ticksOpen": 159,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 157,
+      "ticksOpen": 158,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 157,
+      "ticksOpen": 158,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 156,
+      "ticksOpen": 157,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 155,
+      "ticksOpen": 156,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 155,
+      "ticksOpen": 156,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 155,
+      "ticksOpen": 156,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 155,
+      "ticksOpen": 156,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 154,
+      "ticksOpen": 155,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 154,
+      "ticksOpen": 155,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 154,
+      "ticksOpen": 155,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 154,
+      "ticksOpen": 155,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 153,
+      "ticksOpen": 154,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 153,
+      "ticksOpen": 154,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 153,
+      "ticksOpen": 154,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 152,
+      "ticksOpen": 153,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 152,
+      "ticksOpen": 153,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "2:04:48 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "2:04:48 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "2:04:48 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~7.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:47 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~7.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:47 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~6.1h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:47 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~6.1h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:46 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:46 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:46 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:46 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:45 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:45 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~6.0h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:45 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:44 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:44 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:44 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~25min left",
+      "type": ""
+    },
+    {
+      "t": "2:04:44 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:43 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:43 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:43 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:42 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:42 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:42 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:42 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:41 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:41 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:41 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:40 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~1.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:40 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~55min left",
+      "type": ""
+    },
+    {
+      "t": "2:04:40 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~55min left",
+      "type": ""
+    },
+    {
+      "t": "2:04:40 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:39 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:39 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~7.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:39 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~7.9h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:38 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:38 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:38 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~1.8h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:38 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~1.8h left",
+      "type": ""
+    },
+    {
+      "t": "2:04:37 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:37 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:37 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:37 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Flash",
+      "msg": "0 short · 39 long · YES:0 NO:39 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "2:04:36 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,714 SPY $$744.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:04:35 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:04:34 PM",
+      "who": "System",
+      "msg": "═══ TICK #212 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "12:02:09 PM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Flash",
-      "msg": "0 short · 36 long · YES:0 NO:36 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "8:17:31 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,992 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:17:30 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "8:17:29 AM",
-      "who": "System",
-      "msg": "═══ TICK #209 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:15:01 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:15:01 AM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:15:01 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~16.7h left",
-      "type": ""
-    },
-    {
-      "t": "5:15:01 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~16.7h left",
-      "type": ""
-    },
-    {
-      "t": "5:15:01 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~14.9h left",
-      "type": ""
-    },
-    {
-      "t": "5:15:00 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~14.9h left",
-      "type": ""
-    },
-    {
-      "t": "5:15:00 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:15:00 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:15:00 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:59 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:59 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:59 AM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~14.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:58 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:58 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:58 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~9.3h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:56 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:55 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:55 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:55 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:55 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:54 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~10.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:54 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~9.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:54 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~9.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:54 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:53 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:53 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~16.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:53 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~16.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:52 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~2.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:52 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~2.8h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:52 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~10.6h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:52 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~10.6h left",
-      "type": ""
-    },
-    {
-      "t": "5:14:51 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:51 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:14:51 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
-      "type": ""
     }
   ],
   "markets": [
@@ -3273,7 +3273,7 @@
       "expiration_time": "2026-07-08T19:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.3100",
+      "last_price_dollars": "0.0500",
       "latest_expiration_time": "2026-07-08T19:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -3291,7 +3291,7 @@
         }
       ],
       "no_ask_dollars": "0.9500",
-      "no_bid_dollars": "0.4000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Los Angeles D,yes Detroit",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "125.00",
@@ -3318,14 +3318,14 @@
       "title": "yes Los Angeles D,yes Detroit",
       "updated_time": "2026-07-03T01:42:07.569408Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "137.00",
-      "yes_ask_dollars": "0.6000",
-      "yes_ask_size_fp": "1.00",
+      "volume_fp": "139.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Los Angeles D,yes Detroit",
       "yes_bid": 0.05,
-      "volume": 137
+      "volume": 139
     },
     {
       "can_close_early": true,
@@ -3359,7 +3359,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "1.0000",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Pittsburgh,yes Cincinnati",
       "notional_value_dollars": "1.0000",
@@ -3390,10 +3390,10 @@
       "volume_fp": "200.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Pittsburgh,yes Cincinnati",
-      "yes_bid": 0,
+      "yes_bid": 0.01,
       "volume": 200
     },
     {
@@ -3549,7 +3549,7 @@
       "expiration_time": "2026-07-08T17:35:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.5100",
+      "last_price_dollars": "0.4500",
       "latest_expiration_time": "2026-07-08T17:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -3567,7 +3567,7 @@
         }
       ],
       "no_ask_dollars": "0.5500",
-      "no_bid_dollars": "0.4900",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Baltimore,yes New York Y",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "300.00",
@@ -3594,14 +3594,14 @@
       "title": "yes Baltimore,yes New York Y",
       "updated_time": "2026-07-03T01:35:30.569576Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "301.00",
-      "yes_ask_dollars": "0.5100",
-      "yes_ask_size_fp": "1.00",
+      "volume_fp": "303.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Baltimore,yes New York Y",
       "yes_bid": 0.45,
-      "volume": 301
+      "volume": 303
     },
     {
       "can_close_early": true,
@@ -3636,7 +3636,7 @@
         }
       ],
       "no_ask_dollars": "0.5500",
-      "no_bid_dollars": "0.4900",
+      "no_bid_dollars": "0.2500",
       "no_sub_title": "yes Milwaukee,yes Arizona",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "200.00",
@@ -3663,14 +3663,14 @@
       "title": "yes Milwaukee,yes Arizona",
       "updated_time": "2026-07-03T01:34:57.570472Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "200.00",
-      "yes_ask_dollars": "0.5100",
+      "volume_fp": "202.00",
+      "yes_ask_dollars": "0.7500",
       "yes_ask_size_fp": "1.00",
       "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Milwaukee,yes Arizona",
       "yes_bid": 0.45,
-      "volume": 200
+      "volume": 202
     },
     {
       "can_close_early": true,
@@ -3943,19 +3943,19 @@
       "expiration_time": "2026-07-09T01:30:00Z",
       "expiration_value": "",
       "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4300",
+      "last_price_dollars": "0.3900",
       "latest_expiration_time": "2026-07-09T01:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.5800",
+      "no_ask_dollars": "0.5900",
       "no_bid_dollars": "0.5700",
       "no_sub_title": "Los Angeles A",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "136.00",
+      "open_interest_fp": "653.00",
       "open_time": "2026-07-03T01:40:00Z",
       "previous_price_dollars": "0.4200",
-      "previous_yes_ask_dollars": "0.4400",
+      "previous_yes_ask_dollars": "0.4300",
       "previous_yes_bid_dollars": "0.4200",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -3975,15 +3975,15 @@
       "ticker": "KXMLBGAME-26JUL052130BOSLAA-LAA",
       "title": "Boston vs Los Angeles A Winner?",
       "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "38.00",
-      "volume_fp": "171.00",
+      "volume_24h_fp": "2088.00",
+      "volume_fp": "2221.00",
       "yes_ask_dollars": "0.4300",
-      "yes_ask_size_fp": "730.00",
-      "yes_bid_dollars": "0.4200",
-      "yes_bid_size_fp": "67.00",
+      "yes_ask_size_fp": "5.00",
+      "yes_bid_dollars": "0.4100",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Los Angeles A",
-      "yes_bid": 0.42,
-      "volume": 171
+      "yes_bid": 0.41,
+      "volume": 2221
     },
     {
       "can_close_early": true,
@@ -4033,9 +4033,9 @@
       "volume_24h_fp": "20.00",
       "volume_fp": "48.00",
       "yes_ask_dollars": "0.6100",
-      "yes_ask_size_fp": "770.00",
+      "yes_ask_size_fp": "1000.00",
       "yes_bid_dollars": "0.5900",
-      "yes_bid_size_fp": "153.00",
+      "yes_bid_size_fp": "29.75",
       "yes_sub_title": "Boston",
       "yes_bid": 0.59,
       "volume": 48
@@ -4634,8 +4634,8 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "0.5500",
-      "no_bid_dollars": "0.4900",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Miami,yes Los Angeles D",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "200.00",
@@ -4662,14 +4662,14 @@
       "title": "yes Miami,yes Los Angeles D",
       "updated_time": "2026-07-03T01:01:26.569522Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "202.00",
-      "yes_ask_dollars": "0.5100",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "1.00",
+      "volume_fp": "204.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Miami,yes Los Angeles D",
-      "yes_bid": 0.45,
-      "volume": 202
+      "yes_bid": 0,
+      "volume": 204
     },
     {
       "can_close_early": true,
@@ -5018,281 +5018,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-07T12:30:00Z",
-      "created_time": "2026-07-03T00:38:39.578742Z",
-      "custom_strike": {
-        "cricket_team": "b9f06288-408c-44f8-af11-d928aa755f65"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXT20MATCH-26JUL050430MYWBBL",
-      "expected_expiration_time": "2026-07-05T12:30:00Z",
-      "expiration_time": "2026-07-07T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.2200",
-      "latest_expiration_time": "2026-07-07T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Mysore Warriors",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T12:30:00Z",
-      "open_interest_fp": "1.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.4400",
-      "previous_yes_bid_dollars": "0.2300",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Mysore Warriors wins the Bengaluru Blasters vs Mysore Warriors men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 4:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "If the Bengaluru Blasters vs Mysore Warriors men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 4:30 AM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will resolve to $0.50.\nIn the event of a forfeit, disqualification, or concession:\n  If it occurs before the match begins, all markets will resolve to $0.50.\n  If it occurs after the match has begun, and the governing body declares an official winner, the market will resolve based on that result.\nIf play begins but insufficient play occurs to determine an official result, all markets will resolve to $0.50.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXT20MATCH-26JUL050430MYWBBL-MYW",
-      "title": "Bengaluru Blasters vs Mysore Warriors Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "1.00",
-      "volume_fp": "1.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Mysore Warriors",
-      "yes_bid": 0,
-      "volume": 1
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-07T12:30:00Z",
-      "created_time": "2026-07-03T00:38:39.578742Z",
-      "custom_strike": {
-        "cricket_team": "e8b4f5d2-8858-4c08-99e1-852715af569d"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXT20MATCH-26JUL050430MYWBBL",
-      "expected_expiration_time": "2026-07-05T12:30:00Z",
-      "expiration_time": "2026-07-07T12:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-07T12:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Bengaluru Blasters",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T12:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "1.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Bengaluru Blasters wins the Bengaluru Blasters vs Mysore Warriors men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 4:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "If the Bengaluru Blasters vs Mysore Warriors men's professional T20 (M) cricket match originally scheduled for Jul 5, 2026 at 4:30 AM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will resolve to $0.50.\nIn the event of a forfeit, disqualification, or concession:\n  If it occurs before the match begins, all markets will resolve to $0.50.\n  If it occurs after the match has begun, and the governing body declares an official winner, the market will resolve based on that result.\nIf play begins but insufficient play occurs to determine an official result, all markets will resolve to $0.50.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXT20MATCH-26JUL050430MYWBBL-BBL",
-      "title": "Bengaluru Blasters vs Mysore Warriors Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Bengaluru Blasters",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T11:30:00Z",
-      "created_time": "2026-07-03T00:38:39.143416Z",
-      "custom_strike": {
-        "rugby_team": "35c4f1ce-294f-4da2-bc57-166ca818e183"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS",
-      "expected_expiration_time": "2026-07-05T14:30:00Z",
-      "expiration_time": "2026-07-19T11:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T11:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Wakefield Trinity",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T14:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Wakefield Trinity is the winner in the Wakefield Trinity vs Castleford Tigers professional Super League Rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wakefield Trinity vs Castleford Tigers professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS-WAK",
-      "title": "Wakefield Trinity vs Castleford Tigers Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Wakefield Trinity",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T11:30:00Z",
-      "created_time": "2026-07-03T00:38:39.143416Z",
-      "custom_strike": {
-        "rugby_team": "71cbf84f-9e24-4002-9049-8cc1b6286aae"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS",
-      "expected_expiration_time": "2026-07-05T14:30:00Z",
-      "expiration_time": "2026-07-19T11:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T11:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Tie",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T14:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If tie is the result in the Wakefield Trinity vs Castleford Tigers professional Super League Rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wakefield Trinity vs Castleford Tigers professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS-TIE",
-      "title": "Wakefield Trinity vs Castleford Tigers Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Tie",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T11:30:00Z",
-      "created_time": "2026-07-03T00:38:39.143416Z",
-      "custom_strike": {
-        "rugby_team": "fdfb0cc2-85ee-4295-a7fa-64f5d36576f5"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS",
-      "expected_expiration_time": "2026-07-05T14:30:00Z",
-      "expiration_time": "2026-07-19T11:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-19T11:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Castleford Tigers",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-05T14:30:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.7500",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Castleford Tigers is the winner in the Wakefield Trinity vs Castleford Tigers professional Super League Rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Wakefield Trinity vs Castleford Tigers professional Super League Rugby rugby match originally scheduled for Jul 5, 2026 at 7:30 AM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXRUGBYESLMATCH-26JUL05WAKCAS-CAS",
-      "title": "Wakefield Trinity vs Castleford Tigers Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Castleford Tigers",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-19T14:00:00Z",
       "created_time": "2026-07-03T00:38:38.586575Z",
       "custom_strike": {
@@ -5638,8 +5363,8 @@
       "latest_expiration_time": "2026-07-07T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.5500",
-      "no_bid_dollars": "0.3700",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Shivamogga Lions",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-05T17:30:00Z",
@@ -5668,12 +5393,12 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.6300",
-      "yes_ask_size_fp": "3.00",
-      "yes_bid_dollars": "0.4500",
-      "yes_bid_size_fp": "3.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Shivamogga Lions",
-      "yes_bid": 0.45,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -5749,7 +5474,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0100",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Wigan Warriors",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-05T19:30:00Z",
@@ -5778,8 +5503,8 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9900",
-      "yes_ask_size_fp": "1.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Wigan Warriors",
@@ -5859,7 +5584,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0100",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "St Helens",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-05T19:30:00Z",
@@ -5888,8 +5613,8 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9900",
-      "yes_ask_size_fp": "1.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "St Helens",
@@ -9001,7 +8726,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0100",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Virtus.pro",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T23:00:00Z",
@@ -9030,12 +8755,287 @@
       "updated_time": "2026-07-03T01:07:04.616833Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9900",
-      "yes_ask_size_fp": "1.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Virtus.pro",
       "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-20T19:00:00Z",
+      "created_time": "2026-07-03T00:38:22.72656Z",
+      "custom_strike": {
+        "esports_competitor": "d7f37b6b-c11d-4e5b-b909-b68fef1da53b"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXR6MAP-26JUL061500GEEVP-2",
+      "expected_expiration_time": "2026-07-06T23:00:00Z",
+      "expiration_time": "2026-07-20T19:00:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-20T19:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Geekay Esports",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-06T23:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Geekay Esports wins map 2 in the Europe MENA League Stage 1 2026: Geekay Esports vs. Virtus.pro R6 match originally scheduled for Jul 6, 2026 at 3:00 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXR6MAP-26JUL061500GEEVP-2-GEE",
+      "title": "Will Geekay Esports win map 2 in the Geekay Esports vs. Virtus.pro match?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Geekay Esports",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-20T21:10:00Z",
+      "created_time": "2026-07-03T00:38:21.971737Z",
+      "custom_strike": {
+        "basketball_team": "a540c180-8b16-4f17-921a-f5e2c1e1653a"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXFIBAGAME-26JUL061710CHIVEN",
+      "expected_expiration_time": "2026-07-07T00:10:00Z",
+      "expiration_time": "2026-07-20T21:10:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-20T21:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9500",
+      "no_bid_dollars": "0.0500",
+      "no_sub_title": "Venezuela",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-07T00:10:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Venezuela wins the Chile vs Venezuela professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 5:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the team who wins Chile vs Venezuela professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 5:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXFIBAGAME-26JUL061710CHIVEN-VEN",
+      "title": "Chile vs Venezuela Winner?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.9500",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.0500",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Venezuela",
+      "yes_bid": 0.05,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-20T21:10:00Z",
+      "created_time": "2026-07-03T00:38:21.971737Z",
+      "custom_strike": {
+        "basketball_team": "92f5053c-3c45-4771-91fd-29d7e955ade0"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXFIBAGAME-26JUL061710CHIVEN",
+      "expected_expiration_time": "2026-07-07T00:10:00Z",
+      "expiration_time": "2026-07-20T21:10:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-20T21:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9500",
+      "no_bid_dollars": "0.0500",
+      "no_sub_title": "Chile",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-07T00:10:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Chile wins the Chile vs Venezuela professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 5:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the team who wins Chile vs Venezuela professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 5:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXFIBAGAME-26JUL061710CHIVEN-CHI",
+      "title": "Chile vs Venezuela Winner?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.9500",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.0500",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Chile",
+      "yes_bid": 0.05,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-20T23:10:00Z",
+      "created_time": "2026-07-03T00:38:21.326553Z",
+      "custom_strike": {
+        "basketball_team": "a7ab56f5-87d5-44f1-b66d-863201d35182"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXFIBAGAME-26JUL061910JAMCAN",
+      "expected_expiration_time": "2026-07-07T02:10:00Z",
+      "expiration_time": "2026-07-20T23:10:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-20T23:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9500",
+      "no_bid_dollars": "0.0500",
+      "no_sub_title": "Jamaica",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-07T02:10:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Jamaica wins the Jamaica vs Canada professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the team who wins Jamaica vs Canada professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 7:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXFIBAGAME-26JUL061910JAMCAN-JAM",
+      "title": "Jamaica vs Canada Winner?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.9500",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.0500",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Jamaica",
+      "yes_bid": 0.05,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-20T23:10:00Z",
+      "created_time": "2026-07-03T00:38:21.326553Z",
+      "custom_strike": {
+        "basketball_team": "bde08e80-0496-48e7-92b6-c0607093009b"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXFIBAGAME-26JUL061910JAMCAN",
+      "expected_expiration_time": "2026-07-07T02:10:00Z",
+      "expiration_time": "2026-07-20T23:10:00Z",
+      "expiration_value": "",
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-20T23:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9500",
+      "no_bid_dollars": "0.0500",
+      "no_sub_title": "Canada",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-07T02:10:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.7500",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If Canada wins the Jamaica vs Canada professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the team who wins Jamaica vs Canada professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 6, 2026 at 7:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXFIBAGAME-26JUL061910JAMCAN-CAN",
+      "title": "Jamaica vs Canada Winner?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.9500",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.0500",
+      "yes_bid_size_fp": "1.00",
+      "yes_sub_title": "Canada",
+      "yes_bid": 0.05,
       "volume": 0
     }
   ],
@@ -9066,26 +9066,26 @@
       "pct": 0.6875181562893464
     },
     "BINANCE:BTCUSDT": {
-      "c": 62626,
-      "pc": 62525.54,
-      "pct": 0.160670343670761
+      "c": 62714,
+      "pc": 62626,
+      "pct": 0.14051671829591542
     },
     "BINANCE:ETHUSDT": {
-      "c": 1759.04,
-      "pc": 1759.83,
-      "pct": -0.04489069966985241
+      "c": 1765.15,
+      "pc": 1767.16,
+      "pct": -0.1137418230380945
     },
     "BINANCE:SOLUSDT": {
-      "c": 80.52,
-      "pc": 81.87,
-      "pct": -1.6489556614144478
+      "c": 81.16,
+      "pc": 81.73,
+      "pct": -0.6974183286431022
     }
   },
-  "tick": 211,
-  "totalScanned": 21100,
+  "tick": 212,
+  "totalScanned": 21200,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-05T12:01:58.575Z",
+  "lastRun": "2026-07-05T14:04:34.842Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
