@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 177,
+      "ticksOpen": 178,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 176,
+      "ticksOpen": 177,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 176,
+      "ticksOpen": 177,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 174,
+      "ticksOpen": 175,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 174,
+      "ticksOpen": 175,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 173,
+      "ticksOpen": 174,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 173,
+      "ticksOpen": 174,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 172,
+      "ticksOpen": 173,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 171,
+      "ticksOpen": 172,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 171,
+      "ticksOpen": 172,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 170,
+      "ticksOpen": 171,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 169,
+      "ticksOpen": 170,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 168,
+      "ticksOpen": 169,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 167,
+      "ticksOpen": 168,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 166,
+      "ticksOpen": 167,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 165,
+      "ticksOpen": 166,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 164,
+      "ticksOpen": 165,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 163,
+      "ticksOpen": 164,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "6:15:24 AM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "6:15:24 AM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "6:15:24 AM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:24 AM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:24 AM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:23 AM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:22 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:22 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:22 AM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:22 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:21 AM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:21 AM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:21 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:21 AM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:20 AM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:20 AM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:20 AM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:20 AM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:19 AM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:19 AM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:19 AM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:19 AM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:18 AM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:18 AM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:18 AM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:18 AM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:17 AM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:17 AM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:17 AM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:17 AM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:16 AM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:16 AM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:16 AM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:16 AM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:15 AM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:15 AM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:15 AM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:15 AM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Flash",
+      "msg": "0 short · 30 long · YES:0 NO:30 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "6:15:14 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,121 SPY $$744.78",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:15:12 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:15:12 AM",
+      "who": "System",
+      "msg": "═══ TICK #223 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "1:51:56 AM",
       "who": "System",
@@ -2937,557 +3255,9 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Nova",
-      "msg": "Diversified: 1 short (13%) · 7 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Flash",
-      "msg": "1 short · 34 long · YES:0 NO:35 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "10:46:04 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "10:46:03 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "10:46:03 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,636 SPY $$744.78",
-      "type": "lt-info"
-    },
-    {
-      "t": "10:46:02 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "10:46:02 PM",
-      "who": "System",
-      "msg": "═══ TICK #220 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:47:34 PM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:47:34 PM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:47:34 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~12min left",
-      "type": ""
-    },
-    {
-      "t": "9:47:34 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~12min left",
-      "type": ""
-    },
-    {
-      "t": "9:47:34 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:33 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:33 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:33 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:33 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:32 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:31 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:31 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:31 PM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:31 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:30 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:30 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:30 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:30 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:29 PM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:29 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:29 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:29 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:28 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:28 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:28 PM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:28 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:27 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:27 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:27 PM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:27 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~13min left",
-      "type": ""
-    },
-    {
-      "t": "9:47:27 PM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~13min left",
-      "type": ""
-    },
-    {
-      "t": "9:47:26 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:26 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:26 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:26 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:25 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:25 PM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:47:25 PM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
-      "type": ""
     }
   ],
   "markets": [
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-20T00:00:00Z",
-      "created_time": "2026-07-03T01:32:24.018555Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL051630MIAATH,KXWCGAME-26JUL05MEXENG",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL051630MIAATH-MIA,KXWCGAME-26JUL05MEXENG-TIE",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FE95A2B111D"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FE95A2B111D",
-      "expected_expiration_time": "2026-07-06T03:00:00Z",
-      "expiration_time": "2026-07-20T00:00:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.3000",
-      "latest_expiration_time": "2026-07-20T00:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL051630MIAATH",
-          "market_ticker": "KXMLBGAME-26JUL051630MIAATH-MIA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWCGAME-26JUL05MEXENG",
-          "market_ticker": "KXWCGAME-26JUL05MEXENG-TIE",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.4900",
-      "no_sub_title": "yes Miami,yes Reg Time: Tie",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "205.00",
-      "open_time": "2026-07-03T01:32:23Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FE95A2B111D-90135959FDB",
-      "title": "yes Miami,yes Reg Time: Tie",
-      "updated_time": "2026-07-03T01:32:24.569501Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "207.00",
-      "yes_ask_dollars": "0.5100",
-      "yes_ask_size_fp": "2.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Miami,yes Reg Time: Tie",
-      "yes_bid": 0,
-      "volume": 207
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-08T01:30:00Z",
-      "created_time": "2026-07-03T01:30:56.426795Z",
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBEXTRAS-26JUL052130BOSLAA",
-      "expected_expiration_time": "2026-07-06T04:30:00Z",
-      "expiration_time": "2026-07-08T01:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.3000",
-      "latest_expiration_time": "2026-07-08T01:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Game goes to extra innings",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "43.00",
-      "open_time": "2026-07-03T01:40:00Z",
-      "previous_price_dollars": "0.4500",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.4900",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Boston and Los Angeles A go to extra innings in the Boston vs Los Angeles A professional baseball game originally scheduled for Jul 5, 2026 at 9:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "ticker": "KXMLBEXTRAS-26JUL052130BOSLAA-EXTRAS",
-      "title": "Will there be extra innings in the Boston vs Los Angeles A game originally scheduled for Jul 5, 2026 at 9:30 PM EDT?",
-      "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "19.00",
-      "volume_fp": "51.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Game goes to extra innings",
-      "yes_bid": 0,
-      "volume": 51
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-09T01:30:00Z",
-      "created_time": "2026-07-03T01:30:55.611872Z",
-      "custom_strike": {
-        "baseball_team": "ed037614-6769-4195-9d5f-776b26a7fe62"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXMLBGAME-26JUL052130BOSLAA",
-      "expected_expiration_time": "2026-07-06T04:30:00Z",
-      "expiration_time": "2026-07-09T01:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4100",
-      "latest_expiration_time": "2026-07-09T01:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.6000",
-      "no_bid_dollars": "0.5900",
-      "no_sub_title": "Los Angeles A",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "4714.73",
-      "open_time": "2026-07-03T01:40:00Z",
-      "previous_price_dollars": "0.4300",
-      "previous_yes_ask_dollars": "0.4300",
-      "previous_yes_bid_dollars": "0.4200",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Los Angeles A wins the Boston vs Los Angeles A professional baseball game originally scheduled for Jul 5, 2026 at 9:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Boston vs Los Angeles A professional baseball game originally scheduled for Jul 5, 2026 at 9:30 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.",
-      "settlement_timer_seconds": 120,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXMLBGAME-26JUL052130BOSLAA-LAA",
-      "title": "Boston vs Los Angeles A Winner?",
-      "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "6372.25",
-      "volume_fp": "6708.75",
-      "yes_ask_dollars": "0.4100",
-      "yes_ask_size_fp": "114621.63",
-      "yes_bid_dollars": "0.4000",
-      "yes_bid_size_fp": "120778.85",
-      "yes_sub_title": "Los Angeles A",
-      "yes_bid": 0.4,
-      "volume": 6708.75
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-09T01:30:00Z",
-      "created_time": "2026-07-03T01:30:55.611872Z",
-      "custom_strike": {
-        "baseball_team": "6e285aea-d5a3-419f-89e7-7061016abf87"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXMLBGAME-26JUL052130BOSLAA",
-      "expected_expiration_time": "2026-07-06T04:30:00Z",
-      "expiration_time": "2026-07-09T01:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.6000",
-      "latest_expiration_time": "2026-07-09T01:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.4100",
-      "no_bid_dollars": "0.4000",
-      "no_sub_title": "Boston",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T04:30:00Z",
-      "open_interest_fp": "10000.43",
-      "open_time": "2026-07-03T01:40:00Z",
-      "previous_price_dollars": "0.5700",
-      "previous_yes_ask_dollars": "0.6000",
-      "previous_yes_bid_dollars": "0.5800",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Boston wins the Boston vs Los Angeles A professional baseball game originally scheduled for Jul 5, 2026 at 9:30 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Boston vs Los Angeles A professional baseball game originally scheduled for Jul 5, 2026 at 9:30 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.",
-      "settlement_timer_seconds": 120,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXMLBGAME-26JUL052130BOSLAA-BOS",
-      "title": "Boston vs Los Angeles A Winner?",
-      "updated_time": "2026-07-03T01:40:00.569378Z",
-      "volume_24h_fp": "6599.35",
-      "volume_fp": "10067.43",
-      "yes_ask_dollars": "0.6000",
-      "yes_ask_size_fp": "5465.69",
-      "yes_bid_dollars": "0.5900",
-      "yes_bid_size_fp": "14123.25",
-      "yes_sub_title": "Boston",
-      "yes_bid": 0.59,
-      "volume": 10067.43
-    },
     {
       "can_close_early": true,
       "close_time": "2026-07-16T23:00:00Z",
@@ -3637,350 +3407,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-08T23:20:00Z",
-      "created_time": "2026-07-03T01:01:25.779041Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26JUL032140MIAATH,KXMLBGAME-26JUL051920SDLAD",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26JUL032140MIAATH-MIA,KXMLBGAME-26JUL051920SDLAD-LAD",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268293D049E26"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268293D049E26",
-      "expected_expiration_time": "2026-07-06T02:20:00Z",
-      "expiration_time": "2026-07-08T23:20:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-07-08T23:20:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26JUL032140MIAATH",
-          "market_ticker": "KXMLBGAME-26JUL032140MIAATH-MIA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26JUL051920SDLAD",
-          "market_ticker": "KXMLBGAME-26JUL051920SDLAD-LAD",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Miami,yes Los Angeles D",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "200.00",
-      "open_time": "2026-07-03T01:01:25Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268293D049E26-0F6D2D91C95",
-      "title": "yes Miami,yes Los Angeles D",
-      "updated_time": "2026-07-03T01:01:26.569522Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "204.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Miami,yes Los Angeles D",
-      "yes_bid": 0,
-      "volume": 204
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T23:30:00Z",
-      "created_time": "2026-07-03T00:38:36.849734Z",
-      "custom_strike": {
-        "soccer_team": "111193d4-9b1f-4bd8-ab7c-9de252737f05"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV",
-      "expected_expiration_time": "2026-07-06T02:30:00Z",
-      "expiration_time": "2026-07-19T23:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.3000",
-      "latest_expiration_time": "2026-07-19T23:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Tie",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T02:30:00Z",
-      "open_interest_fp": "11.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.3700",
-      "previous_yes_ask_dollars": "0.5100",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Tie is the result of the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If the game is cancelled or rescheduled to over two weeks away, the market will resolve to a fair price in accordance with the rules.",
-      "settlement_timer_seconds": 30,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV-TIE",
-      "title": "Nautico vs Juventude RS Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "246.00",
-      "volume_fp": "250.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1.00",
-      "yes_sub_title": "Tie",
-      "yes_bid": 0.01,
-      "volume": 250
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T23:30:00Z",
-      "created_time": "2026-07-03T00:38:36.849734Z",
-      "custom_strike": {
-        "soccer_team": "37a177a6-c7f7-4891-9eb1-a115029ff8a6"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV",
-      "expected_expiration_time": "2026-07-06T02:30:00Z",
-      "expiration_time": "2026-07-19T23:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.4100",
-      "latest_expiration_time": "2026-07-19T23:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.2500",
-      "no_sub_title": "Nautico",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T02:30:00Z",
-      "open_interest_fp": "12.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.4800",
-      "previous_yes_ask_dollars": "0.5100",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Nautico wins the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If the game is cancelled or rescheduled to over two weeks away, the market will resolve to a fair price in accordance with the rules.",
-      "settlement_timer_seconds": 30,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV-NAU",
-      "title": "Nautico vs Juventude RS Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "51.00",
-      "volume_fp": "52.00",
-      "yes_ask_dollars": "0.7500",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Nautico",
-      "yes_bid": 0,
-      "volume": 52
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-19T23:30:00Z",
-      "created_time": "2026-07-03T00:38:36.849734Z",
-      "custom_strike": {
-        "soccer_team": "ff17dbf5-ee98-4821-96cb-3be6abd5f510"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV",
-      "expected_expiration_time": "2026-07-06T02:30:00Z",
-      "expiration_time": "2026-07-19T23:30:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.2900",
-      "latest_expiration_time": "2026-07-19T23:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.4900",
-      "no_sub_title": "Juventude RS",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T02:30:00Z",
-      "open_interest_fp": "10.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.3300",
-      "previous_yes_ask_dollars": "0.5100",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Juventude RS wins the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Nautico vs Juventude RS professional Brasileiro Serie B soccer game originally scheduled for Jul 5, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If the game is cancelled or rescheduled to over two weeks away, the market will resolve to a fair price in accordance with the rules.",
-      "settlement_timer_seconds": 30,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXBRASILEIROBGAME-26JUL05NAUJUV-JUV",
-      "title": "Nautico vs Juventude RS Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "8.00",
-      "volume_fp": "12.00",
-      "yes_ask_dollars": "0.5100",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Juventude RS",
-      "yes_bid": 0,
-      "volume": 12
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-20T00:10:00Z",
-      "created_time": "2026-07-03T00:38:36.398271Z",
-      "custom_strike": {
-        "basketball_team": "0ebb499e-6ad1-45e0-b6a8-fe77cdd6d829"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXFIBAGAME-26JUL052010ARGPAN",
-      "expected_expiration_time": "2026-07-06T03:10:00Z",
-      "expiration_time": "2026-07-20T00:10:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0100",
-      "latest_expiration_time": "2026-07-20T00:10:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Panama",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T03:10:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Panama wins the Argentina vs Panama professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 5, 2026 at 8:10 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the team who wins Argentina vs Panama professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 5, 2026 at 8:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXFIBAGAME-26JUL052010ARGPAN-PAN",
-      "title": "Argentina vs Panama Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "40.00",
-      "volume_fp": "40.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "2.00",
-      "yes_sub_title": "Panama",
-      "yes_bid": 0.01,
-      "volume": 40
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-20T00:10:00Z",
-      "created_time": "2026-07-03T00:38:36.398271Z",
-      "custom_strike": {
-        "basketball_team": "1b120116-3bd8-4d1e-8934-61f5dfea1f7d"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXFIBAGAME-26JUL052010ARGPAN",
-      "expected_expiration_time": "2026-07-06T03:10:00Z",
-      "expiration_time": "2026-07-20T00:10:00Z",
-      "expiration_value": "",
-      "fractional_trading_enabled": true,
-      "last_price_dollars": "0.0100",
-      "latest_expiration_time": "2026-07-20T00:10:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Argentina",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-06T03:10:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-03T01:07:04Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "response_price_units": "usd_cent",
-      "result": "",
-      "rules_primary": "If Argentina wins the Argentina vs Panama professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 5, 2026 at 8:10 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the team who wins Argentina vs Panama professional FIBA World Cup Qualifiers basketball game originally scheduled for Jul 5, 2026 at 8:10 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two weeks). If the cancelled game is not played or is rescheduled further than two weeks out, the market will resolve to a fair price for each team in accordance with the rules.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXFIBAGAME-26JUL052010ARGPAN-ARG",
-      "title": "Argentina vs Panama Winner?",
-      "updated_time": "2026-07-03T01:07:04.657836Z",
-      "volume_24h_fp": "28.00",
-      "volume_fp": "28.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Argentina",
-      "yes_bid": 0,
-      "volume": 28
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-20T06:00:00Z",
       "created_time": "2026-07-03T00:38:35.948451Z",
       "custom_strike": {
@@ -4004,8 +3430,8 @@
       "open_interest_fp": "6.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4059,8 +3485,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4114,8 +3540,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4169,8 +3595,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4224,8 +3650,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4279,8 +3705,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4334,8 +3760,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4389,8 +3815,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4440,7 +3866,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4491,7 +3917,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4542,7 +3968,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4593,7 +4019,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4644,7 +4070,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4695,7 +4121,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4750,8 +4176,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4805,8 +4231,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -4856,7 +4282,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4907,7 +4333,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -4962,8 +4388,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5017,8 +4443,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5072,8 +4498,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5127,8 +4553,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5182,8 +4608,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5237,8 +4663,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5288,7 +4714,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5339,7 +4765,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5394,8 +4820,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5449,8 +4875,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5504,8 +4930,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5559,8 +4985,8 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -5614,7 +5040,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5669,7 +5095,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5724,7 +5150,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5779,7 +5205,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5834,7 +5260,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5889,7 +5315,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5940,7 +5366,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -5991,7 +5417,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6046,8 +5472,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6101,8 +5527,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "1.0000",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6156,8 +5582,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6211,8 +5637,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6266,8 +5692,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6321,8 +5747,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6376,8 +5802,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6431,8 +5857,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6478,15 +5904,15 @@
       "latest_expiration_time": "2026-07-08T21:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.4600",
-      "no_bid_dollars": "0.3300",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Lancashire",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-06T21:30:00Z",
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6508,12 +5934,12 @@
       "updated_time": "2026-07-03T01:07:04.657836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.6700",
-      "yes_ask_size_fp": "4.00",
-      "yes_bid_dollars": "0.5400",
-      "yes_bid_size_fp": "4.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Lancashire",
-      "yes_bid": 0.54,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -6541,7 +5967,7 @@
       "open_interest_fp": "2.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6596,7 +6022,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6651,7 +6077,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6706,7 +6132,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6761,7 +6187,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6871,7 +6297,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -6926,8 +6352,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -6981,8 +6407,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -7036,8 +6462,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -7091,8 +6517,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -7146,8 +6572,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -7201,8 +6627,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
-      "previous_yes_bid_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9500",
+      "previous_yes_bid_dollars": "0.0500",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -7256,7 +6682,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7311,7 +6737,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7366,7 +6792,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7476,7 +6902,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7528,7 +6954,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7580,7 +7006,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7632,7 +7058,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7684,7 +7110,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7736,7 +7162,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7788,7 +7214,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7840,7 +7266,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7892,7 +7318,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7944,7 +7370,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -7996,7 +7422,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8048,7 +7474,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8152,7 +7578,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8204,7 +7630,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8256,7 +7682,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8308,7 +7734,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8360,7 +7786,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8412,7 +7838,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8464,7 +7890,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8516,7 +7942,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8568,7 +7994,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8620,7 +8046,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8672,7 +8098,7 @@
       "open_interest_fp": "0.00",
       "open_time": "2026-07-03T01:07:04Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_ask_dollars": "1.0000",
       "previous_yes_bid_dollars": "0.0000",
       "price_level_structure": "linear_cent",
       "price_ranges": [
@@ -8699,6 +8125,526 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "above $6.50",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.47,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.47",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.47 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.47",
+      "title": "Will the copper close price be above 6.47 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.47",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.44,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.44",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.44 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.44",
+      "title": "Will the copper close price be above 6.44 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.44",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.41,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.41",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.41 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.41",
+      "title": "Will the copper close price be above 6.41 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.41",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.38,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.38",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.9900",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.38 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.38",
+      "title": "Will the copper close price be above 6.38 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.38",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.35,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.35",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.35 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.35",
+      "title": "Will the copper close price be above 6.35 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.35",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.32,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.32",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.32 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.32",
+      "title": "Will the copper close price be above 6.32 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.32",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.29,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.29",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.29 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.29",
+      "title": "Will the copper close price be above 6.29 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.29",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.26,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.26",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.26 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.26",
+      "title": "Will the copper close price be above 6.26 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.26",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.23,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.23",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.23 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.23",
+      "title": "Will the copper close price be above 6.23 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.23",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-10T21:00:00Z",
+      "created_time": "2026-07-03T00:38:17.195922Z",
+      "event_ticker": "KXCOPPERW-26JUL1017",
+      "expected_expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_time": "2026-07-10T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 6.2,
+      "fractional_trading_enabled": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-17T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "above $6.20",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-10T21:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-03T01:07:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "1.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "response_price_units": "usd_cent",
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for copper using the CCN6 contract on July 10, 2026 at 5:00 PM EDT is above 6.20 USD/Lbs, then the market resolves to Yes.",
+      "rules_secondary": "Settlement is based on the nearest listed contract month, rolling forward to the next contract 10 business days before the current contract's last trading day. For example, if the May 2026 contract's last trading day is April 28, the active month switches from May → June 10 business days prior to the expiry date.\n\nThe settlement contract and corresponding month represent standard exchange symbology where contracts are named after their delivery month, not their expiration date. For example, while the pyth feed may describe BRENTM6 by its April 30th, 2026 expiration date, the settlement contract is listed as June 2026 to align with the official exchange-designated delivery month for the \"M\" code.The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCOPPERW-26JUL1017-T6.20",
+      "title": "Will the copper close price be above 6.20 USD/Lbs on July 10, 2026 at 5:00 PM EDT?",
+      "updated_time": "2026-07-03T01:07:04.616833Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "above $6.20",
       "yes_bid": 0,
       "volume": 0
     }
@@ -8730,26 +8676,26 @@
       "pct": 0.6875181562893464
     },
     "BINANCE:BTCUSDT": {
-      "c": 63591.99,
-      "pc": 62882,
-      "pct": 1.1290830444324258
+      "c": 63121.27,
+      "pc": 62715,
+      "pct": 0.6478035557681524
     },
     "BINANCE:ETHUSDT": {
-      "c": 1786.13,
-      "pc": 1766.13,
-      "pct": 1.1324194708203812
+      "c": 1773.24,
+      "pc": 1763.87,
+      "pct": 0.5312182870619784
     },
     "BINANCE:SOLUSDT": {
-      "c": 81.68,
-      "pc": 80.85,
-      "pct": 1.0265924551638992
+      "c": 80.48,
+      "pc": 80.45,
+      "pct": 0.037290242386576924
     }
   },
-  "tick": 222,
-  "totalScanned": 22200,
+  "tick": 223,
+  "totalScanned": 22300,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-06T01:51:42.566Z",
+  "lastRun": "2026-07-06T06:15:12.494Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
