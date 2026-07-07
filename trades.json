@@ -1043,7 +1043,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.565Z",
       "closedAt": null,
-      "ticksOpen": 190,
+      "ticksOpen": 191,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1068,7 +1068,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:48:01.888Z",
       "closedAt": null,
-      "ticksOpen": 190,
+      "ticksOpen": 191,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1093,7 +1093,7 @@
       "status": "open",
       "openedAt": "2026-06-20T22:57:45.375Z",
       "closedAt": null,
-      "ticksOpen": 189,
+      "ticksOpen": 190,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1118,7 +1118,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.522Z",
       "closedAt": null,
-      "ticksOpen": 188,
+      "ticksOpen": 189,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1143,7 +1143,7 @@
       "status": "open",
       "openedAt": "2026-06-21T00:02:16.886Z",
       "closedAt": null,
-      "ticksOpen": 188,
+      "ticksOpen": 189,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1168,7 +1168,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:34.786Z",
       "closedAt": null,
-      "ticksOpen": 187,
+      "ticksOpen": 188,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1193,7 +1193,7 @@
       "status": "open",
       "openedAt": "2026-06-21T05:16:35.169Z",
       "closedAt": null,
-      "ticksOpen": 187,
+      "ticksOpen": 188,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1218,7 +1218,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.309Z",
       "closedAt": null,
-      "ticksOpen": 186,
+      "ticksOpen": 187,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1243,7 +1243,7 @@
       "status": "open",
       "openedAt": "2026-06-21T09:06:00.693Z",
       "closedAt": null,
-      "ticksOpen": 186,
+      "ticksOpen": 187,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1268,7 +1268,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.231Z",
       "closedAt": null,
-      "ticksOpen": 185,
+      "ticksOpen": 186,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1293,7 +1293,7 @@
       "status": "open",
       "openedAt": "2026-06-21T11:52:04.555Z",
       "closedAt": null,
-      "ticksOpen": 185,
+      "ticksOpen": 186,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1318,7 +1318,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.336Z",
       "closedAt": null,
-      "ticksOpen": 184,
+      "ticksOpen": 185,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1343,7 +1343,7 @@
       "status": "open",
       "openedAt": "2026-06-21T13:30:20.702Z",
       "closedAt": null,
-      "ticksOpen": 184,
+      "ticksOpen": 185,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1368,7 +1368,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.431Z",
       "closedAt": null,
-      "ticksOpen": 183,
+      "ticksOpen": 184,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1393,7 +1393,7 @@
       "status": "open",
       "openedAt": "2026-06-21T15:30:11.811Z",
       "closedAt": null,
-      "ticksOpen": 183,
+      "ticksOpen": 184,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1418,7 +1418,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:53.778Z",
       "closedAt": null,
-      "ticksOpen": 182,
+      "ticksOpen": 183,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1443,7 +1443,7 @@
       "status": "open",
       "openedAt": "2026-06-21T16:58:54.099Z",
       "closedAt": null,
-      "ticksOpen": 182,
+      "ticksOpen": 183,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1468,7 +1468,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.367Z",
       "closedAt": null,
-      "ticksOpen": 181,
+      "ticksOpen": 182,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1493,7 +1493,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:06:24.751Z",
       "closedAt": null,
-      "ticksOpen": 181,
+      "ticksOpen": 182,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1518,7 +1518,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.335Z",
       "closedAt": null,
-      "ticksOpen": 180,
+      "ticksOpen": 181,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1543,7 +1543,7 @@
       "status": "open",
       "openedAt": "2026-06-21T17:10:29.702Z",
       "closedAt": null,
-      "ticksOpen": 180,
+      "ticksOpen": 181,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1568,7 +1568,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.262Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1593,7 +1593,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:11.646Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1618,7 +1618,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.031Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1643,7 +1643,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.414Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1668,7 +1668,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:12.798Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1693,7 +1693,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.182Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-06-21T18:47:13.566Z",
       "closedAt": null,
-      "ticksOpen": 179,
+      "ticksOpen": 180,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.481Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:47.803Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1793,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.125Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1818,7 @@
       "status": "open",
       "openedAt": "2026-06-21T20:19:48.448Z",
       "closedAt": null,
-      "ticksOpen": 178,
+      "ticksOpen": 179,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1843,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.590Z",
       "closedAt": null,
-      "ticksOpen": 177,
+      "ticksOpen": 178,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1868,7 +1868,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:11.974Z",
       "closedAt": null,
-      "ticksOpen": 177,
+      "ticksOpen": 178,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1893,7 +1893,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.357Z",
       "closedAt": null,
-      "ticksOpen": 177,
+      "ticksOpen": 178,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1918,7 +1918,7 @@
       "status": "open",
       "openedAt": "2026-06-21T21:49:12.741Z",
       "closedAt": null,
-      "ticksOpen": 177,
+      "ticksOpen": 178,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1943,7 +1943,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:33.838Z",
       "closedAt": null,
-      "ticksOpen": 176,
+      "ticksOpen": 177,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1968,7 +1968,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.206Z",
       "closedAt": null,
-      "ticksOpen": 176,
+      "ticksOpen": 177,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1993,7 +1993,7 @@
       "status": "open",
       "openedAt": "2026-06-21T22:57:34.573Z",
       "closedAt": null,
-      "ticksOpen": 176,
+      "ticksOpen": 177,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2018,7 +2018,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.512Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2043,7 +2043,7 @@
       "status": "open",
       "openedAt": "2026-06-22T00:06:39.834Z",
       "closedAt": null,
-      "ticksOpen": 175,
+      "ticksOpen": 176,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -2056,6 +2056,324 @@
     }
   ],
   "log": [
+    {
+      "t": "1:32:44 PM",
+      "who": "System",
+      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
+      "type": "lt-sys"
+    },
+    {
+      "t": "1:32:44 PM",
+      "who": "Knox",
+      "msg": "All 41 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "1:32:44 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:44 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:43 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:43 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:43 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:43 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:42 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:42 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:42 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:41 PM",
+      "who": "Knox",
+      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:41 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:41 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:40 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:40 PM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:40 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:40 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:39 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:39 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:39 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:38 PM",
+      "who": "Knox",
+      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:38 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:38 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:38 PM",
+      "who": "Knox",
+      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:37 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:37 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:37 PM",
+      "who": "Knox",
+      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:36 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:36 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:35 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:35 PM",
+      "who": "Knox",
+      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:35 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:34 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:34 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:34 PM",
+      "who": "Knox",
+      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:34 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:33 PM",
+      "who": "Knox",
+      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:33 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:33 PM",
+      "who": "Knox",
+      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Knox",
+      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Knox",
+      "msg": "Checking 41 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Axel",
+      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
+      "type": "lt-warn"
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $58.30",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (88 killed)",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "1:32:32 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,187 SPY $$750.73",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:32:31 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "1:32:30 PM",
+      "who": "System",
+      "msg": "═══ TICK #235 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "11:28:24 AM",
       "who": "System",
@@ -2937,324 +3255,6 @@
       "who": "Knox",
       "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "5:12:35 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-SUB open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Knox",
-      "msg": "KXUFCDISTANCE-26JUN20BOLASW-DIST open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Knox",
-      "msg": "Checking 41 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Axel",
-      "msg": "Cash reserve hit ($58.30 < $60.00 floor) — holding until positions settle",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $58.30",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 5 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Flash",
-      "msg": "0 short · 5 long · YES:0 NO:5 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:12:34 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,022 SPY $$751.28",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:12:33 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:12:32 AM",
-      "who": "System",
-      "msg": "═══ TICK #232 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "1:21:10 AM",
-      "who": "System",
-      "msg": "Portfolio: $200.00 · Realized P&L: +$0.00 · Trades: 41",
-      "type": "lt-sys"
-    },
-    {
-      "t": "1:21:10 AM",
-      "who": "Knox",
-      "msg": "All 41 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "1:21:10 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVHVAREL29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:10 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21URUCPV-CPVNDACO10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:10 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-G2M open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:09 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN211610G2MTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:09 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211610BALLAD-BAL6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:09 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:09 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH6 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:08 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211605LAAATH-ATH7 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:08 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211510PITCOL-PIT5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:08 AM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUN21MIKGRO-MIK open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:08 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211435SDTEX-TEX5 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:08 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUN211410STLKC-24 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:07 AM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUN211410STLKC-STL9 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:07 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26JUN211030LEVPR-4-PR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:07 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJLOPERFIDO31-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:07 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOURDELGADO29-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:06 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26JUN211410CLEHOU-HOUJPENA3-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:06 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:06 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:06 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26JUN211335CINNYY-NYYSJONES78-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:05 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:05 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:05 AM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:05 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:05 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:04 AM",
-      "who": "Knox",
-      "msg": "KXWCAST-26JUN21ESPKSA-KSASABDUL12-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:04 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FAL open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:04 AM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26JUN211100FURIAFAL-1-FURIA open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:04 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-MIN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:03 AM",
-      "who": "Knox",
-      "msg": "KXMLBF5-26JUN211515MINAZ-TIE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:03 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-2 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:03 AM",
-      "who": "Knox",
-      "msg": "KXWNBA3PT-26JUN21WSHMIN-WSHSCITRON22-3 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:03 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-GAN open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:03 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21TAJGAN-TAJ open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:02 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21BASPRI-PRI open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:02 AM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:02 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TEX open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:02 AM",
-      "who": "Knox",
-      "msg": "KXCODMAP-26JUN201730TEXTOR-4-TOR open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:21:01 AM",
-      "who": "Knox",
-      "msg": "KXUFCMOF-26JUN20BOLASW-KOTKODQ open · mark 0¢ · ~expired left",
-      "type": ""
     }
   ],
   "markets": [
@@ -4127,7 +4127,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T65.749",
       "title": "Will the SILVER close price be above 65.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:59.303711Z",
+      "updated_time": "2026-07-07T13:31:32.34525Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4179,7 +4179,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T65.499",
       "title": "Will the SILVER close price be above 65.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:59.209076Z",
+      "updated_time": "2026-07-07T13:31:32.246345Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4231,7 +4231,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T65.249",
       "title": "Will the SILVER close price be above 65.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:59.120525Z",
+      "updated_time": "2026-07-07T13:31:32.154091Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4283,7 +4283,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T64.999",
       "title": "Will the SILVER close price be above 64.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:59.028231Z",
+      "updated_time": "2026-07-07T13:31:32.057555Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4335,7 +4335,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T64.749",
       "title": "Will the SILVER close price be above 64.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.935488Z",
+      "updated_time": "2026-07-07T13:31:31.970362Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4387,7 +4387,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T64.499",
       "title": "Will the SILVER close price be above 64.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.846848Z",
+      "updated_time": "2026-07-07T13:31:31.876879Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4439,7 +4439,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T64.249",
       "title": "Will the SILVER close price be above 64.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.754447Z",
+      "updated_time": "2026-07-07T13:31:31.785066Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4491,7 +4491,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T63.999",
       "title": "Will the SILVER close price be above 63.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.664597Z",
+      "updated_time": "2026-07-07T13:31:31.690234Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4543,7 +4543,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T63.749",
       "title": "Will the SILVER close price be above 63.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.567729Z",
+      "updated_time": "2026-07-07T13:31:31.598142Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4595,7 +4595,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T63.499",
       "title": "Will the SILVER close price be above 63.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.474564Z",
+      "updated_time": "2026-07-07T13:31:31.49868Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4647,7 +4647,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T63.249",
       "title": "Will the SILVER close price be above 63.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.380415Z",
+      "updated_time": "2026-07-07T13:31:31.404749Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4699,7 +4699,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T62.999",
       "title": "Will the SILVER close price be above 62.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.286516Z",
+      "updated_time": "2026-07-07T13:31:31.309956Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4751,7 +4751,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T62.749",
       "title": "Will the SILVER close price be above 62.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.19563Z",
+      "updated_time": "2026-07-07T13:31:31.214034Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4803,7 +4803,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T62.499",
       "title": "Will the SILVER close price be above 62.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.101193Z",
+      "updated_time": "2026-07-07T13:31:31.122206Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4855,7 +4855,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T62.249",
       "title": "Will the SILVER close price be above 62.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:58.005155Z",
+      "updated_time": "2026-07-07T13:31:31.030827Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4907,7 +4907,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T61.999",
       "title": "Will the SILVER close price be above 61.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.917118Z",
+      "updated_time": "2026-07-07T13:31:30.94214Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -4959,7 +4959,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T61.749",
       "title": "Will the SILVER close price be above 61.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.823276Z",
+      "updated_time": "2026-07-07T13:31:30.849224Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5011,7 +5011,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T61.499",
       "title": "Will the SILVER close price be above 61.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.73326Z",
+      "updated_time": "2026-07-07T13:31:30.751334Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5063,7 +5063,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T61.249",
       "title": "Will the SILVER close price be above 61.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.642599Z",
+      "updated_time": "2026-07-07T13:31:30.659949Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5115,7 +5115,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T60.999",
       "title": "Will the SILVER close price be above 60.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.553311Z",
+      "updated_time": "2026-07-07T13:31:30.569096Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5167,7 +5167,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T60.749",
       "title": "Will the SILVER close price be above 60.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.456001Z",
+      "updated_time": "2026-07-07T13:31:30.476771Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5219,7 +5219,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T60.499",
       "title": "Will the SILVER close price be above 60.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.361686Z",
+      "updated_time": "2026-07-07T13:31:30.381457Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5271,7 +5271,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T60.249",
       "title": "Will the SILVER close price be above 60.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.268661Z",
+      "updated_time": "2026-07-07T13:31:30.291117Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5323,7 +5323,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T59.999",
       "title": "Will the SILVER close price be above 59.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.174828Z",
+      "updated_time": "2026-07-07T13:31:30.197039Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5375,7 +5375,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T59.749",
       "title": "Will the SILVER close price be above 59.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:57.080384Z",
+      "updated_time": "2026-07-07T13:31:30.111346Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5427,7 +5427,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T59.499",
       "title": "Will the SILVER close price be above 59.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.991803Z",
+      "updated_time": "2026-07-07T13:31:30.019366Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5479,7 +5479,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T59.249",
       "title": "Will the SILVER close price be above 59.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.896165Z",
+      "updated_time": "2026-07-07T13:31:29.923169Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5531,7 +5531,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T58.999",
       "title": "Will the SILVER close price be above 58.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.802378Z",
+      "updated_time": "2026-07-07T13:31:29.831166Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5583,7 +5583,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T58.749",
       "title": "Will the SILVER close price be above 58.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.709427Z",
+      "updated_time": "2026-07-07T13:31:29.736843Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5635,7 +5635,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T58.499",
       "title": "Will the SILVER close price be above 58.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.620427Z",
+      "updated_time": "2026-07-07T13:31:29.644681Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5687,7 +5687,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T58.249",
       "title": "Will the SILVER close price be above 58.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.526485Z",
+      "updated_time": "2026-07-07T13:31:29.558224Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5739,7 +5739,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T57.999",
       "title": "Will the SILVER close price be above 57.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.437606Z",
+      "updated_time": "2026-07-07T13:31:29.466962Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5791,7 +5791,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T57.749",
       "title": "Will the SILVER close price be above 57.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.342363Z",
+      "updated_time": "2026-07-07T13:31:29.371065Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5843,7 +5843,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T57.499",
       "title": "Will the SILVER close price be above 57.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.220772Z",
+      "updated_time": "2026-07-07T13:31:29.281583Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5895,7 +5895,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T57.249",
       "title": "Will the SILVER close price be above 57.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.13112Z",
+      "updated_time": "2026-07-07T13:31:29.185004Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5947,7 +5947,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T56.999",
       "title": "Will the SILVER close price be above 56.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:56.035627Z",
+      "updated_time": "2026-07-07T13:31:29.089856Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -5999,7 +5999,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T56.749",
       "title": "Will the SILVER close price be above 56.749 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:55.946544Z",
+      "updated_time": "2026-07-07T13:31:28.996285Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6051,7 +6051,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T56.499",
       "title": "Will the SILVER close price be above 56.499 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:55.850876Z",
+      "updated_time": "2026-07-07T13:31:28.910104Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6103,7 +6103,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T56.249",
       "title": "Will the SILVER close price be above 56.249 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:55.764784Z",
+      "updated_time": "2026-07-07T13:31:28.823132Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6155,7 +6155,7 @@
       "strike_type": "greater",
       "ticker": "KXSILVERH-26JUL0706-T55.999",
       "title": "Will the SILVER close price be above 55.999 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:55.660906Z",
+      "updated_time": "2026-07-07T13:31:28.727706Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6208,7 +6208,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T76.99",
       "title": "Will the temp in New York City be above 76.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.563668Z",
+      "updated_time": "2026-07-07T13:30:45.712733Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6261,7 +6261,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T75.99",
       "title": "Will the temp in New York City be above 75.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.475235Z",
+      "updated_time": "2026-07-07T13:30:45.620218Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6314,7 +6314,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T74.99",
       "title": "Will the temp in New York City be above 74.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.389223Z",
+      "updated_time": "2026-07-07T13:30:45.525634Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6367,7 +6367,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T73.99",
       "title": "Will the temp in New York City be above 73.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.300469Z",
+      "updated_time": "2026-07-07T13:30:45.439687Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6420,7 +6420,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T72.99",
       "title": "Will the temp in New York City be above 72.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.209576Z",
+      "updated_time": "2026-07-07T13:30:45.347359Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6473,7 +6473,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T71.99",
       "title": "Will the temp in New York City be above 71.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.116049Z",
+      "updated_time": "2026-07-07T13:30:45.262025Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6526,7 +6526,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T70.99",
       "title": "Will the temp in New York City be above 70.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:43.02864Z",
+      "updated_time": "2026-07-07T13:30:45.164355Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6579,7 +6579,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T69.99",
       "title": "Will the temp in New York City be above 69.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.93824Z",
+      "updated_time": "2026-07-07T13:30:45.073108Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6632,7 +6632,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T68.99",
       "title": "Will the temp in New York City be above 68.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.851595Z",
+      "updated_time": "2026-07-07T13:30:44.984903Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6685,7 +6685,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T67.99",
       "title": "Will the temp in New York City be above 67.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.764718Z",
+      "updated_time": "2026-07-07T13:30:44.88677Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6738,7 +6738,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T66.99",
       "title": "Will the temp in New York City be above 66.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.67151Z",
+      "updated_time": "2026-07-07T13:30:44.796361Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6791,7 +6791,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T65.99",
       "title": "Will the temp in New York City be above 65.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.581319Z",
+      "updated_time": "2026-07-07T13:30:44.705863Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6844,7 +6844,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T64.99",
       "title": "Will the temp in New York City be above 64.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.491991Z",
+      "updated_time": "2026-07-07T13:30:44.606265Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6897,7 +6897,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T63.99",
       "title": "Will the temp in New York City be above 63.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.399942Z",
+      "updated_time": "2026-07-07T13:30:44.510407Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -6950,7 +6950,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T62.99",
       "title": "Will the temp in New York City be above 62.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.306367Z",
+      "updated_time": "2026-07-07T13:30:44.415737Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7003,7 +7003,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T61.99",
       "title": "Will the temp in New York City be above 61.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.213344Z",
+      "updated_time": "2026-07-07T13:30:44.324007Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7056,7 +7056,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T60.99",
       "title": "Will the temp in New York City be above 60.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.120556Z",
+      "updated_time": "2026-07-07T13:30:44.230824Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7109,7 +7109,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T59.99",
       "title": "Will the temp in New York City be above 59.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:42.024526Z",
+      "updated_time": "2026-07-07T13:30:44.137205Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7162,7 +7162,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T58.99",
       "title": "Will the temp in New York City be above 58.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.937412Z",
+      "updated_time": "2026-07-07T13:30:44.042659Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7215,7 +7215,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T57.99",
       "title": "Will the temp in New York City be above 57.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.856534Z",
+      "updated_time": "2026-07-07T13:30:43.951559Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7268,7 +7268,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T56.99",
       "title": "Will the temp in New York City be above 56.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.757839Z",
+      "updated_time": "2026-07-07T13:30:43.855337Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7321,7 +7321,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T55.99",
       "title": "Will the temp in New York City be above 55.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.665403Z",
+      "updated_time": "2026-07-07T13:30:43.760903Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7374,7 +7374,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T54.99",
       "title": "Will the temp in New York City be above 54.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.575226Z",
+      "updated_time": "2026-07-07T13:30:43.667603Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7427,7 +7427,7 @@
       "subtitle": "-1° or below",
       "ticker": "KXTEMPNYCH-26JUL0705-T53.99",
       "title": "Will the temp in New York City be above 53.99° on Jul 7, 2026 at 5am EDT?",
-      "updated_time": "2026-07-07T11:20:41.487954Z",
+      "updated_time": "2026-07-07T13:30:43.575491Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7479,7 +7479,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4319.99",
       "title": "Will the GOLD close price be above 4319.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.758027Z",
+      "updated_time": "2026-07-07T13:31:17.184499Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7531,7 +7531,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4309.99",
       "title": "Will the GOLD close price be above 4309.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.663737Z",
+      "updated_time": "2026-07-07T13:31:17.091238Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7583,7 +7583,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4299.99",
       "title": "Will the GOLD close price be above 4299.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.574623Z",
+      "updated_time": "2026-07-07T13:31:16.996362Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7635,7 +7635,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4289.99",
       "title": "Will the GOLD close price be above 4289.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.480053Z",
+      "updated_time": "2026-07-07T13:31:16.905135Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7687,7 +7687,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4279.99",
       "title": "Will the GOLD close price be above 4279.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.38587Z",
+      "updated_time": "2026-07-07T13:31:16.809467Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7739,7 +7739,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4269.99",
       "title": "Will the GOLD close price be above 4269.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.29297Z",
+      "updated_time": "2026-07-07T13:31:16.711534Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7791,7 +7791,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4259.99",
       "title": "Will the GOLD close price be above 4259.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.197888Z",
+      "updated_time": "2026-07-07T13:31:16.623251Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7843,7 +7843,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4249.99",
       "title": "Will the GOLD close price be above 4249.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.105253Z",
+      "updated_time": "2026-07-07T13:31:16.527591Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7895,7 +7895,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4239.99",
       "title": "Will the GOLD close price be above 4239.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:44.01528Z",
+      "updated_time": "2026-07-07T13:31:16.434247Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7947,7 +7947,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4229.99",
       "title": "Will the GOLD close price be above 4229.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.923447Z",
+      "updated_time": "2026-07-07T13:31:16.343613Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -7999,7 +7999,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4219.99",
       "title": "Will the GOLD close price be above 4219.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.83484Z",
+      "updated_time": "2026-07-07T13:31:16.252875Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8051,7 +8051,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4209.99",
       "title": "Will the GOLD close price be above 4209.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.740423Z",
+      "updated_time": "2026-07-07T13:31:16.155901Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8103,7 +8103,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4199.99",
       "title": "Will the GOLD close price be above 4199.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.650189Z",
+      "updated_time": "2026-07-07T13:31:16.063872Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8155,7 +8155,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4189.99",
       "title": "Will the GOLD close price be above 4189.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.557088Z",
+      "updated_time": "2026-07-07T13:31:15.969775Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8207,7 +8207,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4179.99",
       "title": "Will the GOLD close price be above 4179.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.467498Z",
+      "updated_time": "2026-07-07T13:31:15.867836Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8259,7 +8259,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4169.99",
       "title": "Will the GOLD close price be above 4169.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.372908Z",
+      "updated_time": "2026-07-07T13:31:15.771284Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8311,7 +8311,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4159.99",
       "title": "Will the GOLD close price be above 4159.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.283452Z",
+      "updated_time": "2026-07-07T13:31:15.684377Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8363,7 +8363,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4149.99",
       "title": "Will the GOLD close price be above 4149.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.190887Z",
+      "updated_time": "2026-07-07T13:31:15.593549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8415,7 +8415,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4139.99",
       "title": "Will the GOLD close price be above 4139.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.097053Z",
+      "updated_time": "2026-07-07T13:31:15.498534Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8467,7 +8467,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4129.99",
       "title": "Will the GOLD close price be above 4129.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:43.006907Z",
+      "updated_time": "2026-07-07T13:31:15.403823Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8519,7 +8519,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4119.99",
       "title": "Will the GOLD close price be above 4119.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:42.917248Z",
+      "updated_time": "2026-07-07T13:31:15.303816Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8571,7 +8571,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4109.99",
       "title": "Will the GOLD close price be above 4109.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:42.823292Z",
+      "updated_time": "2026-07-07T13:31:15.205917Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8623,7 +8623,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4099.99",
       "title": "Will the GOLD close price be above 4099.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:42.733438Z",
+      "updated_time": "2026-07-07T13:31:15.108299Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8675,7 +8675,7 @@
       "strike_type": "greater",
       "ticker": "KXGOLDH-26JUL0706-T4089.99",
       "title": "Will the GOLD close price be above 4089.99 USD/ounce on July 07, 2026 at 6:00 AM EDT?",
-      "updated_time": "2026-07-07T11:25:42.637063Z",
+      "updated_time": "2026-07-07T13:31:15.019904Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -8689,51 +8689,51 @@
   ],
   "prices": {
     "SPY": {
-      "c": 751.28,
-      "pc": 744.78,
-      "pct": 0.8727409436343619
+      "c": 750.73,
+      "pc": 751.28,
+      "pct": -0.07320839101266566
     },
     "QQQ": {
-      "c": 722.82,
-      "pc": 712.6,
-      "pct": 1.4341846758349743
+      "c": 715.19,
+      "pc": 722.82,
+      "pct": -1.0555878365291491
     },
     "GLD": {
-      "c": 382.13,
-      "pc": 378.13,
-      "pct": 1.0578372517388202
+      "c": 382.7,
+      "pc": 382.13,
+      "pct": 0.1491638971030783
     },
     "AAPL": {
-      "c": 312.66,
-      "pc": 308.63,
-      "pct": 1.305770663901769
+      "c": 315.1,
+      "pc": 312.66,
+      "pct": 0.7804004349772908
     },
     "USO": {
-      "c": 104.35,
-      "pc": 103.98,
-      "pct": 0.3558376610886616
+      "c": 105.82,
+      "pc": 104.35,
+      "pct": 1.4087206516530897
     },
     "BINANCE:BTCUSDT": {
-      "c": 63190,
-      "pc": 62878,
-      "pct": 0.4961989885174465
+      "c": 63186.78,
+      "pc": 61482.6,
+      "pct": 2.7718086092650607
     },
     "BINANCE:ETHUSDT": {
-      "c": 1777.24,
-      "pc": 1769.41,
-      "pct": 0.44252038815197875
+      "c": 1774.43,
+      "pc": 1738.28,
+      "pct": 2.079641944911067
     },
     "BINANCE:SOLUSDT": {
-      "c": 80.97,
-      "pc": 80.82,
-      "pct": 0.18559762435041535
+      "c": 81.12,
+      "pc": 79.59,
+      "pct": 1.922352054278177
     }
   },
-  "tick": 234,
-  "totalScanned": 23400,
+  "tick": 235,
+  "totalScanned": 23500,
   "learnData": {},
   "learnAdjust": {},
   "learnTotal": 0,
-  "lastRun": "2026-07-07T11:28:10.879Z",
+  "lastRun": "2026-07-07T13:32:30.897Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
