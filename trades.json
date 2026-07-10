@@ -1,5 +1,5 @@
 {
-  "cash": 151.13,
+  "cash": 177.65,
   "startCash": 200,
   "trades": [
     {
@@ -1185,12 +1185,12 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.92,
-      "currentPrice": 0.95,
+      "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.04,
+      "status": "win",
       "openedAt": "2026-07-09T20:55:47.022Z",
-      "closedAt": null,
+      "closedAt": "2026-07-10T23:44:48.614Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -1462,10 +1462,10 @@
       "entryPrice": 0.8200000000000001,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": -12,
+      "status": "loss",
       "openedAt": "2026-07-10T05:07:16.385Z",
-      "closedAt": null,
+      "closedAt": "2026-07-10T23:44:48.614Z",
       "ticksOpen": 0,
       "conf": "med",
       "shortTerm": false,
@@ -1562,10 +1562,10 @@
       "entryPrice": 0.89,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.48,
+      "status": "win",
       "openedAt": "2026-07-10T17:58:30.527Z",
-      "closedAt": null,
+      "closedAt": "2026-07-10T23:44:48.614Z",
       "ticksOpen": 0,
       "conf": "med",
       "shortTerm": true,
@@ -1705,81 +1705,6 @@
   ],
   "positions": [
     {
-      "id": 1783630547022.066,
-      "ticker": "KXMLBTOTAL-26JUL101905KCBAL-4",
-      "market": "Kansas City vs Baltimore Total Runs?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "YES",
-      "entryPrice": 0.92,
-      "currentPrice": 0.95,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-07-09T20:55:47.022Z",
-      "closedAt": null,
-      "ticksOpen": 14,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-07-13T23:05:00Z",
-      "reasoning": "YES: 92¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.09",
-      "expectedReturn": "-0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1783660036385.942,
-      "ticker": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN",
-      "market": "Will Elizabeth Mandlik win the Volynets vs Mandlik: Quarterfinal match?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.8200000000000001,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-07-10T05:07:16.385Z",
-      "closedAt": null,
-      "ticksOpen": 10,
-      "conf": "med",
-      "shortTerm": false,
-      "term": "long",
-      "expires": "2026-07-24T16:30:00Z",
-      "reasoning": "NO: 82¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.22",
-      "expectedReturn": "0.0",
-      "entryScore": 6
-    },
-    {
-      "id": 1783706310527.345,
-      "ticker": "KXSILVERH-26JUL1015-T59.099",
-      "market": "Will the SILVER close price be above 59.099 USD/ounce on July 10, 2026 at 3:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "YES",
-      "entryPrice": 0.89,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-07-10T17:58:30.527Z",
-      "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "med",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-07-10T19:00:00Z",
-      "reasoning": "YES: 89¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.12",
-      "expectedReturn": "0.0",
-      "entryScore": 7
-    },
-    {
       "id": 1783706311173.22,
       "ticker": "KXGOLDH-26JUL1015-T4077.99",
       "market": "Will the GOLD close price be above 4077.99 USD/ounce on July 10, 2026 at 3:00 PM ET?",
@@ -1793,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-07-10T17:58:31.173Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1818,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-07-10T20:46:47.733Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1843,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-07-10T20:46:48.057Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -1868,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-07-10T22:46:50.612Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -1881,6 +1806,168 @@
     }
   ],
   "log": [
+    {
+      "t": "11:44:48 PM",
+      "who": "System",
+      "msg": "Portfolio: $215.65 · Realized P&L: +$15.65 · Trades: 68",
+      "type": "lt-sys"
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the SILVER close price be\" → +$1.48",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "✗ LOSS \"Will Elizabeth Mandlik win the\" → $12.00",
+      "type": "lt-err"
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Kansas City vs Baltimore Total\" → +$1.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 [long] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR [long] tick:4 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:44:48 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR [long] tick:4 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26JUL1015-T4077.99 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26JUL1015-T4077.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXSILVERH-26JUL1015-T59.099 tick:6 → WIN ✓ (winP:95%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26JUL1015-T59.099 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN tick:11 → LOSS ✗ (winP:88%)",
+      "type": "lt-err"
+    },
+    {
+      "t": "11:44:47 PM",
+      "who": "Knox",
+      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBTOTAL-26JUL101905KCBAL-4 tick:15 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Knox",
+      "msg": "Checking 7 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Axel",
+      "msg": "Exposure: 37% · Cash: $151.13",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "11:44:46 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,165 SPY $$754.95",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:44:44 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:44:44 PM",
+      "who": "System",
+      "msg": "═══ TICK #277 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "10:46:52 PM",
       "who": "System",
@@ -2918,168 +3005,6 @@
       "who": "Axel",
       "msg": "PRE-TRADE: YES \"Will the SILVER close price \" · $12.00 · win 93% · profit if win: +$1.79",
       "type": "lt-kelly"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Axel",
-      "msg": "Exposure: 39% · Cash: $135.28",
-      "type": ""
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Nova",
-      "msg": "Diversified: 5 short (100%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Flash",
-      "msg": "5 short · 0 long · YES:5 NO:0 (20 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:58:29 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,867 SPY $$754.18",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:58:28 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:58:27 PM",
-      "who": "System",
-      "msg": "═══ TICK #272 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "System",
-      "msg": "Portfolio: $213.60 · Realized P&L: +$13.60 · Trades: 61",
-      "type": "lt-sys"
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Zach McKinstry: 1+ RBIs?\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will Ingkar Dyussebay win the \" → +$1.64",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Musab Al-Juwayr: 1+ goals\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUL10MISKAR-KAR [long] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "4:02:34 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUL10MISKAR-KAR open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26JUL1009-T60.449 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26JUL1009-T60.449 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN [long] tick:5 · waiting · settle chance:5%",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN open · mark 4¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUL10BROMIC-MIC [long] tick:5 · waiting · settle chance:5%",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUL10BROMIC-MIC open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXMLBRBI-26JUL091840ATHDET-DETMVIERLING8-1 [short] tick:7 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "4:02:33 PM",
-      "who": "Knox",
-      "msg": "KXMLBRBI-26JUL091840ATHDET-DETMVIERLING8-1 open · mark 0¢ · ~30.6h left",
-      "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBRBI-26JUL091840ATHDET-DETZMCKINSTRY39-1 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBRBI-26JUL091840ATHDET-DETZMCKINSTRY39-1 open · mark 0¢ · ~30.6h left",
-      "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUL101905KCBAL-BAL3 [short] tick:9 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUL101905KCBAL-BAL3 open · mark 30¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 [short] tick:9 · waiting · settle chance:40%",
-      "type": ""
     }
   ],
   "markets": [
@@ -3097,8 +3022,7 @@
       "expected_expiration_time": "2026-07-12T04:00:00Z",
       "expiration_time": "2026-07-26T01:00:00Z",
       "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-07-26T01:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -3119,7 +3043,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Reg Time: Switzerland,yes Las Vegas",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "1.00",
       "open_time": "2026-07-10T18:18:24Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -3142,14 +3066,14 @@
       "title": "yes Reg Time: Switzerland,yes Las Vegas",
       "updated_time": "2026-07-10T18:18:25.210546Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_fp": "1.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "2.00",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "yes Reg Time: Switzerland,yes Las Vegas",
       "yes_bid": 0.01,
-      "volume": 0
+      "volume": 1
     },
     {
       "can_close_early": true,
@@ -8632,31 +8556,31 @@
       "pct": -0.28437758003853064
     },
     "BINANCE:BTCUSDT": {
-      "c": 64121.81,
-      "pc": 63372.84,
-      "pct": 1.181846986816436
+      "c": 64165,
+      "pc": 63280.73,
+      "pct": 1.3973764209104365
     },
     "BINANCE:ETHUSDT": {
-      "c": 1793.85,
-      "pc": 1750.64,
-      "pct": 2.468240186446089
+      "c": 1795.44,
+      "pc": 1746.82,
+      "pct": 2.7833434469493206
     },
     "BINANCE:SOLUSDT": {
-      "c": 78.11,
-      "pc": 78.28,
-      "pct": -0.21716913643331845
+      "c": 78.07,
+      "pc": 78.05,
+      "pct": 0.02562459961562591
     }
   },
-  "tick": 276,
-  "totalScanned": 27600,
+  "tick": 277,
+  "totalScanned": 27700,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 28,
-      "total": 29
+      "total": 30
     },
     "Unknown|YES|short": {
-      "wins": 8,
-      "total": 8
+      "wins": 10,
+      "total": 10
     },
     "Unknown|NO|short": {
       "wins": 19,
@@ -8673,7 +8597,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 61,
-  "lastRun": "2026-07-10T22:46:48.169Z",
+  "learnTotal": 64,
+  "lastRun": "2026-07-10T23:44:44.204Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
