@@ -1,5 +1,5 @@
 {
-  "cash": 153.13,
+  "cash": 151.13,
   "startCash": 200,
   "trades": [
     {
@@ -1635,7 +1635,7 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.9,
-      "currentPrice": 0.83,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -1660,7 +1660,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.91,
-      "currentPrice": 0.16,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -1675,6 +1675,31 @@
       "kellyFrac": "15.0",
       "payoutMult": "1.10",
       "expectedReturn": "-0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1783723610612.4954,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07",
+      "market": "yes Reg Time: Switzerland,yes Las Vegas",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-07-10T22:46:50.612Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-26T01:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
       "entryScore": 8
     }
   ],
@@ -1693,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-07-09T20:55:47.022Z",
       "closedAt": null,
-      "ticksOpen": 13,
+      "ticksOpen": 14,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -1718,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-07-10T05:07:16.385Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1743,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-07-10T17:58:30.527Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1768,7 +1793,7 @@
       "status": "open",
       "openedAt": "2026-07-10T17:58:31.173Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -1787,13 +1812,13 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.9,
-      "currentPrice": 0.83,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-07-10T20:46:47.733Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1812,13 +1837,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.91,
-      "currentPrice": 0.16,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-07-10T20:46:48.057Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -1828,9 +1853,196 @@
       "payoutMult": "1.10",
       "expectedReturn": "-0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1783723610612.4954,
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07",
+      "market": "yes Reg Time: Switzerland,yes Las Vegas",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-07-10T22:46:50.612Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-07-26T01:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "log": [
+    {
+      "t": "10:46:52 PM",
+      "who": "System",
+      "msg": "Portfolio: $225.13 · Realized P&L: +$25.13 · Trades: 68",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:46:52 PM",
+      "who": "Knox",
+      "msg": "All 7 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:46:52 PM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 [long] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "10:46:52 PM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "10:46:52 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR [long] tick:3 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "10:46:52 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR [long] tick:3 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26JUL1015-T4077.99 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26JUL1015-T4077.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26JUL1015-T59.099 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26JUL1015-T59.099 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN [long] tick:10 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "10:46:51 PM",
+      "who": "Knox",
+      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 [short] tick:14 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Knox",
+      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 open · mark 95¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Knox",
+      "msg": "Checking 7 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"yes Reg Time: Switzerland,ye\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Axel",
+      "msg": "Exposure: 36% · Cash: $153.13",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Flash",
+      "msg": "0 short · 1 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:46:50 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,122 SPY $$754.95",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:46:48 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:46:48 PM",
+      "who": "System",
+      "msg": "═══ TICK #276 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:48:22 PM",
       "who": "System",
@@ -2868,168 +3080,6 @@
       "who": "Knox",
       "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 [short] tick:9 · waiting · settle chance:40%",
       "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 open · mark 93¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXITFWMATCH-26JUL10DYUSAG-DYU tick:11 → WIN ✓ (winP:94%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:32 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUL10DYUSAG-DYU open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 tick:217 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSAMALJU10-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 [long] tick:217 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE [long] tick:224 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Knox",
-      "msg": "Checking 12 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Axel",
-      "msg": "Exposure: 47% · Cash: $117.60",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "4:02:31 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,023 SPY $$753.18",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:02:29 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "4:02:29 PM",
-      "who": "System",
-      "msg": "═══ TICK #271 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "System",
-      "msg": "Portfolio: $211.92 · Realized P&L: +$11.92 · Trades: 61",
-      "type": "lt-sys"
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "All 12 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUL10MISKAR-KAR [long] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXITFWMATCH-26JUL10MISKAR-KAR open · mark 87¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26JUL1009-T60.449 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26JUL1009-T60.449 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN [long] tick:4 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXWTACHALLENGERMATCH-26JUL10VOLMAN-MAN open · mark 1¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "1:32:28 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUL10BROMIC-MIC [long] tick:4 · waiting · settle chance:0%",
-      "type": ""
     }
   ],
   "markets": [
@@ -3065,7 +3115,7 @@
           "side": "yes"
         }
       ],
-      "no_ask_dollars": "1.0000",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes Reg Time: Switzerland,yes Las Vegas",
       "notional_value_dollars": "1.0000",
@@ -3095,10 +3145,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "2.00",
       "yes_sub_title": "yes Reg Time: Switzerland,yes Las Vegas",
-      "yes_bid": 0,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -4082,112 +4132,6 @@
       "yes_sub_title": "Choi / Eum Lee",
       "yes_bid": 0,
       "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-24T19:00:00Z",
-      "created_time": "2026-07-10T17:35:01.510998Z",
-      "custom_strike": {
-        "tennis_competitor": "fb68f399-b98a-427a-ac9c-8c639b5bc526"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFMATCH-26JUL10HARKIR",
-      "expected_expiration_time": "2026-07-11T01:00:00Z",
-      "expiration_time": "2026-07-24T19:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.1700",
-      "latest_expiration_time": "2026-07-24T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.8400",
-      "no_bid_dollars": "0.8300",
-      "no_sub_title": "Strong Kirchheimer",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-11T01:00:00Z",
-      "open_interest_fp": "1092.99",
-      "open_time": "2026-07-10T18:03:49Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Strong Kirchheimer wins the Hara Friend vs Kirchheimer professional tennis match in the 2026 M25 Laval Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Hara Friend vs Kirchheimer professional tennis match in the 2026 M25 Laval Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFMATCH-26JUL10HARKIR-KIR",
-      "title": "Will Strong Kirchheimer win the Hara Friend vs Kirchheimer: M25 Laval Quarterfinal match?",
-      "updated_time": "2026-07-10T18:03:49.210096Z",
-      "volume_24h_fp": "1119.90",
-      "volume_fp": "1166.99",
-      "yes_ask_dollars": "0.1700",
-      "yes_ask_size_fp": "93235.35",
-      "yes_bid_dollars": "0.1600",
-      "yes_bid_size_fp": "99977.84",
-      "yes_sub_title": "Strong Kirchheimer",
-      "yes_bid": 0.16,
-      "volume": 1166.99
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-24T19:00:00Z",
-      "created_time": "2026-07-10T17:35:01.510998Z",
-      "custom_strike": {
-        "tennis_competitor": "2d01d87d-c226-43d5-a680-946b731829b1"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFMATCH-26JUL10HARKIR",
-      "expected_expiration_time": "2026-07-11T01:00:00Z",
-      "expiration_time": "2026-07-24T19:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.8400",
-      "latest_expiration_time": "2026-07-24T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.1700",
-      "no_bid_dollars": "0.1600",
-      "no_sub_title": "Jay Dylan Hara Friend",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-07-11T01:00:00Z",
-      "open_interest_fp": "981.76",
-      "open_time": "2026-07-10T18:03:49Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Jay Dylan Hara Friend wins the Hara Friend vs Kirchheimer professional tennis match in the 2026 M25 Laval Quarterfinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Hara Friend vs Kirchheimer professional tennis match in the 2026 M25 Laval Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFMATCH-26JUL10HARKIR-HAR",
-      "title": "Will Jay Dylan Hara Friend win the Hara Friend vs Kirchheimer: M25 Laval Quarterfinal match?",
-      "updated_time": "2026-07-10T18:03:49.210096Z",
-      "volume_24h_fp": "993.79",
-      "volume_fp": "1031.76",
-      "yes_ask_dollars": "0.8400",
-      "yes_ask_size_fp": "1295.08",
-      "yes_bid_dollars": "0.8300",
-      "yes_bid_size_fp": "1969.00",
-      "yes_sub_title": "Jay Dylan Hara Friend",
-      "yes_bid": 0.83,
-      "volume": 1031.76
     },
     {
       "can_close_early": true,
@@ -6250,215 +6194,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-07-24T19:00:00Z",
-      "created_time": "2026-07-10T17:12:17.324223Z",
-      "custom_strike": {
-        "Associated Events": "KXWCFIRSTGOAL-26JUL10ESPBEL,KXWCGOAL-26JUL10ESPBEL",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10,KXWCGOAL-26JUL10ESPBEL-ESPLYAMAL10-2",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268DFE81BAE13"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268DFE81BAE13",
-      "expected_expiration_time": "2026-07-10T22:00:00Z",
-      "expiration_time": "2026-07-24T19:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-24T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWCGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCGOAL-26JUL10ESPBEL-ESPLYAMAL10-2",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-10T17:12:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268DFE81BAE13-21E2DF0A2D0",
-      "title": "yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "updated_time": "2026-07-10T17:12:18.209465Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-24T19:00:00Z",
-      "created_time": "2026-07-10T17:11:49.609409Z",
-      "custom_strike": {
-        "Associated Events": "KXWC1HSPREAD-26JUL10ESPBEL,KXWCFIRSTGOAL-26JUL10ESPBEL,KXWCGOAL-26JUL10ESPBEL",
-        "Associated Market Sides": "no,yes,yes",
-        "Associated Markets": "KXWC1HSPREAD-26JUL10ESPBEL-ESP2,KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10,KXWCGOAL-26JUL10ESPBEL-ESPLYAMAL10-2",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202679F2E2AB7B4"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202679F2E2AB7B4",
-      "expected_expiration_time": "2026-07-10T23:00:00Z",
-      "expiration_time": "2026-07-24T19:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-24T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXWC1HSPREAD-26JUL10ESPBEL",
-          "market_ticker": "KXWC1HSPREAD-26JUL10ESPBEL-ESP2",
-          "side": "no"
-        },
-        {
-          "event_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWCGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCGOAL-26JUL10ESPBEL-ESPLYAMAL10-2",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-10T17:11:49Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202679F2E2AB7B4-89E144D3BDA",
-      "title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "updated_time": "2026-07-10T17:11:50.209549Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal,yes Lamine Yamal: 2+",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-24T19:00:00Z",
-      "created_time": "2026-07-10T17:10:47.439883Z",
-      "custom_strike": {
-        "Associated Events": "KXWC1HSPREAD-26JUL10ESPBEL,KXWCFIRSTGOAL-26JUL10ESPBEL",
-        "Associated Market Sides": "no,yes",
-        "Associated Markets": "KXWC1HSPREAD-26JUL10ESPBEL-ESP2,KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FB92B533E12"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FB92B533E12",
-      "expected_expiration_time": "2026-07-10T23:00:00Z",
-      "expiration_time": "2026-07-24T19:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-24T19:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXWC1HSPREAD-26JUL10ESPBEL",
-          "market_ticker": "KXWC1HSPREAD-26JUL10ESPBEL-ESP2",
-          "side": "no"
-        },
-        {
-          "event_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL-ESPLYAMAL10",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-10T17:10:47Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026FB92B533E12-0E00AAB7787",
-      "title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal",
-      "updated_time": "2026-07-10T17:10:48.209997Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "no Spain wins the 1H by more than 1.5 goals,yes Lamine Yamal",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-07-25T22:00:00Z",
       "created_time": "2026-07-10T17:10:33.988418Z",
       "custom_strike": {
@@ -6522,74 +6257,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Reg Time: Norway,yes Las Vegas",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-07-25T21:00:00Z",
-      "created_time": "2026-07-10T17:08:17.697192Z",
-      "custom_strike": {
-        "Associated Events": "KXWC1HBTTS-26JUL11NORENG,KXWCFIRSTGOAL-26JUL10ESPBEL",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXWC1HBTTS-26JUL11NORENG-BTTS,KXWCFIRSTGOAL-26JUL10ESPBEL-NOGOAL",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269AEEC965761"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269AEEC965761",
-      "expected_expiration_time": "2026-07-12T01:00:00Z",
-      "expiration_time": "2026-07-25T21:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-07-25T21:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXWC1HBTTS-26JUL11NORENG",
-          "market_ticker": "KXWC1HBTTS-26JUL11NORENG-BTTS",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL",
-          "market_ticker": "KXWCFIRSTGOAL-26JUL10ESPBEL-NOGOAL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes 1st Half: Both Teams To Score,yes No Goal",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-07-10T17:08:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269AEEC965761-300966118F0",
-      "title": "yes 1st Half: Both Teams To Score,yes No Goal",
-      "updated_time": "2026-07-10T17:08:18.209978Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes 1st Half: Both Teams To Score,yes No Goal",
       "yes_bid": 0,
       "volume": 0
     },
@@ -8618,6 +8285,324 @@
       "yes_sub_title": "Qianhui Tang",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T15:20:00Z",
+      "created_time": "2026-07-10T17:06:50.440355Z",
+      "custom_strike": {
+        "tennis_competitor": "56b92670-c3fc-47ee-a0d9-fc9ba159ecdc"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXWTASETWINNER-26JUL11TANNEP-2",
+      "expected_expiration_time": "2026-07-11T18:20:00Z",
+      "expiration_time": "2026-07-25T15:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T15:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Elina Nepliy",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T18:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:35:41Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Elina Nepliy wins set 2 in the Qianhui Tang vs Elina Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Qianhui Tang vs Elina Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTASETWINNER-26JUL11TANNEP-2-NEP",
+      "title": "Will Elina Nepliy win set 2 in the Qianhui Tang vs Elina Nepliy match",
+      "updated_time": "2026-07-10T17:35:41.256668Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Elina Nepliy",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T15:20:00Z",
+      "created_time": "2026-07-10T17:06:50.43048Z",
+      "custom_strike": {
+        "tennis_competitor": "269315aa-7cb5-4cb6-8d24-52030ce8aa28"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXWTASETWINNER-26JUL11MORSZI-2",
+      "expected_expiration_time": "2026-07-11T18:20:00Z",
+      "expiration_time": "2026-07-25T15:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T15:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Franziska Sziedat",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T18:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:35:41Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Franziska Sziedat wins set 2 in the Viktoria Morvayova vs Franziska Sziedat professional tennis match in the 2026 WTA Athens Qualification Round 1, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Viktoria Morvayova vs Franziska Sziedat professional tennis match in the 2026 WTA Athens Qualification Round 1. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTASETWINNER-26JUL11MORSZI-2-SZI",
+      "title": "Will Franziska Sziedat win set 2 in the Viktoria Morvayova vs Franziska Sziedat match",
+      "updated_time": "2026-07-10T17:35:41.256668Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Franziska Sziedat",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T15:20:00Z",
+      "created_time": "2026-07-10T17:06:50.43048Z",
+      "custom_strike": {
+        "tennis_competitor": "4da6f143-45ba-4333-b4a6-b9e94d5c97ab"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXWTASETWINNER-26JUL11MORSZI-2",
+      "expected_expiration_time": "2026-07-11T18:20:00Z",
+      "expiration_time": "2026-07-25T15:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T15:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Viktoria Morvayova",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T18:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:35:41Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Viktoria Morvayova wins set 2 in the Viktoria Morvayova vs Franziska Sziedat professional tennis match in the 2026 WTA Athens Qualification Round 1, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Viktoria Morvayova vs Franziska Sziedat professional tennis match in the 2026 WTA Athens Qualification Round 1. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTASETWINNER-26JUL11MORSZI-2-MOR",
+      "title": "Will Viktoria Morvayova win set 2 in the Viktoria Morvayova vs Franziska Sziedat match",
+      "updated_time": "2026-07-10T17:35:41.256668Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Viktoria Morvayova",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T15:20:00Z",
+      "created_time": "2026-07-10T16:37:42.078113Z",
+      "custom_strike": {
+        "tennis_competitor": "ea3372ce-3ef7-45e2-afe9-2b8cf6392273"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXWTAMATCH-26JUL11TANNEP",
+      "expected_expiration_time": "2026-07-11T18:20:00Z",
+      "expiration_time": "2026-07-25T15:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T15:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Qianhui Tang",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T18:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:06:08Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Qianhui Tang wins the Tang vs Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Tang vs Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTAMATCH-26JUL11TANNEP-TAN",
+      "title": "Will Qianhui Tang win the Tang vs Nepliy: Qualification Round 1 match?",
+      "updated_time": "2026-07-10T17:06:08.223817Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Qianhui Tang",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T15:20:00Z",
+      "created_time": "2026-07-10T16:37:42.078113Z",
+      "custom_strike": {
+        "tennis_competitor": "56b92670-c3fc-47ee-a0d9-fc9ba159ecdc"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXWTAMATCH-26JUL11TANNEP",
+      "expected_expiration_time": "2026-07-11T18:20:00Z",
+      "expiration_time": "2026-07-25T15:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T15:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Elina Nepliy",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T18:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:06:08Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Elina Nepliy wins the Tang vs Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Tang vs Nepliy professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTAMATCH-26JUL11TANNEP-NEP",
+      "title": "Will Elina Nepliy win the Tang vs Nepliy: Qualification Round 1 match?",
+      "updated_time": "2026-07-10T17:06:08.223817Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Elina Nepliy",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-07-25T14:10:00Z",
+      "created_time": "2026-07-10T16:37:42.021526Z",
+      "custom_strike": {
+        "tennis_competitor": "66012617-e876-4ec9-9127-eeef7670c3b4"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXWTAMATCH-26JUL11RENTON",
+      "expected_expiration_time": "2026-07-11T17:10:00Z",
+      "expiration_time": "2026-07-25T14:10:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-07-25T14:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Miriana Tona",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-07-11T17:10:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-07-10T17:06:08Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Miriana Tona wins the Rentoumi vs Tona professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Rentoumi vs Tona professional tennis match in the 2026 WTA Athens Qualification Round 1 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXWTAMATCH-26JUL11RENTON-TON",
+      "title": "Will Miriana Tona win the Rentoumi vs Tona: Qualification Round 1 match?",
+      "updated_time": "2026-07-10T17:06:08.223817Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Miriana Tona",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -8647,23 +8632,23 @@
       "pct": -0.28437758003853064
     },
     "BINANCE:BTCUSDT": {
-      "c": 64007.67,
-      "pc": 63242.47,
-      "pct": 1.2099464173363201
+      "c": 64121.81,
+      "pc": 63372.84,
+      "pct": 1.181846986816436
     },
     "BINANCE:ETHUSDT": {
-      "c": 1794.49,
-      "pc": 1746.43,
-      "pct": 2.7518995894481852
+      "c": 1793.85,
+      "pc": 1750.64,
+      "pct": 2.468240186446089
     },
     "BINANCE:SOLUSDT": {
-      "c": 77.95,
-      "pc": 77.99,
-      "pct": -0.051288626747008646
+      "c": 78.11,
+      "pc": 78.28,
+      "pct": -0.21716913643331845
     }
   },
-  "tick": 275,
-  "totalScanned": 27500,
+  "tick": 276,
+  "totalScanned": 27600,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 28,
@@ -8689,6 +8674,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 61,
-  "lastRun": "2026-07-10T21:48:18.305Z",
+  "lastRun": "2026-07-10T22:46:48.169Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
