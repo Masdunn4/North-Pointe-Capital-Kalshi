@@ -1,5 +1,5 @@
 {
-  "cash": 177.65,
+  "cash": 191.44,
   "startCash": 200,
   "trades": [
     {
@@ -1612,10 +1612,10 @@
       "entryPrice": 0.87,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.79,
+      "status": "win",
       "openedAt": "2026-07-10T17:58:31.173Z",
-      "closedAt": null,
+      "closedAt": "2026-07-11T01:08:55.723Z",
       "ticksOpen": 0,
       "conf": "med",
       "shortTerm": true,
@@ -1705,31 +1705,6 @@
   ],
   "positions": [
     {
-      "id": 1783706311173.22,
-      "ticker": "KXGOLDH-26JUL1015-T4077.99",
-      "market": "Will the GOLD close price be above 4077.99 USD/ounce on July 10, 2026 at 3:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "YES",
-      "entryPrice": 0.87,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-07-10T17:58:31.173Z",
-      "closedAt": null,
-      "ticksOpen": 6,
-      "conf": "med",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-07-10T19:00:00Z",
-      "reasoning": "YES: 87¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.15",
-      "expectedReturn": "-0.0",
-      "entryScore": 7
-    },
-    {
       "id": 1783716407733.5618,
       "ticker": "KXITFMATCH-26JUL10HARKIR-HAR",
       "market": "Will Jay Dylan Hara Friend win the Hara Friend vs Kirchheimer: M25 Laval Quarterfinal match?",
@@ -1743,7 +1718,7 @@
       "status": "open",
       "openedAt": "2026-07-10T20:46:47.733Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "med",
       "shortTerm": false,
       "term": "long",
@@ -1768,7 +1743,7 @@
       "status": "open",
       "openedAt": "2026-07-10T20:46:48.057Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -1793,7 +1768,7 @@
       "status": "open",
       "openedAt": "2026-07-10T22:46:50.612Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -1806,6 +1781,120 @@
     }
   ],
   "log": [
+    {
+      "t": "1:08:55 AM",
+      "who": "System",
+      "msg": "Portfolio: $217.44 · Realized P&L: +$17.44 · Trades: 68",
+      "type": "lt-sys"
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the GOLD close price be a\" → +$1.79",
+      "type": "lt-trade"
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 [long] tick:3 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026DD5623110CB-8FB4E5D6E07 open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR [long] tick:5 · waiting · settle chance:5%",
+      "type": ""
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-KIR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR [long] tick:5 · waiting · settle chance:5%",
+      "type": ""
+    },
+    {
+      "t": "1:08:55 AM",
+      "who": "Knox",
+      "msg": "KXITFMATCH-26JUL10HARKIR-HAR open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXGOLDH-26JUL1015-T4077.99 tick:7 → WIN ✓ (winP:93%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26JUL1015-T4077.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Knox",
+      "msg": "Checking 4 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Axel",
+      "msg": "Exposure: 19% · Cash: $177.65",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "1:08:54 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,124 SPY $$754.95",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:08:53 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "1:08:52 AM",
+      "who": "System",
+      "msg": "═══ TICK #278 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "11:44:48 PM",
       "who": "System",
@@ -2891,120 +2980,6 @@
       "who": "Knox",
       "msg": "KXATPCHALLENGERMATCH-26JUL10BROMIC-MIC open · mark 0¢ · ~14d left",
       "type": ""
-    },
-    {
-      "t": "5:58:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBRBI-26JUL091840ATHDET-DETMVIERLING8-1 [short] tick:8 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:58:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBRBI-26JUL091840ATHDET-DETMVIERLING8-1 open · mark 0¢ · ~28.7h left",
-      "type": ""
-    },
-    {
-      "t": "5:58:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUL101905KCBAL-BAL3 [short] tick:10 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:58:32 PM",
-      "who": "Knox",
-      "msg": "KXMLBSPREAD-26JUL101905KCBAL-BAL3 open · mark 31¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 [short] tick:10 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26JUL101905KCBAL-4 open · mark 94¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 [long] tick:218 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXWCGOAL-26JUN21ESPKSA-KSANALDA16-1 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE [long] tick:225 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "KXATPCHALLENGERMATCH-26JUN21DEROD-DE open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Knox",
-      "msg": "Checking 13 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:58:31 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: YES \"Will the GOLD close price be\" · $12.00 · win 93% · profit if win: +$1.79",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: YES \"Will the SILVER close price \" · $12.00 · win 96% · profit if win: +$1.33",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: YES \"Will the SILVER close price \" · $12.00 · win 95% · profit if win: +$1.48",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:58:30 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: YES \"Will the SILVER close price \" · $12.00 · win 93% · profit if win: +$1.79",
-      "type": "lt-kelly"
     }
   ],
   "markets": [
@@ -4069,16 +4044,16 @@
       "expected_expiration_time": "2026-07-11T15:00:00Z",
       "expiration_time": "2026-07-25T11:00:00Z",
       "expiration_value": "",
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.6200",
       "latest_expiration_time": "2026-07-25T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Nongshim RedForce",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-11T15:00:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "1.61",
       "open_time": "2026-07-10T18:03:49Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4100,15 +4075,15 @@
       "ticker": "KXVALORANTMAP-26JUL110700100TNS-2-NS",
       "title": "Will Nongshim RedForce win map 2 in the 100 Thieves vs. Nongshim RedForce match?",
       "updated_time": "2026-07-10T18:03:49.210096Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "volume_24h_fp": "1.61",
+      "volume_fp": "1.61",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Nongshim RedForce",
       "yes_bid": 0,
-      "volume": 0
+      "volume": 1.61
     },
     {
       "can_close_early": true,
@@ -4175,7 +4150,7 @@
       "expected_expiration_time": "2026-07-11T15:00:00Z",
       "expiration_time": "2026-07-25T11:00:00Z",
       "expiration_value": "",
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.6300",
       "latest_expiration_time": "2026-07-25T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -4184,7 +4159,7 @@
       "no_sub_title": "Nongshim RedForce",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-07-11T15:00:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "1.59",
       "open_time": "2026-07-10T18:03:49Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -4206,15 +4181,15 @@
       "ticker": "KXVALORANTMAP-26JUL110700100TNS-1-NS",
       "title": "Will Nongshim RedForce win map 1 in the 100 Thieves vs. Nongshim RedForce match?",
       "updated_time": "2026-07-10T18:03:49.210096Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "1.59",
+      "volume_fp": "1.59",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Nongshim RedForce",
       "yes_bid": 0,
-      "volume": 0
+      "volume": 1.59
     },
     {
       "can_close_early": true,
@@ -8556,31 +8531,31 @@
       "pct": -0.28437758003853064
     },
     "BINANCE:BTCUSDT": {
-      "c": 64165,
-      "pc": 63280.73,
-      "pct": 1.3973764209104365
+      "c": 64123.99,
+      "pc": 63006.15,
+      "pct": 1.7741760129765054
     },
     "BINANCE:ETHUSDT": {
-      "c": 1795.44,
-      "pc": 1746.82,
-      "pct": 2.7833434469493206
+      "c": 1793.25,
+      "pc": 1739.75,
+      "pct": 3.0751544762178473
     },
     "BINANCE:SOLUSDT": {
-      "c": 78.07,
-      "pc": 78.05,
-      "pct": 0.02562459961562591
+      "c": 77.81,
+      "pc": 78.09,
+      "pct": -0.35856063516455516
     }
   },
-  "tick": 277,
-  "totalScanned": 27700,
+  "tick": 278,
+  "totalScanned": 27800,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 28,
       "total": 30
     },
     "Unknown|YES|short": {
-      "wins": 10,
-      "total": 10
+      "wins": 11,
+      "total": 11
     },
     "Unknown|NO|short": {
       "wins": 19,
@@ -8597,7 +8572,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 64,
-  "lastRun": "2026-07-10T23:44:44.204Z",
+  "learnTotal": 65,
+  "lastRun": "2026-07-11T01:08:52.560Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
