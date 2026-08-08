@@ -1,5 +1,5 @@
 {
-  "cash": 197.45,
+  "cash": 227.1,
   "startCash": 200,
   "trades": [
     {
@@ -14837,10 +14837,10 @@
       "entryPrice": 0.75,
       "currentPrice": 0.25,
       "size": 10.17,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 3.39,
+      "status": "win",
       "openedAt": "2026-08-08T02:33:40.767Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T07:57:08.763Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -14862,10 +14862,10 @@
       "entryPrice": 0.74,
       "currentPrice": 0.26,
       "size": 8.89,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 3.12,
+      "status": "win",
       "openedAt": "2026-08-08T04:45:11.129Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T07:57:08.764Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -14887,10 +14887,10 @@
       "entryPrice": 0.97,
       "currentPrice": 0.48,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.06,
+      "status": "win",
       "openedAt": "2026-08-08T05:27:03.265Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T07:57:08.764Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -15037,10 +15037,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-08T06:03:13.995Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T07:57:08.764Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -15060,7 +15060,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.95,
-      "currentPrice": 0.05,
+      "currentPrice": 0.5,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -15080,81 +15080,6 @@
   ],
   "positions": [
     {
-      "id": 1786156420767.6309,
-      "ticker": "KXMLBGAME-26AUG102210KCLAD-KC",
-      "market": "Kansas City vs Los Angeles D Winner?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.75,
-      "currentPrice": 0.25,
-      "size": 10.17,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T02:33:40.767Z",
-      "closedAt": null,
-      "ticksOpen": 6,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-14T02:10:00Z",
-      "reasoning": "NO: 75¢",
-      "kellyFrac": "6.0",
-      "payoutMult": "1.33",
-      "expectedReturn": "-0.0",
-      "entryScore": 4
-    },
-    {
-      "id": 1786164311129.744,
-      "ticker": "KXMLBHIT-26AUG081910CHCKC-KCBWITT7-1",
-      "market": "Bobby Witt Jr.: 1+ hits?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.74,
-      "currentPrice": 0.26,
-      "size": 8.89,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T04:45:11.129Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-11T23:10:00Z",
-      "reasoning": "NO: 74¢",
-      "kellyFrac": "5.8",
-      "payoutMult": "1.35",
-      "expectedReturn": "-0.0",
-      "entryScore": 4
-    },
-    {
-      "id": 1786166823265.764,
-      "ticker": "KXMLBHR-26AUG081805TORPHI-PHIKSCHWARBER12-1",
-      "market": "Kyle Schwarber: 1+ home runs?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.97,
-      "currentPrice": 0.48,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T05:27:03.265Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-11T22:05:00Z",
-      "reasoning": "NO: 97¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.03",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
       "id": 1786166823581.2686,
       "ticker": "KXMLBHR-26AUG081805TORPHI-PHITTURNER7-1",
       "market": "Trea Turner: 1+ home runs?",
@@ -15168,7 +15093,7 @@
       "status": "open",
       "openedAt": "2026-08-08T05:27:03.581Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -15193,7 +15118,7 @@
       "status": "open",
       "openedAt": "2026-08-08T05:27:03.897Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -15218,7 +15143,7 @@
       "status": "open",
       "openedAt": "2026-08-08T06:03:12.851Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -15243,7 +15168,7 @@
       "status": "open",
       "openedAt": "2026-08-08T06:03:13.233Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -15268,32 +15193,7 @@
       "status": "open",
       "openedAt": "2026-08-08T06:03:13.614Z",
       "closedAt": null,
-      "ticksOpen": 2,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-08T07:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786168993995.2498,
-      "ticker": "KXMAXSHARDINGTEST-26AUG0803-T73499.99",
-      "market": "Bitcoin price on Aug 8, 2026?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T06:03:13.995Z",
-      "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -15312,13 +15212,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.95,
-      "currentPrice": 0.05,
+      "currentPrice": 0.5,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-08T07:11:24.985Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -15331,6 +15231,210 @@
     }
   ],
   "log": [
+    {
+      "t": "7:57:08 AM",
+      "who": "System",
+      "msg": "Portfolio: $269.10 · Realized P&L: +$69.10 · Trades: 603",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Bitcoin price on Aug 8, 2026?\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Kyle Schwarber: 1+ home runs?\" → +$0.06",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Bobby Witt Jr.: 1+ hits?\" → +$3.12",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Kansas City vs Los Angeles D W\" → +$3.39",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081610LAAMIA-LAAMTROUT27-1 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081610LAAMIA-LAAMTROUT27-1 open · mark 50¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMAXSHARDINGTEST-26AUG0803-T73499.99 tick:3 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73499.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73599.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "7:57:08 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73599.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73699.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73699.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73799.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMAXSHARDINGTEST-26AUG0803-T73799.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081805TORPHI-PHIBHARPER3-1 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "7:57:07 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081805TORPHI-PHIBHARPER3-1 open · mark 48¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081805TORPHI-PHITTURNER7-1 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081805TORPHI-PHITTURNER7-1 open · mark 48¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHR-26AUG081805TORPHI-PHIKSCHWARBER12-1 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG081805TORPHI-PHIKSCHWARBER12-1 open · mark 48¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG081910CHCKC-KCBWITT7-1 tick:5 → WIN ✓ (winP:77%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG081910CHCKC-KCBWITT7-1 open · mark 26¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBGAME-26AUG102210KCLAD-KC tick:7 → WIN ✓ (winP:78%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG102210KCLAD-KC open · mark 25¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Knox",
+      "msg": "Checking 10 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Axel",
+      "msg": "Exposure: 33% · Cash: $197.45",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:57:06 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:57:05 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:57:05 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,960 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:57:04 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:57:04 AM",
+      "who": "System",
+      "msg": "═══ TICK #699 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "7:11:27 AM",
       "who": "System",
@@ -16326,210 +16430,6 @@
       "who": "Knox",
       "msg": "KXMLBHIT-26AUG072140LADAZ-LADAPAGES44-1 open · mark 0¢ · ~3d left",
       "type": ""
-    },
-    {
-      "t": "3:55:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADHFEDUCCIA9-1 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:55:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADHFEDUCCIA9-1 open · mark 71¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADKTUCKER23-4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:55:57 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADKTUCKER23-4 open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADTEDMAN25-1 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADTEDMAN25-1 open · mark 74¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADTHERNANDEZ37-4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADTHERNANDEZ37-4 open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADKTUCKER23-1 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:55:56 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADKTUCKER23-1 open · mark 76¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG071845CINWSH-WSHHFORD17-1 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG071845CINWSH-WSHHFORD17-1 open · mark 72¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Knox",
-      "msg": "Checking 10 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Axel",
-      "msg": "Exposure: 43% · Cash: $154.17",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "3:55:55 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$65,020 SPY $$773.26",
-      "type": "lt-info"
-    },
-    {
-      "t": "3:55:54 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "3:55:53 AM",
-      "who": "System",
-      "msg": "═══ TICK #694 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:33:44 AM",
-      "who": "System",
-      "msg": "Portfolio: $241.15 · Realized P&L: +$41.15 · Trades: 594",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:33:44 AM",
-      "who": "Knox",
-      "msg": "✗ LOSS \"Daylen Lile: 1+ hits?\" → $9.43",
-      "type": "lt-err"
-    },
-    {
-      "t": "2:33:44 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Nathan Lukes: 2+ home runs?\" → +$4.39",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:33:44 AM",
-      "who": "Knox",
-      "msg": "KXMLBGAME-26AUG102210KCLAD-KC [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:33:44 AM",
-      "who": "Knox",
-      "msg": "KXMLBGAME-26AUG102210KCLAD-KC open · mark 25¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26AUG071940MINMIL-15 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBTOTAL-26AUG071940MINMIL-15 open · mark 16¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBGAME-26AUG102210KCLAD-LAD [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBGAME-26AUG102210KCLAD-LAD open · mark 71¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADAPAGES44-1 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADAPAGES44-1 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADHFEDUCCIA9-1 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:33:43 AM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG072140LADAZ-LADHFEDUCCIA9-1 open · mark 71¢ · ~3d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -17464,8 +17364,8 @@
       "latest_expiration_time": "2026-08-11T20:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9500",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.5000",
+      "no_bid_dollars": "0.4600",
       "no_sub_title": "Mike Trout: 1+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-08T23:10:00Z",
@@ -17494,12 +17394,12 @@
       "updated_time": "2026-08-08T07:05:43.195277Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0500",
-      "yes_bid_size_fp": "1.00",
+      "yes_ask_dollars": "0.5400",
+      "yes_ask_size_fp": "20.00",
+      "yes_bid_dollars": "0.5000",
+      "yes_bid_size_fp": "20.00",
       "yes_sub_title": "Mike Trout: 1+",
-      "yes_bid": 0.05,
+      "yes_bid": 0.5,
       "volume": 0
     },
     {
@@ -17677,10 +17577,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -17715,7 +17619,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADSOHTANI17-4",
       "title": "Shohei Ohtani: 4+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.061247Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17730,10 +17634,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -17768,7 +17676,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADSOHTANI17-3",
       "title": "Shohei Ohtani: 3+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.971223Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17783,10 +17691,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -17821,7 +17733,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADSOHTANI17-2",
       "title": "Shohei Ohtani: 2+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.900617Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17836,10 +17748,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -17874,7 +17790,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADSOHTANI17-1",
       "title": "Shohei Ohtani: 1+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.733157Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17889,10 +17805,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -17927,7 +17847,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADMBETTS50-4",
       "title": "Mookie Betts: 4+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.663022Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17942,10 +17862,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -17980,7 +17904,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADMBETTS50-3",
       "title": "Mookie Betts: 3+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.596343Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17995,10 +17919,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18033,7 +17961,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADMBETTS50-2",
       "title": "Mookie Betts: 2+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.52927Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18048,10 +17976,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -18086,7 +18018,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADMBETTS50-1",
       "title": "Mookie Betts: 1+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.461389Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18101,10 +18033,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -18139,7 +18075,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADFFREEMAN5-4",
       "title": "Freddie Freeman: 4+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.385021Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18154,10 +18090,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -18192,7 +18132,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADFFREEMAN5-3",
       "title": "Freddie Freeman: 3+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.32331Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18207,10 +18147,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18245,7 +18189,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADFFREEMAN5-2",
       "title": "Freddie Freeman: 2+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.259812Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18260,10 +18204,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.381552Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHIT-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -18298,7 +18246,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHIT-26AUG082010LADAZ-LADFFREEMAN5-1",
       "title": "Freddie Freeman: 1+ hits?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.193025Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18779,8 +18727,8 @@
       "latest_expiration_time": "2026-08-12T00:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.4900",
+      "no_bid_dollars": "0.4500",
       "no_sub_title": "Mookie Betts: 1+",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-09T03:10:00Z",
@@ -18809,12 +18757,12 @@
       "updated_time": "2026-08-08T07:05:43.195277Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.5500",
+      "yes_ask_size_fp": "19.00",
+      "yes_bid_dollars": "0.5100",
+      "yes_bid_size_fp": "20.00",
       "yes_sub_title": "Mookie Betts: 1+",
-      "yes_bid": 0,
+      "yes_bid": 0.51,
       "volume": 0
     },
     {
@@ -21007,10 +20955,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -21045,7 +20997,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADSOHTANI17-5",
       "title": "Shohei Ohtani: 5+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.478031Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21060,10 +21012,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21098,7 +21054,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADSOHTANI17-4",
       "title": "Shohei Ohtani: 4+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.416404Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21113,10 +21069,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -21151,7 +21111,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADSOHTANI17-3",
       "title": "Shohei Ohtani: 3+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.345454Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21166,10 +21126,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -21204,7 +21168,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADSOHTANI17-2",
       "title": "Shohei Ohtani: 2+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.281038Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21219,10 +21183,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "d4a45fd9-f3d6-4f41-90d4-f08c27f42e73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -21257,7 +21225,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADSOHTANI17-1",
       "title": "Shohei Ohtani: 1+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.12316Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21272,10 +21240,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -21310,7 +21282,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADMBETTS50-5",
       "title": "Mookie Betts: 5+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:17.027558Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21325,10 +21297,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21363,7 +21339,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADMBETTS50-4",
       "title": "Mookie Betts: 4+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.843169Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21378,10 +21354,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -21416,7 +21396,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADMBETTS50-3",
       "title": "Mookie Betts: 3+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.776755Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21431,10 +21411,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -21469,7 +21453,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADMBETTS50-2",
       "title": "Mookie Betts: 2+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.698327Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21484,10 +21468,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "ab4b69d0-17fc-4bd7-b36d-4d1b5356395d",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -21522,7 +21510,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADMBETTS50-1",
       "title": "Mookie Betts: 1+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.532601Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21537,10 +21525,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -21575,7 +21567,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADFFREEMAN5-5",
       "title": "Freddie Freeman: 5+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.437707Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21590,10 +21582,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21628,7 +21624,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADFFREEMAN5-4",
       "title": "Freddie Freeman: 4+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.369017Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21643,10 +21639,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -21681,7 +21681,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADFFREEMAN5-3",
       "title": "Freddie Freeman: 3+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.295024Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21696,10 +21696,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -21734,7 +21738,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADFFREEMAN5-2",
       "title": "Freddie Freeman: 2+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.232004Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21749,10 +21753,14 @@
       "can_close_early": true,
       "close_time": "2026-08-12T00:10:00Z",
       "created_time": "2026-08-08T06:37:17.023803Z",
+      "custom_strike": {
+        "baseball_player": "3a8e619a-711f-4645-a720-2f1ce9738c73",
+        "baseball_team": "5ee3dc32-f192-4b80-ac4a-fd285f36dc1a"
+      },
       "early_close_condition": "This market will close and expire after the event occurs.",
       "event_ticker": "KXMLBHRR-26AUG082010LADAZ",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T06:10:00Z",
+      "expected_expiration_time": "2026-08-09T03:10:00Z",
       "expiration_time": "2026-08-12T00:10:00Z",
       "expiration_value": "",
       "floor_strike": 0.5,
@@ -21787,7 +21795,7 @@
       "strike_type": "greater",
       "ticker": "KXMLBHRR-26AUG082010LADAZ-LADFFREEMAN5-1",
       "title": "Freddie Freeman: 1+ hits + runs + RBIs?",
-      "updated_time": "2026-08-08T07:05:43.195277Z",
+      "updated_time": "2026-08-08T07:36:16.169694Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22111,23 +22119,23 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65004.95,
-      "pc": 64350.2,
-      "pct": 1.0174793551535193
+      "c": 64959.99,
+      "pc": 64358.98,
+      "pct": 0.9338401571932848
     },
     "BINANCE:ETHUSDT": {
-      "c": 1916.01,
-      "pc": 1906.55,
-      "pct": 0.49618420707560973
+      "c": 1914.9,
+      "pc": 1903.19,
+      "pct": 0.6152827620994245
     },
     "BINANCE:SOLUSDT": {
-      "c": 74.77,
+      "c": 74.8,
       "pc": 72.95,
-      "pct": 2.4948594928032803
+      "pct": 2.5359835503769625
     }
   },
-  "tick": 698,
-  "totalScanned": 69800,
+  "tick": 699,
+  "totalScanned": 69900,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
@@ -22138,8 +22146,8 @@
       "total": 71
     },
     "Unknown|NO|short": {
-      "wins": 353,
-      "total": 399
+      "wins": 357,
+      "total": 403
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -22152,7 +22160,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 593,
-  "lastRun": "2026-08-08T07:11:22.950Z",
+  "learnTotal": 597,
+  "lastRun": "2026-08-08T07:57:04.342Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
