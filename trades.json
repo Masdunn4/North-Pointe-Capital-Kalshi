@@ -1,5 +1,5 @@
 {
-  "cash": 232.89,
+  "cash": 263.76,
   "startCash": 200,
   "trades": [
     {
@@ -15287,10 +15287,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.72,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-08T10:32:20.883Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T14:54:52.538Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -15462,10 +15462,10 @@
       "entryPrice": 0.72,
       "currentPrice": 0,
       "size": 10.11,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 3.93,
+      "status": "win",
       "openedAt": "2026-08-08T11:39:27.659Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T14:54:52.539Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -15587,10 +15587,10 @@
       "entryPrice": 0.81,
       "currentPrice": 0.19,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 2.81,
+      "status": "win",
       "openedAt": "2026-08-08T12:43:12.100Z",
-      "closedAt": null,
+      "closedAt": "2026-08-08T14:54:52.539Z",
       "ticksOpen": 0,
       "conf": "med",
       "shortTerm": true,
@@ -15630,56 +15630,6 @@
   ],
   "positions": [
     {
-      "id": 1786185140883.493,
-      "ticker": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-5",
-      "market": "Taj Bradley: 5+ strikeouts?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.72,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T10:32:20.883Z",
-      "closedAt": null,
-      "ticksOpen": 7,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-11T23:10:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786189167659.242,
-      "ticker": "KXTEMPAUSH-26AUG0808-T74.99",
-      "market": "Will the temp in Austin be above 74.99° on Aug 8, 2026 at 8am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.72,
-      "currentPrice": 0,
-      "size": 10.11,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T11:39:27.659Z",
-      "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-08T12:00:00Z",
-      "reasoning": "NO: 72¢",
-      "kellyFrac": "5.4",
-      "payoutMult": "1.39",
-      "expectedReturn": "-0.0",
-      "entryScore": 4
-    },
-    {
       "id": 1786192991391.3809,
       "ticker": "KXCHNSLTOTAL-26AUG09HENQWC-6",
       "market": "Will over 5.5 goals be scored?",
@@ -15693,7 +15643,7 @@
       "status": "open",
       "openedAt": "2026-08-08T12:43:11.391Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -15703,31 +15653,6 @@
       "payoutMult": "1.06",
       "expectedReturn": "-0.0",
       "entryScore": 8
-    },
-    {
-      "id": 1786192992100.5044,
-      "ticker": "KXBUNDESLIGA2TOTAL-26AUG08FCMEBS-9",
-      "market": "Will over 8.5 goals be scored?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.81,
-      "currentPrice": 0.19,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-08T12:43:12.100Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "med",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-10T17:00:00Z",
-      "reasoning": "NO: 81¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.23",
-      "expectedReturn": "0.0",
-      "entryScore": 6
     },
     {
       "id": 1786192992453.3257,
@@ -15743,7 +15668,7 @@
       "status": "open",
       "openedAt": "2026-08-08T12:43:12.453Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -15756,6 +15681,144 @@
     }
   ],
   "log": [
+    {
+      "t": "2:54:52 PM",
+      "who": "System",
+      "msg": "Portfolio: $287.76 · Realized P&L: +$87.76 · Trades: 625",
+      "type": "lt-sys"
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will over 8.5 goals be scored?\" → +$2.81",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$3.93",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Taj Bradley: 5+ strikeouts?\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "KXCHNSLTOTAL-26AUG09HENQWC-5 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "KXCHNSLTOTAL-26AUG09HENQWC-5 open · mark 16¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXBUNDESLIGA2TOTAL-26AUG08FCMEBS-9 tick:4 → WIN ✓ (winP:87%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:52 PM",
+      "who": "Knox",
+      "msg": "KXBUNDESLIGA2TOTAL-26AUG08FCMEBS-9 open · mark 19¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "KXCHNSLTOTAL-26AUG09HENQWC-6 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "KXCHNSLTOTAL-26AUG09HENQWC-6 open · mark 6¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG0808-T74.99 tick:6 → WIN ✓ (winP:75%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG0808-T74.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-5 tick:8 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-5 open · mark 72¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Knox",
+      "msg": "Checking 5 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Axel",
+      "msg": "Exposure: 24% · Cash: $232.89",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:54:51 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "2:54:50 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$65,156 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:54:47 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:54:47 PM",
+      "who": "System",
+      "msg": "═══ TICK #710 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "2:16:16 PM",
       "who": "System",
@@ -16817,144 +16880,6 @@
       "who": "Knox",
       "msg": "KXTEMPNYCH-26AUG0808-T73.99 [short] tick:2 · waiting · settle chance:0%",
       "type": ""
-    },
-    {
-      "t": "11:39:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0808-T73.99 open · mark 18¢ · ~20min left",
-      "type": ""
-    },
-    {
-      "t": "11:39:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0808-T69.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "11:39:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0808-T69.99 open · mark 81¢ · ~20min left",
-      "type": ""
-    },
-    {
-      "t": "11:39:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0808-T70.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "11:39:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0808-T70.99 open · mark 10¢ · ~20min left",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0808-T73.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0808-T73.99 open · mark 78¢ · ~21min left",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-5 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-5 open · mark 72¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-6 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-6 open · mark 50¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-7 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:39:29 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-7 open · mark 48¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-8 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBKS-26AUG081910MINMIL-MINTBRADLEY26-8 open · mark 49¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBHRR-26AUG081915BALTEX-BALPALONSO25-1 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26AUG081915BALTEX-BALPALONSO25-1 open · mark 0¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26AUG081915BALTEX-BALPALONSO25-2 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBHRR-26AUG081915BALTEX-BALPALONSO25-2 open · mark 12¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBHR-26AUG081845CINWSH-CINEDELACRUZ44-1 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "11:39:28 AM",
-      "who": "Knox",
-      "msg": "KXMLBHR-26AUG081845CINWSH-CINEDELACRUZ44-1 open · mark 3¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:39:27 AM",
-      "who": "Knox",
-      "msg": "Checking 14 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "11:39:27 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
     }
   ],
   "markets": [
@@ -16976,8 +16901,8 @@
       "latest_expiration_time": "2026-08-10T18:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_ask_dollars": "0.5200",
+      "no_bid_dollars": "0.4800",
       "no_sub_title": "Chelsea wins by more than 4.5 goals",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -17004,12 +16929,12 @@
       "updated_time": "2026-08-08T14:04:26.195829Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.5200",
+      "yes_ask_size_fp": "20.00",
+      "yes_bid_dollars": "0.4800",
+      "yes_bid_size_fp": "32.00",
       "yes_sub_title": "Chelsea wins by more than 4.5 goals",
-      "yes_bid": 0,
+      "yes_bid": 0.48,
       "volume": 0
     },
     {
@@ -17475,7 +17400,7 @@
       "strike_type": "greater",
       "ticker": "KXALLSVENSKANTOTAL-26AUG08ORGAIK-7",
       "title": "Will over 6.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.836592Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17792,7 +17717,7 @@
       "status": "active",
       "ticker": "KXCLUBFBTTS-26AUG08SALSAM-BTTS",
       "title": "Will both teams score?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:38.011816Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17946,7 +17871,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-6",
       "title": "Will over 5.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -17998,7 +17923,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-5",
       "title": "Will over 4.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18050,7 +17975,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-4",
       "title": "Will over 3.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18102,7 +18027,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-3",
       "title": "Will over 2.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18154,7 +18079,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-2",
       "title": "Will over 1.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18206,7 +18131,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08SALSAM-1",
       "title": "Will over 0.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.818549Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18221,10 +18146,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T21:30:00Z",
       "created_time": "2026-08-08T13:36:08.199896Z",
+      "custom_strike": {
+        "soccer_team": "a03d183e-1956-43a6-b239-fa0a6b6a9ff7"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08SALSAM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-08T21:30:00Z",
+      "expected_expiration_time": "2026-08-08T19:30:00Z",
       "expiration_time": "2026-08-10T21:30:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -18258,7 +18186,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08SALSAM-SAM3",
       "title": "Sambiase wins by more than 2.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:26.088625Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18273,10 +18201,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T21:30:00Z",
       "created_time": "2026-08-08T13:36:08.199896Z",
+      "custom_strike": {
+        "soccer_team": "a03d183e-1956-43a6-b239-fa0a6b6a9ff7"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08SALSAM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-08T21:30:00Z",
+      "expected_expiration_time": "2026-08-08T19:30:00Z",
       "expiration_time": "2026-08-10T21:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18310,7 +18241,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08SALSAM-SAM2",
       "title": "Sambiase wins by more than 1.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.980282Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18325,10 +18256,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T21:30:00Z",
       "created_time": "2026-08-08T13:36:08.199896Z",
+      "custom_strike": {
+        "soccer_team": "596797ef-9e07-4d2b-82cb-3624466f9a92"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08SALSAM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-08T21:30:00Z",
+      "expected_expiration_time": "2026-08-08T19:30:00Z",
       "expiration_time": "2026-08-10T21:30:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -18362,7 +18296,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08SALSAM-SAL3",
       "title": "Salernitana wins by more than 2.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.783608Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18377,10 +18311,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T21:30:00Z",
       "created_time": "2026-08-08T13:36:08.199896Z",
+      "custom_strike": {
+        "soccer_team": "596797ef-9e07-4d2b-82cb-3624466f9a92"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08SALSAM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-08T21:30:00Z",
+      "expected_expiration_time": "2026-08-08T19:30:00Z",
       "expiration_time": "2026-08-10T21:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18414,7 +18351,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08SALSAM-SAL2",
       "title": "Salernitana wins by more than 1.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.848127Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18535,10 +18472,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T00:00:00Z",
       "created_time": "2026-08-08T13:36:07.818071Z",
+      "custom_strike": {
+        "soccer_team": "ee85df01-d864-4ac0-a28f-f24026006f90"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08CIEVAL",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T00:00:00Z",
+      "expected_expiration_time": "2026-08-08T22:00:00Z",
       "expiration_time": "2026-08-11T00:00:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -18572,7 +18512,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08CIEVAL-VAL3",
       "title": "Valencia Mestalla wins by more than 2.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.755259Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18587,10 +18527,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T00:00:00Z",
       "created_time": "2026-08-08T13:36:07.818071Z",
+      "custom_strike": {
+        "soccer_team": "ee85df01-d864-4ac0-a28f-f24026006f90"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08CIEVAL",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T00:00:00Z",
+      "expected_expiration_time": "2026-08-08T22:00:00Z",
       "expiration_time": "2026-08-11T00:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18624,7 +18567,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08CIEVAL-VAL2",
       "title": "Valencia Mestalla wins by more than 1.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.692922Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18639,10 +18582,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T00:00:00Z",
       "created_time": "2026-08-08T13:36:07.818071Z",
+      "custom_strike": {
+        "soccer_team": "3a68a74c-6c3f-4417-8f19-97ffbe49fe58"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08CIEVAL",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T00:00:00Z",
+      "expected_expiration_time": "2026-08-08T22:00:00Z",
       "expiration_time": "2026-08-11T00:00:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -18676,7 +18622,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08CIEVAL-CIE3",
       "title": "Cieza wins by more than 2.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.490849Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18691,10 +18637,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T00:00:00Z",
       "created_time": "2026-08-08T13:36:07.818071Z",
+      "custom_strike": {
+        "soccer_team": "3a68a74c-6c3f-4417-8f19-97ffbe49fe58"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCLUBFSPREAD-26AUG08CIEVAL",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T00:00:00Z",
+      "expected_expiration_time": "2026-08-08T22:00:00Z",
       "expiration_time": "2026-08-11T00:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18728,7 +18677,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFSPREAD-26AUG08CIEVAL-CIE2",
       "title": "Cieza wins by more than 1.5 goals?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:37:25.552012Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18890,7 +18839,7 @@
       "status": "active",
       "ticker": "KXCLUBFBTTS-26AUG08CIEVAL-BTTS",
       "title": "Will both teams score?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.782788Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18942,7 +18891,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-6",
       "title": "Will over 5.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18994,7 +18943,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-5",
       "title": "Will over 4.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19046,7 +18995,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-4",
       "title": "Will over 3.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19098,7 +19047,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-3",
       "title": "Will over 2.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19150,7 +19099,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-2",
       "title": "Will over 1.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19202,7 +19151,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG08CIEVAL-1",
       "title": "Will over 0.5 goals be scored?",
-      "updated_time": "2026-08-08T14:04:26.195829Z",
+      "updated_time": "2026-08-08T14:34:37.759438Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19217,10 +19166,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -19254,7 +19206,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-IND7",
       "title": "Indiana wins the 1st quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.393008Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19269,10 +19221,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -19306,7 +19261,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-IND4",
       "title": "Indiana wins the 1st quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.47015Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19321,10 +19276,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -19358,7 +19316,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-IND2",
       "title": "Indiana wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.640135Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19373,10 +19331,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 9.5,
@@ -19410,7 +19371,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-IND10",
       "title": "Indiana wins the 1st quarter by over 9.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.312969Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19425,10 +19386,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -19462,7 +19426,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-CHI7",
       "title": "Chicago wins the 1st quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.855548Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19477,10 +19441,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -19514,7 +19481,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-CHI4",
       "title": "Chicago wins the 1st quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.787944Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19529,10 +19496,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.423327Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -19566,7 +19536,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG08INDCHI-CHI2",
       "title": "Chicago wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.719418Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20107,10 +20077,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -20144,7 +20117,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-IND7",
       "title": "Indiana wins the 2nd quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.2778Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20159,10 +20132,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -20196,7 +20172,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-IND4",
       "title": "Indiana wins the 2nd quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.345855Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20211,10 +20187,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -20248,7 +20227,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-IND2",
       "title": "Indiana wins the 2nd quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.418627Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20263,10 +20242,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 9.5,
@@ -20300,7 +20282,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-IND10",
       "title": "Indiana wins the 2nd quarter by over 9.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.213908Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20315,10 +20297,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -20352,7 +20337,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-CHI7",
       "title": "Chicago wins the 2nd quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.752144Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20367,10 +20352,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -20404,7 +20392,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-CHI4",
       "title": "Chicago wins the 2nd quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.685181Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20419,10 +20407,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.385151Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -20456,7 +20447,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG08INDCHI-CHI2",
       "title": "Chicago wins the 2nd quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.602281Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20997,10 +20988,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -21034,7 +21028,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-IND7",
       "title": "Indiana wins the 3rd quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.249845Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21049,10 +21043,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21086,7 +21083,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-IND4",
       "title": "Indiana wins the 3rd quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.320181Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21101,10 +21098,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -21138,7 +21138,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-IND2",
       "title": "Indiana wins the 3rd quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.388877Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21153,10 +21153,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 9.5,
@@ -21190,7 +21193,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-IND10",
       "title": "Indiana wins the 3rd quarter by over 9.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.146001Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21205,10 +21208,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -21242,7 +21248,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-CHI7",
       "title": "Chicago wins the 3rd quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.656462Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21257,10 +21263,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21294,7 +21303,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-CHI4",
       "title": "Chicago wins the 3rd quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.589746Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21309,10 +21318,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.068984Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -21346,7 +21358,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG08INDCHI-CHI2",
       "title": "Chicago wins the 3rd quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.519777Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21887,10 +21899,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -21924,7 +21939,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-IND7",
       "title": "Indiana wins the 4th quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.196313Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21939,10 +21954,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -21976,7 +21994,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-IND4",
       "title": "Indiana wins the 4th quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.262917Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21991,10 +22009,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -22028,7 +22049,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-IND2",
       "title": "Indiana wins the 4th quarter by over 1.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.330554Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22043,10 +22064,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "4a9939f7-dd96-474a-a036-525722701370"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 9.5,
@@ -22080,7 +22104,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-IND10",
       "title": "Indiana wins the 4th quarter by over 9.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.127158Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22095,10 +22119,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -22132,7 +22159,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-CHI7",
       "title": "Chicago wins the 4th quarter by over 6.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.59902Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22147,10 +22174,13 @@
       "can_close_early": true,
       "close_time": "2026-08-10T19:30:00Z",
       "created_time": "2026-08-08T13:36:07.004097Z",
+      "custom_strike": {
+        "basketball_team": "3512bac1-d718-416b-bd86-697f361f6e68"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG08INDCHI",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T01:30:00Z",
+      "expected_expiration_time": "2026-08-08T22:30:00Z",
       "expiration_time": "2026-08-10T19:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -22184,7 +22214,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG08INDCHI-CHI4",
       "title": "Chicago wins the 4th quarter by over 3.5 points?",
-      "updated_time": "2026-08-08T14:04:26.247406Z",
+      "updated_time": "2026-08-08T14:37:25.533711Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22223,23 +22253,23 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65048.77,
-      "pc": 64886.89,
-      "pct": 0.24948028792872856
+      "c": 65155.91,
+      "pc": 65010.94,
+      "pct": 0.22299323775352448
     },
     "BINANCE:ETHUSDT": {
-      "c": 1921.29,
-      "pc": 1914.93,
-      "pct": 0.3321270229198926
+      "c": 1924.59,
+      "pc": 1915.39,
+      "pct": 0.4803199348435472
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.63,
-      "pc": 73.72,
-      "pct": 2.59088442756375
+      "c": 76.28,
+      "pc": 73.69,
+      "pct": 3.5147238431266157
     }
   },
-  "tick": 709,
-  "totalScanned": 70900,
+  "tick": 710,
+  "totalScanned": 71000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
@@ -22250,8 +22280,8 @@
       "total": 75
     },
     "Unknown|NO|short": {
-      "wins": 375,
-      "total": 422
+      "wins": 378,
+      "total": 425
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -22264,7 +22294,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 620,
-  "lastRun": "2026-08-08T14:16:11.889Z",
+  "learnTotal": 623,
+  "lastRun": "2026-08-08T14:54:47.205Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
