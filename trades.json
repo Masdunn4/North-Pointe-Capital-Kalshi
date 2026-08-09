@@ -1,5 +1,5 @@
 {
-  "cash": 297.96,
+  "cash": 311,
   "startCash": 200,
   "trades": [
     {
@@ -17037,10 +17037,10 @@
       "entryPrice": 0.92,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.04,
+      "status": "win",
       "openedAt": "2026-08-09T17:01:16.278Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T19:27:50.168Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -17078,34 +17078,86 @@
       "entryScore": 8
     }
   ],
-  "positions": [
-    {
-      "id": 1786294876278.9756,
-      "ticker": "KXMLBHIT-26AUG091335ATHBOS-BOSJDURAN16-1",
-      "market": "Jarren Duran: 1+ hits?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.92,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T17:01:16.278Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-12T17:35:00Z",
-      "reasoning": "NO: 92¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.09",
-      "expectedReturn": "-0.0",
-      "entryScore": 8
-    }
-  ],
+  "positions": [],
   "log": [
+    {
+      "t": "7:27:50 PM",
+      "who": "System",
+      "msg": "Portfolio: $311.00 · Realized P&L: +$111.00 · Trades: 683",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:27:50 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Jarren Duran: 1+ hits?\" → +$1.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG091335ATHBOS-BOSJDURAN16-1 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSJDURAN16-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Knox",
+      "msg": "Checking 1 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Axel",
+      "msg": "Exposure: 6% · Cash: $297.96",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:27:49 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$65,210 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:27:48 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:27:47 PM",
+      "who": "System",
+      "msg": "═══ TICK #752 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "6:57:37 PM",
       "who": "System",
@@ -18227,87 +18279,374 @@
       "who": "Knox",
       "msg": "KXTEMPLAXH-26AUG0911-T71.99 [short] tick:4 · waiting · settle chance:30%",
       "type": ""
-    },
-    {
-      "t": "3:54:09 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0911-T71.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG0911-T77.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG0911-T77.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG0910-T71.99 tick:5 → WIN ✓ (winP:76%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T71.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "3:54:08 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:07 PM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0910-T85.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "3:54:07 PM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0910-T85.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:54:07 PM",
-      "who": "Knox",
-      "msg": "Checking 14 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "3:54:07 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
     }
   ],
   "markets": [
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-14T01:40:00Z",
+      "created_time": "2026-08-09T19:26:59.32374Z",
+      "custom_strike": {
+        "Associated Events": "KXMLBGAME-26AUG102140MILSD,KXMLBGAME-26AUG102140TBATH",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXMLBGAME-26AUG102140MILSD-MIL,KXMLBGAME-26AUG102140TBATH-ATH",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202699866F0E037"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202699866F0E037",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-11T07:40:00Z",
+      "expiration_time": "2026-08-14T01:40:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-14T01:40:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXMLBGAME-26AUG102140MILSD",
+          "market_ticker": "KXMLBGAME-26AUG102140MILSD-MIL",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXMLBGAME-26AUG102140TBATH",
+          "market_ticker": "KXMLBGAME-26AUG102140TBATH-ATH",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Milwaukee,yes A's",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:26:59Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202699866F0E037-71EEEB6B8AB",
+      "title": "yes Milwaukee,yes A's",
+      "updated_time": "2026-08-09T19:26:59.86931Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Milwaukee,yes A's",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-14T01:45:00Z",
+      "created_time": "2026-08-09T19:20:25.854116Z",
+      "custom_strike": {
+        "Associated Events": "KXMLBGAME-26AUG102138TEXLAA,KXMLBGAME-26AUG102145HOUSF",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXMLBGAME-26AUG102138TEXLAA-LAA,KXMLBGAME-26AUG102145HOUSF-HOU",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-11T07:45:00Z",
+      "expiration_time": "2026-08-14T01:45:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-14T01:45:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXMLBGAME-26AUG102138TEXLAA",
+          "market_ticker": "KXMLBGAME-26AUG102138TEXLAA-LAA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXMLBGAME-26AUG102145HOUSF",
+          "market_ticker": "KXMLBGAME-26AUG102145HOUSF-HOU",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "yes Los Angeles A,yes Houston",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:20:25Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6-4993F8EBC99",
+      "title": "yes Los Angeles A,yes Houston",
+      "updated_time": "2026-08-09T19:20:26.869965Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Los Angeles A,yes Houston",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-14T19:05:00Z",
+      "created_time": "2026-08-09T19:15:46.657243Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBEXTRAS-26AUG121505TBATH",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T22:05:00Z",
+      "expiration_time": "2026-08-14T19:05:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-14T19:05:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Game goes to extra innings",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T22:05:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:25:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Tampa Bay and A's go to extra innings in the Tampa Bay vs A's professional baseball game originally scheduled for Aug 12, 2026 at 3:05 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "ticker": "KXMLBEXTRAS-26AUG121505TBATH-EXTRAS",
+      "title": "Will there be extra innings in the Tampa Bay vs A's game originally scheduled for Aug 12, 2026 at 3:05 PM EDT?",
+      "updated_time": "2026-08-09T19:25:00.86964Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Game goes to extra innings",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-15T19:05:00Z",
+      "created_time": "2026-08-09T19:15:45.941736Z",
+      "custom_strike": {
+        "baseball_team": "942f3f85-869a-4f7a-8e5a-336365c5294b"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXMLBGAME-26AUG121505TBATH",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T22:05:00Z",
+      "expiration_time": "2026-08-15T19:05:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-15T19:05:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Tampa Bay",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T22:05:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:25:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Tampa Bay wins the Tampa Bay vs A's professional baseball game originally scheduled for Aug 12, 2026 at 3:05 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Tampa Bay vs A's professional baseball game originally scheduled for Aug 12, 2026 at 3:05 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 120,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXMLBGAME-26AUG121505TBATH-TB",
+      "title": "Tampa Bay vs A's Winner?",
+      "updated_time": "2026-08-09T19:25:00.86964Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Tampa Bay",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-15T19:05:00Z",
+      "created_time": "2026-08-09T19:15:45.941736Z",
+      "custom_strike": {
+        "baseball_team": "cd1bf455-5181-4740-9e7c-d88eb72baa3e"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXMLBGAME-26AUG121505TBATH",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T22:05:00Z",
+      "expiration_time": "2026-08-15T19:05:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-15T19:05:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "A's",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T22:05:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:25:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If A's wins the Tampa Bay vs A's professional baseball game originally scheduled for Aug 12, 2026 at 3:05 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Tampa Bay vs A's professional baseball game originally scheduled for Aug 12, 2026 at 3:05 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 120,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXMLBGAME-26AUG121505TBATH-ATH",
+      "title": "Tampa Bay vs A's Winner?",
+      "updated_time": "2026-08-09T19:25:00.86964Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "A's",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-14T01:45:00Z",
+      "created_time": "2026-08-09T19:13:40.475778Z",
+      "custom_strike": {
+        "Associated Events": "KXMLBGAME-26AUG102138TEXLAA,KXMLBGAME-26AUG102145HOUSF",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXMLBGAME-26AUG102138TEXLAA-TEX,KXMLBGAME-26AUG102145HOUSF-SF",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-11T07:45:00Z",
+      "expiration_time": "2026-08-14T01:45:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-14T01:45:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXMLBGAME-26AUG102138TEXLAA",
+          "market_ticker": "KXMLBGAME-26AUG102138TEXLAA-TEX",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXMLBGAME-26AUG102145HOUSF",
+          "market_ticker": "KXMLBGAME-26AUG102145HOUSF-SF",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "yes Texas,yes San Francisco",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T19:13:40Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026336DE7C3CE6-369D59DB4F4",
+      "title": "yes Texas,yes San Francisco",
+      "updated_time": "2026-08-09T19:13:40.869998Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Texas,yes San Francisco",
+      "yes_bid": 0,
+      "volume": 0
+    },
     {
       "can_close_early": true,
       "close_time": "2026-08-15T18:15:00Z",
@@ -18349,7 +18688,7 @@
       "strike_type": "greater_or_equal",
       "ticker": "KXMLBRFI-26AUG121415PHISTL",
       "title": "Philadelphia vs St. Louis First Inning Run?",
-      "updated_time": "2026-08-09T18:40:00.870126Z",
+      "updated_time": "2026-08-09T19:04:06.531678Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23357,327 +23696,6 @@
       "yes_sub_title": "Over 12.5 runs scored",
       "yes_bid": 0,
       "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.630823Z",
-      "early_close_condition": "This market will close and expire early if the event occurs.",
-      "event_ticker": "KXMLBTOTAL-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 11.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Over 11.5 runs scored",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas and Los Angeles A collectively score more 11.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBTOTAL-26AUG102138TEXLAA-12",
-      "title": "Texas vs Los Angeles A Total Runs?",
-      "updated_time": "2026-08-09T18:30:00.946948Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Over 11.5 runs scored",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.630823Z",
-      "early_close_condition": "This market will close and expire early if the event occurs.",
-      "event_ticker": "KXMLBTOTAL-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 10.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Over 10.5 runs scored",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas and Los Angeles A collectively score more 10.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBTOTAL-26AUG102138TEXLAA-11",
-      "title": "Texas vs Los Angeles A Total Runs?",
-      "updated_time": "2026-08-09T18:30:00.946948Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Over 10.5 runs scored",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.630823Z",
-      "early_close_condition": "This market will close and expire early if the event occurs.",
-      "event_ticker": "KXMLBTOTAL-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 9.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Over 9.5 runs scored",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas and Los Angeles A collectively score more 9.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBTOTAL-26AUG102138TEXLAA-10",
-      "title": "Texas vs Los Angeles A Total Runs?",
-      "updated_time": "2026-08-09T18:30:00.946948Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Over 9.5 runs scored",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.074711Z",
-      "custom_strike": {
-        "baseball_team": "ad64d981-5e58-4988-8e7e-7cac4ff4960c"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXMLBSPREAD-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 3.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Texas wins by over 3.5 runs",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas wins by more than 3.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBSPREAD-26AUG102138TEXLAA-TEX4",
-      "title": "Texas wins by over 3.5 runs?",
-      "updated_time": "2026-08-09T18:30:00.911146Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Texas wins by over 3.5 runs",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.074711Z",
-      "custom_strike": {
-        "baseball_team": "ad64d981-5e58-4988-8e7e-7cac4ff4960c"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXMLBSPREAD-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 2.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Texas wins by over 2.5 runs",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas wins by more than 2.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBSPREAD-26AUG102138TEXLAA-TEX3",
-      "title": "Texas wins by over 2.5 runs?",
-      "updated_time": "2026-08-09T18:30:00.911146Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Texas wins by over 2.5 runs",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-14T01:38:00Z",
-      "created_time": "2026-08-09T18:21:15.074711Z",
-      "custom_strike": {
-        "baseball_team": "ad64d981-5e58-4988-8e7e-7cac4ff4960c"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXMLBSPREAD-26AUG102138TEXLAA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T04:38:00Z",
-      "expiration_time": "2026-08-14T01:38:00Z",
-      "expiration_value": "",
-      "floor_strike": 1.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-14T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Texas wins by over 1.5 runs",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-11T04:38:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T18:30:00Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Texas wins by more than 1.5 runs in the Texas vs Los Angeles A professional baseball game originally scheduled for Aug 10, 2026 at 9:38 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBSPREAD-26AUG102138TEXLAA-TEX2",
-      "title": "Texas wins by over 1.5 runs?",
-      "updated_time": "2026-08-09T18:30:00.911146Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Texas wins by over 1.5 runs",
-      "yes_bid": 0,
-      "volume": 0
     }
   ],
   "prices": {
@@ -23707,23 +23725,23 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65199.69,
-      "pc": 65047.98,
-      "pct": 0.23322784197141727
+      "c": 65209.92,
+      "pc": 65019.01,
+      "pct": 0.2936218192187119
     },
     "BINANCE:ETHUSDT": {
-      "c": 1921.52,
-      "pc": 1921.02,
-      "pct": 0.02602783937699764
+      "c": 1922.17,
+      "pc": 1920.75,
+      "pct": 0.07392945464011833
     },
     "BINANCE:SOLUSDT": {
-      "c": 77.2,
-      "pc": 76.11,
-      "pct": 1.4321376954408138
+      "c": 77.25,
+      "pc": 76.04,
+      "pct": 1.5912677538137738
     }
   },
-  "tick": 751,
-  "totalScanned": 75100,
+  "tick": 752,
+  "totalScanned": 75200,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
@@ -23734,8 +23752,8 @@
       "total": 89
     },
     "Unknown|NO|short": {
-      "wins": 420,
-      "total": 470
+      "wins": 421,
+      "total": 471
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -23748,7 +23766,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 682,
-  "lastRun": "2026-08-09T18:57:34.062Z",
+  "learnTotal": 683,
+  "lastRun": "2026-08-09T19:27:47.603Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
