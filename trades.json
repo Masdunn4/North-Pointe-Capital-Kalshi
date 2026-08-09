@@ -1,5 +1,5 @@
 {
-  "cash": 283,
+  "cash": 287.08,
   "startCash": 200,
   "trades": [
     {
@@ -17087,10 +17087,10 @@
       "entryPrice": 0.98,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.04,
+      "status": "win",
       "openedAt": "2026-08-09T19:55:27.216Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T21:25:34.120Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -17137,10 +17137,10 @@
       "entryPrice": 0.98,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.04,
+      "status": "win",
       "openedAt": "2026-08-09T19:55:27.902Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T21:25:34.120Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -17180,31 +17180,6 @@
   ],
   "positions": [
     {
-      "id": 1786305327216.789,
-      "ticker": "KXMLBHIT-26AUG091610LADAZ-LADTHERNANDEZ37-1",
-      "market": "Teoscar Hernández: 1+ hits?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.98,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T19:55:27.216Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-12T20:10:00Z",
-      "reasoning": "NO: 98¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.02",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
       "id": 1786305327559.9062,
       "ticker": "KXMLBHIT-26AUG091610LADAZ-LADKTUCKER23-1",
       "market": "Kyle Tucker: 1+ hits?",
@@ -17218,7 +17193,7 @@
       "status": "open",
       "openedAt": "2026-08-09T19:55:27.559Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -17228,34 +17203,117 @@
       "payoutMult": "1.04",
       "expectedReturn": "0.0",
       "entryScore": 8
-    },
-    {
-      "id": 1786305327902.4773,
-      "ticker": "KXMLBHIT-26AUG091610LADAZ-LADEHERNNDEZ8-1",
-      "market": "Enrique Hernández: 1+ hits?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.98,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T19:55:27.902Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-12T20:10:00Z",
-      "reasoning": "NO: 98¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.02",
-      "expectedReturn": "0.0",
-      "entryScore": 8
     }
   ],
   "log": [
+    {
+      "t": "9:25:34 PM",
+      "who": "System",
+      "msg": "Portfolio: $299.08 · Realized P&L: +$99.08 · Trades: 687",
+      "type": "lt-sys"
+    },
+    {
+      "t": "9:25:34 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Enrique Hernández: 1+ hits?\" → +$0.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:25:34 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Teoscar Hernández: 1+ hits?\" → +$0.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG091610LADAZ-LADEHERNNDEZ8-1 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091610LADAZ-LADEHERNNDEZ8-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091610LADAZ-LADKTUCKER23-1 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091610LADAZ-LADKTUCKER23-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG091610LADAZ-LADTHERNANDEZ37-1 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091610LADAZ-LADTHERNANDEZ37-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Knox",
+      "msg": "Checking 3 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Axel",
+      "msg": "Exposure: 8% · Cash: $283.00",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:25:33 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "9:25:32 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$65,136 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:25:31 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:25:31 PM",
+      "who": "System",
+      "msg": "═══ TICK #756 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "8:57:51 PM",
       "who": "System",
@@ -18347,114 +18405,6 @@
       "who": "Knox",
       "msg": "KXTEMPDCH-26AUG0911-T88.99 open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "5:01:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG0911-T80.99 tick:6 → WIN ✓ (winP:77%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "5:01:18 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0911-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG0911-T72.99 tick:6 → WIN ✓ (winP:79%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0911-T72.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0911-T71.99 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0911-T71.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 [short] tick:7 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:01:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:01:16 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 [short] tick:7 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "5:01:16 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "5:01:16 PM",
-      "who": "Knox",
-      "msg": "Checking 14 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:01:16 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:01:16 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:01:15 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:01:15 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:01:15 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Anthony Seigler: 1+ hits?\" · $12.00 · win 96% · profit if win: +$1.04",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:01:15 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Jarren Duran: 1+ hits?\" · $12.00 · win 96% · profit if win: +$1.04",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "5:01:15 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Nick Sogard: 2+ hits?\" · $12.00 · win 96% · profit if win: +$0.77",
-      "type": "lt-kelly"
     }
   ],
   "markets": [
@@ -18474,7 +18424,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Yes",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-12T23:10:00Z",
@@ -18499,10 +18449,10 @@
       "strike_type": "greater_or_equal",
       "ticker": "KXMLBRFI-26AUG121610MILSD",
       "title": "Milwaukee vs San Diego First Inning Run?",
-      "updated_time": "2026-08-09T20:40:00.869835Z",
+      "updated_time": "2026-08-09T21:04:29.217807Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -20470,7 +20420,7 @@
       "strike_type": "greater",
       "ticker": "KXCHLLDPTOTAL-26AUG09OHFDEP-8",
       "title": "Will over 7.5 goals be scored?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:04:28.907733Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20521,7 +20471,7 @@
       "strike_type": "greater",
       "ticker": "KXCHLLDPTOTAL-26AUG09OHFDEP-7",
       "title": "Will over 6.5 goals be scored?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:04:28.907733Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20833,7 +20783,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG09GODCFE-7",
       "title": "Will over 6.5 goals be scored?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:04:29.142234Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22815,6 +22765,9 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:15:00Z",
       "created_time": "2026-08-09T20:07:03.097365Z",
+      "custom_strike": {
+        "soccer_team": "0d439835-fa4d-4722-ba44-e321fc36b5f7"
+      },
       "early_close_condition": "This market will close and expire after the half ends.",
       "event_ticker": "KXLIGAPORTUGAL1HSPREAD-26AUG10SCLCDN",
       "exchange_index": 0,
@@ -22852,7 +22805,7 @@
       "strike_type": "greater",
       "ticker": "KXLIGAPORTUGAL1HSPREAD-26AUG10SCLCDN-SCL2",
       "title": "Santa Clara Azores wins by more than 1.5 goals in the 1st Half?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:07:06.706353Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22867,6 +22820,9 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:15:00Z",
       "created_time": "2026-08-09T20:07:03.097365Z",
+      "custom_strike": {
+        "soccer_team": "df62d492-8015-4f6b-b745-2693bfd8d373"
+      },
       "early_close_condition": "This market will close and expire after the half ends.",
       "event_ticker": "KXLIGAPORTUGAL1HSPREAD-26AUG10SCLCDN",
       "exchange_index": 0,
@@ -22904,7 +22860,7 @@
       "strike_type": "greater",
       "ticker": "KXLIGAPORTUGAL1HSPREAD-26AUG10SCLCDN-CDN2",
       "title": "Nacional wins by more than 1.5 goals in the 1st Half?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:07:06.833368Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23437,10 +23393,13 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:30:00Z",
       "created_time": "2026-08-09T20:07:02.745919Z",
+      "custom_strike": {
+        "soccer_team": "0159c5c9-4b76-47e0-88ed-4e0c1404506f"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T01:30:00Z",
+      "expected_expiration_time": "2026-08-10T23:30:00Z",
       "expiration_time": "2026-08-13T01:30:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -23474,7 +23433,7 @@
       "strike_type": "greater",
       "ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM-EDM3",
       "title": "Est. Merida wins by more than 2.5 goals?",
-      "updated_time": "2026-08-09T20:35:26.919372Z",
+      "updated_time": "2026-08-09T21:07:06.998794Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23489,10 +23448,13 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:30:00Z",
       "created_time": "2026-08-09T20:07:02.745919Z",
+      "custom_strike": {
+        "soccer_team": "0159c5c9-4b76-47e0-88ed-4e0c1404506f"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T01:30:00Z",
+      "expected_expiration_time": "2026-08-10T23:30:00Z",
       "expiration_time": "2026-08-13T01:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -23526,7 +23488,7 @@
       "strike_type": "greater",
       "ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM-EDM2",
       "title": "Est. Merida wins by more than 1.5 goals?",
-      "updated_time": "2026-08-09T20:35:26.919372Z",
+      "updated_time": "2026-08-09T21:07:06.890488Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23541,10 +23503,13 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:30:00Z",
       "created_time": "2026-08-09T20:07:02.745919Z",
+      "custom_strike": {
+        "soccer_team": "d6b35134-fafc-4248-86d7-2f6fe2cc106b"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T01:30:00Z",
+      "expected_expiration_time": "2026-08-10T23:30:00Z",
       "expiration_time": "2026-08-13T01:30:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -23578,7 +23543,7 @@
       "strike_type": "greater",
       "ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM-DRZ3",
       "title": "Rayo Zuliano wins by more than 2.5 goals?",
-      "updated_time": "2026-08-09T20:35:26.919372Z",
+      "updated_time": "2026-08-09T21:07:06.687452Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23593,10 +23558,13 @@
       "can_close_early": true,
       "close_time": "2026-08-13T01:30:00Z",
       "created_time": "2026-08-09T20:07:02.745919Z",
+      "custom_strike": {
+        "soccer_team": "d6b35134-fafc-4248-86d7-2f6fe2cc106b"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-11T01:30:00Z",
+      "expected_expiration_time": "2026-08-10T23:30:00Z",
       "expiration_time": "2026-08-13T01:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -23630,7 +23598,7 @@
       "strike_type": "greater",
       "ticker": "KXVENFUTVESPREAD-26AUG10DRZEDM-DRZ2",
       "title": "Rayo Zuliano wins by more than 1.5 goals?",
-      "updated_time": "2026-08-09T20:35:26.919372Z",
+      "updated_time": "2026-08-09T21:07:06.75216Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23695,10 +23663,13 @@
       "can_close_early": true,
       "close_time": "2026-08-19T01:15:00Z",
       "created_time": "2026-08-09T20:07:02.282856Z",
+      "custom_strike": {
+        "soccer_team": "2fc3d6b2-6679-4089-9c03-a1c10283a003"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXCOPPAITALIASPREAD-26AUG16LAZMAN",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-17T01:15:00Z",
+      "expected_expiration_time": "2026-08-16T23:15:00Z",
       "expiration_time": "2026-08-19T01:15:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
@@ -23732,7 +23703,7 @@
       "strike_type": "greater",
       "ticker": "KXCOPPAITALIASPREAD-26AUG16LAZMAN-MAN3",
       "title": "Mantova wins by more than 2.5 goals?",
-      "updated_time": "2026-08-09T20:35:26.871965Z",
+      "updated_time": "2026-08-09T21:07:06.131504Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23771,23 +23742,23 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65137.98,
-      "pc": 65082.41,
-      "pct": 0.08538405384803621
+      "c": 65136.13,
+      "pc": 65043.49,
+      "pct": 0.1424277817810813
     },
     "BINANCE:ETHUSDT": {
-      "c": 1920.77,
-      "pc": 1920.39,
-      "pct": 0.01978764730080253
+      "c": 1922.77,
+      "pc": 1921.04,
+      "pct": 0.09005538666555711
     },
     "BINANCE:SOLUSDT": {
-      "c": 77.27,
-      "pc": 76.22,
-      "pct": 1.3775911834164223
+      "c": 77.3,
+      "pc": 76.32,
+      "pct": 1.2840670859538839
     }
   },
-  "tick": 755,
-  "totalScanned": 75500,
+  "tick": 756,
+  "totalScanned": 75600,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
@@ -23798,8 +23769,8 @@
       "total": 89
     },
     "Unknown|NO|short": {
-      "wins": 421,
-      "total": 472
+      "wins": 423,
+      "total": 474
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -23812,7 +23783,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 684,
-  "lastRun": "2026-08-09T20:57:47.839Z",
+  "learnTotal": 686,
+  "lastRun": "2026-08-09T21:25:31.104Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
