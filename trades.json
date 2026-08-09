@@ -1,5 +1,5 @@
 {
-  "cash": 241.18,
+  "cash": 254.22,
   "startCash": 200,
   "trades": [
     {
@@ -16662,10 +16662,10 @@
       "entryPrice": 0.77,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": -12,
+      "status": "loss",
       "openedAt": "2026-08-09T13:27:55.818Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T18:04:26.350Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -17062,10 +17062,10 @@
       "entryPrice": 0.92,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.04,
+      "status": "win",
       "openedAt": "2026-08-09T17:01:16.633Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T18:04:26.351Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -17093,7 +17093,7 @@
       "status": "open",
       "openedAt": "2026-08-09T13:27:55.131Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -17103,31 +17103,6 @@
       "payoutMult": "1.23",
       "expectedReturn": "0.0",
       "entryScore": 6
-    },
-    {
-      "id": 1786282075818.8657,
-      "ticker": "KXTEMPCHIH-26AUG0910-T74.99",
-      "market": "Will the temp in Chicago be above 74.99° on Aug 9, 2026 at 10am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.77,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T13:27:55.818Z",
-      "closedAt": null,
-      "ticksOpen": 8,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-09T14:00:00Z",
-      "reasoning": "NO: 77¢",
-      "kellyFrac": "6.5",
-      "payoutMult": "1.30",
-      "expectedReturn": "0.0",
-      "entryScore": 5
     },
     {
       "id": 1786284290200.7742,
@@ -17143,7 +17118,7 @@
       "status": "open",
       "openedAt": "2026-08-09T14:04:50.200Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -17168,7 +17143,7 @@
       "status": "open",
       "openedAt": "2026-08-09T17:01:15.571Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -17193,7 +17168,7 @@
       "status": "open",
       "openedAt": "2026-08-09T17:01:15.925Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -17218,32 +17193,7 @@
       "status": "open",
       "openedAt": "2026-08-09T17:01:16.278Z",
       "closedAt": null,
-      "ticksOpen": 2,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-12T17:35:00Z",
-      "reasoning": "NO: 92¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.09",
-      "expectedReturn": "-0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786294876633.3047,
-      "ticker": "KXMLBHIT-26AUG091335ATHBOS-BOSASEIGLER48-1",
-      "market": "Anthony Seigler: 1+ hits?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.92,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T17:01:16.633Z",
-      "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -17256,6 +17206,162 @@
     }
   ],
   "log": [
+    {
+      "t": "6:04:26 PM",
+      "who": "System",
+      "msg": "Portfolio: $304.22 · Realized P&L: +$104.22 · Trades: 683",
+      "type": "lt-sys"
+    },
+    {
+      "t": "6:04:26 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Anthony Seigler: 1+ hits?\" → +$1.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "6:04:26 PM",
+      "who": "Knox",
+      "msg": "✗ LOSS \"Will the temp in Chicago be ab\" → $12.00",
+      "type": "lt-err"
+    },
+    {
+      "t": "6:04:26 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG091335ATHBOS-BOSASEIGLER48-1 tick:3 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "6:04:26 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSASEIGLER48-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSJDURAN16-1 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSJDURAN16-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSNSOGARD20-2 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSNSOGARD20-2 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSWCONTRERAS40-1 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG091335ATHBOS-BOSWCONTRERAS40-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXTEMPLAXH-26AUG0911-T71.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "6:04:25 PM",
+      "who": "Knox",
+      "msg": "KXTEMPLAXH-26AUG0911-T71.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG0910-T74.99 tick:9 → LOSS ✗ (winP:80%)",
+      "type": "lt-err"
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0910-T74.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0910-T80.99 [short] tick:9 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0910-T80.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Knox",
+      "msg": "Checking 7 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Axel",
+      "msg": "Exposure: 37% · Cash: $241.18",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "6:04:24 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:04:23 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "6:04:23 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$65,201 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:04:22 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:04:22 PM",
+      "who": "System",
+      "msg": "═══ TICK #750 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "5:44:37 PM",
       "who": "System",
@@ -18299,165 +18405,167 @@
       "who": "Knox",
       "msg": "KXTEMPCHIH-26AUG0911-T80.99 open · mark 0¢ · ~expired left",
       "type": ""
-    },
-    {
-      "t": "3:18:34 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0911-T72.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:18:34 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0911-T72.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:34 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0911-T71.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:18:34 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0911-T71.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG0911-T77.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG0911-T77.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPLAXH-26AUG0910-T70.99 tick:4 → WIN ✓ (winP:75%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0910-T70.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T71.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "3:18:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0910-T71.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0910-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0910-T85.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0910-T85.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPDCH-26AUG0907-T74.99 tick:9 → WIN ✓ (winP:90%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Knox",
-      "msg": "Checking 12 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Axel",
-      "msg": "Exposure cap 70% — holding",
-      "type": "lt-warn"
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Axel",
-      "msg": "Exposure: 71% · Cash: $154.48",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "3:18:32 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "3:18:31 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "3:18:31 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$65,237 SPY $$773.26",
-      "type": "lt-info"
     }
   ],
   "markets": [
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-14T17:40:00Z",
+      "created_time": "2026-08-09T17:45:48.077079Z",
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBEXTRAS-26AUG121340BALMIN",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T20:40:00Z",
+      "expiration_time": "2026-08-14T17:40:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-14T17:40:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Game goes to extra innings",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T20:40:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T17:55:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Baltimore and Minnesota go to extra innings in the Baltimore vs Minnesota professional baseball game originally scheduled for Aug 12, 2026 at 1:40 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "ticker": "KXMLBEXTRAS-26AUG121340BALMIN-EXTRAS",
+      "title": "Will there be extra innings in the Baltimore vs Minnesota game originally scheduled for Aug 12, 2026 at 1:40 PM EDT?",
+      "updated_time": "2026-08-09T17:55:00.869972Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Game goes to extra innings",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-15T17:40:00Z",
+      "created_time": "2026-08-09T17:45:47.329932Z",
+      "custom_strike": {
+        "baseball_team": "a2e0a7af-4208-4889-b60c-7c9254c67d5b"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXMLBGAME-26AUG121340BALMIN",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T20:40:00Z",
+      "expiration_time": "2026-08-15T17:40:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-15T17:40:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Minnesota",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T20:40:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T17:55:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Minnesota wins the Baltimore vs Minnesota professional baseball game originally scheduled for Aug 12, 2026 at 1:40 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Baltimore vs Minnesota professional baseball game originally scheduled for Aug 12, 2026 at 1:40 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 120,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXMLBGAME-26AUG121340BALMIN-MIN",
+      "title": "Baltimore vs Minnesota Winner?",
+      "updated_time": "2026-08-09T17:55:00.869972Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Minnesota",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-15T17:40:00Z",
+      "created_time": "2026-08-09T17:45:47.329932Z",
+      "custom_strike": {
+        "baseball_team": "e0a64786-0b17-4f7c-a8b5-425d52debb2d"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXMLBGAME-26AUG121340BALMIN",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-12T20:40:00Z",
+      "expiration_time": "2026-08-15T17:40:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-15T17:40:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Baltimore",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-12T20:40:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-09T17:55:00Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Baltimore wins the Baltimore vs Minnesota professional baseball game originally scheduled for Aug 12, 2026 at 1:40 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Baltimore vs Minnesota professional baseball game originally scheduled for Aug 12, 2026 at 1:40 PM EDT. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a fair price in accordance with the rules.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 120,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXMLBGAME-26AUG121340BALMIN-BAL",
+      "title": "Baltimore vs Minnesota Winner?",
+      "updated_time": "2026-08-09T17:55:00.869972Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Baltimore",
+      "yes_bid": 0,
+      "volume": 0
+    },
     {
       "can_close_early": true,
       "close_time": "2026-08-29T23:00:00Z",
@@ -23880,174 +23988,6 @@
       "yes_sub_title": "Alec Bohm: 5+",
       "yes_bid": 0,
       "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-12T17:35:00Z",
-      "created_time": "2026-08-09T17:06:51.24773Z",
-      "custom_strike": {
-        "baseball_player": "25584184-3bfa-49bc-9f6d-c6f53eeb746b",
-        "baseball_team": "bf277158-b28d-4a0e-aa3b-54fd3acd3009"
-      },
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBHRR-26AUG091335TORPHI",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T23:35:00Z",
-      "expiration_time": "2026-08-12T17:35:00Z",
-      "expiration_value": "",
-      "floor_strike": 3.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-12T17:35:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Alec Bohm: 4+",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T17:35:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "primary_participant_key": "baseball_player",
-      "result": "",
-      "rules_primary": "If Alec Bohm records 4+ total hits + runs + rbis in the Toronto vs Philadelphia professional baseball game originally scheduled for Aug 9, 2026 at 1:35 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Player Participation & Settlement Criteria\nIf Alec Bohm is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Alec Bohm starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Alec Bohm is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Alec Bohm is in the starting lineup and records at least one plate appearance the market will settle based on total hits + runs + rbis recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBHRR-26AUG091335TORPHI-PHIABOHM28-4",
-      "title": "Alec Bohm: 4+ hits + runs + RBIs?",
-      "updated_time": "2026-08-09T17:35:18.015023Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Alec Bohm: 4+",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-12T17:35:00Z",
-      "created_time": "2026-08-09T17:06:51.24773Z",
-      "custom_strike": {
-        "baseball_player": "25584184-3bfa-49bc-9f6d-c6f53eeb746b",
-        "baseball_team": "bf277158-b28d-4a0e-aa3b-54fd3acd3009"
-      },
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBHRR-26AUG091335TORPHI",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T23:35:00Z",
-      "expiration_time": "2026-08-12T17:35:00Z",
-      "expiration_value": "",
-      "floor_strike": 2.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-12T17:35:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Alec Bohm: 3+",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T17:35:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "primary_participant_key": "baseball_player",
-      "result": "",
-      "rules_primary": "If Alec Bohm records 3+ total hits + runs + rbis in the Toronto vs Philadelphia professional baseball game originally scheduled for Aug 9, 2026 at 1:35 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Player Participation & Settlement Criteria\nIf Alec Bohm is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Alec Bohm starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Alec Bohm is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Alec Bohm is in the starting lineup and records at least one plate appearance the market will settle based on total hits + runs + rbis recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBHRR-26AUG091335TORPHI-PHIABOHM28-3",
-      "title": "Alec Bohm: 3+ hits + runs + RBIs?",
-      "updated_time": "2026-08-09T17:35:18.015023Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Alec Bohm: 3+",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-12T17:35:00Z",
-      "created_time": "2026-08-09T17:06:51.24773Z",
-      "custom_strike": {
-        "baseball_player": "25584184-3bfa-49bc-9f6d-c6f53eeb746b",
-        "baseball_team": "bf277158-b28d-4a0e-aa3b-54fd3acd3009"
-      },
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBHRR-26AUG091335TORPHI",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T23:35:00Z",
-      "expiration_time": "2026-08-12T17:35:00Z",
-      "expiration_value": "",
-      "floor_strike": 1.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-12T17:35:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Alec Bohm: 2+",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-09T17:35:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "primary_participant_key": "baseball_player",
-      "result": "",
-      "rules_primary": "If Alec Bohm records 2+ total hits + runs + rbis in the Toronto vs Philadelphia professional baseball game originally scheduled for Aug 9, 2026 at 1:35 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Player Participation & Settlement Criteria\nIf Alec Bohm is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Alec Bohm starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Alec Bohm is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Alec Bohm is in the starting lineup and records at least one plate appearance the market will settle based on total hits + runs + rbis recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 300,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBHRR-26AUG091335TORPHI-PHIABOHM28-2",
-      "title": "Alec Bohm: 2+ hits + runs + RBIs?",
-      "updated_time": "2026-08-09T17:35:18.015023Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Alec Bohm: 2+",
-      "yes_bid": 0,
-      "volume": 0
     }
   ],
   "prices": {
@@ -24077,23 +24017,23 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65229.23,
-      "pc": 65122.18,
-      "pct": 0.1643833176346414
+      "c": 65200.88,
+      "pc": 65117.94,
+      "pct": 0.12736889404055943
     },
     "BINANCE:ETHUSDT": {
-      "c": 1924.46,
-      "pc": 1924.99,
-      "pct": -0.027532610559014476
+      "c": 1923.69,
+      "pc": 1923.23,
+      "pct": 0.023918096119550775
     },
     "BINANCE:SOLUSDT": {
-      "c": 77.32,
-      "pc": 76.39,
-      "pct": 1.2174368372823572
+      "c": 77.22,
+      "pc": 76.27,
+      "pct": 1.2455749311655997
     }
   },
-  "tick": 749,
-  "totalScanned": 74900,
+  "tick": 750,
+  "totalScanned": 75000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
@@ -24104,8 +24044,8 @@
       "total": 89
     },
     "Unknown|NO|short": {
-      "wins": 415,
-      "total": 464
+      "wins": 416,
+      "total": 466
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -24118,7 +24058,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 676,
-  "lastRun": "2026-08-09T17:44:33.571Z",
+  "learnTotal": 678,
+  "lastRun": "2026-08-09T18:04:22.249Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
