@@ -1,5 +1,5 @@
 {
-  "cash": 154.48,
+  "cash": 185.44,
   "startCash": 200,
   "trades": [
     {
@@ -16437,10 +16437,10 @@
       "entryPrice": 0.84,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 2.29,
+      "status": "win",
       "openedAt": "2026-08-09T10:01:08.219Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T15:18:35.556Z",
       "ticksOpen": 0,
       "conf": "med",
       "shortTerm": true,
@@ -16687,10 +16687,10 @@
       "entryPrice": 0.72,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 4.67,
+      "status": "win",
       "openedAt": "2026-08-09T13:27:56.162Z",
-      "closedAt": null,
+      "closedAt": "2026-08-09T15:18:35.556Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -16735,7 +16735,7 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.76,
-      "currentPrice": 0.76,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -16760,7 +16760,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.85,
-      "currentPrice": 0.18,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -16785,7 +16785,7 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.76,
-      "currentPrice": 0.76,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -16810,7 +16810,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0,
       "size": 11.13,
       "pnl": 0,
       "status": "open",
@@ -16835,7 +16835,7 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.75,
-      "currentPrice": 0.36,
+      "currentPrice": 0,
       "size": 11.57,
       "pnl": 0,
       "status": "open",
@@ -16860,7 +16860,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.73,
-      "currentPrice": 0.6,
+      "currentPrice": 0,
       "size": 10.71,
       "pnl": 0,
       "status": "open",
@@ -16880,31 +16880,6 @@
   ],
   "positions": [
     {
-      "id": 1786269668219.2112,
-      "ticker": "KXTEMPDCH-26AUG0907-T74.99",
-      "market": "Will the temp in Washington DC be above 74.99° on Aug 9, 2026 at 7am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "YES",
-      "entryPrice": 0.84,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T10:01:08.219Z",
-      "closedAt": null,
-      "ticksOpen": 8,
-      "conf": "med",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-09T11:00:00Z",
-      "reasoning": "YES: 84¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.19",
-      "expectedReturn": "-0.0",
-      "entryScore": 6
-    },
-    {
       "id": 1786282074787.8127,
       "ticker": "KXTEMPDCH-26AUG0910-T85.99",
       "market": "Will the temp in Washington DC be above 85.99° on Aug 9, 2026 at 10am EDT?",
@@ -16918,7 +16893,7 @@
       "status": "open",
       "openedAt": "2026-08-09T13:27:54.787Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -16943,7 +16918,7 @@
       "status": "open",
       "openedAt": "2026-08-09T13:27:55.131Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -16968,7 +16943,7 @@
       "status": "open",
       "openedAt": "2026-08-09T13:27:55.474Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -16993,7 +16968,7 @@
       "status": "open",
       "openedAt": "2026-08-09T13:27:55.818Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17005,31 +16980,6 @@
       "entryScore": 5
     },
     {
-      "id": 1786282076162.6418,
-      "ticker": "KXTEMPLAXH-26AUG0910-T70.99",
-      "market": "Will the temp in Los Angeles be above 70.99° on Aug 9, 2026 at 10am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.72,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-09T13:27:56.162Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-09T14:00:00Z",
-      "reasoning": "NO: 72¢",
-      "kellyFrac": "5.4",
-      "payoutMult": "1.39",
-      "expectedReturn": "-0.0",
-      "entryScore": 4
-    },
-    {
       "id": 1786284289876.3816,
       "ticker": "KXTEMPAUSH-26AUG0911-T77.99",
       "market": "Will the temp in Austin be above 77.99° on Aug 9, 2026 at 11am EDT?",
@@ -17037,13 +16987,13 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.76,
-      "currentPrice": 0.76,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:49.876Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17062,13 +17012,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.85,
-      "currentPrice": 0.18,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:50.200Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -17087,13 +17037,13 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.76,
-      "currentPrice": 0.76,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:50.523Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17112,13 +17062,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0,
       "size": 11.13,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:50.846Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17137,13 +17087,13 @@
       "agent": "Zara",
       "side": "YES",
       "entryPrice": 0.75,
-      "currentPrice": 0.36,
+      "currentPrice": 0,
       "size": 11.57,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:51.169Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17162,13 +17112,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.73,
-      "currentPrice": 0.6,
+      "currentPrice": 0,
       "size": 10.71,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-09T14:04:51.491Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -17181,6 +17131,228 @@
     }
   ],
   "log": [
+    {
+      "t": "3:18:35 PM",
+      "who": "System",
+      "msg": "Portfolio: $302.85 · Realized P&L: +$102.85 · Trades: 675",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Los Angeles b\" → +$4.67",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Washington DC\" → +$2.29",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0911-T86.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0911-T86.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "KXTEMPDCH-26AUG0911-T88.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:35 PM",
+      "who": "Knox",
+      "msg": "KXTEMPDCH-26AUG0911-T88.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0911-T80.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0911-T80.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0911-T72.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0911-T72.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPLAXH-26AUG0911-T71.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:34 PM",
+      "who": "Knox",
+      "msg": "KXTEMPLAXH-26AUG0911-T71.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG0911-T77.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG0911-T77.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPLAXH-26AUG0910-T70.99 tick:4 → WIN ✓ (winP:75%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPLAXH-26AUG0910-T70.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0910-T74.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0910-T74.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0910-T71.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:18:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPCHIH-26AUG0910-T71.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0910-T80.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPNYCH-26AUG0910-T80.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPDCH-26AUG0910-T85.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPDCH-26AUG0910-T85.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPDCH-26AUG0907-T74.99 tick:9 → WIN ✓ (winP:90%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPDCH-26AUG0907-T74.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Knox",
+      "msg": "Checking 12 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Axel",
+      "msg": "Exposure cap 70% — holding",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Axel",
+      "msg": "Exposure: 71% · Cash: $154.48",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:18:32 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:18:31 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:18:31 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$65,237 SPY $$773.26",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:18:30 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:18:30 PM",
+      "who": "System",
+      "msg": "═══ TICK #745 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "2:49:22 PM",
       "who": "System",
@@ -18158,228 +18330,6 @@
       "who": "Knox",
       "msg": "[PAPER SETTLE] KXTEMPDCH-26AUG0907-T76.99 tick:4 → WIN ✓ (winP:79%)",
       "type": "lt-trade"
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T76.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T66.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T66.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T64.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T64.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0907-T76.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:51:30 AM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0907-T76.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T74.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG0904-T67.99 tick:8 → WIN ✓ (winP:80%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0904-T67.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0904-T78.99 [short] tick:8 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0904-T78.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Knox",
-      "msg": "Checking 8 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Axel",
-      "msg": "Exposure: 48% · Cash: $205.83",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "11:51:29 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,976 SPY $$773.26",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:51:27 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "11:51:27 AM",
-      "who": "System",
-      "msg": "═══ TICK #740 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:18:03 AM",
-      "who": "System",
-      "msg": "Portfolio: $301.61 · Realized P&L: +$101.61 · Trades: 663",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:18:03 AM",
-      "who": "Knox",
-      "msg": "All 8 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "11:18:03 AM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0907-T70.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:03 AM",
-      "who": "Knox",
-      "msg": "KXTEMPLAXH-26AUG0907-T70.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T76.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T76.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T66.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T66.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T64.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0907-T64.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0907-T76.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:02 AM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG0907-T76.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:01 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T74.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "11:18:01 AM",
-      "who": "Knox",
-      "msg": "KXTEMPDCH-26AUG0907-T74.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "11:18:01 AM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG0904-T67.99 [short] tick:7 · waiting · settle chance:40%",
-      "type": ""
     }
   ],
   "markets": [
@@ -18441,10 +18391,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 7.5,
@@ -18478,7 +18431,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-NY8",
       "title": "New York wins the 1st quarter by over 7.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.574093Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18493,10 +18446,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -18530,7 +18486,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-NY5",
       "title": "New York wins the 1st quarter by over 4.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.641253Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18545,10 +18501,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18582,7 +18541,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-NY2",
       "title": "New York wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.703874Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18597,10 +18556,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 10.5,
@@ -18634,7 +18596,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-NY11",
       "title": "New York wins the 1st quarter by over 10.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.512235Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18649,10 +18611,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -18686,7 +18651,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-LV7",
       "title": "Las Vegas wins the 1st quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:08.020296Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18701,10 +18666,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -18738,7 +18706,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-LV4",
       "title": "Las Vegas wins the 1st quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.951401Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -18753,10 +18721,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.322657Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -18790,7 +18761,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09LVNY-LV2",
       "title": "Las Vegas wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:07.773058Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19364,7 +19335,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG09LFCASM-8",
       "title": "Will over 7.5 goals be scored?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:04:21.656014Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19415,7 +19386,7 @@
       "strike_type": "greater",
       "ticker": "KXCLUBFTOTAL-26AUG09LFCASM-7",
       "title": "Will over 6.5 goals be scored?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:04:21.656014Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19430,10 +19401,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 7.5,
@@ -19467,7 +19441,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-NY8",
       "title": "New York wins the 2nd quarter by over 7.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.549598Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19482,10 +19456,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -19519,7 +19496,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-NY5",
       "title": "New York wins the 2nd quarter by over 4.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.635098Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19534,10 +19511,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -19571,7 +19551,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-NY2",
       "title": "New York wins the 2nd quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.708212Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19586,10 +19566,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 10.5,
@@ -19623,7 +19606,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-NY11",
       "title": "New York wins the 2nd quarter by over 10.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.481007Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19638,10 +19621,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -19675,7 +19661,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-LV7",
       "title": "Las Vegas wins the 2nd quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:08.043652Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19690,10 +19676,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -19727,7 +19716,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-LV4",
       "title": "Las Vegas wins the 2nd quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.965748Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -19742,10 +19731,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:04.059997Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -19779,7 +19771,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09LVNY-LV2",
       "title": "Las Vegas wins the 2nd quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.785618Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20482,10 +20474,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 7.5,
@@ -20519,7 +20514,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-NY8",
       "title": "New York wins the 3rd quarter by over 7.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.499121Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20534,10 +20529,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -20571,7 +20569,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-NY5",
       "title": "New York wins the 3rd quarter by over 4.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.56685Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20586,10 +20584,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -20623,7 +20624,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-NY2",
       "title": "New York wins the 3rd quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.631481Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20638,10 +20639,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 10.5,
@@ -20675,7 +20679,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-NY11",
       "title": "New York wins the 3rd quarter by over 10.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.429671Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20690,10 +20694,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -20727,7 +20734,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-LV7",
       "title": "Las Vegas wins the 3rd quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.989626Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20742,10 +20749,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -20779,7 +20789,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-LV4",
       "title": "Las Vegas wins the 3rd quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.830288Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -20794,10 +20804,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.875849Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA3QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -20831,7 +20844,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA3QSPREAD-26AUG09LVNY-LV2",
       "title": "Las Vegas wins the 3rd quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:07.763704Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21573,7 +21586,7 @@
       "strike_type": "structured",
       "ticker": "KXITFMATCH-26AUG09MEGBUY-MEG",
       "title": "Will Andre Megrabian win the Megrabian vs Buytaert: M25 Koksijde Round of 32 match?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:04:21.632104Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -21627,7 +21640,7 @@
       "strike_type": "structured",
       "ticker": "KXITFMATCH-26AUG09MEGBUY-BUY",
       "title": "Will Marvin Buytaert win the Megrabian vs Buytaert: M25 Koksijde Round of 32 match?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:04:21.632104Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22006,10 +22019,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 7.5,
@@ -22043,7 +22059,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-NY8",
       "title": "New York wins the 4th quarter by over 7.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.593411Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22058,10 +22074,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
@@ -22095,7 +22114,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-NY5",
       "title": "New York wins the 4th quarter by over 4.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.759786Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22110,10 +22129,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -22147,7 +22169,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-NY2",
       "title": "New York wins the 4th quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.826152Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22162,10 +22184,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "604e3820-06da-4bec-911b-63b33d203d42"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 10.5,
@@ -22199,7 +22224,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-NY11",
       "title": "New York wins the 4th quarter by over 10.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.426061Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22214,10 +22239,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -22251,7 +22279,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-LV7",
       "title": "Las Vegas wins the 4th quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:08.033334Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22266,10 +22294,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -22303,7 +22334,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-LV4",
       "title": "Las Vegas wins the 4th quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.969333Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22318,10 +22349,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T16:30:00Z",
       "created_time": "2026-08-09T14:07:03.526302Z",
+      "custom_strike": {
+        "basketball_team": "3b8c40d9-1fac-4fb2-b861-dc3e2331d799"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA4QSPREAD-26AUG09LVNY",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-09T22:30:00Z",
+      "expected_expiration_time": "2026-08-09T19:30:00Z",
       "expiration_time": "2026-08-11T16:30:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -22355,7 +22389,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA4QSPREAD-26AUG09LVNY-LV2",
       "title": "Las Vegas wins the 4th quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.952768Z",
+      "updated_time": "2026-08-09T15:07:07.897562Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22370,10 +22404,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -22407,7 +22444,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-WSH7",
       "title": "Washington wins the 1st quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.241797Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22422,10 +22459,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -22459,7 +22499,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-WSH4",
       "title": "Washington wins the 1st quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.311792Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22474,10 +22514,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -22511,7 +22554,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-WSH2",
       "title": "Washington wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.377219Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22526,10 +22569,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 9.5,
@@ -22563,7 +22609,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-WSH10",
       "title": "Washington wins the 1st quarter by over 9.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.180814Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22578,10 +22624,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "a007957c-46fa-4d50-82f8-48dd4da02ba6"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -22615,7 +22664,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-PHX7",
       "title": "Phoenix wins the 1st quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.722849Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22630,10 +22679,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "a007957c-46fa-4d50-82f8-48dd4da02ba6"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -22667,7 +22719,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-PHX4",
       "title": "Phoenix wins the 1st quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.565815Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -22682,10 +22734,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.415251Z",
+      "custom_strike": {
+        "basketball_team": "a007957c-46fa-4d50-82f8-48dd4da02ba6"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -22719,7 +22774,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA1QSPREAD-26AUG09PHXWSH-PHX2",
       "title": "Phoenix wins the 1st quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.87271Z",
+      "updated_time": "2026-08-09T15:07:06.504698Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23462,10 +23517,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.169207Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 6.5,
@@ -23499,7 +23557,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH-WSH7",
       "title": "Washington wins the 2nd quarter by over 6.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:06.237275Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23514,10 +23572,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.169207Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
@@ -23551,7 +23612,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH-WSH4",
       "title": "Washington wins the 2nd quarter by over 3.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:06.301969Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23566,10 +23627,13 @@
       "can_close_early": true,
       "close_time": "2026-08-11T19:00:00Z",
       "created_time": "2026-08-09T14:07:03.169207Z",
+      "custom_strike": {
+        "basketball_team": "249eb221-9551-49f8-be0e-e0364a897126"
+      },
       "early_close_condition": "This market will close and expire after a winner is declared.",
       "event_ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH",
       "exchange_index": 0,
-      "expected_expiration_time": "2026-08-10T01:00:00Z",
+      "expected_expiration_time": "2026-08-09T22:00:00Z",
       "expiration_time": "2026-08-11T19:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
@@ -23603,7 +23667,7 @@
       "strike_type": "greater",
       "ticker": "KXWNBA2QSPREAD-26AUG09PHXWSH-WSH2",
       "title": "Washington wins the 2nd quarter by over 1.5 points?",
-      "updated_time": "2026-08-09T14:35:23.916271Z",
+      "updated_time": "2026-08-09T15:07:06.369409Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -23642,35 +23706,35 @@
       "pct": -0.7487170858921515
     },
     "BINANCE:BTCUSDT": {
-      "c": 65169.36,
-      "pc": 65147.9,
-      "pct": 0.032940432462134815
+      "c": 65236.64,
+      "pc": 65090.43,
+      "pct": 0.2246259549982987
     },
     "BINANCE:ETHUSDT": {
-      "c": 1923.77,
-      "pc": 1924,
-      "pct": -0.011954261954262899
+      "c": 1927.12,
+      "pc": 1923.58,
+      "pct": 0.1840318572661373
     },
     "BINANCE:SOLUSDT": {
-      "c": 76.73,
-      "pc": 76.05,
-      "pct": 0.8941485864562877
+      "c": 76.93,
+      "pc": 76.68,
+      "pct": 0.32603025560772037
     }
   },
-  "tick": 744,
-  "totalScanned": 74400,
+  "tick": 745,
+  "totalScanned": 74500,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 108,
       "total": 114
     },
     "Unknown|YES|short": {
-      "wins": 71,
-      "total": 83
+      "wins": 72,
+      "total": 84
     },
     "Unknown|NO|short": {
-      "wins": 408,
-      "total": 457
+      "wins": 409,
+      "total": 458
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -23683,7 +23747,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 663,
-  "lastRun": "2026-08-09T14:49:17.788Z",
+  "learnTotal": 665,
+  "lastRun": "2026-08-09T15:18:30.413Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
