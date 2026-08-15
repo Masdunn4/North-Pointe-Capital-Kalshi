@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "12:12:23 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "12:12:23 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,997 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "12:12:22 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "12:12:22 PM",
+      "who": "System",
+      "msg": "═══ TICK #905 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "11:53:15 AM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "5:13:41 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:13:41 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,142 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:13:40 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:13:39 AM",
-      "who": "System",
-      "msg": "═══ TICK #887 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "4:52:44 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "4:52:44 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -23190,7 +23190,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "yes TheMongolz,yes Las Vegas",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
+      "open_interest_fp": "200.00",
       "open_time": "2026-08-14T21:29:58Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -23213,14 +23213,14 @@
       "title": "yes TheMongolz,yes Las Vegas",
       "updated_time": "2026-08-14T21:29:59.199505Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
+      "volume_fp": "200.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes TheMongolz,yes Las Vegas",
       "yes_bid": 0,
-      "volume": 100
+      "volume": 200
     },
     {
       "can_close_early": true,
@@ -26855,7 +26855,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-PDA",
       "title": "Will Matheus Pucinelli de Almeida win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-14T22:05:11.252513Z",
+      "updated_time": "2026-08-15T12:04:15.578419Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26909,7 +26909,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-KUM",
       "title": "Will Jan Kumstat win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-14T22:05:11.252513Z",
+      "updated_time": "2026-08-15T12:04:15.578419Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27110,23 +27110,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63014.48,
-      "pc": 62913.44,
-      "pct": 0.16060161389998842
+      "c": 62996.8,
+      "pc": 62774.69,
+      "pct": 0.3538209428035416
     },
     "BINANCE:ETHUSDT": {
-      "c": 1879.62,
-      "pc": 1880.72,
-      "pct": -0.05848823854694672
+      "c": 1878.93,
+      "pc": 1875.64,
+      "pct": 0.17540679448081528
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.25,
-      "pc": 75.56,
-      "pct": -0.4102699841185843
+      "c": 75.23,
+      "pc": 75.42,
+      "pct": -0.25192256695836346
     }
   },
-  "tick": 904,
-  "totalScanned": 90300,
+  "tick": 905,
+  "totalScanned": 90400,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27152,6 +27152,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T11:53:13.424Z",
+  "lastRun": "2026-08-15T12:12:22.121Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
