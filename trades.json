@@ -19243,7 +19243,7 @@
       "status": "open",
       "openedAt": "2026-08-15T15:53:50.732Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19256,6 +19256,84 @@
     }
   ],
   "log": [
+    {
+      "t": "4:09:29 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 769",
+      "type": "lt-sys"
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Knox",
+      "msg": "All 1 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Knox",
+      "msg": "Checking 1 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Axel",
+      "msg": "Exposure: 6% · Cash: $345.51",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "4:09:29 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:09:28 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "4:09:28 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,079 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:09:27 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "4:09:26 PM",
+      "who": "System",
+      "msg": "═══ TICK #915 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "3:53:51 PM",
       "who": "System",
@@ -20376,84 +20454,6 @@
       "t": "9:55:31 AM",
       "who": "Rex",
       "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:55:31 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:55:30 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,042 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:55:29 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:55:28 AM",
-      "who": "System",
-      "msg": "═══ TICK #898 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:39:04 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,000 SPY $$776.34",
       "type": "lt-info"
     }
   ],
@@ -25836,7 +25836,7 @@
       "latest_expiration_time": "2026-08-22T00:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9600",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Toronto Polar Bears",
       "notional_value_dollars": "1.0000",
@@ -25866,10 +25866,10 @@
       "volume_fp": "4.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0400",
-      "yes_bid_size_fp": "3.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Toronto Polar Bears",
-      "yes_bid": 0.04,
+      "yes_bid": 0,
       "volume": 4
     },
     {
@@ -27032,23 +27032,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63100.7,
-      "pc": 63019.99,
-      "pct": 0.12807047414637662
+      "c": 63078.96,
+      "pc": 63029.99,
+      "pct": 0.07769317431273774
     },
     "BINANCE:ETHUSDT": {
-      "c": 1885.09,
-      "pc": 1882.73,
-      "pct": 0.1253498908499838
+      "c": 1884.68,
+      "pc": 1881.23,
+      "pct": 0.18339065398702156
     },
     "BINANCE:SOLUSDT": {
       "c": 75.51,
-      "pc": 75.7,
-      "pct": -0.2509907529722559
+      "pc": 75.63,
+      "pct": -0.15866719555730574
     }
   },
-  "tick": 914,
-  "totalScanned": 91300,
+  "tick": 915,
+  "totalScanned": 91400,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27074,6 +27074,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T15:53:48.578Z",
+  "lastRun": "2026-08-15T16:09:26.574Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
