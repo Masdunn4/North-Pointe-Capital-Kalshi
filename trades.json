@@ -1,5 +1,5 @@
 {
-  "cash": 321.51,
+  "cash": 338.68,
   "startCash": 200,
   "trades": [
     {
@@ -19212,10 +19212,10 @@
       "entryPrice": 0.96,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.5,
+      "status": "win",
       "openedAt": "2026-08-15T15:53:50.732Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T17:13:11.193Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -19237,10 +19237,10 @@
       "entryPrice": 0.72,
       "currentPrice": 0,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 4.67,
+      "status": "win",
       "openedAt": "2026-08-15T16:37:27.888Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T17:13:11.193Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -19276,59 +19276,34 @@
       "payoutMult": "1.12",
       "expectedReturn": "0.0",
       "entryScore": 7
-    }
-  ],
-  "positions": [
+    },
     {
-      "id": 1786809230732.876,
-      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
-      "market": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
+      "id": 1786813989908.659,
+      "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4",
+      "market": "Will over 3.5 goals be scored?",
       "category": "Unknown",
       "agent": "Zara",
       "side": "NO",
-      "entryPrice": 0.96,
-      "currentPrice": 0,
+      "entryPrice": 0.85,
+      "currentPrice": 0.15,
       "size": 12,
       "pnl": 0,
       "status": "open",
-      "openedAt": "2026-08-15T15:53:50.732Z",
+      "openedAt": "2026-08-15T17:13:09.908Z",
       "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T00:00:00Z",
-      "reasoning": "NO: 96¢",
-      "kellyFrac": "12.5",
-      "payoutMult": "1.04",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786811847888.5647,
-      "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-2",
-      "market": "Will over 1.5 goals be scored?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "YES",
-      "entryPrice": 0.72,
-      "currentPrice": 0,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-15T16:37:27.888Z",
-      "closedAt": null,
-      "ticksOpen": 2,
-      "conf": "low",
+      "ticksOpen": 0,
+      "conf": "med",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-18T02:30:00Z",
-      "reasoning": "YES: 72¢",
-      "kellyFrac": "5.4",
-      "payoutMult": "1.39",
-      "expectedReturn": "-0.0",
-      "entryScore": 4
-    },
+      "reasoning": "NO: 85¢",
+      "kellyFrac": "15.0",
+      "payoutMult": "1.18",
+      "expectedReturn": "0.0",
+      "entryScore": 6
+    }
+  ],
+  "positions": [
     {
       "id": 1786812999262.549,
       "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1",
@@ -19342,20 +19317,177 @@
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-15T16:56:39.262Z",
+      "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "med",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T02:30:00Z",
+      "reasoning": "YES: 89¢",
+      "kellyFrac": "15.0",
+      "payoutMult": "1.12",
+      "expectedReturn": "0.0",
+      "entryScore": 7
+    },
+    {
+      "id": 1786813989908.659,
+      "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4",
+      "market": "Will over 3.5 goals be scored?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.85,
+      "currentPrice": 0.15,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T17:13:09.908Z",
       "closedAt": null,
       "ticksOpen": 1,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-18T02:30:00Z",
-      "reasoning": "YES: 89¢",
+      "reasoning": "NO: 85¢",
       "kellyFrac": "15.0",
-      "payoutMult": "1.12",
+      "payoutMult": "1.18",
       "expectedReturn": "0.0",
-      "entryScore": 7
+      "entryScore": 6
     }
   ],
   "log": [
+    {
+      "t": "5:13:11 PM",
+      "who": "System",
+      "msg": "Portfolio: $362.68 · Realized P&L: +$162.68 · Trades: 772",
+      "type": "lt-sys"
+    },
+    {
+      "t": "5:13:11 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will over 1.5 goals be scored?\" → +$4.67",
+      "type": "lt-trade"
+    },
+    {
+      "t": "5:13:11 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the Toronto Polar Bears w\" → +$0.50",
+      "type": "lt-trade"
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 15¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1 open · mark 89¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPERLIGA1TOTAL-26AUG15CHAMEL-2 tick:3 → WIN ✓ (winP:75%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-2 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPPLMATCH-26AUG14TPBSDS-TPB tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "5:13:10 PM",
+      "who": "Knox",
+      "msg": "Checking 4 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will over 3.5 goals be score\" · $12.00 · win 91% · profit if win: +$2.12",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Axel",
+      "msg": "Exposure: 18% · Cash: $321.51",
+      "type": ""
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Nova",
+      "msg": "Diversified: 1 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Flash",
+      "msg": "1 short · 0 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "5:13:09 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,097 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:13:07 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:13:07 PM",
+      "who": "System",
+      "msg": "═══ TICK #918 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "4:56:40 PM",
       "who": "System",
@@ -20420,138 +20552,6 @@
     },
     {
       "t": "11:31:47 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "11:31:47 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "11:31:47 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "11:31:47 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:31:47 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "11:31:47 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,039 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:31:46 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "11:31:45 AM",
-      "who": "System",
-      "msg": "═══ TICK #903 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "11:08:56 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:08:55 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "11:08:55 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,038 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "11:08:54 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "11:08:53 AM",
-      "who": "System",
-      "msg": "═══ TICK #902 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:55:29 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:55:29 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "10:55:29 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "10:55:29 AM",
       "who": "Axel",
       "msg": "Exposure: 0% · Cash: $357.51",
       "type": ""
@@ -26085,7 +26085,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-FER",
       "title": "Will Arthur Fery win set 1 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:15.178201Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26139,7 +26139,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-DUC",
       "title": "Will James Duckworth win set 1 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:15.178201Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26194,7 +26194,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER21",
       "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
-      "updated_time": "2026-08-14T22:07:56.107635Z",
+      "updated_time": "2026-08-15T17:04:15.450129Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26249,7 +26249,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER20",
       "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
-      "updated_time": "2026-08-14T22:07:56.041458Z",
+      "updated_time": "2026-08-15T17:04:15.450129Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26304,7 +26304,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC21",
       "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
-      "updated_time": "2026-08-14T22:07:56.243034Z",
+      "updated_time": "2026-08-15T17:04:15.450129Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26359,7 +26359,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC20",
       "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
-      "updated_time": "2026-08-14T22:07:56.315298Z",
+      "updated_time": "2026-08-15T17:04:15.450129Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26413,7 +26413,7 @@
       "strike_type": "structured",
       "ticker": "KXATPMATCH-26AUG15FERDUC-FER",
       "title": "Will Arthur Fery win the Fery vs Duckworth: Round Of 64 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:14.763434Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26467,7 +26467,7 @@
       "strike_type": "structured",
       "ticker": "KXATPMATCH-26AUG15FERDUC-DUC",
       "title": "Will James Duckworth win the Fery vs Duckworth: Round Of 64 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:14.763434Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26521,7 +26521,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-2-FER",
       "title": "Will Arthur Fery win set 2 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:14.548106Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26575,7 +26575,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-2-DUC",
       "title": "Will James Duckworth win set 2 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T17:04:14.548106Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26751,16 +26751,16 @@
       "expiration_time": "2026-08-18T02:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.1900",
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.8500",
+      "no_bid_dollars": "0.8100",
       "no_sub_title": "Over 3.5 goals scored",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T00:30:00Z",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "34.29",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -26782,15 +26782,15 @@
       "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4",
       "title": "Will over 3.5 goals be scored?",
       "updated_time": "2026-08-14T22:05:11.028523Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "volume_24h_fp": "20.00",
+      "volume_fp": "34.29",
+      "yes_ask_dollars": "0.1900",
+      "yes_ask_size_fp": "5.71",
+      "yes_bid_dollars": "0.1500",
+      "yes_bid_size_fp": "40.00",
       "yes_sub_title": "Over 3.5 goals scored",
-      "yes_bid": 0,
-      "volume": 0
+      "yes_bid": 0.15,
+      "volume": 34.29
     },
     {
       "can_close_early": true,
@@ -26943,7 +26943,7 @@
       "yes_ask_dollars": "0.9700",
       "yes_ask_size_fp": "2.79",
       "yes_bid_dollars": "0.8900",
-      "yes_bid_size_fp": "3.05",
+      "yes_bid_size_fp": "2.05",
       "yes_sub_title": "Over 0.5 goals scored",
       "yes_bid": 0.89,
       "volume": 0
@@ -27031,35 +27031,35 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63096.63,
-      "pc": 63129.85,
-      "pct": -0.05262169956051086
+      "c": 63096.58,
+      "pc": 63136.59,
+      "pct": -0.06337054313512143
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.69,
-      "pc": 1884.86,
-      "pct": -0.009019237503042421
+      "c": 1885.44,
+      "pc": 1883.32,
+      "pct": 0.11256716861712923
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.49,
-      "pc": 75.5,
-      "pct": -0.013245033112589557
+      "c": 75.59,
+      "pc": 75.47,
+      "pct": 0.1590035775805016
     }
   },
-  "tick": 917,
-  "totalScanned": 91600,
+  "tick": 918,
+  "totalScanned": 91700,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
       "total": 115
     },
     "Unknown|YES|short": {
-      "wins": 80,
-      "total": 93
+      "wins": 81,
+      "total": 94
     },
     "Unknown|NO|short": {
-      "wins": 494,
-      "total": 551
+      "wins": 495,
+      "total": 552
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -27072,7 +27072,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 768,
-  "lastRun": "2026-08-15T16:56:37.165Z",
+  "learnTotal": 770,
+  "lastRun": "2026-08-15T17:13:07.376Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
