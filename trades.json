@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "1:24:05 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "1:24:05 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,036 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:24:03 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "1:24:03 PM",
+      "who": "System",
+      "msg": "═══ TICK #907 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "12:57:00 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "5:57:42 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,062 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:57:40 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:57:40 AM",
-      "who": "System",
-      "msg": "═══ TICK #889 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:39:38 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:39:38 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -26747,7 +26747,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-PDA",
       "title": "Will Matheus Pucinelli de Almeida win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-15T12:04:15.578419Z",
+      "updated_time": "2026-08-15T13:04:13.958613Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26801,7 +26801,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-KUM",
       "title": "Will Jan Kumstat win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-15T12:04:15.578419Z",
+      "updated_time": "2026-08-15T13:04:13.958613Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27110,23 +27110,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 62974.79,
-      "pc": 62786,
-      "pct": 0.3006880514764452
+      "c": 63036.25,
+      "pc": 62688.74,
+      "pct": 0.5543419759274186
     },
     "BINANCE:ETHUSDT": {
-      "c": 1879.8,
-      "pc": 1875.72,
-      "pct": 0.21751647367410526
+      "c": 1883.11,
+      "pc": 1869.03,
+      "pct": 0.7533319422374134
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.3,
-      "pc": 75.5,
-      "pct": -0.2649006622516594
+      "c": 75.46,
+      "pc": 75.35,
+      "pct": 0.14598540145985328
     }
   },
-  "tick": 906,
-  "totalScanned": 90500,
+  "tick": 907,
+  "totalScanned": 90600,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27152,6 +27152,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T12:56:58.704Z",
+  "lastRun": "2026-08-15T13:24:03.199Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
