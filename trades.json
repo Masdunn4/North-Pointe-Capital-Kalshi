@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "2:09:34 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "2:09:34 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,043 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:09:32 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:09:32 PM",
+      "who": "System",
+      "msg": "═══ TICK #909 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "1:48:01 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "7:05:33 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:05:33 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,114 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:05:31 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:05:30 AM",
-      "who": "System",
-      "msg": "═══ TICK #891 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:27:22 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -22945,75 +22945,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Millwall,yes Team Heretics",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T10:00:00Z",
-      "created_time": "2026-08-14T21:30:51.326681Z",
-      "custom_strike": {
-        "Associated Events": "KXKBOGAME-26AUG160600DOOKIA,KXLOLGAME-26AUG150500ALTT",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXKBOGAME-26AUG160600DOOKIA-KIA,KXLOLGAME-26AUG150500ALTT-TT",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026214CDDD6411"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026214CDDD6411",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T16:00:00Z",
-      "expiration_time": "2026-08-18T10:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T10:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXKBOGAME-26AUG160600DOOKIA",
-          "market_ticker": "KXKBOGAME-26AUG160600DOOKIA-KIA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLOLGAME-26AUG150500ALTT",
-          "market_ticker": "KXLOLGAME-26AUG150500ALTT-TT",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Kia Tigers,yes ThunderTalk Gaming",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:30:51Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026214CDDD6411-4048A85F4C7",
-      "title": "yes Kia Tigers,yes ThunderTalk Gaming",
-      "updated_time": "2026-08-14T21:30:52.199263Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Kia Tigers,yes ThunderTalk Gaming",
       "yes_bid": 0,
       "volume": 0
     },
@@ -26463,7 +26394,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15DODMOE-MOE",
       "title": "Will Marvin Moeller win the Dodig vs Moeller: Semifinal match?",
-      "updated_time": "2026-08-14T22:05:10.96834Z",
+      "updated_time": "2026-08-15T14:04:19.454593Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26517,7 +26448,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15DODMOE-DOD",
       "title": "Will Matej Dodig win the Dodig vs Moeller: Semifinal match?",
-      "updated_time": "2026-08-14T22:05:10.96834Z",
+      "updated_time": "2026-08-15T14:04:19.454593Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27067,6 +26998,60 @@
       "yes_sub_title": "Fire Flux Esports",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.704045Z",
+      "custom_strike": {
+        "esports_competitor": "aafb5b2d-7b83-4ff8-ba36-3bb8b30bb8e1"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2GAME-26AUG150900EXMANAMOUZN",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "MOUZ NXT",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T17:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If MOUZ NXT wins the ESL Challenger League Europe Cup #3 2026: ex-MANA eSports vs. MOUZ NXT CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the full match in the ESL Challenger League Europe Cup #3 2026: ex-MANA eSports vs. MOUZ NXT CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf the relevant match begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 116,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2GAME-26AUG150900EXMANAMOUZN-MOUZN",
+      "title": "Will MOUZ NXT win the ex-MANA eSports vs. MOUZ NXT CS2 match?",
+      "updated_time": "2026-08-15T14:04:18.850342Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "MOUZ NXT",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27096,23 +27081,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63031.44,
-      "pc": 62690.05,
-      "pct": 0.5445680773902707
+      "c": 63042.83,
+      "pc": 62633.49,
+      "pct": 0.6535481257710593
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.65,
-      "pc": 1868.38,
-      "pct": 0.817285562894057
+      "c": 1883.18,
+      "pc": 1867.92,
+      "pct": 0.8169514754379197
     },
     "BINANCE:SOLUSDT": {
       "c": 75.57,
-      "pc": 75.38,
-      "pct": 0.2520562483417322
+      "pc": 75.32,
+      "pct": 0.33191715347849177
     }
   },
-  "tick": 908,
-  "totalScanned": 90700,
+  "tick": 909,
+  "totalScanned": 90800,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27138,6 +27123,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T13:47:59.074Z",
+  "lastRun": "2026-08-15T14:09:32.117Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
