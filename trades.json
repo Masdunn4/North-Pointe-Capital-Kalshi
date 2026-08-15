@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "3:32:50 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:32:50 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:32:49 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:32:49 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,074 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:32:48 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:32:48 PM",
+      "who": "System",
+      "msg": "═══ TICK #913 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "3:11:04 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "8:50:35 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:50:34 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "8:50:34 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,050 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:50:33 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "8:50:32 AM",
-      "who": "System",
-      "msg": "═══ TICK #895 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:18:22 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -25981,222 +25981,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.644717Z",
-      "custom_strike": {
-        "tennis_competitor": "584595ef-c31a-4e0d-a538-67b60b7a3182"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Matheus Pucinelli de Almeida",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T12:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Matheus Pucinelli de Almeida wins the Pucinelli de Almeida vs Kumstat professional tennis match in the 2026 ATP Challenger Hamburg Semifinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Pucinelli de Almeida vs Kumstat professional tennis match in the 2026 ATP Challenger Hamburg Semifinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-PDA",
-      "title": "Will Matheus Pucinelli de Almeida win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-15T13:04:13.958613Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Matheus Pucinelli de Almeida",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.644717Z",
-      "custom_strike": {
-        "tennis_competitor": "1c818786-15bf-4874-9898-135700581a35"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Jan Kumstat",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T12:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Jan Kumstat wins the Pucinelli de Almeida vs Kumstat professional tennis match in the 2026 ATP Challenger Hamburg Semifinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Pucinelli de Almeida vs Kumstat professional tennis match in the 2026 ATP Challenger Hamburg Semifinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERMATCH-26AUG15PDAKUM-KUM",
-      "title": "Will Jan Kumstat win the Pucinelli de Almeida vs Kumstat: Semifinal match?",
-      "updated_time": "2026-08-15T13:04:13.958613Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Jan Kumstat",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-17T13:00:00Z",
-      "created_time": "2026-08-14T21:06:56.769904Z",
-      "custom_strike": {
-        "esports_competitor": "4a1ee82e-c808-4544-9d96-5dae6aa52946"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXCS2MAP-26AUG150900OGFIRE-2",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-15T19:00:00Z",
-      "expiration_time": "2026-08-17T13:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T13:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.7000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "OG",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T16:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If OG wins map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 119,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXCS2MAP-26AUG150900OGFIRE-2-OG",
-      "title": "Will OG win map 2 in the OG vs. Fire Flux Esports match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.3000",
-      "yes_bid_size_fp": "1.00",
-      "yes_sub_title": "OG",
-      "yes_bid": 0.3,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-17T13:00:00Z",
-      "created_time": "2026-08-14T21:06:56.769904Z",
-      "custom_strike": {
-        "esports_competitor": "86e33ac8-3666-4c6a-826d-017c869a15a8"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXCS2MAP-26AUG150900OGFIRE-2",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-15T19:00:00Z",
-      "expiration_time": "2026-08-17T13:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T13:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Fire Flux Esports",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T16:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Fire Flux Esports wins map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 119,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXCS2MAP-26AUG150900OGFIRE-2-FIRE",
-      "title": "Will Fire Flux Esports win map 2 in the OG vs. Fire Flux Esports match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Fire Flux Esports",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-17T13:00:00Z",
       "created_time": "2026-08-14T21:06:56.704045Z",
       "custom_strike": {
@@ -26516,58 +26300,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Fire Flux Esports",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-17T13:00:00Z",
-      "created_time": "2026-08-14T21:06:56.344307Z",
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXCS2TOTALMAPS-26AUG150900BMBSIN",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-15T19:00:00Z",
-      "expiration_time": "2026-08-17T13:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 2.5,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T13:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Over 2.5 maps",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T17:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If over 2.5 maps are played in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 119,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXCS2TOTALMAPS-26AUG150900BMBSIN-3",
-      "title": "Will over 2.5 maps be played in the BASEMENT BOYS vs. SINQU CS2 match?",
-      "updated_time": "2026-08-14T21:35:12.250087Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Over 2.5 maps",
       "yes_bid": 0,
       "volume": 0
     },
@@ -26946,6 +26678,280 @@
       "yes_sub_title": "James Duckworth",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.982145Z",
+      "custom_strike": {
+        "Set Score": "2-1",
+        "tennis_competitor": "f9eed766-f2d1-4472-a150-4679fdbb1f97"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXATPEXACTMATCH-26AUG15FERDUC",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T20:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Arthur Fery wins 2-1",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Arthur Fery wins the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 by a set score of 2-1, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER21",
+      "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
+      "updated_time": "2026-08-14T22:07:56.107635Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Arthur Fery wins 2-1",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.982145Z",
+      "custom_strike": {
+        "Set Score": "2-0",
+        "tennis_competitor": "f9eed766-f2d1-4472-a150-4679fdbb1f97"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXATPEXACTMATCH-26AUG15FERDUC",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T20:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Arthur Fery wins 2-0",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Arthur Fery wins the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 by a set score of 2-0, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER20",
+      "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
+      "updated_time": "2026-08-14T22:07:56.041458Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Arthur Fery wins 2-0",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.982145Z",
+      "custom_strike": {
+        "Set Score": "2-1",
+        "tennis_competitor": "2dd4a596-5348-41bc-bc29-f46cbc01bff6"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXATPEXACTMATCH-26AUG15FERDUC",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T20:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "James Duckworth wins 2-1",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If James Duckworth wins the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 by a set score of 2-1, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC21",
+      "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
+      "updated_time": "2026-08-14T22:07:56.243034Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "James Duckworth wins 2-1",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.982145Z",
+      "custom_strike": {
+        "Set Score": "2-0",
+        "tennis_competitor": "2dd4a596-5348-41bc-bc29-f46cbc01bff6"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXATPEXACTMATCH-26AUG15FERDUC",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T20:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "James Duckworth wins 2-0",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If James Duckworth wins the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 by a set score of 2-0, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC20",
+      "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
+      "updated_time": "2026-08-14T22:07:56.315298Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "James Duckworth wins 2-0",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.967454Z",
+      "custom_strike": {
+        "tennis_competitor": "f9eed766-f2d1-4472-a150-4679fdbb1f97"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXATPMATCH-26AUG15FERDUC",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T23:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Arthur Fery",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Arthur Fery wins the Fery vs Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 after a ball has been played, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Fery vs Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 60,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXATPMATCH-26AUG15FERDUC-FER",
+      "title": "Will Arthur Fery win the Fery vs Duckworth: Round Of 64 match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Arthur Fery",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -26975,23 +26981,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63040.01,
-      "pc": 62709.47,
-      "pct": 0.5270974224467228
+      "c": 63074,
+      "pc": 62814,
+      "pct": 0.4139204635909192
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.32,
-      "pc": 1868.95,
-      "pct": 0.7688809224430772
+      "c": 1884.67,
+      "pc": 1876.97,
+      "pct": 0.4102356457482029
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.46,
-      "pc": 75.27,
-      "pct": 0.252424604756208
+      "c": 75.49,
+      "pc": 75.47,
+      "pct": 0.026500596263410656
     }
   },
-  "tick": 912,
-  "totalScanned": 91100,
+  "tick": 913,
+  "totalScanned": 91200,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27017,6 +27023,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T15:11:02.204Z",
+  "lastRun": "2026-08-15T15:32:48.488Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
