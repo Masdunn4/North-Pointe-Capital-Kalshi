@@ -1,5 +1,5 @@
 {
-  "cash": 242.24,
+  "cash": 246.08,
   "startCash": 200,
   "trades": [
     {
@@ -19512,10 +19512,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-15T19:52:12.903Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T21:11:19.812Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -19537,10 +19537,10 @@
       "entryPrice": 0.91,
       "currentPrice": 0.05,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 1.19,
+      "status": "win",
       "openedAt": "2026-08-15T19:52:13.243Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T21:11:19.812Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -19562,10 +19562,10 @@
       "entryPrice": 0.95,
       "currentPrice": 0.04,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.63,
+      "status": "win",
       "openedAt": "2026-08-15T19:52:13.584Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T21:11:19.812Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -19635,7 +19635,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.9,
-      "currentPrice": 0.06,
+      "currentPrice": 0.28,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -19735,7 +19735,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.88,
-      "currentPrice": 0.11,
+      "currentPrice": 0.12,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -19760,7 +19760,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.89,
-      "currentPrice": 0.11,
+      "currentPrice": 0.06,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -19776,84 +19776,59 @@
       "payoutMult": "1.12",
       "expectedReturn": "0.0",
       "entryScore": 7
+    },
+    {
+      "id": 1786828276309.379,
+      "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-1",
+      "market": "Will over 0.5 goals be scored?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "YES",
+      "entryPrice": 0.84,
+      "currentPrice": 0.84,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T21:11:16.309Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "med",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T03:00:00Z",
+      "reasoning": "YES: 84¢",
+      "kellyFrac": "15.0",
+      "payoutMult": "1.19",
+      "expectedReturn": "-0.0",
+      "entryScore": 6
+    },
+    {
+      "id": 1786828276646.6174,
+      "ticker": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2",
+      "market": "Godoy Cruz wins by more than 1.5 goals?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.78,
+      "currentPrice": 0.22,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T21:11:16.646Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "low",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T03:00:00Z",
+      "reasoning": "NO: 78¢",
+      "kellyFrac": "6.8",
+      "payoutMult": "1.28",
+      "expectedReturn": "-0.0",
+      "entryScore": 5
     }
   ],
   "positions": [
-    {
-      "id": 1786823532903.3193,
-      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
-      "market": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-15T19:52:12.903Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T00:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786823533243.579,
-      "ticker": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3",
-      "market": "Godoy Cruz wins by more than 2.5 goals?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.91,
-      "currentPrice": 0.05,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-15T19:52:13.243Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T03:00:00Z",
-      "reasoning": "NO: 91¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.10",
-      "expectedReturn": "-0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786823533584.6548,
-      "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-5",
-      "market": "Will over 4.5 goals be scored?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.95,
-      "currentPrice": 0.04,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-15T19:52:13.584Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T03:00:00Z",
-      "reasoning": "NO: 95¢",
-      "kellyFrac": "15.0",
-      "payoutMult": "1.05",
-      "expectedReturn": "-0.0",
-      "entryScore": 8
-    },
     {
       "id": 1786824468476.1877,
       "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1",
@@ -19868,7 +19843,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:07:48.476Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -19893,7 +19868,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:07:48.791Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19912,13 +19887,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.9,
-      "currentPrice": 0.06,
+      "currentPrice": 0.28,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-15T20:07:49.106Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -19943,7 +19918,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:35:51.326Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19968,7 +19943,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:35:51.680Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19987,13 +19962,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.88,
-      "currentPrice": 0.11,
+      "currentPrice": 0.12,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-15T20:35:52.034Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -20012,13 +19987,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.89,
-      "currentPrice": 0.11,
+      "currentPrice": 0.06,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-15T20:56:03.267Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -20028,9 +20003,305 @@
       "payoutMult": "1.12",
       "expectedReturn": "0.0",
       "entryScore": 7
+    },
+    {
+      "id": 1786828276309.379,
+      "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-1",
+      "market": "Will over 0.5 goals be scored?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "YES",
+      "entryPrice": 0.84,
+      "currentPrice": 0.84,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T21:11:16.309Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "med",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T03:00:00Z",
+      "reasoning": "YES: 84¢",
+      "kellyFrac": "15.0",
+      "payoutMult": "1.19",
+      "expectedReturn": "-0.0",
+      "entryScore": 6
+    },
+    {
+      "id": 1786828276646.6174,
+      "ticker": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2",
+      "market": "Godoy Cruz wins by more than 1.5 goals?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.78,
+      "currentPrice": 0.22,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T21:11:16.646Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "low",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T03:00:00Z",
+      "reasoning": "NO: 78¢",
+      "kellyFrac": "6.8",
+      "payoutMult": "1.28",
+      "expectedReturn": "-0.0",
+      "entryScore": 5
     }
   ],
   "log": [
+    {
+      "t": "9:11:19 PM",
+      "who": "System",
+      "msg": "Portfolio: $344.08 · Realized P&L: +$144.08 · Trades: 793",
+      "type": "lt-sys"
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will over 4.5 goals be scored?\" → +$0.63",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Godoy Cruz wins by more than 2\" → +$1.19",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the Toronto Polar Bears w\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 22¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 open · mark 84¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "9:11:19 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 6¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 open · mark 12¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 open · mark 6¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-6 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-6 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-5 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:11:18 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-5 open · mark 28¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL3 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL3 open · mark 6¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-1 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXARGNACBTOTAL-26AUG15GODMAI-5 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-5 open · mark 4¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXARGNACBSPREAD-26AUG15GODMAI-GOD3 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:17 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 5¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPPLMATCH-26AUG14TPBSDS-TPB tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 1¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Knox",
+      "msg": "Checking 12 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Godoy Cruz wins by more than\" · $12.00 · win 81% · profit if win: +$3.38",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: YES \"Will over 0.5 goals be score\" · $12.00 · win 90% · profit if win: +$2.29",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Axel",
+      "msg": "Exposure: 50% · Cash: $242.24",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Nova",
+      "msg": "Diversified: 2 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Flash",
+      "msg": "2 short · 0 long · YES:1 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:11:16 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "9:11:15 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,103 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:11:14 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:11:14 PM",
+      "who": "System",
+      "msg": "═══ TICK #929 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "8:56:07 PM",
       "who": "System",
@@ -20984,252 +21255,6 @@
       "who": "Knox",
       "msg": "✓ WIN \"Godoy Cruz wins by more than 2\" → +$0.77",
       "type": "lt-trade"
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 22¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 25¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL2 tick:3 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "7:31:23 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPPLMATCH-26AUG14TPBSDS-TPB tick:3 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 1¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPERLIGA1TOTAL-26AUG15CHAMEL-2 tick:5 → LOSS ✗ (winP:74%)",
-      "type": "lt-err"
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXARGNACBSPREAD-26AUG15GODMAI-GOD3 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 8¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Knox",
-      "msg": "Checking 6 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "7:31:22 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Godoy Cruz wins by more than\" · $12.00 · win 81% · profit if win: +$3.38",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Axel",
-      "msg": "Exposure: 25% · Cash: $319.66",
-      "type": ""
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Nova",
-      "msg": "Diversified: 1 short (100%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Flash",
-      "msg": "1 short · 0 long · YES:0 NO:1 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:31:21 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,101 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:31:20 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:31:19 PM",
-      "who": "System",
-      "msg": "═══ TICK #924 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "System",
-      "msg": "Portfolio: $369.66 · Realized P&L: +$169.66 · Trades: 778",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Godoy Cruz wins by more than 1\" → +$3.38",
-      "type": "lt-trade"
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 25¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL2 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-MEL2 open · mark 10¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "7:11:55 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 1¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-2 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-2 open · mark 71¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXARGNACBSPREAD-26AUG15GODMAI-GOD2 tick:5 → WIN ✓ (winP:81%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 22¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 8¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Knox",
-      "msg": "Checking 6 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Axel",
-      "msg": "Exposure: 31% · Cash: $304.28",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:11:54 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
     }
   ],
   "markets": [
@@ -24396,75 +24421,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T17:10:00Z",
-      "created_time": "2026-08-14T21:18:42.617309Z",
-      "custom_strike": {
-        "Associated Events": "KXCS2GAME-26AUG160700NIPAST,KXMLBGAME-26AUG151310CWSDET",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXCS2GAME-26AUG160700NIPAST-NIP,KXMLBGAME-26AUG151310CWSDET-DET",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S202643D510832E5"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S202643D510832E5",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T17:00:00Z",
-      "expiration_time": "2026-08-18T17:10:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T17:10:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXCS2GAME-26AUG160700NIPAST",
-          "market_ticker": "KXCS2GAME-26AUG160700NIPAST-NIP",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG151310CWSDET",
-          "market_ticker": "KXMLBGAME-26AUG151310CWSDET-DET",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes NIP,yes Detroit",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:18:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S202643D510832E5-F3F353E13E5",
-      "title": "yes NIP,yes Detroit",
-      "updated_time": "2026-08-14T21:18:42.861166Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes NIP,yes Detroit",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-19T20:07:00Z",
       "created_time": "2026-08-14T21:18:32.368474Z",
       "custom_strike": {
@@ -25361,75 +25317,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T05:30:00Z",
-      "created_time": "2026-08-14T21:10:36.457624Z",
-      "custom_strike": {
-        "Associated Events": "KXARGPREMDIVGAME-26AUG15RACBAN,KXNFLGAME-26AUG15CARBUF",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXARGPREMDIVGAME-26AUG15RACBAN-BAN,KXNFLGAME-26AUG15CARBUF-CAR",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026680A2E8CE8C"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026680A2E8CE8C",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T05:30:00Z",
-      "expiration_time": "2026-08-18T05:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T05:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXARGPREMDIVGAME-26AUG15RACBAN",
-          "market_ticker": "KXARGPREMDIVGAME-26AUG15RACBAN-BAN",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNFLGAME-26AUG15CARBUF",
-          "market_ticker": "KXNFLGAME-26AUG15CARBUF-CAR",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Banfield,yes Carolina",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:10:36Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026680A2E8CE8C-9C050B781FC",
-      "title": "yes Banfield,yes Carolina",
-      "updated_time": "2026-08-14T21:10:37.327684Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Banfield,yes Carolina",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-19T09:00:00Z",
       "created_time": "2026-08-14T21:09:54.840355Z",
       "custom_strike": {
@@ -25985,7 +25872,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-FER",
       "title": "Will Arthur Fery win set 1 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-15T20:04:29.54469Z",
+      "updated_time": "2026-08-15T21:04:14.543898Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26039,7 +25926,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-DUC",
       "title": "Will James Duckworth win set 1 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-15T20:04:29.54469Z",
+      "updated_time": "2026-08-15T21:04:14.543898Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26094,7 +25981,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER21",
       "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
-      "updated_time": "2026-08-15T20:04:31.165316Z",
+      "updated_time": "2026-08-15T21:04:14.643829Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26149,7 +26036,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-FER20",
       "title": "Will Arthur Fery win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
-      "updated_time": "2026-08-15T20:04:31.165316Z",
+      "updated_time": "2026-08-15T21:04:14.643829Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26204,7 +26091,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC21",
       "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-1?",
-      "updated_time": "2026-08-15T20:04:31.165316Z",
+      "updated_time": "2026-08-15T21:04:14.643829Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26259,7 +26146,7 @@
       "strike_type": "custom",
       "ticker": "KXATPEXACTMATCH-26AUG15FERDUC-DUC20",
       "title": "Will James Duckworth win the Arthur Fery vs James Duckworth match by a set score of 2-0?",
-      "updated_time": "2026-08-15T20:04:31.165316Z",
+      "updated_time": "2026-08-15T21:04:14.643829Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26313,7 +26200,7 @@
       "strike_type": "structured",
       "ticker": "KXATPMATCH-26AUG15FERDUC-FER",
       "title": "Will Arthur Fery win the Fery vs Duckworth: Round Of 64 match?",
-      "updated_time": "2026-08-15T20:04:30.332053Z",
+      "updated_time": "2026-08-15T21:04:14.477753Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26367,7 +26254,7 @@
       "strike_type": "structured",
       "ticker": "KXATPMATCH-26AUG15FERDUC-DUC",
       "title": "Will James Duckworth win the Fery vs Duckworth: Round Of 64 match?",
-      "updated_time": "2026-08-15T20:04:30.332053Z",
+      "updated_time": "2026-08-15T21:04:14.477753Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26421,7 +26308,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-2-FER",
       "title": "Will Arthur Fery win set 2 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-15T20:04:30.646063Z",
+      "updated_time": "2026-08-15T21:04:14.502467Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26475,7 +26362,7 @@
       "strike_type": "structured",
       "ticker": "KXATPSETWINNER-26AUG15FERDUC-2-DUC",
       "title": "Will James Duckworth win set 2 in the Arthur Fery vs James Duckworth match",
-      "updated_time": "2026-08-15T20:04:30.646063Z",
+      "updated_time": "2026-08-15T21:04:14.502467Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26500,8 +26387,8 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6000",
-      "no_bid_dollars": "0.5100",
+      "no_ask_dollars": "0.4500",
+      "no_bid_dollars": "0.3700",
       "no_sub_title": "Both Teams To Score",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T00:30:00Z",
@@ -26528,12 +26415,12 @@
       "updated_time": "2026-08-14T22:05:11.064625Z",
       "volume_24h_fp": "5.00",
       "volume_fp": "5.00",
-      "yes_ask_dollars": "0.4900",
-      "yes_ask_size_fp": "5.54",
-      "yes_bid_dollars": "0.4000",
-      "yes_bid_size_fp": "6.78",
+      "yes_ask_dollars": "0.6300",
+      "yes_ask_size_fp": "4.31",
+      "yes_bid_dollars": "0.5500",
+      "yes_bid_size_fp": "4.93",
       "yes_sub_title": "Both Teams To Score",
-      "yes_bid": 0.4,
+      "yes_bid": 0.55,
       "volume": 5
     },
     {
@@ -26603,8 +26490,8 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.9000",
+      "no_ask_dollars": "0.7200",
+      "no_bid_dollars": "0.6400",
       "no_sub_title": "Over 4.5 goals scored",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T00:30:00Z",
@@ -26632,12 +26519,12 @@
       "updated_time": "2026-08-14T22:05:11.028523Z",
       "volume_24h_fp": "25.00",
       "volume_fp": "25.00",
-      "yes_ask_dollars": "0.1000",
-      "yes_ask_size_fp": "27.15",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "271.59",
+      "yes_ask_dollars": "0.3600",
+      "yes_ask_size_fp": "7.54",
+      "yes_bid_dollars": "0.2800",
+      "yes_bid_size_fp": "9.69",
       "yes_sub_title": "Over 4.5 goals scored",
-      "yes_bid": 0.01,
+      "yes_bid": 0.28,
       "volume": 25
     },
     {
@@ -26651,16 +26538,16 @@
       "expiration_time": "2026-08-18T02:30:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
-      "last_price_dollars": "0.2000",
+      "last_price_dollars": "0.1100",
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8900",
+      "no_ask_dollars": "0.9400",
       "no_bid_dollars": "0.8600",
       "no_sub_title": "Over 3.5 goals scored",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T00:30:00Z",
-      "open_interest_fp": "303.00",
+      "open_interest_fp": "327.69",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -26682,15 +26569,15 @@
       "ticker": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4",
       "title": "Will over 3.5 goals be scored?",
       "updated_time": "2026-08-14T22:05:11.028523Z",
-      "volume_24h_fp": "303.00",
-      "volume_fp": "303.00",
+      "volume_24h_fp": "327.69",
+      "volume_fp": "327.69",
       "yes_ask_dollars": "0.1400",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.1100",
-      "yes_bid_size_fp": "24.69",
+      "yes_bid_dollars": "0.0600",
+      "yes_bid_size_fp": "3.00",
       "yes_sub_title": "Over 3.5 goals scored",
-      "yes_bid": 0.11,
-      "volume": 303
+      "yes_bid": 0.06,
+      "volume": 327.69
     },
     {
       "can_close_early": true,
@@ -26707,7 +26594,7 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6900",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.6600",
       "no_sub_title": "Over 2.5 goals scored",
       "notional_value_dollars": "1.0000",
@@ -26738,10 +26625,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.3400",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.3100",
-      "yes_bid_size_fp": "8.76",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Over 2.5 goals scored",
-      "yes_bid": 0.31,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -26759,7 +26646,7 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.4300",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.3900",
       "no_sub_title": "Over 1.5 goals scored",
       "notional_value_dollars": "1.0000",
@@ -26790,10 +26677,10 @@
       "volume_fp": "2.00",
       "yes_ask_dollars": "0.6100",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.5700",
-      "yes_bid_size_fp": "4.76",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Over 1.5 goals scored",
-      "yes_bid": 0.57,
+      "yes_bid": 0,
       "volume": 2
     },
     {
@@ -26811,7 +26698,7 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.1900",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.1500",
       "no_sub_title": "Over 0.5 goals scored",
       "notional_value_dollars": "1.0000",
@@ -26842,10 +26729,10 @@
       "volume_fp": "3.00",
       "yes_ask_dollars": "0.8500",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.8100",
-      "yes_bid_size_fp": "3.35",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Over 0.5 goals scored",
-      "yes_bid": 0.81,
+      "yes_bid": 0,
       "volume": 3
     },
     {
@@ -26976,8 +26863,8 @@
       "latest_expiration_time": "2026-08-18T03:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9500",
-      "no_bid_dollars": "0.9200",
+      "no_ask_dollars": "0.9400",
+      "no_bid_dollars": "0.8800",
       "no_sub_title": "Godoy Cruz wins by more than 2.5 goals",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T01:00:00Z",
@@ -27005,12 +26892,12 @@
       "updated_time": "2026-08-14T22:07:55.457083Z",
       "volume_24h_fp": "176.26",
       "volume_fp": "176.26",
-      "yes_ask_dollars": "0.0800",
-      "yes_ask_size_fp": "10.00",
-      "yes_bid_dollars": "0.0500",
-      "yes_bid_size_fp": "54.31",
+      "yes_ask_dollars": "0.1200",
+      "yes_ask_size_fp": "20.00",
+      "yes_bid_dollars": "0.0600",
+      "yes_bid_size_fp": "45.26",
       "yes_sub_title": "Godoy Cruz wins by more than 2.5 goals",
-      "yes_bid": 0.05,
+      "yes_bid": 0.06,
       "volume": 176.26
     },
     {
@@ -27027,16 +26914,16 @@
       "expiration_time": "2026-08-18T03:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.5,
-      "last_price_dollars": "0.2200",
+      "last_price_dollars": "0.2600",
       "latest_expiration_time": "2026-08-18T03:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.7800",
-      "no_bid_dollars": "0.7400",
+      "no_bid_dollars": "0.6800",
       "no_sub_title": "Godoy Cruz wins by more than 1.5 goals",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T01:00:00Z",
-      "open_interest_fp": "219.10",
+      "open_interest_fp": "238.10",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -27058,15 +26945,15 @@
       "ticker": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2",
       "title": "Godoy Cruz wins by more than 1.5 goals?",
       "updated_time": "2026-08-14T22:07:55.58613Z",
-      "volume_24h_fp": "219.10",
-      "volume_fp": "219.10",
-      "yes_ask_dollars": "0.2600",
-      "yes_ask_size_fp": "19.00",
+      "volume_24h_fp": "238.10",
+      "volume_fp": "238.10",
+      "yes_ask_dollars": "0.3200",
+      "yes_ask_size_fp": "8.48",
       "yes_bid_dollars": "0.2200",
       "yes_bid_size_fp": "12.34",
       "yes_sub_title": "Godoy Cruz wins by more than 1.5 goals",
       "yes_bid": 0.22,
-      "volume": 219.1
+      "volume": 238.1
     },
     {
       "can_close_early": true,
@@ -27116,9 +27003,9 @@
       "volume_24h_fp": "1.00",
       "volume_fp": "1.00",
       "yes_ask_dollars": "0.1000",
-      "yes_ask_size_fp": "77.15",
+      "yes_ask_size_fp": "55.00",
       "yes_bid_dollars": "0.0600",
-      "yes_bid_size_fp": "50.00",
+      "yes_bid_size_fp": "55.00",
       "yes_sub_title": "Melgar wins by more than 2.5 goals",
       "yes_bid": 0.06,
       "volume": 1
@@ -27141,8 +27028,8 @@
       "latest_expiration_time": "2026-08-18T02:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8200",
-      "no_bid_dollars": "0.7600",
+      "no_ask_dollars": "0.3400",
+      "no_bid_dollars": "0.2600",
       "no_sub_title": "Melgar wins by more than 1.5 goals",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T00:30:00Z",
@@ -27170,12 +27057,12 @@
       "updated_time": "2026-08-14T22:07:55.805824Z",
       "volume_24h_fp": "150.00",
       "volume_fp": "150.00",
-      "yes_ask_dollars": "0.2400",
-      "yes_ask_size_fp": "11.31",
-      "yes_bid_dollars": "0.1800",
-      "yes_bid_size_fp": "20.00",
+      "yes_ask_dollars": "0.7400",
+      "yes_ask_size_fp": "3.67",
+      "yes_bid_dollars": "0.6600",
+      "yes_bid_size_fp": "4.11",
       "yes_sub_title": "Melgar wins by more than 1.5 goals",
-      "yes_bid": 0.18,
+      "yes_bid": 0.66,
       "volume": 150
     },
     {
@@ -27281,9 +27168,9 @@
       "volume_24h_fp": "65.94",
       "volume_fp": "65.94",
       "yes_ask_dollars": "0.1000",
-      "yes_ask_size_fp": "50.00",
+      "yes_ask_size_fp": "55.00",
       "yes_bid_dollars": "0.0600",
-      "yes_bid_size_fp": "50.00",
+      "yes_bid_size_fp": "55.00",
       "yes_sub_title": "Los Chankas CYC wins by more than 1.5 goals",
       "yes_bid": 0.06,
       "volume": 65.94
@@ -27302,8 +27189,8 @@
       "latest_expiration_time": "2026-08-18T03:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6400",
-      "no_bid_dollars": "0.5500",
+      "no_ask_dollars": "0.6300",
+      "no_bid_dollars": "0.5400",
       "no_sub_title": "Both Teams To Score",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T01:00:00Z",
@@ -27330,12 +27217,12 @@
       "updated_time": "2026-08-14T21:35:12.20399Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.4500",
-      "yes_ask_size_fp": "9.06",
-      "yes_bid_dollars": "0.3600",
-      "yes_bid_size_fp": "7.54",
+      "yes_ask_dollars": "0.4600",
+      "yes_ask_size_fp": "5.90",
+      "yes_bid_dollars": "0.3700",
+      "yes_bid_size_fp": "7.34",
       "yes_sub_title": "Both Teams To Score",
-      "yes_bid": 0.36,
+      "yes_bid": 0.37,
       "volume": 0
     },
     {
@@ -27485,9 +27372,9 @@
       "volume_24h_fp": "51.00",
       "volume_fp": "51.00",
       "yes_ask_dollars": "0.0800",
-      "yes_ask_size_fp": "20.00",
+      "yes_ask_size_fp": "5.00",
       "yes_bid_dollars": "0.0400",
-      "yes_bid_size_fp": "20.00",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Over 4.5 goals scored",
       "yes_bid": 0.04,
       "volume": 51
@@ -27503,16 +27390,16 @@
       "expiration_time": "2026-08-18T03:00:00Z",
       "expiration_value": "",
       "floor_strike": 3.5,
-      "last_price_dollars": "0.1400",
+      "last_price_dollars": "0.1600",
       "latest_expiration_time": "2026-08-18T03:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8900",
-      "no_bid_dollars": "0.8600",
+      "no_ask_dollars": "0.8700",
+      "no_bid_dollars": "0.7800",
       "no_sub_title": "Over 3.5 goals scored",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T01:00:00Z",
-      "open_interest_fp": "210.69",
+      "open_interest_fp": "227.66",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -27535,14 +27422,14 @@
       "title": "Will over 3.5 goals be scored?",
       "updated_time": "2026-08-14T21:35:12.20399Z",
       "volume_24h_fp": "242.69",
-      "volume_fp": "242.69",
-      "yes_ask_dollars": "0.1400",
-      "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.1100",
-      "yes_bid_size_fp": "24.69",
+      "volume_fp": "259.66",
+      "yes_ask_dollars": "0.2200",
+      "yes_ask_size_fp": "12.34",
+      "yes_bid_dollars": "0.1300",
+      "yes_bid_size_fp": "20.89",
       "yes_sub_title": "Over 3.5 goals scored",
-      "yes_bid": 0.11,
-      "volume": 242.69
+      "yes_bid": 0.13,
+      "volume": 259.66
     },
     {
       "can_close_early": true,
@@ -27559,8 +27446,8 @@
       "latest_expiration_time": "2026-08-18T03:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6800",
-      "no_bid_dollars": "0.5900",
+      "no_ask_dollars": "0.6700",
+      "no_bid_dollars": "0.5800",
       "no_sub_title": "Over 2.5 goals scored",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T01:00:00Z",
@@ -27588,13 +27475,117 @@
       "updated_time": "2026-08-14T21:35:12.20399Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.4100",
-      "yes_ask_size_fp": "6.62",
-      "yes_bid_dollars": "0.3200",
-      "yes_bid_size_fp": "13.96",
+      "yes_ask_dollars": "0.4200",
+      "yes_ask_size_fp": "6.46",
+      "yes_bid_dollars": "0.3300",
+      "yes_bid_size_fp": "8.23",
       "yes_sub_title": "Over 2.5 goals scored",
-      "yes_bid": 0.32,
+      "yes_bid": 0.33,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.265781Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXARGNACBTOTAL-26AUG15GODMAI",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 1.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.4000",
+      "no_bid_dollars": "0.3000",
+      "no_sub_title": "Over 1.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 1.5 goals are scored in the Godoy Cruz vs Maipu professional Argentine Nacional B soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-2",
+      "title": "Will over 1.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.7000",
+      "yes_ask_size_fp": "3.87",
+      "yes_bid_dollars": "0.6000",
+      "yes_bid_size_fp": "4.52",
+      "yes_sub_title": "Over 1.5 goals scored",
+      "yes_bid": 0.6,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.265781Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXARGNACBTOTAL-26AUG15GODMAI",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 0.5,
+      "last_price_dollars": "0.9300",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.1600",
+      "no_bid_dollars": "0.0700",
+      "no_sub_title": "Over 0.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "1.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 0.5 goals are scored in the Godoy Cruz vs Maipu professional Argentine Nacional B soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-1",
+      "title": "Will over 0.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "1.00",
+      "volume_fp": "1.00",
+      "yes_ask_dollars": "0.9300",
+      "yes_ask_size_fp": "2.92",
+      "yes_bid_dollars": "0.8400",
+      "yes_bid_size_fp": "3.23",
+      "yes_sub_title": "Over 0.5 goals scored",
+      "yes_bid": 0.84,
+      "volume": 1
     }
   ],
   "prices": {
@@ -27624,23 +27615,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63100,
-      "pc": 62910.01,
-      "pct": 0.302002813224792
+      "c": 63103.29,
+      "pc": 62900.28,
+      "pct": 0.3227489607359491
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.42,
-      "pc": 1880.05,
-      "pct": 0.17925055184703165
+      "c": 1883.67,
+      "pc": 1878.96,
+      "pct": 0.2506705837271701
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.51,
-      "pc": 75.17,
-      "pct": 0.4523081016362956
+      "c": 75.55,
+      "pc": 75.16,
+      "pct": 0.5188930282064936
     }
   },
-  "tick": 928,
-  "totalScanned": 92700,
+  "tick": 929,
+  "totalScanned": 92800,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27651,8 +27642,8 @@
       "total": 97
     },
     "Unknown|NO|short": {
-      "wins": 502,
-      "total": 560
+      "wins": 505,
+      "total": 563
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -27665,7 +27656,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 781,
-  "lastRun": "2026-08-15T20:56:00.699Z",
+  "learnTotal": 784,
+  "lastRun": "2026-08-15T21:11:14.052Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
