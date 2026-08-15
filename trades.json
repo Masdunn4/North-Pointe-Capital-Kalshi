@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "1:48:01 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "1:48:01 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:48:00 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "1:48:00 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,031 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "1:47:59 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "1:47:59 PM",
+      "who": "System",
+      "msg": "═══ TICK #908 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "1:24:05 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "6:27:22 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "6:27:22 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,048 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "6:27:20 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:27:20 AM",
-      "who": "System",
-      "msg": "═══ TICK #890 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:57:42 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:57:42 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -21846,74 +21846,6 @@
       "yes_sub_title": "yes Tie,yes New York M",
       "yes_bid": 0,
       "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T06:30:00Z",
-      "created_time": "2026-08-14T21:38:05.451967Z",
-      "custom_strike": {
-        "Associated Events": "KXLOLGAME-26AUG150500ALTT,KXMLSGAME-26AUG19MINATL",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXLOLGAME-26AUG150500ALTT-TT,KXMLSGAME-26AUG19MINATL-ATL",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026D80DDB619D7"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026D80DDB619D7",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-20T06:30:00Z",
-      "expiration_time": "2026-08-22T06:30:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-08-22T06:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXLOLGAME-26AUG150500ALTT",
-          "market_ticker": "KXLOLGAME-26AUG150500ALTT-TT",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG19MINATL",
-          "market_ticker": "KXMLSGAME-26AUG19MINATL-ATL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes ThunderTalk Gaming,yes Atlanta",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-08-14T21:38:05Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026D80DDB619D7-E0077DB73CC",
-      "title": "yes ThunderTalk Gaming,yes Atlanta",
-      "updated_time": "2026-08-14T21:38:06.200301Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes ThunderTalk Gaming,yes Atlanta",
-      "yes_bid": 0,
-      "volume": 100
     },
     {
       "can_close_early": true,
@@ -26491,114 +26423,6 @@
     {
       "can_close_early": true,
       "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.773809Z",
-      "custom_strike": {
-        "tennis_doubles_competitor": "3764fc50-4f23-4ab6-957b-fa48e29374a1"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Taisei Ichikawa / Masamichi Imamura",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T12:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Taisei Ichikawa / Masamichi Imamura wins the Bar Biryukov / Lomakin vs Ichikawa / Imamura professional tennis match in the 2026 ATP Challenger Astana Final after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Bar Biryukov / Lomakin vs Ichikawa / Imamura professional tennis match in the 2026 ATP Challenger Astana Final after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA-ICHIMA",
-      "title": "Will Taisei Ichikawa / Masamichi Imamura win the Bar Biryukov / Lomakin vs Ichikawa / Imamura: Final match?",
-      "updated_time": "2026-08-15T11:04:05.467529Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Taisei Ichikawa / Masamichi Imamura",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.773809Z",
-      "custom_strike": {
-        "tennis_doubles_competitor": "13a80d77-fa92-45df-85c5-2ab865fff834"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Petr Bar Biryukov / Grigoriy Lomakin",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T12:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Petr Bar Biryukov / Grigoriy Lomakin wins the Bar Biryukov / Lomakin vs Ichikawa / Imamura professional tennis match in the 2026 ATP Challenger Astana Final after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Bar Biryukov / Lomakin vs Ichikawa / Imamura professional tennis match in the 2026 ATP Challenger Astana Final after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA-BARLOM",
-      "title": "Will Petr Bar Biryukov / Grigoriy Lomakin win the Bar Biryukov / Lomakin vs Ichikawa / Imamura: Final match?",
-      "updated_time": "2026-08-15T11:04:05.467529Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Petr Bar Biryukov / Grigoriy Lomakin",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
       "created_time": "2026-08-14T21:06:57.714971Z",
       "custom_strike": {
         "tennis_competitor": "2a551588-1823-4dfc-8f6c-9a6e45a9ff98"
@@ -26814,114 +26638,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.113232Z",
-      "custom_strike": {
-        "tennis_competitor": "07571bb4-6cef-4c65-80b1-4ef36a3f9307"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFMATCH-26AUG15REIZAK",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Fares Zakaria",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T15:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Fares Zakaria wins the Reisach vs Zakaria professional tennis match in the 2026 M15 Warsaw Semifinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Reisach vs Zakaria professional tennis match in the 2026 M15 Warsaw Semifinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFMATCH-26AUG15REIZAK-ZAK",
-      "title": "Will Fares Zakaria win the Reisach vs Zakaria: M15 Warsaw Semifinal match?",
-      "updated_time": "2026-08-15T10:04:51.523338Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Fares Zakaria",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-29T09:00:00Z",
-      "created_time": "2026-08-14T21:06:57.113232Z",
-      "custom_strike": {
-        "tennis_competitor": "ea8bbb3e-a07b-4077-be65-f777ed126774"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXITFMATCH-26AUG15REIZAK",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T15:00:00Z",
-      "expiration_time": "2026-08-29T09:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "Vincent Reisach",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-15T15:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Vincent Reisach wins the Reisach vs Zakaria professional tennis match in the 2026 M15 Warsaw Semifinal after a ball has been played, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to the Reisach vs Zakaria professional tennis match in the 2026 M15 Warsaw Semifinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will resolve to $0.50. If a player withdraws or forfeits after a match has started, that player will resolve to No. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 60,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXITFMATCH-26AUG15REIZAK-REI",
-      "title": "Will Vincent Reisach win the Reisach vs Zakaria: M15 Warsaw Semifinal match?",
-      "updated_time": "2026-08-15T10:04:51.523338Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Vincent Reisach",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-17T13:00:00Z",
       "created_time": "2026-08-14T21:06:56.832085Z",
       "custom_strike": {
@@ -27081,6 +26797,276 @@
       "yes_sub_title": "SINQU",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.810793Z",
+      "custom_strike": {
+        "esports_competitor": "ccf14906-0ac9-4ba1-86e7-d7d983eb31f4"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2MAP-26AUG150900BMBSIN-1",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "BASEMENT BOYS",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T16:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If BASEMENT BOYS wins map 1 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to map 1 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2MAP-26AUG150900BMBSIN-1-BMB",
+      "title": "Will BASEMENT BOYS win map 1 in the BASEMENT BOYS vs. SINQU match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "BASEMENT BOYS",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.79709Z",
+      "custom_strike": {
+        "esports_competitor": "1207f2b8-3cb3-4bc6-9ffb-e63a6c615321"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2MAP-26AUG150900BMBSIN-2",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "SINQU",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T16:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If SINQU wins map 2 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2MAP-26AUG150900BMBSIN-2-SIN",
+      "title": "Will SINQU win map 2 in the BASEMENT BOYS vs. SINQU match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "SINQU",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.79709Z",
+      "custom_strike": {
+        "esports_competitor": "ccf14906-0ac9-4ba1-86e7-d7d983eb31f4"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2MAP-26AUG150900BMBSIN-2",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "BASEMENT BOYS",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T16:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If BASEMENT BOYS wins map 2 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: BASEMENT BOYS vs. SINQU CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2MAP-26AUG150900BMBSIN-2-BMB",
+      "title": "Will BASEMENT BOYS win map 2 in the BASEMENT BOYS vs. SINQU match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "BASEMENT BOYS",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.769904Z",
+      "custom_strike": {
+        "esports_competitor": "4a1ee82e-c808-4544-9d96-5dae6aa52946"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2MAP-26AUG150900OGFIRE-2",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "OG",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T16:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If OG wins map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2MAP-26AUG150900OGFIRE-2-OG",
+      "title": "Will OG win map 2 in the OG vs. Fire Flux Esports match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "OG",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:00:00Z",
+      "created_time": "2026-08-14T21:06:56.769904Z",
+      "custom_strike": {
+        "esports_competitor": "86e33ac8-3666-4c6a-826d-017c869a15a8"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2MAP-26AUG150900OGFIRE-2",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T19:00:00Z",
+      "expiration_time": "2026-08-17T13:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Fire Flux Esports",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T16:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Fire Flux Esports wins map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to map 2 in the ESL Challenger League Europe Cup #3 2026: OG vs. Fire Flux Esports CS2 match originally scheduled for Aug 15, 2026 at 9:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 119,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2MAP-26AUG150900OGFIRE-2-FIRE",
+      "title": "Will Fire Flux Esports win map 2 in the OG vs. Fire Flux Esports match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Fire Flux Esports",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27110,23 +27096,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63036.25,
-      "pc": 62688.74,
-      "pct": 0.5543419759274186
+      "c": 63031.44,
+      "pc": 62690.05,
+      "pct": 0.5445680773902707
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.11,
-      "pc": 1869.03,
-      "pct": 0.7533319422374134
+      "c": 1883.65,
+      "pc": 1868.38,
+      "pct": 0.817285562894057
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.46,
-      "pc": 75.35,
-      "pct": 0.14598540145985328
+      "c": 75.57,
+      "pc": 75.38,
+      "pct": 0.2520562483417322
     }
   },
-  "tick": 907,
-  "totalScanned": 90600,
+  "tick": 908,
+  "totalScanned": 90700,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27152,6 +27138,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T13:24:03.199Z",
+  "lastRun": "2026-08-15T13:47:59.074Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
