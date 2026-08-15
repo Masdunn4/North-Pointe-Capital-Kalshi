@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "3:11:04 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:11:04 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,040 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:11:02 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:11:02 PM",
+      "who": "System",
+      "msg": "═══ TICK #912 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "2:56:19 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20335,72 +20401,6 @@
     },
     {
       "t": "8:18:22 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:18:22 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "8:18:21 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,060 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:18:20 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "8:18:19 AM",
-      "who": "System",
-      "msg": "═══ TICK #894 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:57:06 AM",
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
@@ -25914,7 +25914,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15DODMOE-MOE",
       "title": "Will Marvin Moeller win the Dodig vs Moeller: Semifinal match?",
-      "updated_time": "2026-08-15T14:04:19.454593Z",
+      "updated_time": "2026-08-15T15:04:06.370919Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -25968,7 +25968,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERMATCH-26AUG15DODMOE-DOD",
       "title": "Will Matej Dodig win the Dodig vs Moeller: Semifinal match?",
-      "updated_time": "2026-08-15T14:04:19.454593Z",
+      "updated_time": "2026-08-15T15:04:06.370919Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26104,8 +26104,8 @@
       "latest_expiration_time": "2026-08-17T13:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_ask_dollars": "0.7000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "OG",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-15T16:00:00Z",
@@ -26133,12 +26133,12 @@
       "updated_time": "2026-08-14T21:35:12.20399Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.3000",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "OG",
-      "yes_bid": 0,
+      "yes_bid": 0.3,
       "volume": 0
     },
     {
@@ -26666,7 +26666,7 @@
       "strike_type": "structured",
       "ticker": "KXCS2GAME-26AUG151000REVEP-REV",
       "title": "Will Revise win the Revise vs. eternal premium CS2 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T15:04:07.262178Z",
       "volume_24h_fp": "1.00",
       "volume_fp": "1.00",
       "yes_ask_dollars": "1.0000",
@@ -26720,7 +26720,7 @@
       "strike_type": "structured",
       "ticker": "KXCS2GAME-26AUG151000REVEP-EP",
       "title": "Will eternal premium win the Revise vs. eternal premium CS2 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T15:04:07.262178Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
@@ -26774,7 +26774,7 @@
       "strike_type": "structured",
       "ticker": "KXCS2GAME-26AUG151000UNITYENJOY-UNITY",
       "title": "Will UNiTY esports win the UNiTY esports vs. ENJOY CS2 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T15:04:06.221139Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26828,7 +26828,7 @@
       "strike_type": "structured",
       "ticker": "KXCS2GAME-26AUG151000UNITYENJOY-ENJOY",
       "title": "Will ENJOY win the UNiTY esports vs. ENJOY CS2 match?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T15:04:06.221139Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -26975,23 +26975,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63049.99,
-      "pc": 62616.31,
-      "pct": 0.6925991007774177
+      "c": 63040.01,
+      "pc": 62709.47,
+      "pct": 0.5270974224467228
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.36,
-      "pc": 1865.46,
-      "pct": 1.0131549322955122
+      "c": 1883.32,
+      "pc": 1868.95,
+      "pct": 0.7688809224430772
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.48,
-      "pc": 75.24,
-      "pct": 0.3189792663476995
+      "c": 75.46,
+      "pc": 75.27,
+      "pct": 0.252424604756208
     }
   },
-  "tick": 911,
-  "totalScanned": 91000,
+  "tick": 912,
+  "totalScanned": 91100,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27017,6 +27017,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T14:56:16.565Z",
+  "lastRun": "2026-08-15T15:11:02.204Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
