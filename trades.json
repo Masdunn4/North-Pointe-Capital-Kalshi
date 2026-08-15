@@ -1,5 +1,5 @@
 {
-  "cash": 357.51,
+  "cash": 345.51,
   "startCash": 200,
   "trades": [
     {
@@ -19201,10 +19201,151 @@
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1786809230732.876,
+      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
+      "market": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.96,
+      "currentPrice": 0,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T15:53:50.732Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T00:00:00Z",
+      "reasoning": "NO: 96¢",
+      "kellyFrac": "12.5",
+      "payoutMult": "1.04",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
-  "positions": [],
+  "positions": [
+    {
+      "id": 1786809230732.876,
+      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
+      "market": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.96,
+      "currentPrice": 0,
+      "size": 12,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-15T15:53:50.732Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T00:00:00Z",
+      "reasoning": "NO: 96¢",
+      "kellyFrac": "12.5",
+      "payoutMult": "1.04",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    }
+  ],
   "log": [
+    {
+      "t": "3:53:51 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 769",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:53:51 PM",
+      "who": "Knox",
+      "msg": "All 1 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "3:53:51 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:53:51 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "3:53:51 PM",
+      "who": "Knox",
+      "msg": "Checking 1 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the Toronto Polar Bears\" · $12.00 · win 96% · profit if win: +$0.50",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Nova",
+      "msg": "Diversified: 1 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Flash",
+      "msg": "1 short · 0 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:53:50 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,101 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:53:49 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:53:48 PM",
+      "who": "System",
+      "msg": "═══ TICK #914 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "3:32:50 PM",
       "who": "System",
@@ -20314,96 +20455,6 @@
       "who": "Nova",
       "msg": "Finnhub: 8 prices — BTC $$63,000 SPY $$776.34",
       "type": "lt-info"
-    },
-    {
-      "t": "9:39:03 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:39:02 AM",
-      "who": "System",
-      "msg": "═══ TICK #897 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:13:26 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,957 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:13:24 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:13:24 AM",
-      "who": "System",
-      "msg": "═══ TICK #896 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:50:35 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
     }
   ],
   "markets": [
@@ -25785,7 +25836,7 @@
       "latest_expiration_time": "2026-08-22T00:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
+      "no_ask_dollars": "0.9600",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Toronto Polar Bears",
       "notional_value_dollars": "1.0000",
@@ -25815,10 +25866,10 @@
       "volume_fp": "4.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_bid_dollars": "0.0400",
+      "yes_bid_size_fp": "3.00",
       "yes_sub_title": "Toronto Polar Bears",
-      "yes_bid": 0,
+      "yes_bid": 0.04,
       "volume": 4
     },
     {
@@ -26981,23 +27032,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63074,
-      "pc": 62814,
-      "pct": 0.4139204635909192
+      "c": 63100.7,
+      "pc": 63019.99,
+      "pct": 0.12807047414637662
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.67,
-      "pc": 1876.97,
-      "pct": 0.4102356457482029
+      "c": 1885.09,
+      "pc": 1882.73,
+      "pct": 0.1253498908499838
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.49,
-      "pc": 75.47,
-      "pct": 0.026500596263410656
+      "c": 75.51,
+      "pc": 75.7,
+      "pct": -0.2509907529722559
     }
   },
-  "tick": 913,
-  "totalScanned": 91200,
+  "tick": 914,
+  "totalScanned": 91300,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27023,6 +27074,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T15:32:48.488Z",
+  "lastRun": "2026-08-15T15:53:48.578Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
