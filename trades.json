@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "9:13:26 AM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "9:13:26 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,957 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:13:24 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:13:24 AM",
+      "who": "System",
+      "msg": "═══ TICK #896 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "8:50:35 AM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20338,72 +20404,6 @@
       "who": "Auth",
       "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
       "type": "lt-warn"
-    },
-    {
-      "t": "11:56:38 PM",
-      "who": "System",
-      "msg": "═══ TICK #880 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "System",
-      "msg": "Portfolio: $359.49 · Realized P&L: +$159.49 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "All 2 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Knox",
-      "msg": "Checking 2 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Axel",
-      "msg": "Exposure: 2% · Cash: $355.49",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "11:35:15 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
     }
   ],
   "markets": [
@@ -27015,7 +27015,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA-ICHIMA",
       "title": "Will Taisei Ichikawa / Masamichi Imamura win the Bar Biryukov / Lomakin vs Ichikawa / Imamura: Final match?",
-      "updated_time": "2026-08-15T08:04:28.56541Z",
+      "updated_time": "2026-08-15T09:04:14.523432Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27069,7 +27069,7 @@
       "strike_type": "structured",
       "ticker": "KXATPCHALLENGERDOUBLES-26AUG15BARLOMICHIMA-BARLOM",
       "title": "Will Petr Bar Biryukov / Grigoriy Lomakin win the Bar Biryukov / Lomakin vs Ichikawa / Imamura: Final match?",
-      "updated_time": "2026-08-15T08:04:28.56541Z",
+      "updated_time": "2026-08-15T09:04:14.523432Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27216,23 +27216,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63049.99,
-      "pc": 62890.01,
-      "pct": 0.25438062420406027
+      "c": 62956.64,
+      "pc": 62864.16,
+      "pct": 0.14711084980694233
     },
     "BINANCE:ETHUSDT": {
-      "c": 1878.23,
-      "pc": 1875.35,
-      "pct": 0.15357133335111361
+      "c": 1877.78,
+      "pc": 1875.9,
+      "pct": 0.100218561757017
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.18,
-      "pc": 75.8,
-      "pct": -0.8179419525065836
+      "c": 75.13,
+      "pc": 75.81,
+      "pct": -0.8969792903310998
     }
   },
-  "tick": 895,
-  "totalScanned": 89400,
+  "tick": 896,
+  "totalScanned": 89500,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27258,6 +27258,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T08:50:32.898Z",
+  "lastRun": "2026-08-15T09:13:24.740Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
