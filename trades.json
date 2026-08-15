@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "3:50:35 AM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:50:35 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:50:34 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:50:34 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,062 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:50:31 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:50:30 AM",
+      "who": "System",
+      "msg": "═══ TICK #884 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "3:01:23 AM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20338,72 +20404,6 @@
       "who": "Rex",
       "msg": "Got 100 REAL live markets",
       "type": "lt-info"
-    },
-    {
-      "t": "9:38:49 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:38:48 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$62,887 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:38:47 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:38:46 PM",
-      "who": "System",
-      "msg": "═══ TICK #873 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "System",
-      "msg": "Portfolio: $359.39 · Realized P&L: +$159.39 · Trades: 764",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the platinum close price \" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the platinum close price \" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A7B2555043E-90064EEB7AE [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A7B2555043E-90064EEB7AE open · mark 1¢ · ~4d left",
-      "type": ""
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20263099BBBB819-92C8E2C6778 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
     }
   ],
   "markets": [
@@ -24066,8 +24066,7 @@
       "expected_expiration_time": "2026-08-16T05:15:00Z",
       "expiration_time": "2026-08-18T23:15:00Z",
       "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.4500",
       "latest_expiration_time": "2026-08-18T23:15:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -24085,10 +24084,10 @@
         }
       ],
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "yes New York Y,yes Arizona",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "100.00",
       "open_time": "2026-08-14T21:27:04Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -24111,14 +24110,14 @@
       "title": "yes New York Y,yes Arizona",
       "updated_time": "2026-08-14T21:27:04.86105Z",
       "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "volume_fp": "100.00",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes New York Y,yes Arizona",
       "yes_bid": 0,
-      "volume": 0
+      "volume": 100
     },
     {
       "can_close_early": true,
@@ -27151,83 +27150,92 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T23:10:00Z",
-      "created_time": "2026-08-14T21:06:59.089463Z",
+      "close_time": "2026-08-19T01:38:00Z",
+      "created_time": "2026-08-14T21:06:58.327041Z",
       "custom_strike": {
-        "baseball_player": "95bbf185-dc7a-4309-8b10-2626378a9951",
-        "baseball_team": "942f3f85-869a-4f7a-8e5a-336365c5294b"
+        "Associated Events": "KXMLBGAME-26AUG152138KCLAA,KXWNBAGAME-26AUG15LAWSH",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXMLBGAME-26AUG152138KCLAA-LAA,KXWNBAGAME-26AUG15LAWSH-LA",
+        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322"
       },
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBHIT-26AUG141910BALTB",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T05:10:00Z",
-      "expiration_time": "2026-08-17T23:10:00Z",
+      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-16T07:38:00Z",
+      "expiration_time": "2026-08-19T01:38:00Z",
       "expiration_value": "",
-      "floor_strike": 3.5,
+      "is_provisional": true,
       "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T23:10:00Z",
+      "latest_expiration_time": "2026-08-19T01:38:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
+      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXMLBGAME-26AUG152138KCLAA",
+          "market_ticker": "KXMLBGAME-26AUG152138KCLAA-LAA",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXWNBAGAME-26AUG15LAWSH",
+          "market_ticker": "KXWNBAGAME-26AUG15LAWSH-LA",
+          "side": "yes"
+        }
+      ],
       "no_ask_dollars": "1.0000",
       "no_bid_dollars": "1.0000",
-      "no_sub_title": "Yandy Díaz: 4+",
+      "no_sub_title": "yes Los Angeles A,yes Los Angeles",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
+      "open_time": "2026-08-14T21:06:58Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
       "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
+      "price_level_structure": "deci_cent",
       "price_ranges": [
         {
           "end": "1.0000",
           "start": "0.0000",
-          "step": "0.0100"
+          "step": "0.0010"
         }
       ],
-      "primary_participant_key": "baseball_player",
       "result": "",
-      "rules_primary": "If Yandy Díaz records 4+ hits in the Baltimore vs Tampa Bay professional baseball game originally scheduled for Aug 14, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Player Participation & Settlement Criteria\nIf Yandy Díaz is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Yandy Díaz starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Yandy Díaz is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Yandy Díaz is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 300,
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
       "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBHIT-26AUG141910BALTB-TBYDIAZ2-4",
-      "title": "Yandy Díaz: 4+ hits?",
-      "updated_time": "2026-08-14T21:35:12.293884Z",
+      "strike_type": "custom",
+      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322-AB2E9B215C6",
+      "title": "yes Los Angeles A,yes Los Angeles",
+      "updated_time": "2026-08-14T21:06:59.327918Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Yandy Díaz: 4+",
+      "yes_sub_title": "yes Los Angeles A,yes Los Angeles",
       "yes_bid": 0,
       "volume": 0
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T23:10:00Z",
-      "created_time": "2026-08-14T21:06:59.089463Z",
-      "custom_strike": {
-        "baseball_player": "95bbf185-dc7a-4309-8b10-2626378a9951",
-        "baseball_team": "942f3f85-869a-4f7a-8e5a-336365c5294b"
-      },
-      "early_close_condition": "This market will close and expire after the event occurs.",
-      "event_ticker": "KXMLBHIT-26AUG141910BALTB",
-      "exchange_index": 3,
-      "expected_expiration_time": "2026-08-15T05:10:00Z",
-      "expiration_time": "2026-08-17T23:10:00Z",
+      "close_time": "2026-08-22T00:00:00Z",
+      "created_time": "2026-08-14T21:06:58.035613Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXPPLMATCH-26AUG14TPBSDS",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T03:00:00Z",
+      "expiration_time": "2026-08-22T00:00:00Z",
       "expiration_value": "",
-      "floor_strike": 2.5,
       "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T23:10:00Z",
+      "latest_expiration_time": "2026-08-22T00:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
       "no_bid_dollars": "1.0000",
-      "no_sub_title": "Yandy Díaz: 3+",
+      "no_sub_title": "Toronto Polar Bears",
       "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T03:00:00Z",
       "open_interest_fp": "0.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
@@ -27241,23 +27249,21 @@
           "step": "0.0100"
         }
       ],
-      "primary_participant_key": "baseball_player",
       "result": "",
-      "rules_primary": "If Yandy Díaz records 3+ hits in the Baltimore vs Tampa Bay professional baseball game originally scheduled for Aug 14, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
-      "rules_secondary": "Player Participation & Settlement Criteria\nIf Yandy Díaz is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Yandy Díaz starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Yandy Díaz is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Yandy Díaz is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "rules_primary": "If the Toronto Polar Bears wins the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match originally scheduled for Aug 14, 2026, then the market resolves to Yes.",
+      "rules_secondary": "If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
       "settlement_timer_seconds": 300,
       "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXMLBHIT-26AUG141910BALTB-TBYDIAZ2-3",
-      "title": "Yandy Díaz: 3+ hits?",
-      "updated_time": "2026-08-14T21:35:12.293884Z",
+      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
+      "title": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
+      "updated_time": "2026-08-15T00:07:50.357012Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Yandy Díaz: 3+",
+      "yes_sub_title": "Toronto Polar Bears",
       "yes_bid": 0,
       "volume": 0
     }
@@ -27289,23 +27295,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63134.42,
-      "pc": 63460.06,
-      "pct": -0.513141651615204
+      "c": 63061.56,
+      "pc": 63341.48,
+      "pct": -0.44192210223064804
     },
     "BINANCE:ETHUSDT": {
-      "c": 1885.1,
-      "pc": 1886.34,
-      "pct": -0.06573576343607246
+      "c": 1883.27,
+      "pc": 1883.42,
+      "pct": -0.007964235274133808
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.65,
-      "pc": 75.99,
-      "pct": -0.4474272930648628
+      "c": 75.47,
+      "pc": 75.77,
+      "pct": -0.3959350666490658
     }
   },
-  "tick": 883,
-  "totalScanned": 88200,
+  "tick": 884,
+  "totalScanned": 88300,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27331,6 +27337,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T03:01:21.238Z",
+  "lastRun": "2026-08-15T03:50:30.940Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
