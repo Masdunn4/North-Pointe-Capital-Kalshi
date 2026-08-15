@@ -19218,7 +19218,7 @@
       "status": "open",
       "openedAt": "2026-08-14T22:37:05.648Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19243,7 +19243,7 @@
       "status": "open",
       "openedAt": "2026-08-14T23:12:41.326Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -19256,6 +19256,96 @@
     }
   ],
   "log": [
+    {
+      "t": "12:43:53 AM",
+      "who": "System",
+      "msg": "Portfolio: $359.49 · Realized P&L: +$159.49 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Axel",
+      "msg": "Exposure: 2% · Cash: $355.49",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "12:43:53 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "12:43:52 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,015 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "12:43:50 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "12:43:50 AM",
+      "who": "System",
+      "msg": "═══ TICK #881 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "11:56:40 PM",
       "who": "System",
@@ -20364,96 +20454,6 @@
       "t": "8:51:18 PM",
       "who": "Knox",
       "msg": "KXPALLADIUMH-26AUG1417-T1333.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1417-T1333.99 open · mark 1¢ · ~9min left",
-      "type": ""
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1417-T1758.99 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1417-T1758.99 open · mark 1¢ · ~9min left",
-      "type": ""
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1417-T1759.49 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1417-T1759.49 open · mark 1¢ · ~9min left",
-      "type": ""
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1416-T1328.99 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:51:18 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1416-T1328.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1416-T1329.49 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1416-T1329.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1758.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1758.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1759.49 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1759.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1415-T1334.49 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:51:17 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1415-T1334.49 open · mark 0¢ · ~expired left",
       "type": ""
     }
   ],
@@ -27365,23 +27365,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63040.32,
-      "pc": 63428.3,
-      "pct": -0.6116827977417071
+      "c": 63015.27,
+      "pc": 63517.99,
+      "pct": -0.7914608129130049
     },
     "BINANCE:ETHUSDT": {
-      "c": 1882.34,
-      "pc": 1884.83,
-      "pct": -0.1321074049118493
+      "c": 1882.71,
+      "pc": 1888.57,
+      "pct": -0.3102876779785711
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.38,
-      "pc": 76.21,
-      "pct": -1.0890959191707104
+      "c": 75.37,
+      "pc": 76.14,
+      "pct": -1.0112949829261835
     }
   },
-  "tick": 880,
-  "totalScanned": 87900,
+  "tick": 881,
+  "totalScanned": 88000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27407,6 +27407,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 766,
-  "lastRun": "2026-08-14T23:56:38.419Z",
+  "lastRun": "2026-08-15T00:43:50.727Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
