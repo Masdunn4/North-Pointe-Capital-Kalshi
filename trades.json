@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "10:35:56 AM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:35:56 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,025 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:35:54 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:35:54 AM",
+      "who": "System",
+      "msg": "═══ TICK #900 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "10:10:50 AM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20338,72 +20404,6 @@
       "who": "System",
       "msg": "═══ TICK #883 — North Pointe Capital ═══",
       "type": "lt-sys"
-    },
-    {
-      "t": "2:03:32 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.49 · Realized P&L: +$157.49 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:03:32 AM",
-      "who": "Knox",
-      "msg": "✗ LOSS \"yes Miami,yes Los Angeles R\" → $2.00",
-      "type": "lt-err"
-    },
-    {
-      "t": "2:03:32 AM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "2:03:32 AM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 tick:7 → LOSS ✗ (winP:96%)",
-      "type": "lt-err"
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Knox",
-      "msg": "Checking 2 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Axel",
-      "msg": "Exposure: 2% · Cash: $355.49",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "2:03:31 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
     }
   ],
   "markets": [
@@ -26821,7 +26821,7 @@
       "no_sub_title": "Toronto Polar Bears",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-15T03:00:00Z",
-      "open_interest_fp": "2.00",
+      "open_interest_fp": "4.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -26842,15 +26842,15 @@
       "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
       "title": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
       "updated_time": "2026-08-15T00:07:50.357012Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "2.00",
+      "volume_24h_fp": "4.00",
+      "volume_fp": "4.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Toronto Polar Bears",
       "yes_bid": 0,
-      "volume": 2
+      "volume": 4
     },
     {
       "can_close_early": true,
@@ -27200,23 +27200,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63016.82,
-      "pc": 62820.15,
-      "pct": 0.3130683387416271
+      "c": 63024.58,
+      "pc": 62918.21,
+      "pct": 0.16906075363555736
     },
     "BINANCE:ETHUSDT": {
-      "c": 1879.24,
-      "pc": 1874.85,
-      "pct": 0.2341520654985786
+      "c": 1879.64,
+      "pc": 1877.55,
+      "pct": 0.11131527788874575
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.27,
-      "pc": 75.57,
-      "pct": -0.3969829297340177
+      "c": 75.29,
+      "pc": 75.54,
+      "pct": -0.3309504898067249
     }
   },
-  "tick": 899,
-  "totalScanned": 89800,
+  "tick": 900,
+  "totalScanned": 89900,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27242,6 +27242,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T10:10:48.214Z",
+  "lastRun": "2026-08-15T10:35:54.379Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
