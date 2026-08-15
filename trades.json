@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "2:56:19 PM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "2:56:19 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:56:18 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "2:56:18 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,050 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:56:17 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:56:16 PM",
+      "who": "System",
+      "msg": "═══ TICK #911 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "2:35:36 PM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20338,72 +20404,6 @@
       "who": "Knox",
       "msg": "All 0 positions pending real Kalshi settlement",
       "type": ""
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Knox",
-      "msg": "Checking 0 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Axel",
-      "msg": "Exposure: 0% · Cash: $357.51",
-      "type": ""
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:57:06 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:57:05 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,043 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:57:04 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:57:04 AM",
-      "who": "System",
-      "msg": "═══ TICK #893 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:40:02 AM",
-      "who": "System",
-      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
-      "type": "lt-sys"
-    },
-    {
-      "t": "7:40:02 AM",
-      "who": "Knox",
-      "msg": "All 0 positions pending real Kalshi settlement",
-      "type": ""
     }
   ],
   "markets": [
@@ -21232,75 +21232,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T01:40:00Z",
-      "created_time": "2026-08-14T21:41:37.045119Z",
-      "custom_strike": {
-        "Associated Events": "KXKBOGAME-26AUG150600NCDLOT,KXMLBGAME-26AUG142140TEXATH",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXKBOGAME-26AUG150600NCDLOT-LOT,KXMLBGAME-26AUG142140TEXATH-ATH",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E4E65AADE01"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E4E65AADE01",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T16:00:00Z",
-      "expiration_time": "2026-08-18T01:40:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T01:40:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXKBOGAME-26AUG150600NCDLOT",
-          "market_ticker": "KXKBOGAME-26AUG150600NCDLOT-LOT",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG142140TEXATH",
-          "market_ticker": "KXMLBGAME-26AUG142140TEXATH-ATH",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Lotte Giants,yes A's",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:41:36Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E4E65AADE01-4391219B45D",
-      "title": "yes Lotte Giants,yes A's",
-      "updated_time": "2026-08-14T21:41:37.199755Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Lotte Giants,yes A's",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T01:30:00Z",
       "created_time": "2026-08-14T21:41:26.693461Z",
       "custom_strike": {
@@ -21914,75 +21845,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Portland,yes Charlotte",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T07:00:00Z",
-      "created_time": "2026-08-14T21:37:03.52264Z",
-      "custom_strike": {
-        "Associated Events": "KXCS2GAME-26AUG151000PAINWC,KXLOLGAME-26AUG160300JDGLGD",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXCS2GAME-26AUG151000PAINWC-WC,KXLOLGAME-26AUG160300JDGLGD-JDG",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026172B8EBE730"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026172B8EBE730",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T13:00:00Z",
-      "expiration_time": "2026-08-18T07:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T07:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXCS2GAME-26AUG151000PAINWC",
-          "market_ticker": "KXCS2GAME-26AUG151000PAINWC-WC",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLOLGAME-26AUG160300JDGLGD",
-          "market_ticker": "KXLOLGAME-26AUG160300JDGLGD-JDG",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Wildcard,yes JD Gaming",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:37:03Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026172B8EBE730-EBF1200F168",
-      "title": "yes Wildcard,yes JD Gaming",
-      "updated_time": "2026-08-14T21:37:04.199859Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Wildcard,yes JD Gaming",
       "yes_bid": 0,
       "volume": 0
     },
@@ -23709,75 +23571,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T10:00:00Z",
-      "created_time": "2026-08-14T21:23:12.14258Z",
-      "custom_strike": {
-        "Associated Events": "KXKBOGAME-26AUG150600NCDLOT,KXLOLGAME-26AUG150500ALTT",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXKBOGAME-26AUG150600NCDLOT-NCD,KXLOLGAME-26AUG150500ALTT-AL",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202636B386780B8"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202636B386780B8",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T16:00:00Z",
-      "expiration_time": "2026-08-17T10:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T10:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXKBOGAME-26AUG150600NCDLOT",
-          "market_ticker": "KXKBOGAME-26AUG150600NCDLOT-NCD",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLOLGAME-26AUG150500ALTT",
-          "market_ticker": "KXLOLGAME-26AUG150500ALTT-AL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes NC Dinos,yes Anyone's Legend",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:23:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202636B386780B8-8DEC6335661",
-      "title": "yes NC Dinos,yes Anyone's Legend",
-      "updated_time": "2026-08-14T21:23:12.862152Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes NC Dinos,yes Anyone's Legend",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-22T08:30:00Z",
       "created_time": "2026-08-14T21:22:38.375901Z",
       "custom_strike": {
@@ -24116,75 +23909,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Portsmouth,yes Columbus",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T00:30:00Z",
-      "created_time": "2026-08-14T21:20:31.526654Z",
-      "custom_strike": {
-        "Associated Events": "KXCFLGAME-26AUG14OTTWPG,KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXCFLGAME-26AUG14OTTWPG-WPG,KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE-BOL",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266A92C50E102"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266A92C50E102",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T17:30:00Z",
-      "expiration_time": "2026-08-22T00:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-22T00:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXCFLGAME-26AUG14OTTWPG",
-          "market_ticker": "KXCFLGAME-26AUG14OTTWPG-WPG",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE",
-          "market_ticker": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE-BOL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Winnipeg Blue Bombers,yes Bolton",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:20:31Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266A92C50E102-A79A49D2D45",
-      "title": "yes Winnipeg Blue Bombers,yes Bolton",
-      "updated_time": "2026-08-14T21:20:31.860725Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Winnipeg Blue Bombers,yes Bolton",
       "yes_bid": 0,
       "volume": 0
     },
@@ -27006,6 +26730,222 @@
       "yes_sub_title": "eternal premium",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T14:00:00Z",
+      "created_time": "2026-08-14T21:06:56.266233Z",
+      "custom_strike": {
+        "esports_competitor": "03613b24-b607-44fd-8185-197ff09edd40"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2GAME-26AUG151000UNITYENJOY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T20:00:00Z",
+      "expiration_time": "2026-08-17T14:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T14:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "UNiTY esports",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T18:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If UNiTY esports wins the CCT Europe Closed Qualifier: Series #7 2026: UNiTY esports vs. ENJOY CS2 match originally scheduled for Aug 15, 2026 at 10:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the full match in the CCT Europe Closed Qualifier: Series #7 2026: UNiTY esports vs. ENJOY CS2 match originally scheduled for Aug 15, 2026 at 10:00 AM EDT\nIf the relevant match is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf the relevant match begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 116,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2GAME-26AUG151000UNITYENJOY-UNITY",
+      "title": "Will UNiTY esports win the UNiTY esports vs. ENJOY CS2 match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "UNiTY esports",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T14:00:00Z",
+      "created_time": "2026-08-14T21:06:56.266233Z",
+      "custom_strike": {
+        "esports_competitor": "2530128b-0f92-46bf-997a-6b96417f9882"
+      },
+      "early_close_condition": "This market will close and expire after a winner is declared.",
+      "event_ticker": "KXCS2GAME-26AUG151000UNITYENJOY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T20:00:00Z",
+      "expiration_time": "2026-08-17T14:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T14:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "ENJOY",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T18:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If ENJOY wins the CCT Europe Closed Qualifier: Series #7 2026: UNiTY esports vs. ENJOY CS2 match originally scheduled for Aug 15, 2026 at 10:00 AM EDT, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the full match in the CCT Europe Closed Qualifier: Series #7 2026: UNiTY esports vs. ENJOY CS2 match originally scheduled for Aug 15, 2026 at 10:00 AM EDT\nIf the relevant match is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf the relevant match begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 116,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXCS2GAME-26AUG151000UNITYENJOY-ENJOY",
+      "title": "Will ENJOY win the UNiTY esports vs. ENJOY CS2 match?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "ENJOY",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.998219Z",
+      "custom_strike": {
+        "tennis_competitor": "f9eed766-f2d1-4472-a150-4679fdbb1f97"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXATPSETWINNER-26AUG15FERDUC-1",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T23:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Arthur Fery",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If Arthur Fery wins set 1 in the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-FER",
+      "title": "Will Arthur Fery win set 1 in the Arthur Fery vs James Duckworth match",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Arthur Fery",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-29T17:20:00Z",
+      "created_time": "2026-08-14T21:06:55.998219Z",
+      "custom_strike": {
+        "tennis_competitor": "2dd4a596-5348-41bc-bc29-f46cbc01bff6"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXATPSETWINNER-26AUG15FERDUC-1",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T23:20:00Z",
+      "expiration_time": "2026-08-29T17:20:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-29T17:20:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "James Duckworth",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T20:20:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If James Duckworth wins set 1 in the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to the Arthur Fery vs James Duckworth professional tennis match in the 2026 ATP Cincinnati Round Of 64. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks). If a retirement occurs, all markets that can be unconditionally settled based on play already completed will resolve accordingly. Any markets that cannot be unconditionally settled will resolve to Fair Market Price, as determined at the sole discretion of the Exchange.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXATPSETWINNER-26AUG15FERDUC-1-DUC",
+      "title": "Will James Duckworth win set 1 in the Arthur Fery vs James Duckworth match",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "James Duckworth",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27035,23 +26975,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63040,
-      "pc": 62743.81,
-      "pct": 0.4720625030580743
+      "c": 63049.99,
+      "pc": 62616.31,
+      "pct": 0.6925991007774177
     },
     "BINANCE:ETHUSDT": {
-      "c": 1882.92,
-      "pc": 1870.91,
-      "pct": 0.6419336045026213
+      "c": 1884.36,
+      "pc": 1865.46,
+      "pct": 1.0131549322955122
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.55,
-      "pc": 75.29,
-      "pct": 0.34533138531012203
+      "c": 75.48,
+      "pc": 75.24,
+      "pct": 0.3189792663476995
     }
   },
-  "tick": 910,
-  "totalScanned": 90900,
+  "tick": 911,
+  "totalScanned": 91000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27077,6 +27017,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T14:35:34.459Z",
+  "lastRun": "2026-08-15T14:56:16.565Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
