@@ -19993,7 +19993,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:35:52.034Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -20018,7 +20018,7 @@
       "status": "open",
       "openedAt": "2026-08-15T20:56:03.267Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "med",
       "shortTerm": true,
       "term": "short",
@@ -20043,7 +20043,7 @@
       "status": "open",
       "openedAt": "2026-08-15T21:32:37.965Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20068,7 +20068,7 @@
       "status": "open",
       "openedAt": "2026-08-15T21:53:45.905Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20093,7 +20093,7 @@
       "status": "open",
       "openedAt": "2026-08-15T21:53:46.258Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20106,6 +20106,132 @@
     }
   ],
   "log": [
+    {
+      "t": "11:09:04 PM",
+      "who": "System",
+      "msg": "Portfolio: $344.58 · Realized P&L: +$144.58 · Trades: 799",
+      "type": "lt-sys"
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "All 5 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:09:04 PM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 2¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Knox",
+      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 [short] tick:9 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Knox",
+      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Knox",
+      "msg": "Checking 5 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Axel",
+      "msg": "Exposure: 25% · Cash: $294.58",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "11:09:03 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,140 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:09:01 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:09:00 PM",
+      "who": "System",
+      "msg": "═══ TICK #935 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "10:55:06 PM",
       "who": "System",
@@ -21179,132 +21305,6 @@
       "who": "Rex",
       "msg": "Got 100 REAL live markets",
       "type": "lt-info"
-    },
-    {
-      "t": "9:32:37 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:32:37 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,146 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:32:35 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:32:35 PM",
-      "who": "System",
-      "msg": "═══ TICK #930 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "System",
-      "msg": "Portfolio: $344.08 · Realized P&L: +$144.08 · Trades: 793",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will over 4.5 goals be scored?\" → +$0.63",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Godoy Cruz wins by more than 2\" → +$1.19",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the Toronto Polar Bears w\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 22¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 open · mark 84¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:11:19 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 6¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 open · mark 12¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 open · mark 6¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-6 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-6 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:11:18 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-5 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
     }
   ],
   "markets": [
@@ -21652,75 +21652,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T09:00:00Z",
-      "created_time": "2026-08-14T21:44:55.505566Z",
-      "custom_strike": {
-        "Associated Events": "KXLALIGAGAME-26AUG15SEVRVC,KXLOLGAME-26AUG160500IGWB",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXLALIGAGAME-26AUG15SEVRVC-TIE,KXLOLGAME-26AUG160500IGWB-IG",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C1DE9718BEC"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C1DE9718BEC",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T15:00:00Z",
-      "expiration_time": "2026-08-18T09:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXLALIGAGAME-26AUG15SEVRVC",
-          "market_ticker": "KXLALIGAGAME-26AUG15SEVRVC-TIE",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLOLGAME-26AUG160500IGWB",
-          "market_ticker": "KXLOLGAME-26AUG160500IGWB-IG",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Tie,yes Invictus Gaming",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:44:55Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C1DE9718BEC-3AA70B4E4A4",
-      "title": "yes Tie,yes Invictus Gaming",
-      "updated_time": "2026-08-14T21:44:56.200035Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Tie,yes Invictus Gaming",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-19T19:15:00Z",
       "created_time": "2026-08-14T21:44:11.951333Z",
       "custom_strike": {
@@ -21855,75 +21786,6 @@
       "yes_sub_title": "yes Tampa Bay,yes St. Louis",
       "yes_bid": 0,
       "volume": 100
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T01:30:00Z",
-      "created_time": "2026-08-14T21:41:26.693461Z",
-      "custom_strike": {
-        "Associated Events": "KXKBOGAME-26AUG150600KIWKTW,KXLALIGAGAME-26AUG15SEVRVC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXKBOGAME-26AUG150600KIWKTW-KIW,KXLALIGAGAME-26AUG15SEVRVC-SEV",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266025D609EF7"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266025D609EF7",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T01:30:00Z",
-      "expiration_time": "2026-08-18T01:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T01:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXKBOGAME-26AUG150600KIWKTW",
-          "market_ticker": "KXKBOGAME-26AUG150600KIWKTW-KIW",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLALIGAGAME-26AUG15SEVRVC",
-          "market_ticker": "KXLALIGAGAME-26AUG15SEVRVC-SEV",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Kiwoom Heroes,yes Sevilla",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:41:26Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20266025D609EF7-7D3DD75A4F8",
-      "title": "yes Kiwoom Heroes,yes Sevilla",
-      "updated_time": "2026-08-14T21:41:27.200449Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Kiwoom Heroes,yes Sevilla",
-      "yes_bid": 0,
-      "volume": 0
     },
     {
       "can_close_early": true,
@@ -23785,75 +23647,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-22T05:30:00Z",
-      "created_time": "2026-08-14T21:24:02.845575Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG151507NYYTOR,KXMLSGAME-26AUG19CLBMTL",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG151507NYYTOR-NYY,KXMLSGAME-26AUG19CLBMTL-TIE",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A0D4A434C03"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A0D4A434C03",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-20T05:30:00Z",
-      "expiration_time": "2026-08-22T05:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-22T05:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG151507NYYTOR",
-          "market_ticker": "KXMLBGAME-26AUG151507NYYTOR-NYY",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG19CLBMTL",
-          "market_ticker": "KXMLSGAME-26AUG19CLBMTL-TIE",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes New York Y,yes Tie",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:24:02Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A0D4A434C03-971360924BB",
-      "title": "yes New York Y,yes Tie",
-      "updated_time": "2026-08-14T21:24:03.860193Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes New York Y,yes Tie",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-17T23:00:00Z",
       "created_time": "2026-08-14T21:23:22.427637Z",
       "custom_strike": {
@@ -25227,75 +25020,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Portland,yes Orix Buffaloes",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T01:30:00Z",
-      "created_time": "2026-08-14T21:08:53.381169Z",
-      "custom_strike": {
-        "Associated Events": "KXLALIGAGAME-26AUG15SEVRVC,KXMLBGAME-26AUG141420STLCHC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXLALIGAGAME-26AUG15SEVRVC-RVC,KXMLBGAME-26AUG141420STLCHC-CHC",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T01:30:00Z",
-      "expiration_time": "2026-08-18T01:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T01:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXLALIGAGAME-26AUG15SEVRVC",
-          "market_ticker": "KXLALIGAGAME-26AUG15SEVRVC-RVC",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG141420STLCHC",
-          "market_ticker": "KXMLBGAME-26AUG141420STLCHC-CHC",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Vallecano,yes Chicago C",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:08:53Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1-B8381C9E03C",
-      "title": "yes Vallecano,yes Chicago C",
-      "updated_time": "2026-08-14T21:08:54.327414Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Vallecano,yes Chicago C",
       "yes_bid": 0,
       "volume": 0
     },
@@ -26887,7 +26611,7 @@
       "status": "active",
       "ticker": "KXARGNACBBTTS-26AUG15GODMAI-BTTS",
       "title": "Will both teams score?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.57256Z",
       "volume_24h_fp": "44.68",
       "volume_fp": "44.68",
       "yes_ask_dollars": "1.0000",
@@ -26989,7 +26713,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-6",
       "title": "Will over 5.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -27041,7 +26765,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-5",
       "title": "Will over 4.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "151.00",
       "volume_fp": "151.00",
       "yes_ask_dollars": "1.0000",
@@ -27093,7 +26817,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-4",
       "title": "Will over 3.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "264.66",
       "volume_fp": "264.66",
       "yes_ask_dollars": "1.0000",
@@ -27145,7 +26869,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-3",
       "title": "Will over 2.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
@@ -27197,7 +26921,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-2",
       "title": "Will over 1.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
@@ -27249,7 +26973,7 @@
       "strike_type": "greater",
       "ticker": "KXARGNACBTOTAL-26AUG15GODMAI-1",
       "title": "Will over 0.5 goals be scored?",
-      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "updated_time": "2026-08-15T23:04:07.637734Z",
       "volume_24h_fp": "1.00",
       "volume_fp": "1.00",
       "yes_ask_dollars": "1.0000",
@@ -27587,6 +27311,214 @@
       "yes_sub_title": "Legacy",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.004533Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXCANPLTOTAL-26AUG15CAVFOR",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 5.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Over 5.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 5.5 goals are scored in the Cavalry vs Hamilton professional Canadian Premier League soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCANPLTOTAL-26AUG15CAVFOR-6",
+      "title": "Will over 5.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Over 5.5 goals scored",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.004533Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXCANPLTOTAL-26AUG15CAVFOR",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 4.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Over 4.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 4.5 goals are scored in the Cavalry vs Hamilton professional Canadian Premier League soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCANPLTOTAL-26AUG15CAVFOR-5",
+      "title": "Will over 4.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Over 4.5 goals scored",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.004533Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXCANPLTOTAL-26AUG15CAVFOR",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 3.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Over 3.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 3.5 goals are scored in the Cavalry vs Hamilton professional Canadian Premier League soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCANPLTOTAL-26AUG15CAVFOR-4",
+      "title": "Will over 3.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Over 3.5 goals scored",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T03:00:00Z",
+      "created_time": "2026-08-14T21:06:55.004533Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXCANPLTOTAL-26AUG15CAVFOR",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-16T01:00:00Z",
+      "expiration_time": "2026-08-18T03:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 2.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T03:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Over 2.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-16T01:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 2.5 goals are scored in the Cavalry vs Hamilton professional Canadian Premier League soccer game originally scheduled for Aug 15, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXCANPLTOTAL-26AUG15CAVFOR-3",
+      "title": "Will over 2.5 goals be scored?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Over 2.5 goals scored",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27616,23 +27548,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63135.52,
-      "pc": 62880.34,
-      "pct": 0.40581841637624777
+      "c": 63139.96,
+      "pc": 62893.49,
+      "pct": 0.3918847562760489
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.49,
-      "pc": 1879.56,
-      "pct": 0.2622954308455204
+      "c": 1884.21,
+      "pc": 1880.15,
+      "pct": 0.21594021753583198
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.61,
-      "pc": 75.18,
-      "pct": 0.5719606278265397
+      "c": 75.54,
+      "pc": 75.17,
+      "pct": 0.49221764001596985
     }
   },
-  "tick": 934,
-  "totalScanned": 93300,
+  "tick": 935,
+  "totalScanned": 93400,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27658,6 +27590,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 794,
-  "lastRun": "2026-08-15T22:55:02.367Z",
+  "lastRun": "2026-08-15T23:09:00.914Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
