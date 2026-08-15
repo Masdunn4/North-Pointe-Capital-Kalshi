@@ -1,5 +1,5 @@
 {
-  "cash": 355.49,
+  "cash": 357.51,
   "startCash": 200,
   "trades": [
     {
@@ -19185,12 +19185,12 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-14T23:12:41.326Z",
-      "closedAt": null,
+      "closedAt": "2026-08-15T03:01:23.420Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -19203,34 +19203,86 @@
       "entryScore": 8
     }
   ],
-  "positions": [
-    {
-      "id": 1786749161326.341,
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC",
-      "market": "yes Disguised,yes Tampa Bay",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-14T23:12:41.326Z",
-      "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-17T23:10:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    }
-  ],
+  "positions": [],
   "log": [
+    {
+      "t": "3:01:23 AM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"yes Disguised,yes Tampa Bay\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC tick:6 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Knox",
+      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Knox",
+      "msg": "Checking 1 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Axel",
+      "msg": "Exposure: 1% · Cash: $355.49",
+      "type": ""
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:01:23 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:01:22 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:01:22 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,134 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:01:21 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:01:21 AM",
+      "who": "System",
+      "msg": "═══ TICK #883 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "2:03:32 AM",
       "who": "System",
@@ -20352,84 +20404,6 @@
       "who": "Knox",
       "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20263099BBBB819-92C8E2C6778 [short] tick:2 · waiting · settle chance:0%",
       "type": ""
-    },
-    {
-      "t": "9:13:08 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20263099BBBB819-92C8E2C6778 open · mark 1¢ · ~4d left",
-      "type": ""
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1417-T1333.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1417-T1333.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1416-T1758.99 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1758.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1416-T1759.49 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:07 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG1416-T1759.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1415-T1334.49 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1415-T1334.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Knox",
-      "msg": "Checking 6 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"yes Reg Time: Manchester Cit\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "9:13:06 PM",
-      "who": "Axel",
-      "msg": "Exposure: 5% · Cash: $349.33",
-      "type": ""
     }
   ],
   "markets": [
@@ -21531,75 +21505,6 @@
       "yes_sub_title": "yes Hanwha Eagles,yes Minnesota",
       "yes_bid": 0,
       "volume": 100
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T08:00:00Z",
-      "created_time": "2026-08-14T21:42:19.303852Z",
-      "custom_strike": {
-        "Associated Events": "KXBRASILEIROBGAME-26AUG14RECLON,KXLOLGAME-26AUG160400GENT1",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXBRASILEIROBGAME-26AUG14RECLON-LON,KXLOLGAME-26AUG160400GENT1-T1",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C4849BF0871"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C4849BF0871",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T14:00:00Z",
-      "expiration_time": "2026-08-18T08:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T08:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXBRASILEIROBGAME-26AUG14RECLON",
-          "market_ticker": "KXBRASILEIROBGAME-26AUG14RECLON-LON",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXLOLGAME-26AUG160400GENT1",
-          "market_ticker": "KXLOLGAME-26AUG160400GENT1-T1",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Londrina,yes T1",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:42:19Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C4849BF0871-2BF5FB7010E",
-      "title": "yes Londrina,yes T1",
-      "updated_time": "2026-08-14T21:42:20.200033Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Londrina,yes T1",
-      "yes_bid": 0,
-      "volume": 0
     },
     {
       "can_close_early": true,
@@ -22978,75 +22883,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T20:00:00Z",
-      "created_time": "2026-08-14T21:34:56.991873Z",
-      "custom_strike": {
-        "Associated Events": "KXNFLGAME-26AUG14MIAWAS,KXNFLGAME-26AUG15LARKC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXNFLGAME-26AUG14MIAWAS-MIA,KXNFLGAME-26AUG15LARKC-LAR",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-16T02:00:00Z",
-      "expiration_time": "2026-08-17T20:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T20:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXNFLGAME-26AUG14MIAWAS",
-          "market_ticker": "KXNFLGAME-26AUG14MIAWAS-MIA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNFLGAME-26AUG15LARKC",
-          "market_ticker": "KXNFLGAME-26AUG15LARKC-LAR",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Miami,yes Los Angeles R",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:34:56Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4",
-      "title": "yes Miami,yes Los Angeles R",
-      "updated_time": "2026-08-14T21:34:57.200013Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "10.00",
-      "yes_sub_title": "yes Miami,yes Los Angeles R",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T08:00:00Z",
       "created_time": "2026-08-14T21:34:16.697104Z",
       "custom_strike": {
@@ -23799,75 +23635,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Kia Tigers,yes ThunderTalk Gaming",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T20:00:00Z",
-      "created_time": "2026-08-14T21:30:40.807778Z",
-      "custom_strike": {
-        "Associated Events": "KXENGCSGAME-26AUG16ARSMCI,KXNFLGAME-26AUG14TBNYJ",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXENGCSGAME-26AUG16ARSMCI-TIE,KXNFLGAME-26AUG14TBNYJ-NYJ",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268FFED4E396D"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268FFED4E396D",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T20:00:00Z",
-      "expiration_time": "2026-08-18T20:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T20:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXENGCSGAME-26AUG16ARSMCI",
-          "market_ticker": "KXENGCSGAME-26AUG16ARSMCI-TIE",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNFLGAME-26AUG14TBNYJ",
-          "market_ticker": "KXNFLGAME-26AUG14TBNYJ-NYJ",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Reg Time: Tie,yes New York J",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:30:40Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20268FFED4E396D-DD60F32BAF8",
-      "title": "yes Reg Time: Tie,yes New York J",
-      "updated_time": "2026-08-14T21:30:41.200576Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Reg Time: Tie,yes New York J",
       "yes_bid": 0,
       "volume": 0
     },
@@ -24975,75 +24742,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T09:00:00Z",
-      "created_time": "2026-08-14T21:21:58.064276Z",
-      "custom_strike": {
-        "Associated Events": "KXNFLGAME-26AUG14DENATL,KXNPBGAME-26AUG160500YOKYAK",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXNFLGAME-26AUG14DENATL-ATL,KXNPBGAME-26AUG160500YOKYAK-YOK",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026AD86CA4915F"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026AD86CA4915F",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T15:00:00Z",
-      "expiration_time": "2026-08-18T09:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T09:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXNFLGAME-26AUG14DENATL",
-          "market_ticker": "KXNFLGAME-26AUG14DENATL-ATL",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNPBGAME-26AUG160500YOKYAK",
-          "market_ticker": "KXNPBGAME-26AUG160500YOKYAK-YOK",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Atlanta,yes Yokohama DeNA BayStars",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:21:58Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026AD86CA4915F-B39A8EFB7AC",
-      "title": "yes Atlanta,yes Yokohama DeNA BayStars",
-      "updated_time": "2026-08-14T21:21:58.860605Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Atlanta,yes Yokohama DeNA BayStars",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T18:20:00Z",
       "created_time": "2026-08-14T21:21:56.713654Z",
       "custom_strike": {
@@ -25660,75 +25358,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T01:40:00Z",
-      "created_time": "2026-08-14T21:19:17.942372Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG141910BALTB,KXMLBGAME-26AUG142140TEXATH",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG141910BALTB-TB,KXMLBGAME-26AUG142140TEXATH-TEX",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C05AEEE5DD0"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C05AEEE5DD0",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T07:40:00Z",
-      "expiration_time": "2026-08-18T01:40:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T01:40:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG141910BALTB",
-          "market_ticker": "KXMLBGAME-26AUG141910BALTB-TB",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG142140TEXATH",
-          "market_ticker": "KXMLBGAME-26AUG142140TEXATH-TEX",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Tampa Bay,yes Texas",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:19:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026C05AEEE5DD0-CC425D328D2",
-      "title": "yes Tampa Bay,yes Texas",
-      "updated_time": "2026-08-14T21:19:18.860552Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Tampa Bay,yes Texas",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T17:10:00Z",
       "created_time": "2026-08-14T21:18:42.617309Z",
       "custom_strike": {
@@ -26074,75 +25703,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T05:30:00Z",
-      "created_time": "2026-08-14T21:16:59.24859Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG141910BALTB,KXMLSGAME-26AUG15MTLDCU",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG141910BALTB-TB,KXMLSGAME-26AUG15MTLDCU-MTL",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E8D70A71CDC"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E8D70A71CDC",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T05:30:00Z",
-      "expiration_time": "2026-08-18T05:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T05:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG141910BALTB",
-          "market_ticker": "KXMLBGAME-26AUG141910BALTB-TB",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG15MTLDCU",
-          "market_ticker": "KXMLSGAME-26AUG15MTLDCU-MTL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Tampa Bay,yes Montreal",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:16:59Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E8D70A71CDC-419C5744B6C",
-      "title": "yes Tampa Bay,yes Montreal",
-      "updated_time": "2026-08-14T21:16:59.860255Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Tampa Bay,yes Montreal",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T09:00:00Z",
       "created_time": "2026-08-14T21:16:27.357726Z",
       "custom_strike": {
@@ -26276,75 +25836,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Montreal,yes Chicago Fire",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-17T22:40:00Z",
-      "created_time": "2026-08-14T21:15:36.22092Z",
-      "custom_strike": {
-        "Associated Events": "KXBRASILEIROBGAME-26AUG14SBEBOT,KXMLBGAME-26AUG141840BOSPIT",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXBRASILEIROBGAME-26AUG14SBEBOT-BOT,KXMLBGAME-26AUG141840BOSPIT-PIT",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S202610CA2233BD1"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S202610CA2233BD1",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T04:40:00Z",
-      "expiration_time": "2026-08-17T22:40:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T22:40:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXBRASILEIROBGAME-26AUG14SBEBOT",
-          "market_ticker": "KXBRASILEIROBGAME-26AUG14SBEBOT-BOT",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG141840BOSPIT",
-          "market_ticker": "KXMLBGAME-26AUG141840BOSPIT-PIT",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Botafogo,yes Pittsburgh",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:15:36Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S202610CA2233BD1-D1D940E5220",
-      "title": "yes Botafogo,yes Pittsburgh",
-      "updated_time": "2026-08-14T21:15:36.859907Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Botafogo,yes Pittsburgh",
       "yes_bid": 0,
       "volume": 0
     },
@@ -26621,143 +26112,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Miami,yes Tie",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-17T23:10:00Z",
-      "created_time": "2026-08-14T21:14:08.020112Z",
-      "custom_strike": {
-        "Associated Events": "KXLOLGAME-26AUG151600TLDSG,KXMLBGAME-26AUG141910BALTB",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXLOLGAME-26AUG151600TLDSG-DSG,KXMLBGAME-26AUG141910BALTB-TB",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-16T02:00:00Z",
-      "expiration_time": "2026-08-17T23:10:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-08-17T23:10:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXLOLGAME-26AUG151600TLDSG",
-          "market_ticker": "KXLOLGAME-26AUG151600TLDSG-DSG",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLBGAME-26AUG141910BALTB",
-          "market_ticker": "KXMLBGAME-26AUG141910BALTB-TB",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes Disguised,yes Tampa Bay",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-08-14T21:14:07Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC",
-      "title": "yes Disguised,yes Tampa Bay",
-      "updated_time": "2026-08-14T21:14:08.860126Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "10.00",
-      "yes_sub_title": "yes Disguised,yes Tampa Bay",
-      "yes_bid": 0.01,
-      "volume": 100
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T07:30:00Z",
-      "created_time": "2026-08-14T21:13:27.718476Z",
-      "custom_strike": {
-        "Associated Events": "KXARGPREMDIVGAME-26AUG15RACBAN,KXMLSGAME-26AUG15COLSKC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXARGPREMDIVGAME-26AUG15RACBAN-RAC,KXMLSGAME-26AUG15COLSKC-COL",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S20266F17D35412F"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S20266F17D35412F",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T07:30:00Z",
-      "expiration_time": "2026-08-18T07:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T07:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXARGPREMDIVGAME-26AUG15RACBAN",
-          "market_ticker": "KXARGPREMDIVGAME-26AUG15RACBAN-RAC",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG15COLSKC",
-          "market_ticker": "KXMLSGAME-26AUG15COLSKC-COL",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Racing Avellaneda,yes Colorado",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:13:27Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S20266F17D35412F-2D7EF7E9D16",
-      "title": "yes Racing Avellaneda,yes Colorado",
-      "updated_time": "2026-08-14T21:13:27.860645Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Racing Avellaneda,yes Colorado",
       "yes_bid": 0,
       "volume": 0
     },
@@ -27311,6 +26665,601 @@
       "yes_sub_title": "yes Millwall,yes Tijuana de Caliente",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-22T08:30:00Z",
+      "created_time": "2026-08-14T21:09:04.111936Z",
+      "custom_strike": {
+        "Associated Events": "KXMLSGAME-26AUG19PORSD,KXNPBGAME-26AUG160000HOKORI",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXMLSGAME-26AUG19PORSD-POR,KXNPBGAME-26AUG160000HOKORI-ORI",
+        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026EE87FF5E3AE"
+      },
+      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026EE87FF5E3AE",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-20T08:30:00Z",
+      "expiration_time": "2026-08-22T08:30:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-22T08:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXMLSGAME-26AUG19PORSD",
+          "market_ticker": "KXMLSGAME-26AUG19PORSD-POR",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNPBGAME-26AUG160000HOKORI",
+          "market_ticker": "KXNPBGAME-26AUG160000HOKORI-ORI",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Portland,yes Orix Buffaloes",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:09:04Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026EE87FF5E3AE-B50C13084A3",
+      "title": "yes Portland,yes Orix Buffaloes",
+      "updated_time": "2026-08-14T21:09:13.327774Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Portland,yes Orix Buffaloes",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T01:30:00Z",
+      "created_time": "2026-08-14T21:08:53.381169Z",
+      "custom_strike": {
+        "Associated Events": "KXLALIGAGAME-26AUG15SEVRVC,KXMLBGAME-26AUG141420STLCHC",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXLALIGAGAME-26AUG15SEVRVC-RVC,KXMLBGAME-26AUG141420STLCHC-CHC",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-16T01:30:00Z",
+      "expiration_time": "2026-08-18T01:30:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T01:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXLALIGAGAME-26AUG15SEVRVC",
+          "market_ticker": "KXLALIGAGAME-26AUG15SEVRVC-RVC",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXMLBGAME-26AUG141420STLCHC",
+          "market_ticker": "KXMLBGAME-26AUG141420STLCHC-CHC",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Vallecano,yes Chicago C",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:08:53Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20269B0A861ADC1-B8381C9E03C",
+      "title": "yes Vallecano,yes Chicago C",
+      "updated_time": "2026-08-14T21:08:54.327414Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Vallecano,yes Chicago C",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T10:00:00Z",
+      "created_time": "2026-08-14T21:08:20.96755Z",
+      "custom_strike": {
+        "Associated Events": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE,KXKBOGAME-26AUG160600HANSAM",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE-BOL,KXKBOGAME-26AUG160600HANSAM-HAN",
+        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S20260159CC6B70F"
+      },
+      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S20260159CC6B70F",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-16T16:00:00Z",
+      "expiration_time": "2026-08-18T10:00:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T10:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE",
+          "market_ticker": "KXEFLCHAMPIONSHIPGAME-26AUG15BOLPNE-BOL",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXKBOGAME-26AUG160600HANSAM",
+          "market_ticker": "KXKBOGAME-26AUG160600HANSAM-HAN",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Bolton,yes Hanwha Eagles",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:08:20Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVECROSSCATEGORY-SHARD1-S20260159CC6B70F-99DCEBBF92A",
+      "title": "yes Bolton,yes Hanwha Eagles",
+      "updated_time": "2026-08-14T21:08:21.327142Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Bolton,yes Hanwha Eagles",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T10:00:00Z",
+      "created_time": "2026-08-14T21:08:19.647304Z",
+      "custom_strike": {
+        "Associated Events": "KXKBOGAME-26AUG160600SSGLG,KXMLBGAME-26AUG142215COLSF",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXKBOGAME-26AUG160600SSGLG-SSG,KXMLBGAME-26AUG142215COLSF-SF",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202664B8724E42F"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202664B8724E42F",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-16T16:00:00Z",
+      "expiration_time": "2026-08-18T10:00:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T10:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXKBOGAME-26AUG160600SSGLG",
+          "market_ticker": "KXKBOGAME-26AUG160600SSGLG-SSG",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXMLBGAME-26AUG142215COLSF",
+          "market_ticker": "KXMLBGAME-26AUG142215COLSF-SF",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes SSG Landers,yes San Francisco",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:08:19Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202664B8724E42F-84FADBF14C5",
+      "title": "yes SSG Landers,yes San Francisco",
+      "updated_time": "2026-08-14T21:08:20.327395Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes SSG Landers,yes San Francisco",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T10:00:00Z",
+      "created_time": "2026-08-14T21:07:39.371339Z",
+      "custom_strike": {
+        "Associated Events": "KXKBOGAME-26AUG160600KIWKTW,KXNPBGAME-26AUG150500HANHIR",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXKBOGAME-26AUG160600KIWKTW-KTW,KXNPBGAME-26AUG150500HANHIR-HIR",
+        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E35B16FBA70"
+      },
+      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E35B16FBA70",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-16T16:00:00Z",
+      "expiration_time": "2026-08-18T10:00:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-18T10:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXKBOGAME-26AUG160600KIWKTW",
+          "market_ticker": "KXKBOGAME-26AUG160600KIWKTW-KTW",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNPBGAME-26AUG150500HANHIR",
+          "market_ticker": "KXNPBGAME-26AUG150500HANHIR-HIR",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes KT Wiz,yes Hiroshima Toyo Carp",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:07:39Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E35B16FBA70-647521C9500",
+      "title": "yes KT Wiz,yes Hiroshima Toyo Carp",
+      "updated_time": "2026-08-14T21:07:40.32758Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes KT Wiz,yes Hiroshima Toyo Carp",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T13:30:00Z",
+      "created_time": "2026-08-14T21:07:29.155891Z",
+      "custom_strike": {
+        "Associated Events": "KXCLUBFGAME-26AUG15TORVAL,KXNPBGAME-26AUG150100HOKORI",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXCLUBFGAME-26AUG15TORVAL-TIE,KXNPBGAME-26AUG150100HOKORI-ORI",
+        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026174AD2A593D"
+      },
+      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026174AD2A593D",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-15T13:30:00Z",
+      "expiration_time": "2026-08-17T13:30:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T13:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXCLUBFGAME-26AUG15TORVAL",
+          "market_ticker": "KXCLUBFGAME-26AUG15TORVAL-TIE",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXNPBGAME-26AUG150100HOKORI",
+          "market_ticker": "KXNPBGAME-26AUG150100HOKORI-ORI",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Tie,yes Orix Buffaloes",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:07:29Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026174AD2A593D-1B56AE25C26",
+      "title": "yes Tie,yes Orix Buffaloes",
+      "updated_time": "2026-08-14T21:07:29.327533Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Tie,yes Orix Buffaloes",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T17:00:00Z",
+      "created_time": "2026-08-14T21:07:22.916983Z",
+      "custom_strike": {
+        "Associated Events": "KXWNBASPREAD-26AUG14PDXSEA,KXWNBASPREAD-26AUG15NYCONN",
+        "Associated Market Sides": "yes,yes",
+        "Associated Markets": "KXWNBASPREAD-26AUG14PDXSEA-SEA2,KXWNBASPREAD-26AUG15NYCONN-NY8",
+        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5"
+      },
+      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5",
+      "exchange_index": 1,
+      "expected_expiration_time": "2026-08-15T23:00:00Z",
+      "expiration_time": "2026-08-17T17:00:00Z",
+      "expiration_value": "",
+      "is_provisional": true,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T17:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
+      "mve_selected_legs": [
+        {
+          "event_ticker": "KXWNBASPREAD-26AUG14PDXSEA",
+          "market_ticker": "KXWNBASPREAD-26AUG14PDXSEA-SEA2",
+          "side": "yes"
+        },
+        {
+          "event_ticker": "KXWNBASPREAD-26AUG15NYCONN",
+          "market_ticker": "KXWNBASPREAD-26AUG15NYCONN-NY8",
+          "side": "yes"
+        }
+      ],
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:07:22Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "deci_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0010"
+        }
+      ],
+      "result": "",
+      "rules_primary": "",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 5,
+      "status": "active",
+      "strike_type": "custom",
+      "ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5-D8F2E6B9189",
+      "title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
+      "updated_time": "2026-08-14T21:07:23.328034Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T23:10:00Z",
+      "created_time": "2026-08-14T21:06:59.089463Z",
+      "custom_strike": {
+        "baseball_player": "95bbf185-dc7a-4309-8b10-2626378a9951",
+        "baseball_team": "942f3f85-869a-4f7a-8e5a-336365c5294b"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26AUG141910BALTB",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T05:10:00Z",
+      "expiration_time": "2026-08-17T23:10:00Z",
+      "expiration_value": "",
+      "floor_strike": 3.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T23:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Yandy Díaz: 4+",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "result": "",
+      "rules_primary": "If Yandy Díaz records 4+ hits in the Baltimore vs Tampa Bay professional baseball game originally scheduled for Aug 14, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Yandy Díaz is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Yandy Díaz starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Yandy Díaz is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Yandy Díaz is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26AUG141910BALTB-TBYDIAZ2-4",
+      "title": "Yandy Díaz: 4+ hits?",
+      "updated_time": "2026-08-14T21:35:12.293884Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Yandy Díaz: 4+",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-17T23:10:00Z",
+      "created_time": "2026-08-14T21:06:59.089463Z",
+      "custom_strike": {
+        "baseball_player": "95bbf185-dc7a-4309-8b10-2626378a9951",
+        "baseball_team": "942f3f85-869a-4f7a-8e5a-336365c5294b"
+      },
+      "early_close_condition": "This market will close and expire after the event occurs.",
+      "event_ticker": "KXMLBHIT-26AUG141910BALTB",
+      "exchange_index": 3,
+      "expected_expiration_time": "2026-08-15T05:10:00Z",
+      "expiration_time": "2026-08-17T23:10:00Z",
+      "expiration_value": "",
+      "floor_strike": 2.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-17T23:10:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Yandy Díaz: 3+",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "baseball_player",
+      "result": "",
+      "rules_primary": "If Yandy Díaz records 3+ hits in the Baltimore vs Tampa Bay professional baseball game originally scheduled for Aug 14, 2026 at 7:10 PM EDT, then the market resolves to Yes.",
+      "rules_secondary": "Player Participation & Settlement Criteria\nIf Yandy Díaz is scratched or not included in the starting lineup, the market will resolve to the fair market price.\nIf Yandy Díaz starts the game but does not record a plate appearance, the market will resolve to the fair market price.\nIf Yandy Díaz is not in the starting lineup but later enters the game, the market will resolve to the fair market price, pinch hit at bats will not count towards the market.\nIf Yandy Díaz is in the starting lineup and records at least one plate appearance the market will settle based on hits recorded.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXMLBHIT-26AUG141910BALTB-TBYDIAZ2-3",
+      "title": "Yandy Díaz: 3+ hits?",
+      "updated_time": "2026-08-14T21:35:12.293884Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Yandy Díaz: 3+",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27340,23 +27289,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63045.13,
-      "pc": 63555.91,
-      "pct": -0.8036703431671517
+      "c": 63134.42,
+      "pc": 63460.06,
+      "pct": -0.513141651615204
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.38,
-      "pc": 1889.44,
-      "pct": -0.2678042171225308
+      "c": 1885.1,
+      "pc": 1886.34,
+      "pct": -0.06573576343607246
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.4,
-      "pc": 76.09,
-      "pct": -0.9068208700223389
+      "c": 75.65,
+      "pc": 75.99,
+      "pct": -0.4474272930648628
     }
   },
-  "tick": 882,
-  "totalScanned": 88100,
+  "tick": 883,
+  "totalScanned": 88200,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27367,8 +27316,8 @@
       "total": 93
     },
     "Unknown|NO|short": {
-      "wins": 493,
-      "total": 550
+      "wins": 494,
+      "total": 551
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -27381,7 +27330,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 767,
-  "lastRun": "2026-08-15T02:03:29.502Z",
+  "learnTotal": 768,
+  "lastRun": "2026-08-15T03:01:21.238Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
