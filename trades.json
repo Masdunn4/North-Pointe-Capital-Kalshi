@@ -19206,6 +19206,72 @@
   "positions": [],
   "log": [
     {
+      "t": "4:52:44 AM",
+      "who": "System",
+      "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
+      "type": "lt-sys"
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Knox",
+      "msg": "All 0 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Knox",
+      "msg": "Checking 0 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Axel",
+      "msg": "Exposure: 0% · Cash: $357.51",
+      "type": ""
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "4:52:44 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:52:43 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "4:52:43 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,138 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:52:42 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "4:52:42 AM",
+      "who": "System",
+      "msg": "═══ TICK #886 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
+    {
       "t": "4:17:30 AM",
       "who": "System",
       "msg": "Portfolio: $357.51 · Realized P&L: +$157.51 · Trades: 768",
@@ -20338,72 +20404,6 @@
       "who": "Auth",
       "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
       "type": "lt-warn"
-    },
-    {
-      "t": "9:55:34 PM",
-      "who": "System",
-      "msg": "═══ TICK #874 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:38:51 PM",
-      "who": "System",
-      "msg": "Portfolio: $359.39 · Realized P&L: +$159.39 · Trades: 766",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:38:51 PM",
-      "who": "Knox",
-      "msg": "All 5 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20267D4734BD729-525902EDFAC open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A4650D246CA-AAF0C3A19F4 open · mark 1¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A7B2555043E-90064EEB7AE [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S2026A7B2555043E-90064EEB7AE open · mark 1¢ · ~4d left",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20263099BBBB819-92C8E2C6778 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "9:38:50 PM",
-      "who": "Knox",
-      "msg": "KXMVESPORTSMULTIGAMEEXTENDED-S20263099BBBB819-92C8E2C6778 open · mark 1¢ · ~4d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -27081,75 +27081,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T17:00:00Z",
-      "created_time": "2026-08-14T21:07:22.916983Z",
-      "custom_strike": {
-        "Associated Events": "KXWNBASPREAD-26AUG14PDXSEA,KXWNBASPREAD-26AUG15NYCONN",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXWNBASPREAD-26AUG14PDXSEA-SEA2,KXWNBASPREAD-26AUG15NYCONN-NY8",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-15T23:00:00Z",
-      "expiration_time": "2026-08-17T17:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T17:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXWNBASPREAD-26AUG14PDXSEA",
-          "market_ticker": "KXWNBASPREAD-26AUG14PDXSEA-SEA2",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWNBASPREAD-26AUG15NYCONN",
-          "market_ticker": "KXWNBASPREAD-26AUG15NYCONN-NY8",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:07:22Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S20267B58C7A66A5-D8F2E6B9189",
-      "title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
-      "updated_time": "2026-08-14T21:07:23.328034Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Seattle wins by over 1.5 points,yes New York wins by over 7.5 points",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-19T01:38:00Z",
       "created_time": "2026-08-14T21:06:58.327041Z",
       "custom_strike": {
@@ -27232,7 +27163,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Toronto Polar Bears",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-15T03:00:00Z",
@@ -27259,11 +27190,61 @@
       "updated_time": "2026-08-15T00:07:50.357012Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Toronto Polar Bears",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-22T00:00:00Z",
+      "created_time": "2026-08-14T21:06:58.035613Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXPPLMATCH-26AUG14TPBSDS",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-15T03:00:00Z",
+      "expiration_time": "2026-08-22T00:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-22T00:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "San Diego Stingrays",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-08-15T03:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the San Diego Stingrays wins the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match originally scheduled for Aug 14, 2026, then the market resolves to Yes.",
+      "rules_secondary": "If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to a fair price in accordance with the rules. If this match is postponed or delayed, the market will remain open and close after the rescheduled match has finished (within two weeks).\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "ticker": "KXPPLMATCH-26AUG14TPBSDS-SDS",
+      "title": "Will the San Diego Stingrays win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
+      "updated_time": "2026-08-15T00:07:50.357012Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "San Diego Stingrays",
       "yes_bid": 0,
       "volume": 0
     }
@@ -27295,23 +27276,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63110.07,
-      "pc": 63458,
-      "pct": -0.5482839043146652
+      "c": 63137.89,
+      "pc": 63387.95,
+      "pct": -0.39449138203711853
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.47,
-      "pc": 1887.28,
-      "pct": -0.20187783476749319
+      "c": 1884.8,
+      "pc": 1884.68,
+      "pct": 0.006367128637216443
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.48,
-      "pc": 76,
-      "pct": -0.6842105263157842
+      "c": 75.56,
+      "pc": 75.89,
+      "pct": -0.4348398998550511
     }
   },
-  "tick": 885,
-  "totalScanned": 88400,
+  "tick": 886,
+  "totalScanned": 88500,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27337,6 +27318,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 768,
-  "lastRun": "2026-08-15T04:17:28.735Z",
+  "lastRun": "2026-08-15T04:52:42.307Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
