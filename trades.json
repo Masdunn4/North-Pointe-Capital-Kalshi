@@ -20035,7 +20035,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0.44,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -20060,7 +20060,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -20085,7 +20085,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0.23,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20118,7 +20118,7 @@
       "status": "open",
       "openedAt": "2026-08-16T00:30:53.122Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20137,13 +20137,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0.44,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T02:09:00.409Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20162,13 +20162,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T02:09:00.789Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20187,13 +20187,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0.23,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T02:09:01.169Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20206,6 +20206,120 @@
     }
   ],
   "log": [
+    {
+      "t": "3:10:07 AM",
+      "who": "System",
+      "msg": "Portfolio: $337.12 · Realized P&L: +$137.12 · Trades: 804",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:10:07 AM",
+      "who": "Knox",
+      "msg": "All 4 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 23¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 44¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:10:06 AM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Knox",
+      "msg": "Checking 4 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Axel",
+      "msg": "Exposure: 9% · Cash: $319.12",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:10:05 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,125 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:10:04 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:10:03 AM",
+      "who": "System",
+      "msg": "═══ TICK #940 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "2:09:03 AM",
       "who": "System",
@@ -21291,192 +21405,9 @@
       "who": "Knox",
       "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 [short] tick:2 · waiting · settle chance:0%",
       "type": ""
-    },
-    {
-      "t": "10:07:40 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 open · mark 30¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 open · mark 6¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-5 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-5 open · mark 2¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 7¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:07:39 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 48¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-2 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-2 open · mark 64¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 27¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-1 open · mark 48¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:07:38 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1TOTAL-26AUG15CHAMEL-4 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:07:37 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:07:37 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 open · mark 8¢ · ~2d left",
-      "type": ""
     }
   ],
   "markets": [
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T23:10:00Z",
-      "created_time": "2026-08-14T21:48:11.120866Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG151910SEAHOU,KXNPBGAME-26AUG160500YOKYAK",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG151910SEAHOU-HOU,KXNPBGAME-26AUG160500YOKYAK-YOK",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026040426D8FC4"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026040426D8FC4",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T15:00:00Z",
-      "expiration_time": "2026-08-18T23:10:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T23:10:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG151910SEAHOU",
-          "market_ticker": "KXMLBGAME-26AUG151910SEAHOU-HOU",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNPBGAME-26AUG160500YOKYAK",
-          "market_ticker": "KXNPBGAME-26AUG160500YOKYAK-YOK",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Houston,yes Yokohama DeNA BayStars",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:48:11Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026040426D8FC4-827E575CE50",
-      "title": "yes Houston,yes Yokohama DeNA BayStars",
-      "updated_time": "2026-08-14T21:48:11.224729Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Houston,yes Yokohama DeNA BayStars",
-      "yes_bid": 0,
-      "volume": 0
-    },
     {
       "can_close_early": true,
       "close_time": "2026-08-24T01:00:00Z",
@@ -23611,75 +23542,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-17T23:00:00Z",
-      "created_time": "2026-08-14T21:23:22.427637Z",
-      "custom_strike": {
-        "Associated Events": "KXNFLGAME-26AUG15PHIBAL,KXNWSLGAME-26AUG14GOTKC",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXNFLGAME-26AUG15PHIBAL-BAL,KXNWSLGAME-26AUG14GOTKC-GOT",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026904513AB35D"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026904513AB35D",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T05:00:00Z",
-      "expiration_time": "2026-08-17T23:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-17T23:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXNFLGAME-26AUG15PHIBAL",
-          "market_ticker": "KXNFLGAME-26AUG15PHIBAL-BAL",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNWSLGAME-26AUG14GOTKC",
-          "market_ticker": "KXNWSLGAME-26AUG14GOTKC-GOT",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Baltimore,yes Gotham",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:23:22Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026904513AB35D-9F58F97A51B",
-      "title": "yes Baltimore,yes Gotham",
-      "updated_time": "2026-08-14T21:23:22.860508Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Baltimore,yes Gotham",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-22T08:30:00Z",
       "created_time": "2026-08-14T21:22:38.375901Z",
       "custom_strike": {
@@ -24162,75 +24024,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-22T05:30:00Z",
-      "created_time": "2026-08-14T21:16:16.81814Z",
-      "custom_strike": {
-        "Associated Events": "KXMLSGAME-26AUG15MTLDCU,KXMLSGAME-26AUG19ORLCHI",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLSGAME-26AUG15MTLDCU-MTL,KXMLSGAME-26AUG19ORLCHI-CHI",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BA020C991C4"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BA020C991C4",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-20T05:30:00Z",
-      "expiration_time": "2026-08-22T05:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-22T05:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLSGAME-26AUG15MTLDCU",
-          "market_ticker": "KXMLSGAME-26AUG15MTLDCU-MTL",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG19ORLCHI",
-          "market_ticker": "KXMLSGAME-26AUG19ORLCHI-CHI",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Montreal,yes Chicago Fire",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:16:16Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BA020C991C4-87CC888892F",
-      "title": "yes Montreal,yes Chicago Fire",
-      "updated_time": "2026-08-14T21:16:17.860066Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Montreal,yes Chicago Fire",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-19T17:35:00Z",
       "created_time": "2026-08-14T21:15:25.695535Z",
       "custom_strike": {
@@ -24576,75 +24369,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-22T08:30:00Z",
-      "created_time": "2026-08-14T21:11:52.367546Z",
-      "custom_strike": {
-        "Associated Events": "KXMLSGAME-26AUG19LAGSJ,KXWNBAGAME-26AUG15MINLV",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLSGAME-26AUG19LAGSJ-TIE,KXWNBAGAME-26AUG15MINLV-LV",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC41B84E116"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC41B84E116",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-20T08:30:00Z",
-      "expiration_time": "2026-08-22T08:30:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-22T08:30:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLSGAME-26AUG19LAGSJ",
-          "market_ticker": "KXMLSGAME-26AUG19LAGSJ-TIE",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWNBAGAME-26AUG15MINLV",
-          "market_ticker": "KXWNBAGAME-26AUG15MINLV-LV",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Tie,yes Las Vegas",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:11:52Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026BC41B84E116-3CE1026887F",
-      "title": "yes Tie,yes Las Vegas",
-      "updated_time": "2026-08-14T21:11:52.860442Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Tie,yes Las Vegas",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-18T14:00:00Z",
       "created_time": "2026-08-14T21:11:18.379822Z",
       "custom_strike": {
@@ -24711,74 +24435,6 @@
       "yes_sub_title": "yes Lynn Vision,yes Sevilla",
       "yes_bid": 0,
       "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-19T17:37:00Z",
-      "created_time": "2026-08-14T21:11:17.046024Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG161337NYYTOR,KXMLSGAME-26AUG15TORNE",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG161337NYYTOR-NYY,KXMLSGAME-26AUG15TORNE-TIE",
-        "Multivariate Event Ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202635CEA357C31"
-      },
-      "event_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202635CEA357C31",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T23:37:00Z",
-      "expiration_time": "2026-08-19T17:37:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.4500",
-      "latest_expiration_time": "2026-08-19T17:37:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVESPORTSMULTIGAMEEXTENDED-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG161337NYYTOR",
-          "market_ticker": "KXMLBGAME-26AUG161337NYYTOR-NYY",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXMLSGAME-26AUG15TORNE",
-          "market_ticker": "KXMLSGAME-26AUG15TORNE-TIE",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "yes New York Y,yes Tie",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "100.00",
-      "open_time": "2026-08-14T21:11:17Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202635CEA357C31-69FE649C2DC",
-      "title": "yes New York Y,yes Tie",
-      "updated_time": "2026-08-14T21:11:17.86023Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "100.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes New York Y,yes Tie",
-      "yes_bid": 0,
-      "volume": 100
     },
     {
       "can_close_early": true,
@@ -25053,75 +24709,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes KT Wiz,yes Hiroshima Toyo Carp",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-19T01:38:00Z",
-      "created_time": "2026-08-14T21:06:58.327041Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG152138KCLAA,KXWNBAGAME-26AUG15LAWSH",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG152138KCLAA-LAA,KXWNBAGAME-26AUG15LAWSH-LA",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T07:38:00Z",
-      "expiration_time": "2026-08-19T01:38:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-19T01:38:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG152138KCLAA",
-          "market_ticker": "KXMLBGAME-26AUG152138KCLAA-LAA",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXWNBAGAME-26AUG15LAWSH",
-          "market_ticker": "KXWNBAGAME-26AUG15LAWSH-LA",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Los Angeles A,yes Los Angeles",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:06:58Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026E7F08BE1322-AB2E9B215C6",
-      "title": "yes Los Angeles A,yes Los Angeles",
-      "updated_time": "2026-08-14T21:06:59.327918Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Los Angeles A,yes Los Angeles",
       "yes_bid": 0,
       "volume": 0
     },
@@ -25464,8 +25051,8 @@
       "latest_expiration_time": "2026-08-18T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0100",
+      "no_ask_dollars": "0.5600",
+      "no_bid_dollars": "0.0600",
       "no_sub_title": "Over 2.5 maps",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T15:00:00Z",
@@ -25493,12 +25080,12 @@
       "updated_time": "2026-08-15T20:04:30.980221Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9900",
+      "yes_ask_dollars": "0.9400",
       "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0100",
+      "yes_bid_dollars": "0.4400",
       "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Over 2.5 maps",
-      "yes_bid": 0.01,
+      "yes_bid": 0.44,
       "volume": 0
     },
     {
@@ -25732,8 +25319,8 @@
       "latest_expiration_time": "2026-08-18T14:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0100",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Over 2.5 maps",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T18:00:00Z",
@@ -25761,12 +25348,12 @@
       "updated_time": "2026-08-14T21:35:12.250087Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9900",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Over 2.5 maps",
-      "yes_bid": 0.01,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -26203,7 +25790,7 @@
       "expiration_time": "2026-08-21T21:00:00Z",
       "expiration_value": "",
       "floor_strike": 4.86,
-      "last_price_dollars": "0.4200",
+      "last_price_dollars": "0.5400",
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -26211,7 +25798,7 @@
       "no_bid_dollars": "0.4600",
       "no_sub_title": "Price to Beat: 4.86",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "1.00",
+      "open_interest_fp": "4.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "1.0000",
@@ -26233,15 +25820,15 @@
       "ticker": "KXH200W-26AUG21-4.86",
       "title": "H200 price up in next week?",
       "updated_time": "2026-08-14T21:35:12.250087Z",
-      "volume_24h_fp": "1.00",
-      "volume_fp": "1.00",
+      "volume_24h_fp": "2.00",
+      "volume_fp": "5.00",
       "yes_ask_dollars": "0.5400",
-      "yes_ask_size_fp": "5.00",
+      "yes_ask_size_fp": "2.00",
       "yes_bid_dollars": "0.4400",
       "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 4.86",
       "yes_bid": 0.44,
-      "volume": 1
+      "volume": 5
     },
     {
       "can_close_early": true,
@@ -26253,11 +25840,11 @@
       "expiration_time": "2026-08-21T21:00:00Z",
       "expiration_value": "",
       "floor_strike": 1.04,
-      "last_price_dollars": "0.2900",
+      "last_price_dollars": "0.2600",
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7400",
+      "no_ask_dollars": "0.7700",
       "no_bid_dollars": "0.7100",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -26283,15 +25870,15 @@
       "ticker": "KXA100W-26AUG21-1.04",
       "title": "A100 SXM4 price up in next week?",
       "updated_time": "2026-08-14T21:35:12.20399Z",
-      "volume_24h_fp": "56.00",
-      "volume_fp": "70.00",
+      "volume_24h_fp": "72.00",
+      "volume_fp": "72.00",
       "yes_ask_dollars": "0.2900",
-      "yes_ask_size_fp": "4.00",
-      "yes_bid_dollars": "0.2600",
-      "yes_bid_size_fp": "48.00",
+      "yes_ask_size_fp": "3.00",
+      "yes_bid_dollars": "0.2300",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.26,
-      "volume": 70
+      "yes_bid": 0.23,
+      "volume": 72
     },
     {
       "can_close_early": true,
@@ -27513,6 +27100,312 @@
       "yes_sub_title": "Above $0.50",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.671591Z",
+      "event_ticker": "KXA100WS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 0.4,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $0.40",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of NVIDIA A100 compute per hour is above $0.4 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the value of NVIDIA A100 compute per hour as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXA100WS-26SEP25-0.400",
+      "title": "Will the NVIDIA A100 compute per hour price be above $0.4 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $0.40",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.671591Z",
+      "event_ticker": "KXA100WS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 0.3,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $0.30",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of NVIDIA A100 compute per hour is above $0.3 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the value of NVIDIA A100 compute per hour as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXA100WS-26SEP25-0.300",
+      "title": "Will the NVIDIA A100 compute per hour price be above $0.3 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.20399Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $0.30",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-01T13:59:00Z",
+      "created_time": "2026-08-14T21:06:53.627478Z",
+      "early_close_condition": "This market will close and expire early if the economic data is released.",
+      "event_ticker": "KXDATACENTCON-26SEP01",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-08T15:30:00Z",
+      "expiration_time": "2026-09-01T13:59:00Z",
+      "expiration_value": "",
+      "floor_strike": 80,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-08T15:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $80.0B",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the U.S. Census Bureau reports that U.S. private data center construction spending for July 2026 is above $80.0B (billion) at a seasonally adjusted annual rate, then the market resolves to Yes.",
+      "rules_secondary": "This market will resolve based on the first published estimate of U.S. private data center construction spending for July 2026 reported by the U.S. Census Bureau in its Value of Private Construction Put in Place – Seasonally Adjusted Annual Rate data.\n\nThe relevant figure is found under:\n\nPrivate → Nonresidential → Office → Data center\n\nThe Census Bureau reports this figure in millions of dollars at a seasonally adjusted annual rate (SAAR). For example, $70 billion corresponds to $70,000 million.\n\nThe first figure published for the relevant month will be used, including if Census identifies that figure as preliminary. Subsequent revisions, corrections, or updated estimates will not affect the market’s resolution.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDATACENTCON-26SEP01-T80.0",
+      "title": "Will U.S. private data center construction spending for July 2026 be above $80.0B?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $80.0B",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-01T13:59:00Z",
+      "created_time": "2026-08-14T21:06:53.627478Z",
+      "early_close_condition": "This market will close and expire early if the economic data is released.",
+      "event_ticker": "KXDATACENTCON-26SEP01",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-08T15:30:00Z",
+      "expiration_time": "2026-09-01T13:59:00Z",
+      "expiration_value": "",
+      "floor_strike": 77.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-08T15:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $77.5B",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the U.S. Census Bureau reports that U.S. private data center construction spending for July 2026 is above $77.5B (billion) at a seasonally adjusted annual rate, then the market resolves to Yes.",
+      "rules_secondary": "This market will resolve based on the first published estimate of U.S. private data center construction spending for July 2026 reported by the U.S. Census Bureau in its Value of Private Construction Put in Place – Seasonally Adjusted Annual Rate data.\n\nThe relevant figure is found under:\n\nPrivate → Nonresidential → Office → Data center\n\nThe Census Bureau reports this figure in millions of dollars at a seasonally adjusted annual rate (SAAR). For example, $70 billion corresponds to $70,000 million.\n\nThe first figure published for the relevant month will be used, including if Census identifies that figure as preliminary. Subsequent revisions, corrections, or updated estimates will not affect the market’s resolution.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDATACENTCON-26SEP01-T77.5",
+      "title": "Will U.S. private data center construction spending for July 2026 be above $77.5B?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $77.5B",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-01T13:59:00Z",
+      "created_time": "2026-08-14T21:06:53.627478Z",
+      "early_close_condition": "This market will close and expire early if the economic data is released.",
+      "event_ticker": "KXDATACENTCON-26SEP01",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-08T15:30:00Z",
+      "expiration_time": "2026-09-01T13:59:00Z",
+      "expiration_value": "",
+      "floor_strike": 75,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-08T15:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $75.0B",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the U.S. Census Bureau reports that U.S. private data center construction spending for July 2026 is above $75.0B (billion) at a seasonally adjusted annual rate, then the market resolves to Yes.",
+      "rules_secondary": "This market will resolve based on the first published estimate of U.S. private data center construction spending for July 2026 reported by the U.S. Census Bureau in its Value of Private Construction Put in Place – Seasonally Adjusted Annual Rate data.\n\nThe relevant figure is found under:\n\nPrivate → Nonresidential → Office → Data center\n\nThe Census Bureau reports this figure in millions of dollars at a seasonally adjusted annual rate (SAAR). For example, $70 billion corresponds to $70,000 million.\n\nThe first figure published for the relevant month will be used, including if Census identifies that figure as preliminary. Subsequent revisions, corrections, or updated estimates will not affect the market’s resolution.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDATACENTCON-26SEP01-T75.0",
+      "title": "Will U.S. private data center construction spending for July 2026 be above $75.0B?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $75.0B",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-01T13:59:00Z",
+      "created_time": "2026-08-14T21:06:53.627478Z",
+      "early_close_condition": "This market will close and expire early if the economic data is released.",
+      "event_ticker": "KXDATACENTCON-26SEP01",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-08T15:30:00Z",
+      "expiration_time": "2026-09-01T13:59:00Z",
+      "expiration_value": "",
+      "floor_strike": 72.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-08T15:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $72.5B",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the U.S. Census Bureau reports that U.S. private data center construction spending for July 2026 is above $72.5B (billion) at a seasonally adjusted annual rate, then the market resolves to Yes.",
+      "rules_secondary": "This market will resolve based on the first published estimate of U.S. private data center construction spending for July 2026 reported by the U.S. Census Bureau in its Value of Private Construction Put in Place – Seasonally Adjusted Annual Rate data.\n\nThe relevant figure is found under:\n\nPrivate → Nonresidential → Office → Data center\n\nThe Census Bureau reports this figure in millions of dollars at a seasonally adjusted annual rate (SAAR). For example, $70 billion corresponds to $70,000 million.\n\nThe first figure published for the relevant month will be used, including if Census identifies that figure as preliminary. Subsequent revisions, corrections, or updated estimates will not affect the market’s resolution.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDATACENTCON-26SEP01-T72.5",
+      "title": "Will U.S. private data center construction spending for July 2026 be above $72.5B?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $72.5B",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27542,23 +27435,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63046.36,
-      "pc": 63045.5,
-      "pct": 0.0013640941859459947
+      "c": 63125,
+      "pc": 63135.01,
+      "pct": -0.015854911561750028
     },
     "BINANCE:ETHUSDT": {
-      "c": 1879.89,
-      "pc": 1884.16,
-      "pct": -0.2266261888586947
+      "c": 1884.07,
+      "pc": 1885.63,
+      "pct": -0.08273097055096561
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.37,
-      "pc": 75.42,
-      "pct": -0.06629541235746109
+      "c": 75.62,
+      "pc": 75.69,
+      "pct": -0.0924824943849824
     }
   },
-  "tick": 939,
-  "totalScanned": 93800,
+  "tick": 940,
+  "totalScanned": 93900,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27584,6 +27477,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 800,
-  "lastRun": "2026-08-16T02:08:57.991Z",
+  "lastRun": "2026-08-16T03:10:03.712Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
