@@ -20210,7 +20210,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -20243,7 +20243,7 @@
       "status": "open",
       "openedAt": "2026-08-16T08:52:42.459Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20262,13 +20262,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T09:47:40.563Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20281,6 +20281,96 @@
     }
   ],
   "log": [
+    {
+      "t": "10:10:32 AM",
+      "who": "System",
+      "msg": "Portfolio: $332.80 · Realized P&L: +$132.80 · Trades: 809",
+      "type": "lt-sys"
+    },
+    {
+      "t": "10:10:32 AM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "10:10:32 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "10:10:32 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 29¢ · ~5d left",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Axel",
+      "msg": "Exposure: 7% · Cash: $318.80",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "10:10:31 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$62,988 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "10:10:30 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "10:10:29 AM",
+      "who": "System",
+      "msg": "═══ TICK #954 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:47:41 AM",
       "who": "System",
@@ -21390,96 +21480,6 @@
       "who": "Knox",
       "msg": "✓ WIN \"Will over 2.5 maps be played i\" → +$0.02",
       "type": "lt-trade"
-    },
-    {
-      "t": "4:24:42 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the Toronto Polar Bears w\" → +$0.04",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:24:42 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "4:24:42 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 open · mark 24¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "4:24:42 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:24:42 AM",
-      "who": "Knox",
-      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 24¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPPLMATCH-26AUG14TPBSDS-TPB tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Knox",
-      "msg": "Checking 3 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Axel",
-      "msg": "Exposure: 8% · Cash: $321.14",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "4:24:41 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,151 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "4:24:40 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
     }
   ],
   "markets": [
@@ -24713,8 +24713,8 @@
       "latest_expiration_time": "2026-08-18T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0100",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Over 2.5 maps",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T15:00:00Z",
@@ -24742,12 +24742,12 @@
       "updated_time": "2026-08-15T20:04:30.980221Z",
       "volume_24h_fp": "24.00",
       "volume_fp": "24.00",
-      "yes_ask_dollars": "0.9900",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Over 2.5 maps",
-      "yes_bid": 0.01,
+      "yes_bid": 0,
       "volume": 24
     },
     {
@@ -24929,7 +24929,7 @@
       "latest_expiration_time": "2026-08-18T14:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.3500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "MOUZ",
       "notional_value_dollars": "1.0000",
@@ -24960,10 +24960,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.6500",
-      "yes_bid_size_fp": "15.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "MOUZ",
-      "yes_bid": 0.65,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -25463,8 +25463,8 @@
       "open_interest_fp": "1.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.5800",
-      "previous_yes_bid_dollars": "0.4800",
+      "previous_yes_ask_dollars": "0.6100",
+      "previous_yes_bid_dollars": "0.5100",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -25485,9 +25485,9 @@
       "volume_24h_fp": "13.00",
       "volume_fp": "13.00",
       "yes_ask_dollars": "0.3800",
-      "yes_ask_size_fp": "65.00",
+      "yes_ask_size_fp": "60.00",
       "yes_bid_dollars": "0.3400",
-      "yes_bid_size_fp": "65.00",
+      "yes_bid_size_fp": "60.00",
       "yes_sub_title": "Price to Beat: 4.86",
       "yes_bid": 0.34,
       "volume": 13
@@ -25506,15 +25506,15 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7100",
+      "no_ask_dollars": "0.6800",
       "no_bid_dollars": "0.6500",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "67.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.4500",
-      "previous_yes_bid_dollars": "0.3500",
+      "previous_yes_ask_dollars": "0.4400",
+      "previous_yes_bid_dollars": "0.3400",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -25536,10 +25536,10 @@
       "volume_fp": "75.00",
       "yes_ask_dollars": "0.3500",
       "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.2900",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.3200",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.29,
+      "yes_bid": 0.32,
       "volume": 75
     },
     {
@@ -27403,23 +27403,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 62994,
-      "pc": 63026.61,
-      "pct": -0.05174005074999366
+      "c": 62987.77,
+      "pc": 63015.42,
+      "pct": -0.04387814918951814
     },
     "BINANCE:ETHUSDT": {
-      "c": 1880.97,
-      "pc": 1880.31,
-      "pct": 0.03510059511463971
+      "c": 1880.09,
+      "pc": 1879.05,
+      "pct": 0.055347116894173314
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.32,
-      "pc": 75.21,
-      "pct": 0.14625714665602904
+      "c": 75.31,
+      "pc": 75.25,
+      "pct": 0.07973421926910601
     }
   },
-  "tick": 953,
-  "totalScanned": 95200,
+  "tick": 954,
+  "totalScanned": 95300,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27445,6 +27445,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 807,
-  "lastRun": "2026-08-16T09:47:38.557Z",
+  "lastRun": "2026-08-16T10:10:29.963Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
