@@ -20410,7 +20410,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.31,
+      "currentPrice": 0.33,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20435,7 +20435,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -20462,13 +20462,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.31,
+      "currentPrice": 0.33,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T16:38:27.271Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20487,13 +20487,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T18:44:19.247Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20506,6 +20506,96 @@
     }
   ],
   "log": [
+    {
+      "t": "7:02:09 PM",
+      "who": "System",
+      "msg": "Portfolio: $318.82 · Realized P&L: +$118.82 · Trades: 818",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR open · mark 0¢ · ~40.0h left",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 33¢ · ~5d left",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Axel",
+      "msg": "Exposure: 7% · Cash: $304.82",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:02:09 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:02:08 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:02:08 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,140 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:02:07 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:02:06 PM",
+      "who": "System",
+      "msg": "═══ TICK #978 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "6:44:20 PM",
       "who": "System",
@@ -21615,96 +21705,6 @@
       "who": "System",
       "msg": "═══ TICK #966 — North Pointe Capital ═══",
       "type": "lt-sys"
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "System",
-      "msg": "Portfolio: $327.40 · Realized P&L: +$127.40 · Trades: 815",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will PARIVISION win the PARIVI\" → +$2.12",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "Knox",
-      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR open · mark 1¢ · ~44.4h left",
-      "type": ""
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "Knox",
-      "msg": "KXH200W-26AUG21-4.86 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:37:42 PM",
-      "who": "Knox",
-      "msg": "KXH200W-26AUG21-4.86 open · mark 30¢ · ~5d left",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXCS2GAME-26AUG161000PRVMOUZ-PRV tick:4 → WIN ✓ (winP:91%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Knox",
-      "msg": "KXCS2GAME-26AUG161000PRVMOUZ-PRV open · mark 0¢ · ~47.4h left",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Knox",
-      "msg": "KXCS2GAME-26AUG161000PRVMOUZ-MOUZ [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Knox",
-      "msg": "KXCS2GAME-26AUG161000PRVMOUZ-MOUZ open · mark 87¢ · ~47.4h left",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Knox",
-      "msg": "Checking 4 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will MIBR win map 1 in the M\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Axel",
-      "msg": "Exposure: 18% · Cash: $289.28",
-      "type": ""
-    },
-    {
-      "t": "2:37:41 PM",
-      "who": "Nova",
-      "msg": "Diversified: 1 short (100%) · 0 long — target 70% short",
-      "type": ""
     }
   ],
   "markets": [
@@ -23913,114 +23913,6 @@
     {
       "can_close_early": true,
       "close_time": "2026-08-18T11:00:00Z",
-      "created_time": "2026-08-14T21:06:55.024049Z",
-      "custom_strike": {
-        "esports_competitor": "48779341-59ed-41fa-b3af-df4c60ea84f6"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXCS2MAP-26AUG160700MIBRLGC-1",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-16T17:00:00Z",
-      "expiration_time": "2026-08-18T11:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.0100",
-      "latest_expiration_time": "2026-08-18T11:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "MIBR",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-16T14:00:00Z",
-      "open_interest_fp": "11.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If MIBR wins map 1 in the Esports World Cup 2026: MIBR vs. Legacy CS2 match originally scheduled for Aug 16, 2026 at 7:00 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to map 1 in the Esports World Cup 2026: MIBR vs. Legacy CS2 match originally scheduled for Aug 16, 2026 at 7:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 119,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR",
-      "title": "Will MIBR win map 1 in the MIBR vs. Legacy match?",
-      "updated_time": "2026-08-16T18:03:55.250258Z",
-      "volume_24h_fp": "12.00",
-      "volume_fp": "12.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1.00",
-      "yes_sub_title": "MIBR",
-      "yes_bid": 0.01,
-      "volume": 12
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T11:00:00Z",
-      "created_time": "2026-08-14T21:06:55.024049Z",
-      "custom_strike": {
-        "esports_competitor": "21afa91e-d459-4f13-8d61-39a296bf8579"
-      },
-      "early_close_condition": "This market will close and expire after a winner is declared.",
-      "event_ticker": "KXCS2MAP-26AUG160700MIBRLGC-1",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-16T17:00:00Z",
-      "expiration_time": "2026-08-18T11:00:00Z",
-      "expiration_value": "",
-      "last_price_dollars": "0.4000",
-      "latest_expiration_time": "2026-08-18T11:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Legacy",
-      "notional_value_dollars": "1.0000",
-      "occurrence_datetime": "2026-08-16T14:00:00Z",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:35:12Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If Legacy wins map 1 in the Esports World Cup 2026: MIBR vs. Legacy CS2 match originally scheduled for Aug 16, 2026 at 7:00 AM EDT, then the market resolves to Yes.",
-      "rules_secondary": "The following market refers to map 1 in the Esports World Cup 2026: MIBR vs. Legacy CS2 match originally scheduled for Aug 16, 2026 at 7:00 AM EDT\nIf the relevant match or map is postponed and not started within 48 hours of its originally scheduled start time, the market will resolve to the fair market price.\nIf the relevant match is cancelled before play begins, the market will resolve to the fair market price.\nIf the relevant map is cancelled before play begins, the market will resolve to the fair market price.\nIf a match is forfeited before any play occurs, the market will resolve to the fair market price.\nIf a map is forfeited before any play occurs in the map, the market will resolve to the fair market price.\nIf a map begins and is subsequently forfeited, the market will resolve according to the official result published by the governing body or tournament organizer.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 119,
-      "status": "active",
-      "strike_type": "structured",
-      "ticker": "KXCS2MAP-26AUG160700MIBRLGC-1-LGC",
-      "title": "Will Legacy win map 1 in the MIBR vs. Legacy match?",
-      "updated_time": "2026-08-16T18:03:55.250258Z",
-      "volume_24h_fp": "4.00",
-      "volume_fp": "4.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "Legacy",
-      "yes_bid": 0,
-      "volume": 4
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T11:00:00Z",
       "created_time": "2026-08-14T21:06:54.996639Z",
       "custom_strike": {
         "esports_competitor": "48779341-59ed-41fa-b3af-df4c60ea84f6"
@@ -24617,7 +24509,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.6200",
-      "no_bid_dollars": "0.5700",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Price to Beat: 4.86",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "3.00",
@@ -24644,10 +24536,10 @@
       "updated_time": "2026-08-14T21:35:12.250087Z",
       "volume_24h_fp": "15.00",
       "volume_fp": "15.00",
-      "yes_ask_dollars": "0.4300",
-      "yes_ask_size_fp": "5.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.3800",
-      "yes_bid_size_fp": "55.00",
+      "yes_bid_size_fp": "65.00",
       "yes_sub_title": "Price to Beat: 4.86",
       "yes_bid": 0.38,
       "volume": 15
@@ -24666,7 +24558,7 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6900",
+      "no_ask_dollars": "0.6700",
       "no_bid_dollars": "0.6500",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -24695,11 +24587,11 @@
       "volume_24h_fp": "122.39",
       "volume_fp": "122.39",
       "yes_ask_dollars": "0.3500",
-      "yes_ask_size_fp": "40.00",
-      "yes_bid_dollars": "0.3100",
-      "yes_bid_size_fp": "40.00",
+      "yes_ask_size_fp": "5.00",
+      "yes_bid_dollars": "0.3300",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.31,
+      "yes_bid": 0.33,
       "volume": 122.39
     },
     {
@@ -27401,6 +27293,108 @@
       "yes_sub_title": "Above $22.90",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.415344Z",
+      "event_ticker": "KXDDR5WS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 55.75,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $55.75",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of DDR5 16Gb (2Gx8) 4800/5600 spot price is above $55.75 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the spot value of DDR5 16Gb (2Gx8) 4800/5600 as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDDR5WS-26SEP25-55.750",
+      "title": "Will the DDR5 16Gb (2Gx8) 4800/5600 spot price be above $55.75 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $55.75",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.415344Z",
+      "event_ticker": "KXDDR5WS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 55.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $55.50",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of DDR5 16Gb (2Gx8) 4800/5600 spot price is above $55.5 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the spot value of DDR5 16Gb (2Gx8) 4800/5600 as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDDR5WS-26SEP25-55.500",
+      "title": "Will the DDR5 16Gb (2Gx8) 4800/5600 spot price be above $55.5 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $55.50",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27430,23 +27424,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63149.19,
-      "pc": 63050.06,
-      "pct": 0.1572242754408238
+      "c": 63140.06,
+      "pc": 63060.4,
+      "pct": 0.12632333445394608
     },
     "BINANCE:ETHUSDT": {
-      "c": 1884.88,
-      "pc": 1882.95,
-      "pct": 0.10249873868132789
+      "c": 1885.8,
+      "pc": 1883.1,
+      "pct": 0.14338059582603396
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.19,
-      "pc": 75.56,
-      "pct": -0.48967707781895786
+      "c": 75.21,
+      "pc": 75.55,
+      "pct": -0.45003309066843605
     }
   },
-  "tick": 977,
-  "totalScanned": 97600,
+  "tick": 978,
+  "totalScanned": 97700,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27472,6 +27466,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 816,
-  "lastRun": "2026-08-16T18:44:17.171Z",
+  "lastRun": "2026-08-16T19:02:06.958Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
