@@ -1,5 +1,5 @@
 {
-  "cash": 321.14,
+  "cash": 325.2,
   "startCash": 200,
   "trades": [
     {
@@ -20012,10 +20012,10 @@
       "entryPrice": 0.98,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.04,
+      "status": "win",
       "openedAt": "2026-08-16T00:30:53.122Z",
-      "closedAt": null,
+      "closedAt": "2026-08-16T04:24:42.641Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -20037,10 +20037,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.24,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-16T02:09:00.409Z",
-      "closedAt": null,
+      "closedAt": "2026-08-16T04:24:42.641Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -20085,7 +20085,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0.24,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20105,56 +20105,6 @@
   ],
   "positions": [
     {
-      "id": 1786840253122.698,
-      "ticker": "KXPPLMATCH-26AUG14TPBSDS-TPB",
-      "market": "Will the Toronto Polar Bears win the Toronto Polar Bears vs San Diego Stingrays men's Pro Padel match?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.98,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-16T00:30:53.122Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T00:00:00Z",
-      "reasoning": "NO: 98¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.02",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786846140409.1958,
-      "ticker": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3",
-      "market": "Will over 2.5 maps be played in the MIBR vs. Legacy CS2 match?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.24,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-16T02:09:00.409Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T11:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
       "id": 1786846141169.4058,
       "ticker": "KXA100W-26AUG21-1.04",
       "market": "A100 SXM4 price up in next week?",
@@ -20162,13 +20112,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.74,
-      "currentPrice": 0.26,
+      "currentPrice": 0.24,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T02:09:01.169Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20181,6 +20131,114 @@
     }
   ],
   "log": [
+    {
+      "t": "4:24:42 AM",
+      "who": "System",
+      "msg": "Portfolio: $337.20 · Realized P&L: +$137.20 · Trades: 804",
+      "type": "lt-sys"
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will over 2.5 maps be played i\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the Toronto Polar Bears w\" → +$0.04",
+      "type": "lt-trade"
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 24¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "4:24:42 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 24¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPPLMATCH-26AUG14TPBSDS-TPB tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Knox",
+      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 0¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Knox",
+      "msg": "Checking 3 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Axel",
+      "msg": "Exposure: 8% · Cash: $321.14",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "4:24:41 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,151 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "4:24:40 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "4:24:39 AM",
+      "who": "System",
+      "msg": "═══ TICK #942 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "3:56:00 AM",
       "who": "System",
@@ -21272,114 +21330,6 @@
       "who": "Auth",
       "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
       "type": "lt-warn"
-    },
-    {
-      "t": "10:55:02 PM",
-      "who": "System",
-      "msg": "═══ TICK #934 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:34:43 PM",
-      "who": "System",
-      "msg": "Portfolio: $355.18 · Realized P&L: +$155.18 · Trades: 799",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:34:43 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will over 1.5 goals be scored?\" → +$3.58",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:34:43 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Godoy Cruz wins by more than 1\" → +$3.38",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:34:43 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:34:43 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXPERLIGA1SPREAD-26AUG15CHAMEL-CHA2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-5 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "10:34:42 PM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 48¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:41 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXARGNACBTOTAL-26AUG15GODMAI-2 tick:4 → WIN ✓ (winP:80%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:34:41 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "10:34:41 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXARGNACBSPREAD-26AUG15GODMAI-GOD2 tick:5 → WIN ✓ (winP:81%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:34:41 PM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD2 open · mark 0¢ · ~2d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -24616,12 +24566,12 @@
       "expected_expiration_time": "2026-08-16T17:00:00Z",
       "expiration_time": "2026-08-18T11:00:00Z",
       "expiration_value": "",
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.4000",
       "latest_expiration_time": "2026-08-18T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Legacy",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T14:00:00Z",
@@ -24647,15 +24597,15 @@
       "ticker": "KXCS2MAP-26AUG160700MIBRLGC-1-LGC",
       "title": "Will Legacy win map 1 in the MIBR vs. Legacy match?",
       "updated_time": "2026-08-15T20:04:29.807217Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "volume_24h_fp": "4.00",
+      "volume_fp": "4.00",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Legacy",
       "yes_bid": 0,
-      "volume": 0
+      "volume": 4
     },
     {
       "can_close_early": true,
@@ -24884,7 +24834,7 @@
       "expiration_time": "2026-08-18T11:00:00Z",
       "expiration_value": "",
       "floor_strike": 2.5,
-      "last_price_dollars": "0.4400",
+      "last_price_dollars": "0.2400",
       "latest_expiration_time": "2026-08-18T11:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -24915,15 +24865,15 @@
       "ticker": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3",
       "title": "Will over 2.5 maps be played in the MIBR vs. Legacy CS2 match?",
       "updated_time": "2026-08-15T20:04:30.980221Z",
-      "volume_24h_fp": "3.00",
-      "volume_fp": "3.00",
+      "volume_24h_fp": "5.00",
+      "volume_fp": "5.00",
       "yes_ask_dollars": "0.2800",
       "yes_ask_size_fp": "65.00",
       "yes_bid_dollars": "0.2400",
       "yes_bid_size_fp": "65.00",
       "yes_sub_title": "Over 2.5 maps",
       "yes_bid": 0.24,
-      "volume": 3
+      "volume": 5
     },
     {
       "can_close_early": true,
@@ -25104,7 +25054,7 @@
       "latest_expiration_time": "2026-08-18T14:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.3500",
+      "no_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "MOUZ",
       "notional_value_dollars": "1.0000",
@@ -25135,10 +25085,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.6500",
-      "yes_bid_size_fp": "15.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
       "yes_sub_title": "MOUZ",
-      "yes_bid": 0.65,
+      "yes_bid": 0,
       "volume": 0
     },
     {
@@ -25631,15 +25581,15 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.5600",
-      "no_bid_dollars": "0.4600",
+      "no_ask_dollars": "0.5700",
+      "no_bid_dollars": "0.4700",
       "no_sub_title": "Price to Beat: 4.86",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "1.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.5400",
-      "previous_yes_bid_dollars": "0.4400",
+      "previous_yes_ask_dollars": "0.5300",
+      "previous_yes_bid_dollars": "0.4300",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -25659,12 +25609,12 @@
       "updated_time": "2026-08-14T21:35:12.250087Z",
       "volume_24h_fp": "13.00",
       "volume_fp": "13.00",
-      "yes_ask_dollars": "0.5400",
+      "yes_ask_dollars": "0.5300",
       "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.4400",
-      "yes_bid_size_fp": "4.00",
+      "yes_bid_dollars": "0.4300",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 4.86",
-      "yes_bid": 0.44,
+      "yes_bid": 0.43,
       "volume": 13
     },
     {
@@ -25681,7 +25631,7 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7400",
+      "no_ask_dollars": "0.7600",
       "no_bid_dollars": "0.7100",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -25711,10 +25661,10 @@
       "volume_fp": "73.00",
       "yes_ask_dollars": "0.2900",
       "yes_ask_size_fp": "2.00",
-      "yes_bid_dollars": "0.2600",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.2400",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.26,
+      "yes_bid": 0.24,
       "volume": 73
     },
     {
@@ -27374,23 +27324,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63120.93,
-      "pc": 63074,
-      "pct": 0.07440466753337396
+      "c": 63151.21,
+      "pc": 63124.57,
+      "pct": 0.04220226767485215
     },
     "BINANCE:ETHUSDT": {
-      "c": 1883.28,
-      "pc": 1883.45,
-      "pct": -0.009025989540474807
+      "c": 1883.81,
+      "pc": 1883.99,
+      "pct": -0.009554190839657518
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.59,
-      "pc": 75.45,
-      "pct": 0.18555334658714456
+      "c": 75.57,
+      "pc": 75.53,
+      "pct": 0.052959089103656876
     }
   },
-  "tick": 941,
-  "totalScanned": 94000,
+  "tick": 942,
+  "totalScanned": 94100,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27401,8 +27351,8 @@
       "total": 100
     },
     "Unknown|NO|short": {
-      "wins": 518,
-      "total": 577
+      "wins": 520,
+      "total": 579
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -27415,7 +27365,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 801,
-  "lastRun": "2026-08-16T03:55:58.171Z",
+  "learnTotal": 803,
+  "lastRun": "2026-08-16T04:24:39.646Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
