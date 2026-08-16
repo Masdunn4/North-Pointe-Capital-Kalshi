@@ -1,5 +1,5 @@
 {
-  "cash": 325.26,
+  "cash": 323.26,
   "startCash": 200,
   "trades": [
     {
@@ -20235,7 +20235,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.29,
+      "currentPrice": 0.32,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20251,6 +20251,31 @@
       "payoutMult": "1.41",
       "expectedReturn": "0.0",
       "entryScore": 4
+    },
+    {
+      "id": 1786878598131.2998,
+      "ticker": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3",
+      "market": "Will over 2.5 maps be played in the PARIVISION vs. MOUZ CS2 match?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-16T11:09:58.131Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T14:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "positions": [
@@ -20262,13 +20287,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.29,
+      "currentPrice": 0.32,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T10:55:41.459Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20278,9 +20303,136 @@
       "payoutMult": "1.41",
       "expectedReturn": "0.0",
       "entryScore": 4
+    },
+    {
+      "id": 1786878598131.2998,
+      "ticker": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3",
+      "market": "Will over 2.5 maps be played in the PARIVISION vs. MOUZ CS2 match?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-16T11:09:58.131Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T14:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "log": [
+    {
+      "t": "11:09:58 AM",
+      "who": "System",
+      "msg": "Portfolio: $337.26 · Realized P&L: +$137.26 · Trades: 811",
+      "type": "lt-sys"
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 32¢ · ~5d left",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will over 2.5 maps be played\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Axel",
+      "msg": "Exposure: 6% · Cash: $325.26",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Nova",
+      "msg": "Diversified: 1 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Flash",
+      "msg": "1 short · 0 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "11:09:58 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:09:57 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "11:09:57 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,009 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:09:56 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:09:56 AM",
+      "who": "System",
+      "msg": "═══ TICK #957 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "10:55:42 AM",
       "who": "System",
@@ -21378,108 +21530,6 @@
       "who": "Knox",
       "msg": "All 2 positions pending real Kalshi settlement",
       "type": ""
-    },
-    {
-      "t": "5:49:31 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "5:49:31 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 open · mark 26¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Knox",
-      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Knox",
-      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 24¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Knox",
-      "msg": "Checking 2 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Axel",
-      "msg": "Exposure: 12% · Cash: $301.20",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "5:49:30 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,046 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "5:49:29 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "5:49:28 AM",
-      "who": "System",
-      "msg": "═══ TICK #945 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:18:38 AM",
-      "who": "System",
-      "msg": "Portfolio: $325.20 · Realized P&L: +$125.20 · Trades: 806",
-      "type": "lt-sys"
-    },
-    {
-      "t": "5:18:38 AM",
-      "who": "Knox",
-      "msg": "All 2 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "5:18:38 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "5:18:38 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 open · mark 24¢ · ~6d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -22441,75 +22491,6 @@
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "yes Vall de Uxo,yes Boston",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T08:00:00Z",
-      "created_time": "2026-08-14T21:34:16.697104Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG142140TEXATH,KXNPBGAME-26AUG160400CHISAI",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG142140TEXATH-ATH,KXNPBGAME-26AUG160400CHISAI-CHI",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S20268DDF5AA1FCA"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S20268DDF5AA1FCA",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T14:00:00Z",
-      "expiration_time": "2026-08-18T08:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T08:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG142140TEXATH",
-          "market_ticker": "KXMLBGAME-26AUG142140TEXATH-ATH",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNPBGAME-26AUG160400CHISAI",
-          "market_ticker": "KXNPBGAME-26AUG160400CHISAI-CHI",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes A's,yes Chiba Lotte Marines",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:34:16Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S20268DDF5AA1FCA-2C3AA92EF2B",
-      "title": "yes A's,yes Chiba Lotte Marines",
-      "updated_time": "2026-08-14T21:34:17.199169Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes A's,yes Chiba Lotte Marines",
       "yes_bid": 0,
       "volume": 0
     },
@@ -23893,75 +23874,6 @@
     },
     {
       "can_close_early": true,
-      "close_time": "2026-08-18T08:00:00Z",
-      "created_time": "2026-08-14T21:12:36.869096Z",
-      "custom_strike": {
-        "Associated Events": "KXMLBGAME-26AUG141840BOSPIT,KXNPBGAME-26AUG160400CHISAI",
-        "Associated Market Sides": "yes,yes",
-        "Associated Markets": "KXMLBGAME-26AUG141840BOSPIT-PIT,KXNPBGAME-26AUG160400CHISAI-CHI",
-        "Multivariate Event Ticker": "KXMVECROSSCATEGORY-SHARD1-S2026009D3F71E44"
-      },
-      "event_ticker": "KXMVECROSSCATEGORY-SHARD1-S2026009D3F71E44",
-      "exchange_index": 1,
-      "expected_expiration_time": "2026-08-16T14:00:00Z",
-      "expiration_time": "2026-08-18T08:00:00Z",
-      "expiration_value": "",
-      "is_provisional": true,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T08:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "mve_collection_ticker": "KXMVECROSSCATEGORY-SHARD1-R",
-      "mve_selected_legs": [
-        {
-          "event_ticker": "KXMLBGAME-26AUG141840BOSPIT",
-          "market_ticker": "KXMLBGAME-26AUG141840BOSPIT-PIT",
-          "side": "yes"
-        },
-        {
-          "event_ticker": "KXNPBGAME-26AUG160400CHISAI",
-          "market_ticker": "KXNPBGAME-26AUG160400CHISAI-CHI",
-          "side": "yes"
-        }
-      ],
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
-      "no_sub_title": "yes Pittsburgh,yes Chiba Lotte Marines",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-14T21:12:36Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "deci_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0010"
-        }
-      ],
-      "result": "",
-      "rules_primary": "",
-      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
-      "settlement_timer_seconds": 5,
-      "status": "active",
-      "strike_type": "custom",
-      "ticker": "KXMVECROSSCATEGORY-SHARD1-S2026009D3F71E44-938F0078AF1",
-      "title": "yes Pittsburgh,yes Chiba Lotte Marines",
-      "updated_time": "2026-08-14T21:12:37.860307Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
-      "yes_sub_title": "yes Pittsburgh,yes Chiba Lotte Marines",
-      "yes_bid": 0,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
       "close_time": "2026-08-20T17:40:00Z",
       "created_time": "2026-08-14T21:11:54.736663Z",
       "custom_strike": {
@@ -24860,8 +24772,8 @@
       "latest_expiration_time": "2026-08-18T14:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.3600",
+      "no_bid_dollars": "0.0100",
       "no_sub_title": "MOUZ",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T18:00:00Z",
@@ -24889,12 +24801,12 @@
       "updated_time": "2026-08-14T21:35:12.20399Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.9900",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.6400",
+      "yes_bid_size_fp": "15.00",
       "yes_sub_title": "MOUZ",
-      "yes_bid": 0,
+      "yes_bid": 0.64,
       "volume": 0
     },
     {
@@ -24912,8 +24824,8 @@
       "latest_expiration_time": "2026-08-18T14:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0100",
       "no_sub_title": "Over 2.5 maps",
       "notional_value_dollars": "1.0000",
       "occurrence_datetime": "2026-08-16T18:00:00Z",
@@ -24941,12 +24853,12 @@
       "updated_time": "2026-08-14T21:35:12.250087Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "yes_ask_dollars": "0.9900",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Over 2.5 maps",
-      "yes_bid": 0,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -25387,15 +25299,15 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7000",
-      "no_bid_dollars": "0.6000",
+      "no_ask_dollars": "0.6600",
+      "no_bid_dollars": "0.6200",
       "no_sub_title": "Price to Beat: 4.86",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "1.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.6100",
-      "previous_yes_bid_dollars": "0.5100",
+      "previous_yes_ask_dollars": "0.6200",
+      "previous_yes_bid_dollars": "0.5200",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -25415,12 +25327,12 @@
       "updated_time": "2026-08-14T21:35:12.250087Z",
       "volume_24h_fp": "13.00",
       "volume_fp": "13.00",
-      "yes_ask_dollars": "0.4000",
-      "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.3000",
-      "yes_bid_size_fp": "5.00",
+      "yes_ask_dollars": "0.3800",
+      "yes_ask_size_fp": "60.00",
+      "yes_bid_dollars": "0.3400",
+      "yes_bid_size_fp": "60.00",
       "yes_sub_title": "Price to Beat: 4.86",
-      "yes_bid": 0.3,
+      "yes_bid": 0.34,
       "volume": 13
     },
     {
@@ -25437,7 +25349,7 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7100",
+      "no_ask_dollars": "0.6800",
       "no_bid_dollars": "0.6500",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -25467,10 +25379,10 @@
       "volume_fp": "75.00",
       "yes_ask_dollars": "0.3500",
       "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.2900",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.3200",
+      "yes_bid_size_fp": "50.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.29,
+      "yes_bid": 0.32,
       "volume": 75
     },
     {
@@ -27356,6 +27268,108 @@
       "yes_sub_title": "Above $24.50",
       "yes_bid": 0,
       "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.537751Z",
+      "event_ticker": "KXDDR5EWS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 24.4,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $24.40",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of DDR5 16Gb (2Gx8) eTT spot price is above $24.4 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the spot value of DDR5 16Gb (2Gx8) eTT as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDDR5EWS-26SEP25-24.400",
+      "title": "Will the DDR5 16Gb (2Gx8) eTT spot price be above $24.4 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $24.40",
+      "yes_bid": 0,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-25T20:00:00Z",
+      "created_time": "2026-08-14T21:06:53.537751Z",
+      "event_ticker": "KXDDR5EWS-26SEP25",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_time": "2026-09-25T20:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 24.3,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-10-02T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "1.0000",
+      "no_bid_dollars": "1.0000",
+      "no_sub_title": "Above $24.30",
+      "notional_value_dollars": "1.0000",
+      "occurrence_datetime": "2026-09-25T20:00:00Z",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-14T21:35:12Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the value of DDR5 16Gb (2Gx8) eTT spot price is above $24.3 on Sep 25, 2026 at 4 PM ET, then the market resolves to Yes.",
+      "rules_secondary": "The market resolves based on the spot value of DDR5 16Gb (2Gx8) eTT as reported by Ornn (https://dashboard.ornnai.com/). \n\nIf no data is published by the source agency (Ornn) for the specified date and time, then the most recently available published data will be used to resolve the market.\n\nRevisions to the underlying made after expiration will not be accounted for. The \"USD\" iteration of the index will be used unless explicitly stated otherwise. Values are rounded to two decimal places unless otherwise specified.",
+      "settlement_timer_seconds": 1800,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDDR5EWS-26SEP25-24.300",
+      "title": "Will the DDR5 16Gb (2Gx8) eTT spot price be above $24.3 at 4 PM ET on Sep 25?",
+      "updated_time": "2026-08-14T21:35:12.250087Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "0.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0000",
+      "yes_bid_size_fp": "0.00",
+      "yes_sub_title": "Above $24.30",
+      "yes_bid": 0,
+      "volume": 0
     }
   ],
   "prices": {
@@ -27385,23 +27399,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63008.56,
-      "pc": 63032.56,
-      "pct": -0.03807555967899765
+      "c": 63008.57,
+      "pc": 63037.78,
+      "pct": -0.046337291700309126
     },
     "BINANCE:ETHUSDT": {
-      "c": 1880.79,
-      "pc": 1880.74,
-      "pct": 0.002658528026200034
+      "c": 1880.71,
+      "pc": 1880.99,
+      "pct": -0.014885778233800964
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.25,
-      "pc": 75.27,
-      "pct": -0.02657101102696429
+      "c": 75.26,
+      "pc": 75.3,
+      "pct": -0.05312084993358838
     }
   },
-  "tick": 956,
-  "totalScanned": 95500,
+  "tick": 957,
+  "totalScanned": 95600,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27427,6 +27441,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 809,
-  "lastRun": "2026-08-16T10:55:39.540Z",
+  "lastRun": "2026-08-16T11:09:56.026Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
