@@ -20410,7 +20410,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.32,
+      "currentPrice": 0.33,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20443,7 +20443,7 @@
       "status": "open",
       "openedAt": "2026-08-16T15:54:54.865Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20462,13 +20462,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.32,
+      "currentPrice": 0.33,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-16T16:38:27.271Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20481,6 +20481,96 @@
     }
   ],
   "log": [
+    {
+      "t": "5:13:34 PM",
+      "who": "System",
+      "msg": "Portfolio: $318.80 · Realized P&L: +$118.80 · Trades: 817",
+      "type": "lt-sys"
+    },
+    {
+      "t": "5:13:34 PM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "5:13:34 PM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "5:13:34 PM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 33¢ · ~5d left",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Knox",
+      "msg": "KXCS2MAP-26AUG160700MIBRLGC-1-MIBR open · mark 1¢ · ~41.8h left",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Axel",
+      "msg": "Exposure: 7% · Cash: $304.80",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "5:13:33 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,229 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:13:31 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:13:31 PM",
+      "who": "System",
+      "msg": "═══ TICK #973 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "4:57:12 PM",
       "who": "System",
@@ -21587,96 +21677,6 @@
     },
     {
       "t": "1:30:16 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "1:30:16 PM",
-      "who": "System",
-      "msg": "═══ TICK #962 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:59:29 PM",
-      "who": "System",
-      "msg": "Portfolio: $325.26 · Realized P&L: +$125.26 · Trades: 811",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:59:29 PM",
-      "who": "Knox",
-      "msg": "✗ LOSS \"A100 SXM4 price up in next wee\" → $12.00",
-      "type": "lt-err"
-    },
-    {
-      "t": "12:59:29 PM",
-      "who": "Knox",
-      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "12:59:29 PM",
-      "who": "Knox",
-      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXA100W-26AUG21-1.04 tick:6 → LOSS ✗ (winP:74%)",
-      "type": "lt-err"
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 open · mark 32¢ · ~5d left",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Knox",
-      "msg": "Checking 2 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Axel",
-      "msg": "Exposure: 7% · Cash: $323.26",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "12:59:28 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,022 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "12:59:26 PM",
       "who": "Auth",
       "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
       "type": "lt-warn"
@@ -24479,7 +24479,7 @@
       "strike_type": "greater",
       "ticker": "KXWTAGTOTAL-26AUG15BLIALE-25",
       "title": "Anna Blinkova vs Ekaterina Alexandrova: Total Games",
-      "updated_time": "2026-08-16T16:33:11.878513Z",
+      "updated_time": "2026-08-16T17:02:53.662335Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -24531,7 +24531,7 @@
       "strike_type": "greater",
       "ticker": "KXWTAGTOTAL-26AUG15BLIALE-20",
       "title": "Anna Blinkova vs Ekaterina Alexandrova: Total Games",
-      "updated_time": "2026-08-16T16:33:11.878513Z",
+      "updated_time": "2026-08-16T17:02:53.662335Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -24583,7 +24583,7 @@
       "strike_type": "greater",
       "ticker": "KXWTAGTOTAL-26AUG15BLIALE-15",
       "title": "Anna Blinkova vs Ekaterina Alexandrova: Total Games",
-      "updated_time": "2026-08-16T16:33:11.878513Z",
+      "updated_time": "2026-08-16T17:02:53.662335Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "0.0000",
@@ -24667,8 +24667,8 @@
       "open_interest_fp": "3.00",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.5700",
-      "previous_yes_bid_dollars": "0.4700",
+      "previous_yes_ask_dollars": "0.5600",
+      "previous_yes_bid_dollars": "0.4600",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -24689,9 +24689,9 @@
       "volume_24h_fp": "15.00",
       "volume_fp": "15.00",
       "yes_ask_dollars": "0.3400",
-      "yes_ask_size_fp": "55.00",
+      "yes_ask_size_fp": "65.00",
       "yes_bid_dollars": "0.3000",
-      "yes_bid_size_fp": "55.00",
+      "yes_bid_size_fp": "70.00",
       "yes_sub_title": "Price to Beat: 4.86",
       "yes_bid": 0.3,
       "volume": 15
@@ -24717,8 +24717,8 @@
       "open_interest_fp": "63.39",
       "open_time": "2026-08-14T21:35:12Z",
       "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.3700",
-      "previous_yes_bid_dollars": "0.2700",
+      "previous_yes_ask_dollars": "0.3800",
+      "previous_yes_bid_dollars": "0.2800",
       "price_level_structure": "linear_cent",
       "price_ranges": [
         {
@@ -27423,23 +27423,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63249.53,
-      "pc": 63096.62,
-      "pct": 0.24234261676773844
+      "c": 63228.84,
+      "pc": 63096.58,
+      "pct": 0.20961516456200124
     },
     "BINANCE:ETHUSDT": {
-      "c": 1889.2,
-      "pc": 1884.69,
-      "pct": 0.2392966482551502
+      "c": 1888.47,
+      "pc": 1885.44,
+      "pct": 0.16070519348268694
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.55,
-      "pc": 75.49,
-      "pct": 0.07948072592396646
+      "c": 75.56,
+      "pc": 75.59,
+      "pct": -0.03968778939013247
     }
   },
-  "tick": 972,
-  "totalScanned": 97100,
+  "tick": 973,
+  "totalScanned": 97200,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27465,6 +27465,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 815,
-  "lastRun": "2026-08-16T16:57:09.820Z",
+  "lastRun": "2026-08-16T17:13:31.704Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
