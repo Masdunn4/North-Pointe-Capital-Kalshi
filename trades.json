@@ -1,5 +1,5 @@
 {
-  "cash": 299.2,
+  "cash": 314.99,
   "startCash": 200,
   "trades": [
     {
@@ -20112,10 +20112,10 @@
       "entryPrice": 0.76,
       "currentPrice": 0.24,
       "size": 12,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 3.79,
+      "status": "win",
       "openedAt": "2026-08-16T04:56:23.241Z",
-      "closedAt": null,
+      "closedAt": "2026-08-16T07:58:28.194Z",
       "ticksOpen": 0,
       "conf": "low",
       "shortTerm": true,
@@ -20135,7 +20135,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.76,
-      "currentPrice": 0.26,
+      "currentPrice": 0.24,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -20180,9 +20180,9 @@
   ],
   "positions": [
     {
-      "id": 1786856183241.9214,
-      "ticker": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3",
-      "market": "Will over 2.5 maps be played in the MIBR vs. Legacy CS2 match?",
+      "id": 1786857517834.1655,
+      "ticker": "KXA100W-26AUG21-1.04",
+      "market": "A100 SXM4 price up in next week?",
       "category": "Unknown",
       "agent": "Zara",
       "side": "NO",
@@ -20191,34 +20191,9 @@
       "size": 12,
       "pnl": 0,
       "status": "open",
-      "openedAt": "2026-08-16T04:56:23.241Z",
-      "closedAt": null,
-      "ticksOpen": 6,
-      "conf": "low",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T11:00:00Z",
-      "reasoning": "NO: 76¢",
-      "kellyFrac": "6.3",
-      "payoutMult": "1.32",
-      "expectedReturn": "0.0",
-      "entryScore": 5
-    },
-    {
-      "id": 1786857517834.1655,
-      "ticker": "KXA100W-26AUG21-1.04",
-      "market": "A100 SXM4 price up in next week?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.76,
-      "currentPrice": 0.26,
-      "size": 12,
-      "pnl": 0,
-      "status": "open",
       "openedAt": "2026-08-16T05:18:37.834Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -20243,7 +20218,7 @@
       "status": "open",
       "openedAt": "2026-08-16T06:18:11.111Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -20256,6 +20231,108 @@
     }
   ],
   "log": [
+    {
+      "t": "7:58:28 AM",
+      "who": "System",
+      "msg": "Portfolio: $328.99 · Realized P&L: +$128.99 · Trades: 807",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:58:28 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will over 2.5 maps be played i\" → +$3.79",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG161000PRVMOUZ-3 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 24¢ · ~6d left",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 tick:7 → WIN ✓ (winP:79%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "KXCS2TOTALMAPS-26AUG160700MIBRLGC-3 open · mark 24¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Knox",
+      "msg": "Checking 3 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Axel",
+      "msg": "Exposure: 13% · Cash: $299.20",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:58:27 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:58:26 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,061 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:58:25 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:58:25 AM",
+      "who": "System",
+      "msg": "═══ TICK #949 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "7:41:56 AM",
       "who": "System",
@@ -21352,108 +21429,6 @@
       "t": "2:09:00 AM",
       "who": "Flash",
       "msg": "3 short · 0 long · YES:0 NO:3 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "2:09:00 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:08:59 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "2:08:59 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,046 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:08:58 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:08:57 AM",
-      "who": "System",
-      "msg": "═══ TICK #939 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:30:54 AM",
-      "who": "System",
-      "msg": "Portfolio: $334.85 · Realized P&L: +$134.85 · Trades: 801",
-      "type": "lt-sys"
-    },
-    {
-      "t": "12:30:54 AM",
-      "who": "Knox",
-      "msg": "All 3 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "12:30:54 AM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "12:30:54 AM",
-      "who": "Knox",
-      "msg": "KXPPLMATCH-26AUG14TPBSDS-TPB open · mark 2¢ · ~6d left",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Knox",
-      "msg": "KXARGNACBSPREAD-26AUG15GODMAI-GOD3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 [short] tick:12 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Knox",
-      "msg": "KXARGNACBTOTAL-26AUG15GODMAI-4 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Knox",
-      "msg": "Checking 3 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the Toronto Polar Bears\" · $2.00 · win 96% · profit if win: +$0.04",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "12:30:53 AM",
-      "who": "Axel",
-      "msg": "Exposure: 12% · Cash: $310.85",
       "type": ""
     }
   ],
@@ -24787,9 +24762,9 @@
       "volume_24h_fp": "24.00",
       "volume_fp": "24.00",
       "yes_ask_dollars": "0.2800",
-      "yes_ask_size_fp": "60.00",
+      "yes_ask_size_fp": "65.00",
       "yes_bid_dollars": "0.2400",
-      "yes_bid_size_fp": "60.00",
+      "yes_bid_size_fp": "65.00",
       "yes_sub_title": "Over 2.5 maps",
       "yes_bid": 0.24,
       "volume": 24
@@ -25550,7 +25525,7 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.7400",
+      "no_ask_dollars": "0.7600",
       "no_bid_dollars": "0.7100",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -25580,10 +25555,10 @@
       "volume_fp": "73.00",
       "yes_ask_dollars": "0.2900",
       "yes_ask_size_fp": "2.00",
-      "yes_bid_dollars": "0.2600",
-      "yes_bid_size_fp": "30.00",
+      "yes_bid_dollars": "0.2400",
+      "yes_bid_size_fp": "5.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.26,
+      "yes_bid": 0.24,
       "volume": 73
     },
     {
@@ -27396,23 +27371,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63063.03,
-      "pc": 63086.53,
-      "pct": -0.03725042413966975
+      "c": 63061.03,
+      "pc": 63073.88,
+      "pct": -0.020372934089354495
     },
     "BINANCE:ETHUSDT": {
-      "c": 1881.16,
-      "pc": 1881.47,
-      "pct": -0.01647647849819266
+      "c": 1881.37,
+      "pc": 1880.4,
+      "pct": 0.05158476919803232
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.44,
-      "pc": 75.3,
-      "pct": 0.18592297476759703
+      "c": 75.47,
+      "pc": 75.24,
+      "pct": 0.3056884635832057
     }
   },
-  "tick": 948,
-  "totalScanned": 94700,
+  "tick": 949,
+  "totalScanned": 94800,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 109,
@@ -27423,8 +27398,8 @@
       "total": 100
     },
     "Unknown|NO|short": {
-      "wins": 520,
-      "total": 580
+      "wins": 521,
+      "total": 581
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -27437,7 +27412,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 804,
-  "lastRun": "2026-08-16T07:41:53.771Z",
+  "learnTotal": 805,
+  "lastRun": "2026-08-16T07:58:25.544Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
