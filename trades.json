@@ -1,5 +1,5 @@
 {
-  "cash": 290.09,
+  "cash": 294.15,
   "startCash": 200,
   "trades": [
     {
@@ -21212,10 +21212,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-17T06:30:27.172Z",
-      "closedAt": null,
+      "closedAt": "2026-08-17T11:39:09.619Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -21360,7 +21360,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.35,
+      "currentPrice": 0.39,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -21387,10 +21387,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-17T09:53:55.219Z",
-      "closedAt": null,
+      "closedAt": "2026-08-17T11:39:09.620Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -21412,10 +21412,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-17T09:53:55.540Z",
-      "closedAt": null,
+      "closedAt": "2026-08-17T11:39:09.620Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -21576,13 +21576,11 @@
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
-    }
-  ],
-  "positions": [
+    },
     {
-      "id": 1786948227172.3762,
-      "ticker": "KXVALORANTMAP-26AUG1716007VENGP-1-GP",
-      "market": "Will GATO PENSANTE? win map 1 in the 7VEN STARS vs. GATO PENSANTE? match?",
+      "id": 1786966745950.6384,
+      "ticker": "KXB200WS-26SEP25-8.500",
+      "market": "Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 25?",
       "category": "Unknown",
       "agent": "Zara",
       "side": "NO",
@@ -21591,19 +21589,21 @@
       "size": 2,
       "pnl": 0,
       "status": "open",
-      "openedAt": "2026-08-17T06:30:27.172Z",
+      "openedAt": "2026-08-17T11:39:05.950Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 0,
       "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-19T20:00:00Z",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-25T20:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
-    },
+    }
+  ],
+  "positions": [
     {
       "id": 1786948227495.9053,
       "ticker": "KXA100WS-26SEP25-2.000",
@@ -21618,7 +21618,7 @@
       "status": "open",
       "openedAt": "2026-08-17T06:30:27.495Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -21643,7 +21643,7 @@
       "status": "open",
       "openedAt": "2026-08-17T06:30:27.817Z",
       "closedAt": null,
-      "ticksOpen": 8,
+      "ticksOpen": 9,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -21668,7 +21668,7 @@
       "status": "open",
       "openedAt": "2026-08-17T07:36:36.909Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -21687,13 +21687,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.71,
-      "currentPrice": 0.35,
+      "currentPrice": 0.39,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-17T09:04:56.685Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "low",
       "shortTerm": true,
       "term": "short",
@@ -21703,56 +21703,6 @@
       "payoutMult": "1.41",
       "expectedReturn": "0.0",
       "entryScore": 4
-    },
-    {
-      "id": 1786960435219.2683,
-      "ticker": "KXH100W-26AUG21-2.79",
-      "market": "H100 SXM price up in next week?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-17T09:53:55.219Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-21T21:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1786960435540.5178,
-      "ticker": "KXB200W-26AUG21-6",
-      "market": "B200 price up in next week?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-17T09:53:55.540Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-21T21:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
     },
     {
       "id": 1786960435862.0125,
@@ -21768,7 +21718,7 @@
       "status": "open",
       "openedAt": "2026-08-17T09:53:55.862Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -21793,7 +21743,7 @@
       "status": "open",
       "openedAt": "2026-08-17T09:53:56.184Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
@@ -21818,7 +21768,7 @@
       "status": "open",
       "openedAt": "2026-08-17T10:19:00.048Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -21843,7 +21793,7 @@
       "status": "open",
       "openedAt": "2026-08-17T10:52:49.468Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -21868,7 +21818,7 @@
       "status": "open",
       "openedAt": "2026-08-17T10:52:49.847Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -21893,7 +21843,7 @@
       "status": "open",
       "openedAt": "2026-08-17T10:52:50.226Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -21903,9 +21853,292 @@
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1786966745950.6384,
+      "ticker": "KXB200WS-26SEP25-8.500",
+      "market": "Will the NVIDIA B200 compute per hour price be above $8.5 at 4 PM ET on Sep 25?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-17T11:39:05.950Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-25T20:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "log": [
+    {
+      "t": "11:39:09 AM",
+      "who": "System",
+      "msg": "Portfolio: $326.15 · Realized P&L: +$126.15 · Trades: 864",
+      "type": "lt-sys"
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"B200 price up in next week?\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"H100 SXM price up in next week\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will GATO PENSANTE? win map 1 \" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "KXB200WS-26SEP25-8.500 [long] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "KXB200WS-26SEP25-8.500 open · mark 1¢ · ~39d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTTOTALMAPS-26AUG1716007VENGP-3 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:09 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTTOTALMAPS-26AUG1716007VENGP-3 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-7VEN [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-7VEN open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-GP [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-GP open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-7VEN [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-7VEN open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXB200WS-26SEP25-9.000 [long] tick:5 · waiting · settle chance:5%",
+      "type": ""
+    },
+    {
+      "t": "11:39:08 AM",
+      "who": "Knox",
+      "msg": "KXB200WS-26SEP25-9.000 open · mark 1¢ · ~39d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXRTX5090W-26AUG21-0.5 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXRTX5090W-26AUG21-0.5 open · mark 1¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXB200W-26AUG21-6 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXB200W-26AUG21-6 open · mark 1¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXH100W-26AUG21-2.79 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXH100W-26AUG21-2.79 open · mark 1¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXA100W-26AUG21-1.04 open · mark 39¢ · ~4d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXDATACENTCON-26SEP01-T80.0 [long] tick:8 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:07 AM",
+      "who": "Knox",
+      "msg": "KXDATACENTCON-26SEP01-T80.0 open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "KXA100WS-26SEP25-1.750 [long] tick:9 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "KXA100WS-26SEP25-1.750 open · mark 1¢ · ~39d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "KXA100WS-26SEP25-2.000 [long] tick:9 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "KXA100WS-26SEP25-2.000 open · mark 1¢ · ~39d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXVALORANTMAP-26AUG1716007VENGP-1-GP tick:9 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-GP open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "11:39:06 AM",
+      "who": "Knox",
+      "msg": "Checking 14 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the NVIDIA B200 compute\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Axel",
+      "msg": "Exposure: 18% · Cash: $290.09",
+      "type": ""
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 1 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Flash",
+      "msg": "0 short · 1 long · YES:0 NO:1 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "11:39:05 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$63,690 SPY $$776.34",
+      "type": "lt-info"
+    },
+    {
+      "t": "11:39:03 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "11:39:03 AM",
+      "who": "System",
+      "msg": "═══ TICK #1008 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "11:13:56 AM",
       "who": "System",
@@ -22847,264 +23080,6 @@
       "who": "Knox",
       "msg": "KXB200WS-26SEP25-8.500 open · mark 1¢ · ~39d left",
       "type": ""
-    },
-    {
-      "t": "9:53:56 AM",
-      "who": "Knox",
-      "msg": "Checking 14 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "9:53:56 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the NVIDIA B200 compute\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"RTX 5090 price up in next we\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"B200 price up in next week?\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"H100 SXM price up in next we\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Axel",
-      "msg": "Exposure: 15% · Cash: $295.99",
-      "type": ""
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Nova",
-      "msg": "Diversified: 3 short (75%) · 1 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Flash",
-      "msg": "3 short · 1 long · YES:0 NO:4 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:53:55 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:53:54 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$63,324 SPY $$776.34",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:53:53 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:53:53 AM",
-      "who": "System",
-      "msg": "═══ TICK #1004 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "System",
-      "msg": "Portfolio: $325.99 · Realized P&L: +$125.99 · Trades: 855",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"B200 price up in next week?\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"H100 SXM price up in next week\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the NVIDIA B200 compute p\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "✓ WIN \"RTX 5090 price up in next week\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "KXA100W-26AUG21-1.04 open · mark 29¢ · ~4d left",
-      "type": ""
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-7VEN [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:05:00 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-7VEN open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXDATACENTCON-26SEP01-T80.0 [long] tick:3 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXDATACENTCON-26SEP01-T80.0 open · mark 1¢ · ~15d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTTOTALMAPS-26AUG1716007VENGP-3 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTTOTALMAPS-26AUG1716007VENGP-3 open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXA100WS-26SEP25-1.750 [long] tick:4 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXA100WS-26SEP25-1.750 open · mark 1¢ · ~39d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXA100WS-26SEP25-2.000 [long] tick:4 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:04:59 AM",
-      "who": "Knox",
-      "msg": "KXA100WS-26SEP25-2.000 open · mark 1¢ · ~39d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-GP [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-1-GP open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-7VEN [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-7VEN open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-GP [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG1716007VENGP-2-GP open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXB200W-26AUG21-6 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "9:04:58 AM",
-      "who": "Knox",
-      "msg": "KXB200W-26AUG21-6 open · mark 1¢ · ~4d left",
-      "type": ""
-    },
-    {
-      "t": "9:04:57 AM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXH100W-26AUG21-2.79 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
     }
   ],
   "markets": [
@@ -24472,7 +24447,7 @@
       "latest_expiration_time": "2026-08-28T21:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.6500",
+      "no_ask_dollars": "0.6100",
       "no_bid_dollars": "0.5500",
       "no_sub_title": "Price to Beat: 1.04",
       "notional_value_dollars": "1.0000",
@@ -24502,10 +24477,10 @@
       "volume_fp": "803.00",
       "yes_ask_dollars": "0.4500",
       "yes_ask_size_fp": "5.00",
-      "yes_bid_dollars": "0.3500",
-      "yes_bid_size_fp": "5.00",
+      "yes_bid_dollars": "0.3900",
+      "yes_bid_size_fp": "20.00",
       "yes_sub_title": "Price to Beat: 1.04",
-      "yes_bid": 0.35,
+      "yes_bid": 0.39,
       "volume": 803
     },
     {
@@ -28511,23 +28486,23 @@
       "pct": 1.2556986323282358
     },
     "BINANCE:BTCUSDT": {
-      "c": 63664,
-      "pc": 63006.55,
-      "pct": 1.0434629415513101
+      "c": 63689.99,
+      "pc": 62994.65,
+      "pct": 1.1038080217923212
     },
     "BINANCE:ETHUSDT": {
-      "c": 1907.4,
-      "pc": 1880.72,
-      "pct": 1.4186056403930443
+      "c": 1906.23,
+      "pc": 1880.81,
+      "pct": 1.35154534482484
     },
     "BINANCE:SOLUSDT": {
-      "c": 75.8,
-      "pc": 75.26,
-      "pct": 0.7175126229072442
+      "c": 75.83,
+      "pc": 75.27,
+      "pct": 0.7439883087551512
     }
   },
-  "tick": 1007,
-  "totalScanned": 100600,
+  "tick": 1008,
+  "totalScanned": 100700,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 111,
@@ -28538,8 +28513,8 @@
       "total": 101
     },
     "Unknown|NO|short": {
-      "wins": 560,
-      "total": 623
+      "wins": 563,
+      "total": 626
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -28552,7 +28527,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 850,
-  "lastRun": "2026-08-17T11:13:50.562Z",
+  "learnTotal": 853,
+  "lastRun": "2026-08-17T11:39:03.792Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
