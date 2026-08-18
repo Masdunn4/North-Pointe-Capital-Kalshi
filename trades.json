@@ -1,5 +1,5 @@
 {
-  "cash": 290.89,
+  "cash": 286.93,
   "startCash": 200,
   "trades": [
     {
@@ -24387,10 +24387,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T17:49:36.729Z",
-      "closedAt": null,
+      "closedAt": "2026-08-18T20:09:44.055Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -24585,7 +24585,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -24660,7 +24660,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -24712,10 +24712,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T19:36:25.282Z",
-      "closedAt": null,
+      "closedAt": "2026-08-18T20:09:44.056Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -24815,6 +24815,106 @@
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T19:54:11.283Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083778392.0417,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1301.49",
+      "market": "Will the palladium close price be above 1301.49 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:38.392Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083778754.7583,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1300.99",
+      "market": "Will the palladium close price be above 1300.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:38.754Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083779116.8918,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1300.49",
+      "market": "Will the palladium close price be above 1300.49 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:39.116Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083779478.27,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1299.99",
+      "market": "Will the palladium close price be above 1299.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:39.478Z",
       "closedAt": null,
       "ticksOpen": 0,
       "conf": "high",
@@ -24843,7 +24943,7 @@
       "status": "open",
       "openedAt": "2026-08-18T16:53:45.757Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -24868,36 +24968,11 @@
       "status": "open",
       "openedAt": "2026-08-18T16:53:46.107Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-18T18:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787075376729.0896,
-      "ticker": "KXPALLADIUMH-26AUG1815-T1304.49",
-      "market": "Will the palladium close price be above 1304.49 USD/ounce on August 18, 2026 at 3:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T17:49:36.729Z",
-      "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T19:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -24918,7 +24993,7 @@
       "status": "open",
       "openedAt": "2026-08-18T18:18:24.175Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -24937,13 +25012,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T19:03:38.034Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -24962,13 +25037,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T19:03:39.187Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -24993,32 +25068,7 @@
       "status": "open",
       "openedAt": "2026-08-18T19:36:24.921Z",
       "closedAt": null,
-      "ticksOpen": 2,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T21:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787081785282.3528,
-      "ticker": "KXPALLADIUMH-26AUG1817-T1303.99",
-      "market": "Will the palladium close price be above 1303.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T19:36:25.282Z",
-      "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25043,7 +25093,7 @@
       "status": "open",
       "openedAt": "2026-08-18T19:54:10.192Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25068,7 +25118,7 @@
       "status": "open",
       "openedAt": "2026-08-18T19:54:10.556Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25093,7 +25143,7 @@
       "status": "open",
       "openedAt": "2026-08-18T19:54:10.919Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25118,6 +25168,106 @@
       "status": "open",
       "openedAt": "2026-08-18T19:54:11.283Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083778392.0417,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1301.49",
+      "market": "Will the palladium close price be above 1301.49 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:38.392Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083778754.7583,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1300.99",
+      "market": "Will the palladium close price be above 1300.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:38.754Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083779116.8918,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1300.49",
+      "market": "Will the palladium close price be above 1300.49 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:39.116Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-18T21:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787083779478.27,
+      "ticker": "KXPALLADIUMH-26AUG1817-T1299.99",
+      "market": "Will the palladium close price be above 1299.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-18T20:09:39.478Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "high",
       "shortTerm": true,
@@ -25131,6 +25281,318 @@
     }
   ],
   "log": [
+    {
+      "t": "8:09:44 PM",
+      "who": "System",
+      "msg": "Portfolio: $314.93 · Realized P&L: +$114.93 · Trades: 997",
+      "type": "lt-sys"
+    },
+    {
+      "t": "8:09:44 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "8:09:44 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1299.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1299.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1300.49 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1300.49 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1300.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1300.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.49 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:43 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.49 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1302.49 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1302.49 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1302.99 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:42 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1302.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1303.49 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1303.49 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1817-T1303.99 tick:3 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1303.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1304.49 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1304.49 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26AUG1816-T64.799 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "8:09:41 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26AUG1816-T64.799 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26AUG1816-T64.949 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26AUG1816-T64.949 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1815-T4397.99 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1815-T4397.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1815-T1304.49 tick:6 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1815-T1304.49 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1814-T4399.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "8:09:40 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1814-T4399.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:39 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1814-T4401.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "8:09:39 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1814-T4401.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "8:09:39 PM",
+      "who": "Knox",
+      "msg": "Checking 16 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "8:09:39 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "8:09:39 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the palladium close pri\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the palladium close pri\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the palladium close pri\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the palladium close pri\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Axel",
+      "msg": "Exposure: 12% · Cash: $290.89",
+      "type": ""
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Nova",
+      "msg": "Diversified: 6 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Flash",
+      "msg": "94 short · 0 long · YES:0 NO:94 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "8:09:38 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "8:09:37 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,640 SPY $$767.45",
+      "type": "lt-info"
+    },
+    {
+      "t": "8:09:36 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "8:09:36 PM",
+      "who": "System",
+      "msg": "═══ TICK #1069 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "7:54:16 PM",
       "who": "System",
@@ -26018,318 +26480,6 @@
       "who": "Zara",
       "msg": "Order rejected (404): \"404 page not found\"",
       "type": "lt-warn"
-    },
-    {
-      "t": "7:03:38 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:03:38 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:03:38 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the silver close price \" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the silver close price \" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the silver close price \" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the silver close price \" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Axel",
-      "msg": "Exposure: 13% · Cash: $288.67",
-      "type": ""
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Nova",
-      "msg": "Diversified: 6 short (100%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Flash",
-      "msg": "100 short · 0 long · YES:0 NO:100 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "7:03:37 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,758 SPY $$767.85",
-      "type": "lt-info"
-    },
-    {
-      "t": "7:03:36 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "7:03:35 PM",
-      "who": "System",
-      "msg": "═══ TICK #1066 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "System",
-      "msg": "Portfolio: $314.67 · Realized P&L: +$114.67 · Trades: 983",
-      "type": "lt-sys"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the gold close price be a\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will over 7.5 goals be scored?\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Bardejov wins by more than 3.5\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4393.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:29 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4393.99 open · mark 1¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4395.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4395.99 open · mark 1¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4397.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4397.99 open · mark 1¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXISRNLTOTAL-26AUG18RANMAN-7 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXISRNLTOTAL-26AUG18RANMAN-7 open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1302.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:28 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1302.99 open · mark 0¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1303.49 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1303.49 open · mark 0¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1303.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1303.99 open · mark 0¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1304.49 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1815-T1304.49 open · mark 0¢ · ~42min left",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4391.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:18:27 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4391.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXGOLDH-26AUG1814-T4393.99 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4393.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4399.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4399.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4401.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4401.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXSVKCUPTOTAL-26AUG18SGIBAR-7 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "6:18:26 PM",
-      "who": "Knox",
-      "msg": "KXSVKCUPTOTAL-26AUG18SGIBAR-7 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXSVKCUPTOTAL-26AUG18SGIBAR-8 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "KXSVKCUPTOTAL-26AUG18SGIBAR-8 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1813-T1289.49 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1813-T1289.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXSVKCUPSPREAD-26AUG18SGIBAR-BAR4 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:18:25 PM",
-      "who": "Knox",
-      "msg": "KXSVKCUPSPREAD-26AUG18SGIBAR-BAR4 open · mark 0¢ · ~2d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -26351,7 +26501,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.4000",
       "no_sub_title": "Above $1304.49",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -26378,10 +26528,10 @@
       "updated_time": "2026-08-18T19:33:40.954949Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.6000",
+      "yes_ask_size_fp": "1.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1304.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -26434,7 +26584,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Above $1303.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -26487,7 +26637,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1303.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -26540,7 +26690,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1302.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -26593,7 +26743,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1302.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -26646,7 +26796,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1301.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -26668,7 +26818,7 @@
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9400",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1301.49",
       "notional_value_dollars": "1.0000",
@@ -26698,10 +26848,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0600",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1301.49",
-      "yes_bid": 0.06,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -26752,7 +26902,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Above $1300.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -26805,7 +26955,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1300.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -26858,7 +27008,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1299.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -26911,7 +27061,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1299.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -26964,7 +27114,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Above $1298.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27017,7 +27167,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1298.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27070,7 +27220,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1297.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27123,7 +27273,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Above $1297.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27176,7 +27326,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1296.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27229,7 +27379,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1296.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27282,7 +27432,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1295.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27335,7 +27485,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1295.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27357,8 +27507,8 @@
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9800",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0900",
       "no_sub_title": "Above $1294.99",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -27385,12 +27535,12 @@
       "updated_time": "2026-08-18T19:33:40.907331Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0200",
-      "yes_bid_size_fp": "10.00",
+      "yes_ask_dollars": "0.9100",
+      "yes_ask_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1294.99",
-      "yes_bid": 0.02,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -27441,7 +27591,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1294.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27464,7 +27614,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0500",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1293.99",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -27491,10 +27641,10 @@
       "updated_time": "2026-08-18T19:33:40.907331Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9500",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1293.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27517,7 +27667,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0900",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1293.49",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -27544,10 +27694,10 @@
       "updated_time": "2026-08-18T19:33:40.907331Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9100",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1293.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27600,7 +27750,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1292.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27653,7 +27803,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1292.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27706,7 +27856,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1291.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27759,7 +27909,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1291.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27812,7 +27962,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1290.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27865,7 +28015,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1290.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -27918,7 +28068,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1289.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -27971,7 +28121,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1289.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28024,7 +28174,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1288.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28077,7 +28227,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1288.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28130,7 +28280,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1287.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28153,7 +28303,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0200",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1287.49",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -28180,10 +28330,10 @@
       "updated_time": "2026-08-18T19:33:40.907331Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9800",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1287.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28236,7 +28386,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1286.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28289,7 +28439,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1286.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28342,7 +28492,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1285.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28395,7 +28545,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1285.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28448,114 +28598,8 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1284.99",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T20:00:00Z",
-      "created_time": "2026-08-18T19:06:15.197174Z",
-      "custom_strike": {
-        "Index": "S&P 500"
-      },
-      "event_ticker": "KXINXHUD-26AUG181600",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-18T20:05:00Z",
-      "expiration_time": "2026-08-18T20:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 7698.59,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T23:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Above $7698.59",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-18T19:33:40Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the value of S&P 500 is above $7698.59 at 4:00 PM ET on August 18, 2026, then the market resolves to Yes.",
-      "rules_secondary": "This is an Up/Down market on || Index ||: it resolves Yes if || Index || finishes higher than its reference level, and No if it finishes flat or lower. The reference level (|| Value ||) is the value of || Index || at the start of the hour. If no data is available for the period by expiration, the market resolves No.",
-      "settlement_timer_seconds": 1800,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXINXHUD-26AUG181600-T7698.59",
-      "title": "Will the S&P 500 be above $7698.59 at Aug 18, 2026 at 4pm EDT?",
-      "updated_time": "2026-08-18T19:33:40.171991Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
-      "yes_sub_title": "Above $7698.59",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-18T20:00:00Z",
-      "created_time": "2026-08-18T19:06:15.187926Z",
-      "custom_strike": {
-        "Index": "NASDAQ-100"
-      },
-      "event_ticker": "KXNDQHUD-26AUG181600",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-18T20:05:00Z",
-      "expiration_time": "2026-08-18T20:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 29483.23,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-18T23:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "Above $29483.23",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-18T19:33:40Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the value of NASDAQ-100 is above $29483.23 at 4:00 PM ET on August 18, 2026, then the market resolves to Yes.",
-      "rules_secondary": "This is an Up/Down market on || Index ||: it resolves Yes if || Index || finishes higher than its reference level, and No if it finishes flat or lower. The reference level (|| Value ||) is the value of || Index || at the start of the hour. If no data is available for the period by expiration, the market resolves No.",
-      "settlement_timer_seconds": 1800,
-      "status": "active",
-      "strike_type": "greater",
-      "ticker": "KXNDQHUD-26AUG181600-T29483.23",
-      "title": "Will the NASDAQ-100 be above $29483.23 at Aug 18, 2026 at 4pm EDT?",
-      "updated_time": "2026-08-18T19:33:40.861011Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
-      "yes_sub_title": "Above $29483.23",
       "yes_bid": 0.01,
       "volume": 0
     },
@@ -28607,7 +28651,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1734.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28660,7 +28704,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1733.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28713,7 +28757,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1733.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28766,7 +28810,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1732.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28819,7 +28863,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Above $1732.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28872,7 +28916,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1731.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -28925,7 +28969,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1731.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -28978,7 +29022,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1730.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29031,7 +29075,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1730.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29084,7 +29128,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1729.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29137,7 +29181,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1729.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29190,7 +29234,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1728.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29243,7 +29287,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1728.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29296,7 +29340,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1727.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29349,7 +29393,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1727.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29402,7 +29446,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1726.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29455,7 +29499,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1726.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29508,7 +29552,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1725.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29561,7 +29605,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1725.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29614,7 +29658,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1724.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29667,7 +29711,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1724.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29690,7 +29734,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.1400",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1723.99",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -29717,10 +29761,10 @@
       "updated_time": "2026-08-18T19:33:40.954949Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.8600",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1723.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29742,7 +29786,7 @@
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9000",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1723.49",
       "notional_value_dollars": "1.0000",
@@ -29772,10 +29816,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.1000",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1723.49",
-      "yes_bid": 0.1,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -29826,7 +29870,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1722.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29879,7 +29923,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1722.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -29932,7 +29976,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Above $1721.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -29985,7 +30029,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1721.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30007,7 +30051,7 @@
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.8400",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1720.99",
       "notional_value_dollars": "1.0000",
@@ -30037,10 +30081,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_dollars": "0.1600",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Above $1720.99",
-      "yes_bid": 0.01,
+      "yes_bid": 0.16,
       "volume": 0
     },
     {
@@ -30091,7 +30135,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1720.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30114,7 +30158,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.1800",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $1719.99",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -30141,10 +30185,10 @@
       "updated_time": "2026-08-18T19:33:40.954949Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.8200",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1719.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30197,7 +30241,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1719.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30215,7 +30259,7 @@
       "expiration_time": "2026-08-18T21:00:00Z",
       "expiration_value": "",
       "floor_strike": 1718.99,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -30245,15 +30289,15 @@
       "ticker": "KXPLATINUMH-26AUG1817-T1718.99",
       "title": "Will the platinum close price be above 1718.99 USD/ounce on August 18, 2026 at 5:00 PM ET?",
       "updated_time": "2026-08-18T19:33:40.954949Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "4.00",
+      "volume_fp": "4.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $1718.99",
       "yes_bid": 0.01,
-      "volume": 0
+      "volume": 4
     },
     {
       "can_close_early": true,
@@ -30303,7 +30347,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1718.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30356,7 +30400,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1717.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30409,7 +30453,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1717.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30432,7 +30476,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0200",
       "no_sub_title": "Above $1716.99",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -30459,10 +30503,10 @@
       "updated_time": "2026-08-18T19:33:40.954949Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9800",
+      "yes_ask_size_fp": "10.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $1716.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30515,7 +30559,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Above $1716.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30568,7 +30612,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1715.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30621,7 +30665,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $1715.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -30674,7 +30718,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $1714.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30727,7 +30771,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $85.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -30780,7 +30824,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $85.89",
       "yes_bid": 0.01,
       "volume": 0
@@ -30833,7 +30877,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $85.79",
       "yes_bid": 0.01,
       "volume": 0
@@ -30886,7 +30930,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $85.69",
       "yes_bid": 0.01,
       "volume": 0
@@ -30939,7 +30983,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $85.59",
       "yes_bid": 0.01,
       "volume": 0
@@ -30992,7 +31036,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $85.49",
       "yes_bid": 0.01,
       "volume": 0
@@ -31045,7 +31089,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $85.39",
       "yes_bid": 0.01,
       "volume": 0
@@ -31098,7 +31142,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $85.29",
       "yes_bid": 0.01,
       "volume": 0
@@ -31151,7 +31195,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $85.19",
       "yes_bid": 0.01,
       "volume": 0
@@ -31204,7 +31248,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $85.09",
       "yes_bid": 0.01,
       "volume": 0
@@ -31257,7 +31301,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Above $84.99",
       "yes_bid": 0.01,
       "volume": 0
@@ -31310,7 +31354,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1420.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Above $84.89",
       "yes_bid": 0.01,
       "volume": 0
@@ -31363,7 +31407,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $84.79",
       "yes_bid": 0.01,
       "volume": 0
@@ -31416,7 +31460,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $84.69",
       "yes_bid": 0.01,
       "volume": 0
@@ -31469,7 +31513,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1400.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Above $84.59",
       "yes_bid": 0.01,
       "volume": 0
@@ -31491,7 +31535,7 @@
       "latest_expiration_time": "2026-08-25T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.9000",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Above $84.49",
       "notional_value_dollars": "1.0000",
@@ -31521,10 +31565,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1430.00",
+      "yes_bid_dollars": "0.1000",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Above $84.49",
-      "yes_bid": 0.01,
+      "yes_bid": 0.1,
       "volume": 0
     },
     {
@@ -31575,7 +31619,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Above $84.39",
       "yes_bid": 0.01,
       "volume": 0
@@ -31628,56 +31672,162 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1410.00",
+      "yes_bid_size_fp": "1270.00",
       "yes_sub_title": "Above $84.29",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T21:00:00Z",
+      "created_time": "2026-08-18T19:06:15.03034Z",
+      "custom_strike": {
+        "front_month_contract": "NA"
+      },
+      "event_ticker": "KXWTIH-26AUG1817",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-18T21:00:00Z",
+      "expiration_time": "2026-08-18T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 84.19,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-25T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Above $84.19",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-18T19:33:40Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for WTI Oil on August 18, 2026 at 5:00 PM EDT is above 84.19 USD/barrel, then the market resolves to Yes.",
+      "rules_secondary": "The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.\n\nNA",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXWTIH-26AUG1817-T84.19",
+      "title": "Will the WTI Oil close price be above 84.19 USD/barrel on August 18, 2026 at 5:00 PM ET?",
+      "updated_time": "2026-08-18T19:33:41.415524Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1280.00",
+      "yes_sub_title": "Above $84.19",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-18T21:00:00Z",
+      "created_time": "2026-08-18T19:06:15.03034Z",
+      "custom_strike": {
+        "front_month_contract": "NA"
+      },
+      "event_ticker": "KXWTIH-26AUG1817",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-18T21:00:00Z",
+      "expiration_time": "2026-08-18T21:00:00Z",
+      "expiration_value": "",
+      "floor_strike": 84.09,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-25T22:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Above $84.09",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-18T19:33:40Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If the close price of the 1-minute candlestick for WTI Oil on August 18, 2026 at 5:00 PM EDT is above 84.09 USD/barrel, then the market resolves to Yes.",
+      "rules_secondary": "The settlement value is rounded to the nearest 2 decimal places. When confirming the settlement value, note the close price for the 1-minute candlestick at a given time is the price at the end of the immediately preceding one-minute interval. For example, the candlestick timestamped 4:59 PM reflects trading during 4:59:00 PM to 4:59:59 PM and closes at 5:00:00 PM. If no data is published by the specified source agency for the specified time, then the most recently available published data will be used to resolve the market.\n\nNA",
+      "settlement_timer_seconds": 3600,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXWTIH-26AUG1817-T84.09",
+      "title": "Will the WTI Oil close price be above 84.09 USD/barrel on August 18, 2026 at 5:00 PM ET?",
+      "updated_time": "2026-08-18T19:33:41.415524Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1290.00",
+      "yes_sub_title": "Above $84.09",
       "yes_bid": 0.01,
       "volume": 0
     }
   ],
   "prices": {
     "SPY": {
-      "c": 767.65,
+      "c": 767.45,
       "pc": 772.67,
-      "pct": -0.6496952127039981
+      "pct": -0.6755794841264594
     },
     "QQQ": {
-      "c": 717.46,
+      "c": 717.51,
       "pc": 729.87,
-      "pct": -1.7003027936481796
+      "pct": -1.6934522586214
     },
     "GLD": {
-      "c": 398.48,
+      "c": 398.55,
       "pc": 405.49,
-      "pct": -1.7287725961182745
+      "pct": -1.7115095316777227
     },
     "AAPL": {
-      "c": 310.93,
+      "c": 310.03,
       "pc": 305.59,
-      "pct": 1.74743937956086
+      "pct": 1.4529271245786832
     },
     "USO": {
-      "c": 130.81,
+      "c": 130.66,
       "pc": 130.29,
-      "pct": 0.39910967840970935
+      "pct": 0.2839818865607526
     },
     "BINANCE:BTCUSDT": {
-      "c": 64681.66,
-      "pc": 64311.84,
-      "pct": 0.575041858544254
+      "c": 64640,
+      "pc": 64276.38,
+      "pct": 0.5657132526754036
     },
     "BINANCE:ETHUSDT": {
-      "c": 1914.58,
-      "pc": 1908.16,
-      "pct": 0.33644977360388256
+      "c": 1913.91,
+      "pc": 1906.31,
+      "pct": 0.39867597610043154
     },
     "BINANCE:SOLUSDT": {
-      "c": 77.1,
-      "pc": 75.77,
-      "pct": 1.7553121288108728
+      "c": 77.19,
+      "pc": 75.74,
+      "pct": 1.914444151043046
     }
   },
-  "tick": 1068,
-  "totalScanned": 106700,
+  "tick": 1069,
+  "totalScanned": 106800,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 122,
@@ -31688,8 +31838,8 @@
       "total": 102
     },
     "Unknown|NO|short": {
-      "wins": 674,
-      "total": 742
+      "wins": 676,
+      "total": 744
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -31702,7 +31852,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 981,
-  "lastRun": "2026-08-18T19:54:07.418Z",
+  "learnTotal": 983,
+  "lastRun": "2026-08-18T20:09:36.132Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
