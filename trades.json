@@ -1,5 +1,5 @@
 {
-  "cash": 283.15,
+  "cash": 287.19,
   "startCash": 200,
   "trades": [
     {
@@ -24587,10 +24587,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T19:03:38.034Z",
-      "closedAt": null,
+      "closedAt": "2026-08-18T21:56:56.273Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -24962,10 +24962,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T20:56:52.551Z",
-      "closedAt": null,
+      "closedAt": "2026-08-18T21:56:56.273Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -25035,7 +25035,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.98,
-      "currentPrice": 0.02,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -25060,7 +25060,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.98,
-      "currentPrice": 0.02,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -25085,7 +25085,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.97,
-      "currentPrice": 0.03,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -25110,7 +25110,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.96,
-      "currentPrice": 0.04,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
@@ -25143,36 +25143,11 @@
       "status": "open",
       "openedAt": "2026-08-18T18:18:24.175Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-18T19:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787079818034.0403,
-      "ticker": "KXSILVERH-26AUG1816-T64.949",
-      "market": "Will the silver close price be above 64.949 USD/ounce on August 18, 2026 at 4:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T19:03:38.034Z",
-      "closedAt": null,
-      "ticksOpen": 8,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T20:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -25193,7 +25168,7 @@
       "status": "open",
       "openedAt": "2026-08-18T19:54:11.283Z",
       "closedAt": null,
-      "ticksOpen": 6,
+      "ticksOpen": 7,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25218,32 +25193,7 @@
       "status": "open",
       "openedAt": "2026-08-18T20:56:52.220Z",
       "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-18T22:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787086612551.4543,
-      "ticker": "KXWTIH-26AUG1818-T85.89",
-      "market": "Will the WTI Oil close price be above 85.89 USD/barrel on August 18, 2026 at 6:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T20:56:52.551Z",
-      "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25268,7 +25218,7 @@
       "status": "open",
       "openedAt": "2026-08-18T20:56:52.882Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25293,7 +25243,7 @@
       "status": "open",
       "openedAt": "2026-08-18T20:56:53.213Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25312,13 +25262,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.98,
-      "currentPrice": 0.02,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T21:15:28.023Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25337,13 +25287,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.98,
-      "currentPrice": 0.02,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T21:15:28.372Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25362,13 +25312,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.97,
-      "currentPrice": 0.03,
+      "currentPrice": 0,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T21:15:28.720Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25387,13 +25337,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.96,
-      "currentPrice": 0.04,
+      "currentPrice": 0,
       "size": 12,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-18T21:15:29.069Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25406,6 +25356,210 @@
     }
   ],
   "log": [
+    {
+      "t": "9:56:56 PM",
+      "who": "System",
+      "msg": "Portfolio: $315.19 · Realized P&L: +$115.19 · Trades: 1005",
+      "type": "lt-sys"
+    },
+    {
+      "t": "9:56:56 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the WTI Oil close price b\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:56:56 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the silver close price be\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:56:56 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.29 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:56:56 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.29 open · mark 0¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.39 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.39 open · mark 0¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.49 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.49 open · mark 0¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.59 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "9:56:55 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.59 open · mark 0¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.69 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.69 open · mark 1¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.79 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.79 open · mark 0¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXWTIH-26AUG1818-T85.89 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.89 open · mark 1¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "9:56:54 PM",
+      "who": "Knox",
+      "msg": "KXWTIH-26AUG1818-T85.99 open · mark 1¢ · ~3min left",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 [short] tick:7 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXSILVERH-26AUG1816-T64.949 tick:9 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "KXSILVERH-26AUG1816-T64.949 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1815-T4397.99 [short] tick:10 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "KXGOLDH-26AUG1815-T4397.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Knox",
+      "msg": "Checking 11 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Axel",
+      "msg": "Exposure: 16% · Cash: $283.15",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (100 killed)",
+      "type": ""
+    },
+    {
+      "t": "9:56:53 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:56:52 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "9:56:52 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,582 SPY $$767.45",
+      "type": "lt-info"
+    },
+    {
+      "t": "9:56:51 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "9:56:50 PM",
+      "who": "System",
+      "msg": "═══ TICK #1074 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:43:18 PM",
       "who": "System",
@@ -26400,210 +26554,6 @@
       "t": "8:36:43 PM",
       "who": "Knox",
       "msg": "KXPALLADIUMH-26AUG1817-T1304.49 open · mark 1¢ · ~23min left",
-      "type": ""
-    },
-    {
-      "t": "8:36:43 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXSILVERH-26AUG1816-T64.799 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:36:43 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26AUG1816-T64.799 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:36:43 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26AUG1816-T64.949 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:36:43 PM",
-      "who": "Knox",
-      "msg": "KXSILVERH-26AUG1816-T64.949 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4397.99 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4397.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4399.99 [short] tick:9 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4399.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXGOLDH-26AUG1814-T4401.99 tick:9 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1814-T4401.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Knox",
-      "msg": "Checking 14 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Axel",
-      "msg": "Exposure: 14% · Cash: $286.93",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "8:36:42 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:36:41 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "8:36:41 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,627 SPY $$767.45",
-      "type": "lt-info"
-    },
-    {
-      "t": "8:36:40 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "8:36:39 PM",
-      "who": "System",
-      "msg": "═══ TICK #1070 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:09:44 PM",
-      "who": "System",
-      "msg": "Portfolio: $314.93 · Realized P&L: +$114.93 · Trades: 997",
-      "type": "lt-sys"
-    },
-    {
-      "t": "8:09:44 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:09:44 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1299.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1299.99 open · mark 1¢ · ~50min left",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1300.49 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1300.49 open · mark 1¢ · ~50min left",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1300.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1300.99 open · mark 1¢ · ~50min left",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1301.49 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:43 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1301.49 open · mark 1¢ · ~50min left",
-      "type": ""
-    },
-    {
-      "t": "8:09:42 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:42 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 open · mark 1¢ · ~50min left",
-      "type": ""
-    },
-    {
-      "t": "8:09:42 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1302.49 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "8:09:42 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1302.49 open · mark 1¢ · ~50min left",
       "type": ""
     }
   ],
@@ -31820,7 +31770,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.9700",
       "no_sub_title": "Above $63.549",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -31847,8 +31797,8 @@
       "updated_time": "2026-08-18T21:33:42.112632Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.0300",
+      "yes_ask_size_fp": "1.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
       "yes_sub_title": "Above $63.549",
@@ -31936,23 +31886,23 @@
       "pct": 0.2839818865607526
     },
     "BINANCE:BTCUSDT": {
-      "c": 64583.57,
-      "pc": 64341.99,
-      "pct": 0.3754624312987549
+      "c": 64582.01,
+      "pc": 64366.63,
+      "pct": 0.33461438015320155
     },
     "BINANCE:ETHUSDT": {
-      "c": 1912.05,
-      "pc": 1906.81,
-      "pct": 0.27480451644369436
+      "c": 1911.39,
+      "pc": 1906.55,
+      "pct": 0.2538616873410163
     },
     "BINANCE:SOLUSDT": {
-      "c": 76.98,
-      "pc": 75.95,
-      "pct": 1.3561553653719567
+      "c": 76.97,
+      "pc": 75.94,
+      "pct": 1.35633394785357
     }
   },
-  "tick": 1073,
-  "totalScanned": 107200,
+  "tick": 1074,
+  "totalScanned": 107300,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 122,
@@ -31963,8 +31913,8 @@
       "total": 102
     },
     "Unknown|NO|short": {
-      "wins": 687,
-      "total": 755
+      "wins": 689,
+      "total": 757
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -31977,7 +31927,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 994,
-  "lastRun": "2026-08-18T21:43:13.287Z",
+  "learnTotal": 996,
+  "lastRun": "2026-08-18T21:56:50.955Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
