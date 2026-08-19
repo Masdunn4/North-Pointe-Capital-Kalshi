@@ -1,5 +1,5 @@
 {
-  "cash": 281.89,
+  "cash": 279.95,
   "startCash": 200,
   "trades": [
     {
@@ -25137,10 +25137,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T23:16:20.730Z",
-      "closedAt": null,
+      "closedAt": "2026-08-19T02:06:27.087Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -25162,10 +25162,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0.01,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T23:16:21.045Z",
-      "closedAt": null,
+      "closedAt": "2026-08-19T02:06:27.088Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -25187,10 +25187,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-18T23:16:21.365Z",
-      "closedAt": null,
+      "closedAt": "2026-08-19T02:06:27.088Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -25526,84 +25526,109 @@
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
+    },
+    {
+      "id": 1787105180182.9521,
+      "ticker": "KXMLBGAME-26AUG212010ATHHOU-HOU",
+      "market": "A's vs Houston Winner?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.182Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-25T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105180565.675,
+      "ticker": "KXMLBGAME-26AUG212010ATHHOU-ATH",
+      "market": "A's vs Houston Winner?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.565Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-25T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105180948.06,
+      "ticker": "KXMLBEXTRAS-26AUG211940NYMCWS-EXTRAS",
+      "market": "Will there be extra innings in the New York M vs Chicago WS game originally scheduled for Aug 21, 2026 at 7:40 PM EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.948Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-23T23:40:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105181332.3167,
+      "ticker": "KXMLBEXTRAS-26AUG212010DETKC-EXTRAS",
+      "market": "Will there be extra innings in the Detroit vs Kansas City game originally scheduled for Aug 21, 2026 at 8:10 PM EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:21.332Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-24T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
     }
   ],
   "positions": [
-    {
-      "id": 1787094980730.7593,
-      "ticker": "KXPLATINUMH-26AUG1821-T1719.49",
-      "market": "Will the platinum close price be above 1719.49 USD/ounce on August 18, 2026 at 9:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T23:16:20.730Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-19T01:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787094981045.8865,
-      "ticker": "KXPLATINUMH-26AUG1821-T1718.99",
-      "market": "Will the platinum close price be above 1718.99 USD/ounce on August 18, 2026 at 9:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T23:16:21.045Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-19T01:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787094981365.453,
-      "ticker": "KXPLATINUMH-26AUG1821-T1718.49",
-      "market": "Will the platinum close price be above 1718.49 USD/ounce on August 18, 2026 at 9:00 PM ET?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-18T23:16:21.365Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-19T01:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
     {
       "id": 1787096533244.9688,
       "ticker": "KXMLBEXTRAS-26AUG211910WSHMIA-EXTRAS",
@@ -25618,7 +25643,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:42:13.244Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25643,7 +25668,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:42:13.628Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25668,7 +25693,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:42:14.012Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25693,7 +25718,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:42:14.396Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25718,7 +25743,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:56:32.645Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25743,7 +25768,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:56:33.029Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25768,7 +25793,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:56:33.413Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25793,7 +25818,7 @@
       "status": "open",
       "openedAt": "2026-08-18T23:56:33.797Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25818,7 +25843,7 @@
       "status": "open",
       "openedAt": "2026-08-19T00:42:28.855Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25843,7 +25868,7 @@
       "status": "open",
       "openedAt": "2026-08-19T00:42:29.218Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25868,7 +25893,7 @@
       "status": "open",
       "openedAt": "2026-08-19T00:42:29.580Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -25893,6 +25918,106 @@
       "status": "open",
       "openedAt": "2026-08-19T00:42:29.942Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-24T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105180182.9521,
+      "ticker": "KXMLBGAME-26AUG212010ATHHOU-HOU",
+      "market": "A's vs Houston Winner?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.182Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-25T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105180565.675,
+      "ticker": "KXMLBGAME-26AUG212010ATHHOU-ATH",
+      "market": "A's vs Houston Winner?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.565Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-25T00:10:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105180948.06,
+      "ticker": "KXMLBEXTRAS-26AUG211940NYMCWS-EXTRAS",
+      "market": "Will there be extra innings in the New York M vs Chicago WS game originally scheduled for Aug 21, 2026 at 7:40 PM EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:20.948Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-23T23:40:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787105181332.3167,
+      "ticker": "KXMLBEXTRAS-26AUG212010DETKC-EXTRAS",
+      "market": "Will there be extra innings in the Detroit vs Kansas City game originally scheduled for Aug 21, 2026 at 8:10 PM EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.99,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-19T02:06:21.332Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "high",
       "shortTerm": true,
@@ -25906,6 +26031,246 @@
     }
   ],
   "log": [
+    {
+      "t": "2:06:27 AM",
+      "who": "System",
+      "msg": "Portfolio: $311.95 · Realized P&L: +$111.95 · Trades: 1025",
+      "type": "lt-sys"
+    },
+    {
+      "t": "2:06:27 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the platinum close price \" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:27 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the platinum close price \" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:27 AM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the platinum close price \" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:26 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG212010DETKC-EXTRAS [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:26 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG211940NYMCWS-EXTRAS [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:26 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG212010ATHHOU-ATH [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:26 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG212010ATHHOU-HOU [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:25 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG212010ATHHOU-EXTRAS [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:25 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG212015LAATEX-LAA [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:25 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG212015LAATEX-TEX [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:24 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG212015LAATEX-EXTRAS [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "2:06:24 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG211915TBBAL-TB [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "2:06:24 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG211915TBBAL-EXTRAS [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "2:06:24 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG211910SFBOS-BOS [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "2:06:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG211910SFBOS-SF [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "2:06:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG211910SFBOS-EXTRAS [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:06:23 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG211910WSHMIA-MIA [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:06:22 AM",
+      "who": "Knox",
+      "msg": "KXMLBGAME-26AUG211910WSHMIA-WSH [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:06:22 AM",
+      "who": "Knox",
+      "msg": "KXMLBEXTRAS-26AUG211910WSHMIA-EXTRAS [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "2:06:22 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1821-T1718.49 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:22 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1821-T1718.99 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:21 AM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXPLATINUMH-26AUG1821-T1719.49 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "2:06:21 AM",
+      "who": "Knox",
+      "msg": "Checking 19 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "2:06:21 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will there be extra innings \" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will there be extra innings \" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"A's vs Houston Winner?\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"A's vs Houston Winner?\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Axel",
+      "msg": "Exposure: 15% · Cash: $281.89",
+      "type": ""
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Nova",
+      "msg": "Diversified: 6 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Flash",
+      "msg": "6 short · 0 long · YES:0 NO:6 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Rex",
+      "msg": "Kalshi returned 500: {\"error\":{\"code\":\"internal_server_error\",\"message\":\"internal_server_error\"}}",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:20 AM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "2:06:19 AM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$64,367 SPY $$767.45",
+      "type": "lt-info"
+    },
+    {
+      "t": "2:06:18 AM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "2:06:17 AM",
+      "who": "System",
+      "msg": "═══ TICK #1082 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "12:42:34 AM",
       "who": "System",
@@ -26865,246 +27230,6 @@
       "who": "System",
       "msg": "═══ TICK #1078 — North Pointe Capital ═══",
       "type": "lt-sys"
-    },
-    {
-      "t": "10:57:52 PM",
-      "who": "System",
-      "msg": "Portfolio: $311.81 · Realized P&L: +$111.81 · Trades: 1005",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:57:52 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the WTI Oil close price b\" → +$0.50",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:57:52 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the WTI Oil close price b\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:57:52 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXWTIH-26AUG1818-T85.29 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:57:52 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.29 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.59 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.59 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.69 [short] tick:7 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.69 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXWTIH-26AUG1818-T85.99 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Knox",
-      "msg": "Checking 4 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Axel",
-      "msg": "Exposure: 9% · Cash: $293.29",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "10:57:51 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$64,625 SPY $$767.45",
-      "type": "lt-info"
-    },
-    {
-      "t": "10:57:49 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "10:57:49 PM",
-      "who": "System",
-      "msg": "═══ TICK #1077 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "System",
-      "msg": "Portfolio: $311.29 · Realized P&L: +$111.29 · Trades: 1005",
-      "type": "lt-sys"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "✗ LOSS \"Will the WTI Oil close price b\" → $2.00",
-      "type": "lt-err"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the palladium close price\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "✗ LOSS \"Will the gold close price be a\" → $2.00",
-      "type": "lt-err"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.29 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.29 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXWTIH-26AUG1818-T85.49 tick:5 → LOSS ✗ (winP:96%)",
-      "type": "lt-err"
-    },
-    {
-      "t": "10:41:03 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.49 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.59 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.59 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.69 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.69 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.99 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "10:41:02 PM",
-      "who": "Knox",
-      "msg": "KXWTIH-26AUG1818-T85.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXPALLADIUMH-26AUG1817-T1301.99 tick:9 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Knox",
-      "msg": "KXPALLADIUMH-26AUG1817-T1301.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXGOLDH-26AUG1815-T4397.99 tick:12 → LOSS ✗ (winP:96%)",
-      "type": "lt-err"
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Knox",
-      "msg": "KXGOLDH-26AUG1815-T4397.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Knox",
-      "msg": "Checking 7 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "10:41:01 PM",
-      "who": "Axel",
-      "msg": "Exposure: 12% · Cash: $291.27",
-      "type": ""
     }
   ],
   "markets": [
@@ -33813,22 +33938,22 @@
       "pct": 0.2839818865607526
     },
     "BINANCE:BTCUSDT": {
-      "c": 64566,
-      "pc": 64392.92,
-      "pct": 0.26878731388482113
+      "c": 64367,
+      "pc": 64268.66,
+      "pct": 0.1530139262278014
     },
     "BINANCE:ETHUSDT": {
-      "c": 1914.35,
-      "pc": 1909.01,
-      "pct": 0.2797261407745333
+      "c": 1911.87,
+      "pc": 1902.98,
+      "pct": 0.4671620300791324
     },
     "BINANCE:SOLUSDT": {
-      "c": 76.96,
-      "pc": 75.92,
-      "pct": 1.3698630136986196
+      "c": 76.73,
+      "pc": 75.64,
+      "pct": 1.4410364886303588
     }
   },
-  "tick": 1081,
+  "tick": 1082,
   "totalScanned": 108000,
   "learnData": {
     "Unknown|NO|long": {
@@ -33840,8 +33965,8 @@
       "total": 102
     },
     "Unknown|NO|short": {
-      "wins": 697,
-      "total": 767
+      "wins": 700,
+      "total": 770
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -33854,7 +33979,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 1006,
-  "lastRun": "2026-08-19T00:42:26.527Z",
+  "learnTotal": 1009,
+  "lastRun": "2026-08-19T02:06:17.385Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
