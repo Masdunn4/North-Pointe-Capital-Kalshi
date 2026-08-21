@@ -1,5 +1,5 @@
 {
-  "cash": 275.55,
+  "cash": 273.57,
   "startCash": 200,
   "trades": [
     {
@@ -29912,10 +29912,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-21T16:30:56.405Z",
-      "closedAt": null,
+      "closedAt": "2026-08-21T18:00:44.451Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -30010,7 +30010,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.17,
+      "currentPrice": 0.01,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -30101,34 +30101,59 @@
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
-    }
-  ],
-  "positions": [
+    },
     {
-      "id": 1787329856405.8982,
-      "ticker": "KXLVAVIRSPREAD-26AUG21LIEGRB-LIE4",
-      "market": "Liepaja wins by more than 3.5 goals?",
+      "id": 1787335241426.6772,
+      "ticker": "KXCYCLINGSTAGE-26VLTAS1-XAZP",
+      "market": "Will Xabier Mikel Azparren Irurzun win Stage 1 in the 2026 Vuelta a Espana?",
       "category": "Unknown",
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0,
+      "currentPrice": 0.01,
       "size": 2,
       "pnl": 0,
       "status": "open",
-      "openedAt": "2026-08-21T16:30:56.405Z",
+      "openedAt": "2026-08-21T18:00:41.426Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 0,
       "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-23T21:00:00Z",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-05T17:30:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
       "expectedReturn": "0.0",
       "entryScore": 8
     },
+    {
+      "id": 1787335241780.2202,
+      "ticker": "KXCYCLINGSTAGE-26VLTAS1-WVAN",
+      "market": "Will Wout Van Aert win Stage 1 in the 2026 Vuelta a Espana?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-21T18:00:41.780Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-05T17:30:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    }
+  ],
+  "positions": [
     {
       "id": 1787329856764.8367,
       "ticker": "KXNFLRECYDS-26AUG21NYJPIT-NYJOCOOPER83-50",
@@ -30143,7 +30168,7 @@
       "status": "open",
       "openedAt": "2026-08-21T16:30:56.764Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -30168,7 +30193,7 @@
       "status": "open",
       "openedAt": "2026-08-21T16:30:57.122Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -30187,13 +30212,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.17,
+      "currentPrice": 0.01,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-21T17:40:43.918Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -30218,7 +30243,7 @@
       "status": "open",
       "openedAt": "2026-08-21T17:40:44.240Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -30243,7 +30268,7 @@
       "status": "open",
       "openedAt": "2026-08-21T17:40:44.562Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -30268,6 +30293,56 @@
       "status": "open",
       "openedAt": "2026-08-21T17:40:44.884Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-05T17:30:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787335241426.6772,
+      "ticker": "KXCYCLINGSTAGE-26VLTAS1-XAZP",
+      "market": "Will Xabier Mikel Azparren Irurzun win Stage 1 in the 2026 Vuelta a Espana?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-21T18:00:41.426Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": false,
+      "term": "long",
+      "expires": "2026-09-05T17:30:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787335241780.2202,
+      "ticker": "KXCYCLINGSTAGE-26VLTAS1-WVAN",
+      "market": "Will Wout Van Aert win Stage 1 in the 2026 Vuelta a Espana?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-21T18:00:41.780Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "high",
       "shortTerm": false,
@@ -30281,6 +30356,204 @@
     }
   ],
   "log": [
+    {
+      "t": "6:00:44 PM",
+      "who": "System",
+      "msg": "Portfolio: $289.57 · Realized P&L: +$89.57 · Trades: 1206",
+      "type": "lt-sys"
+    },
+    {
+      "t": "6:00:44 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Liepaja wins by more than 3.5 \" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "6:00:44 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-WVAN [long] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:44 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-WVAN open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-XAZP [long] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-XAZP open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-YFED [long] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXCYCLINGSTAGE-26VLTAS1-YFED open · mark 1¢ · ~15d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXLVAVIRSPREAD-26AUG21AUDTUK-AUD5 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXLVAVIRSPREAD-26AUG21AUDTUK-AUD5 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALTEAMTOTAL-26AUG21STTSGE-SGE4 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:43 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALTEAMTOTAL-26AUG21STTSGE-SGE4 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALTEAMTOTAL-26AUG21STTSGE-SGE5 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALTEAMTOTAL-26AUG21STTSGE-SGE5 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXNFLRECYDS-26AUG21NYJPIT-NYJOCOOPER83-25 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXNFLRECYDS-26AUG21NYJPIT-NYJOCOOPER83-25 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXNFLRECYDS-26AUG21NYJPIT-NYJOCOOPER83-50 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXNFLRECYDS-26AUG21NYJPIT-NYJOCOOPER83-50 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXLVAVIRSPREAD-26AUG21LIEGRB-LIE4 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "KXLVAVIRSPREAD-26AUG21LIEGRB-LIE4 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "6:00:42 PM",
+      "who": "Knox",
+      "msg": "Checking 9 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will Wout Van Aert win Stage\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will Xabier Mikel Azparren I\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Axel",
+      "msg": "Exposure: 7% · Cash: $275.55",
+      "type": ""
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 8 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Flash",
+      "msg": "0 short · 96 long · YES:0 NO:96 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:00:41 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "6:00:40 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$77,392 SPY $$765.49",
+      "type": "lt-info"
+    },
+    {
+      "t": "6:00:39 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "6:00:39 PM",
+      "who": "System",
+      "msg": "═══ TICK #1193 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "5:40:47 PM",
       "who": "System",
@@ -31282,204 +31555,6 @@
       "who": "Knox",
       "msg": "KXPLATINUMH-26AUG2112-T1902.99 [short] tick:2 · waiting · settle chance:0%",
       "type": ""
-    },
-    {
-      "t": "2:59:00 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1902.99 open · mark 0¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "2:59:00 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.49 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:59:00 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.49 open · mark 0¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "2:59:00 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:59:00 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.99 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1904.49 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1904.49 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2111-T1903.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2111-T1903.99 open · mark 1¢ · ~1min left",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2111-T1904.49 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2111-T1904.49 open · mark 1¢ · ~1min left",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXMVECROSSCATEGORY-SHARD1-S2026DEFDDBAF96A-483627759AB [long] tick:8 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "KXMVECROSSCATEGORY-SHARD1-S2026DEFDDBAF96A-483627759AB open · mark 5¢ · ~16d left",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Knox",
-      "msg": "Checking 7 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Axel",
-      "msg": "Exposure: 12% · Cash: $268.78",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "2:58:59 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:58:58 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "2:58:58 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$77,354 SPY $$765.62",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:58:57 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:58:57 PM",
-      "who": "System",
-      "msg": "═══ TICK #1187 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:17:13 PM",
-      "who": "System",
-      "msg": "Portfolio: $292.78 · Realized P&L: +$92.78 · Trades: 1194",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:17:13 PM",
-      "who": "Knox",
-      "msg": "All 7 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1902.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1902.99 open · mark 1¢ · ~1.7h left",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.49 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.49 open · mark 1¢ · ~1.7h left",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1903.99 open · mark 1¢ · ~1.7h left",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1904.49 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:17:12 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2112-T1904.49 open · mark 1¢ · ~1.7h left",
-      "type": ""
-    },
-    {
-      "t": "2:17:11 PM",
-      "who": "Knox",
-      "msg": "KXPLATINUMH-26AUG2111-T1903.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
     }
   ],
   "markets": [
@@ -31497,7 +31572,7 @@
       "expiration_time": "2026-08-23T22:00:00Z",
       "expiration_value": "",
       "floor_strike": 4.5,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.0100",
       "latest_expiration_time": "2026-08-23T22:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
@@ -31505,7 +31580,7 @@
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Reg Time: Frankfurt over 4.5 goals",
       "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
+      "open_interest_fp": "1.00",
       "open_time": "2026-08-21T17:03:39Z",
       "previous_price_dollars": "0.0000",
       "previous_yes_ask_dollars": "0.0000",
@@ -31528,15 +31603,15 @@
       "ticker": "KXDFBPOKALTEAMTOTAL-26AUG21STTSGE-SGE5",
       "title": "Will Frankfurt score over 4.5 goals?",
       "updated_time": "2026-08-21T17:03:41.656345Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
+      "volume_24h_fp": "1.00",
+      "volume_fp": "1.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1239.00",
       "yes_sub_title": "Reg Time: Frankfurt over 4.5 goals",
       "yes_bid": 0.01,
-      "volume": 0
+      "volume": 1
     },
     {
       "can_close_early": true,
@@ -31588,7 +31663,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Reg Time: Frankfurt over 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -31642,7 +31717,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Auda wins by more than 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -31664,7 +31739,7 @@
       "latest_expiration_time": "2026-09-05T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.8600",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Yevgeniy Fedorov",
       "notional_value_dollars": "1.0000",
@@ -31694,10 +31769,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_dollars": "0.1400",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Yevgeniy Fedorov",
-      "yes_bid": 0.01,
+      "yes_bid": 0.14,
       "volume": 0
     },
     {
@@ -31748,7 +31823,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1260.00",
       "yes_sub_title": "Xabier Mikel Azparren Irurzun",
       "yes_bid": 0.01,
       "volume": 0
@@ -31801,7 +31876,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Wout Van Aert",
       "yes_bid": 0.01,
       "volume": 0
@@ -31854,7 +31929,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Walter Calzoni",
       "yes_bid": 0.01,
       "volume": 0
@@ -31907,7 +31982,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "William Barta",
       "yes_bid": 0.01,
       "volume": 0
@@ -31960,7 +32035,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Valentin Paret-Peintre",
       "yes_bid": 0.01,
       "volume": 0
@@ -32013,7 +32088,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Valentin Madouas",
       "yes_bid": 0.01,
       "volume": 0
@@ -32066,7 +32141,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Victor Langellotti",
       "yes_bid": 0.01,
       "volume": 0
@@ -32119,7 +32194,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Vito Braet",
       "yes_bid": 0.01,
       "volume": 0
@@ -32172,7 +32247,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Vincenzo Albanese",
       "yes_bid": 0.01,
       "volume": 0
@@ -32225,7 +32300,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Urko Berrade Fernandez",
       "yes_bid": 0.01,
       "volume": 0
@@ -32278,7 +32353,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Timo Roosen",
       "yes_bid": 0.01,
       "volume": 0
@@ -32331,7 +32406,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Tadej Pogacar",
       "yes_bid": 0.01,
       "volume": 0
@@ -32384,7 +32459,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Thibau Nys",
       "yes_bid": 0.01,
       "volume": 0
@@ -32437,7 +32512,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Tobias Halland Johannessen",
       "yes_bid": 0.01,
       "volume": 0
@@ -32490,7 +32565,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Thomas Gloag",
       "yes_bid": 0.01,
       "volume": 0
@@ -32543,7 +32618,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Timo de Jong",
       "yes_bid": 0.01,
       "volume": 0
@@ -32596,7 +32671,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Sente Sentjens",
       "yes_bid": 0.01,
       "volume": 0
@@ -32649,7 +32724,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Sergio Samitier",
       "yes_bid": 0.01,
       "volume": 0
@@ -32702,7 +32777,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Sylvain Moniquet",
       "yes_bid": 0.01,
       "volume": 0
@@ -32755,7 +32830,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Sepp Kuss",
       "yes_bid": 0.01,
       "volume": 0
@@ -32808,7 +32883,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Stefan Kung",
       "yes_bid": 0.01,
       "volume": 0
@@ -32861,7 +32936,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Steven Kruijswijk",
       "yes_bid": 0.01,
       "volume": 0
@@ -32914,7 +32989,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Sinuhe Fernandez",
       "yes_bid": 0.01,
       "volume": 0
@@ -32967,7 +33042,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Steffen de Schuyteneer",
       "yes_bid": 0.01,
       "volume": 0
@@ -33020,7 +33095,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Sander de Pestel",
       "yes_bid": 0.01,
       "volume": 0
@@ -33073,7 +33148,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Simon Dalby",
       "yes_bid": 0.01,
       "volume": 0
@@ -33126,7 +33201,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Sergio Geovani Chumil",
       "yes_bid": 0.01,
       "volume": 0
@@ -33179,7 +33254,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Santiago Buitrago",
       "yes_bid": 0.01,
       "volume": 0
@@ -33232,7 +33307,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Roel van Sintmaartensdijk",
       "yes_bid": 0.01,
       "volume": 0
@@ -33285,7 +33360,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Rasmus Fossum Tiller",
       "yes_bid": 0.01,
       "volume": 0
@@ -33338,7 +33413,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Reuben Thompson",
       "yes_bid": 0.01,
       "volume": 0
@@ -33360,8 +33435,8 @@
       "latest_expiration_time": "2026-09-05T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.1500",
       "no_sub_title": "Roland Thalmann",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -33388,12 +33463,12 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_ask_dollars": "0.8500",
+      "yes_ask_size_fp": "10.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Roland Thalmann",
-      "yes_bid": 0.01,
+      "yes_bid": 0.02,
       "volume": 0
     },
     {
@@ -33444,7 +33519,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1330.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Remy Rochas",
       "yes_bid": 0.01,
       "volume": 0
@@ -33497,7 +33572,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1390.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Rudy Porter",
       "yes_bid": 0.01,
       "volume": 0
@@ -33550,7 +33625,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Rudy Molard",
       "yes_bid": 0.01,
       "volume": 0
@@ -33603,7 +33678,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Raul Garcia Pierna",
       "yes_bid": 0.01,
       "volume": 0
@@ -33656,7 +33731,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Roman Ermakov",
       "yes_bid": 0.01,
       "volume": 0
@@ -33709,7 +33784,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Ramses Debruyne",
       "yes_bid": 0.01,
       "volume": 0
@@ -33762,7 +33837,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Richard Carapaz",
       "yes_bid": 0.01,
       "volume": 0
@@ -33815,7 +33890,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Pablo Torres",
       "yes_bid": 0.01,
       "volume": 0
@@ -33868,7 +33943,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Pavel Sivakov",
       "yes_bid": 0.01,
       "volume": 0
@@ -33921,7 +33996,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1330.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Primoz Roglic",
       "yes_bid": 0.01,
       "volume": 0
@@ -33974,7 +34049,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Paul Ourselin",
       "yes_bid": 0.01,
       "volume": 0
@@ -33997,7 +34072,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0900",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Pau Miquel",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -34024,10 +34099,10 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9100",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1330.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Pau Miquel",
       "yes_bid": 0.01,
       "volume": 0
@@ -34080,7 +34155,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Pau Marti Soriano",
       "yes_bid": 0.01,
       "volume": 0
@@ -34133,7 +34208,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Patrick Konrad",
       "yes_bid": 0.01,
       "volume": 0
@@ -34186,7 +34261,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Paul Double",
       "yes_bid": 0.01,
       "volume": 0
@@ -34239,7 +34314,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Pablo Castrillo",
       "yes_bid": 0.01,
       "volume": 0
@@ -34292,7 +34367,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Pello Bilbao",
       "yes_bid": 0.01,
       "volume": 0
@@ -34345,7 +34420,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Oliver Peace",
       "yes_bid": 0.01,
       "volume": 0
@@ -34398,7 +34473,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Oscar Onley",
       "yes_bid": 0.01,
       "volume": 0
@@ -34451,7 +34526,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Olivier Le Gac",
       "yes_bid": 0.01,
       "volume": 0
@@ -34504,7 +34579,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1250.00",
       "yes_sub_title": "Oscar Chamberlain",
       "yes_bid": 0.01,
       "volume": 0
@@ -34527,7 +34602,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.1500",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Orluis Alberto Aular Sanabria",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -34554,10 +34629,10 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.8500",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Orluis Alberto Aular Sanabria",
       "yes_bid": 0.01,
       "volume": 0
@@ -34580,7 +34655,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0300",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Nicholas Schultz",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -34607,10 +34682,10 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9700",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Nicholas Schultz",
       "yes_bid": 0.01,
       "volume": 0
@@ -34663,7 +34738,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Mats Wenzel",
       "yes_bid": 0.01,
       "volume": 0
@@ -34716,7 +34791,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Mauri Vansevenant",
       "yes_bid": 0.01,
       "volume": 0
@@ -34769,7 +34844,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Milan Vader",
       "yes_bid": 0.01,
       "volume": 0
@@ -34792,7 +34867,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.1600",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Martin Tjotta",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -34819,10 +34894,10 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.8400",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Martin Tjotta",
       "yes_bid": 0.01,
       "volume": 0
@@ -34875,7 +34950,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Mathias Sunekaer Norsgaard",
       "yes_bid": 0.01,
       "volume": 0
@@ -34928,7 +35003,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Mattias Skjelmose Jensen",
       "yes_bid": 0.01,
       "volume": 0
@@ -34981,7 +35056,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Matthew Riccitello",
       "yes_bid": 0.01,
       "volume": 0
@@ -35004,7 +35079,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.0700",
       "no_sub_title": "Mads Pedersen",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -35031,10 +35106,10 @@
       "updated_time": "2026-08-21T17:03:40.888382Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.9300",
+      "yes_ask_size_fp": "10.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Mads Pedersen",
       "yes_bid": 0.01,
       "volume": 0
@@ -35087,7 +35162,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Mathijs Paasschens",
       "yes_bid": 0.01,
       "volume": 0
@@ -35140,7 +35215,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Magnus Cort Nielsen",
       "yes_bid": 0.01,
       "volume": 0
@@ -35193,7 +35268,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Mikel Landa Meana",
       "yes_bid": 0.01,
       "volume": 0
@@ -35215,7 +35290,7 @@
       "latest_expiration_time": "2026-09-05T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9800",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Moritz Kretschy",
       "notional_value_dollars": "1.0000",
@@ -35245,10 +35320,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0200",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Moritz Kretschy",
-      "yes_bid": 0.02,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -35299,7 +35374,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Matevz Govekar",
       "yes_bid": 0.01,
       "volume": 0
@@ -35352,7 +35427,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Michael Gogl",
       "yes_bid": 0.01,
       "volume": 0
@@ -35405,7 +35480,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Mattia Gaffuri",
       "yes_bid": 0.01,
       "volume": 0
@@ -35458,7 +35533,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Marcel Camprubi",
       "yes_bid": 0.01,
       "volume": 0
@@ -35511,7 +35586,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Marc Brustenga",
       "yes_bid": 0.01,
       "volume": 0
@@ -35564,7 +35639,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1240.00",
       "yes_sub_title": "Marco Brenner",
       "yes_bid": 0.01,
       "volume": 0
@@ -35617,7 +35692,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Matthew Brennan",
       "yes_bid": 0.01,
       "volume": 0
@@ -35670,7 +35745,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Markel Beloki",
       "yes_bid": 0.01,
       "volume": 0
@@ -35723,7 +35798,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Mario Aparicio",
       "yes_bid": 0.01,
       "volume": 0
@@ -35776,7 +35851,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Larry Warbasse",
       "yes_bid": 0.01,
       "volume": 0
@@ -35829,7 +35904,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1190.00",
       "yes_sub_title": "Luca van Boven",
       "yes_bid": 0.01,
       "volume": 0
@@ -35851,7 +35926,7 @@
       "latest_expiration_time": "2026-09-05T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8200",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Luke Tuckwell",
       "notional_value_dollars": "1.0000",
@@ -35881,10 +35956,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.1800",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Luke Tuckwell",
-      "yes_bid": 0.18,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -35935,7 +36010,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Louis Rouland",
       "yes_bid": 0.01,
       "volume": 0
@@ -35988,7 +36063,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Lorenzo Rota",
       "yes_bid": 0.01,
       "volume": 0
@@ -36041,7 +36116,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Lennard Kamna",
       "yes_bid": 0.01,
       "volume": 0
@@ -36094,7 +36169,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1250.00",
       "yes_sub_title": "Lucas Hamilton",
       "yes_bid": 0.01,
       "volume": 0
@@ -36147,7 +36222,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Lorenzo Fortunato",
       "yes_bid": 0.01,
       "volume": 0
@@ -36200,7 +36275,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Lindsay de Vylder",
       "yes_bid": 0.01,
       "volume": 0
@@ -36253,7 +36328,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1210.00",
       "yes_sub_title": "Lars Craps",
       "yes_bid": 0.01,
       "volume": 0
@@ -36306,7 +36381,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Leo Bisiaux",
       "yes_bid": 0.01,
       "volume": 0
@@ -36359,7 +36434,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1380.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Kevin Vermaerke",
       "yes_bid": 0.01,
       "volume": 0
@@ -36412,7 +36487,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Kaden Groves",
       "yes_bid": 0.01,
       "volume": 0
@@ -36465,7 +36540,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1360.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Koen Bouwman",
       "yes_bid": 0.01,
       "volume": 0
@@ -36518,7 +36593,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_size_fp": "1230.00",
       "yes_sub_title": "Jarno Widar",
       "yes_bid": 0.01,
       "volume": 0
@@ -36540,7 +36615,7 @@
       "latest_expiration_time": "2026-09-05T17:30:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.9400",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Jay Vine",
       "notional_value_dollars": "1.0000",
@@ -36570,10 +36645,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1350.00",
+      "yes_bid_dollars": "0.0600",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Jay Vine",
-      "yes_bid": 0.01,
+      "yes_bid": 0.06,
       "volume": 0
     },
     {
@@ -36624,7 +36699,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Joshua Tarling",
       "yes_bid": 0.01,
       "volume": 0
@@ -36677,7 +36752,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1220.00",
       "yes_sub_title": "Jasha Sutterlin",
       "yes_bid": 0.01,
       "volume": 0
@@ -36730,7 +36805,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1370.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "James Shaw",
       "yes_bid": 0.01,
       "volume": 0
@@ -36783,7 +36858,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1340.00",
+      "yes_bid_size_fp": "1200.00",
       "yes_sub_title": "Juan Felipe Rodriguez",
       "yes_bid": 0.01,
       "volume": 0
@@ -36791,24 +36866,24 @@
   ],
   "prices": {
     "SPY": {
-      "c": 765.62,
+      "c": 765.49,
       "pc": 762.6,
-      "pct": 0.396013637555728
+      "pct": 0.3789666928927336
     },
     "QQQ": {
-      "c": 713.44,
+      "c": 713.16,
       "pc": 710.93,
-      "pct": 0.3530586696299361
+      "pct": 0.3136736387548729
     },
     "GLD": {
-      "c": 424.07,
+      "c": 423.86,
       "pc": 415.26,
-      "pct": 2.12156239464432
+      "pct": 2.070991667870737
     },
     "AAPL": {
-      "c": 310.35,
+      "c": 309.58,
       "pc": 311.3,
-      "pct": -0.3051718599421743
+      "pct": -0.5525216832637415
     },
     "USO": {
       "c": 135.73,
@@ -36816,23 +36891,23 @@
       "pct": 0.8844953173777299
     },
     "BINANCE:BTCUSDT": {
-      "c": 77536.01,
-      "pc": 72823.99,
-      "pct": 6.470422727455594
+      "c": 77392.01,
+      "pc": 72806,
+      "pct": 6.2989451418839035
     },
     "BINANCE:ETHUSDT": {
-      "c": 2426.23,
-      "pc": 2346.98,
-      "pct": 3.376679818319713
+      "c": 2423.85,
+      "pc": 2347.72,
+      "pct": 3.2427205970047583
     },
     "BINANCE:SOLUSDT": {
-      "c": 91.95,
-      "pc": 87.8,
-      "pct": 4.72665148063782
+      "c": 91.78,
+      "pc": 87.65,
+      "pct": 4.711922418710776
     }
   },
-  "tick": 1192,
-  "totalScanned": 118900,
+  "tick": 1193,
+  "totalScanned": 119000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 124,
@@ -36843,8 +36918,8 @@
       "total": 102
     },
     "Unknown|NO|short": {
-      "wins": 872,
-      "total": 956
+      "wins": 873,
+      "total": 957
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -36857,7 +36932,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 1197,
-  "lastRun": "2026-08-21T17:40:41.795Z",
+  "learnTotal": 1198,
+  "lastRun": "2026-08-21T18:00:39.039Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
