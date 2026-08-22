@@ -1,5 +1,5 @@
 {
-  "cash": 240.24,
+  "cash": 242.34,
   "startCash": 200,
   "trades": [
     {
@@ -33587,10 +33587,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-22T11:54:42.208Z",
-      "closedAt": null,
+      "closedAt": "2026-08-22T15:09:48.254Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -33762,10 +33762,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-22T12:59:16.613Z",
-      "closedAt": null,
+      "closedAt": "2026-08-22T15:09:48.254Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -33985,12 +33985,12 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-22T13:56:12.624Z",
-      "closedAt": null,
+      "closedAt": "2026-08-22T15:09:48.255Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -34037,10 +34037,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-22T14:11:34.566Z",
-      "closedAt": null,
+      "closedAt": "2026-08-22T15:09:48.255Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -34162,10 +34162,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-22T14:35:28.985Z",
-      "closedAt": null,
+      "closedAt": "2026-08-22T15:09:48.255Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -34315,6 +34315,106 @@
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-22T14:55:38.970Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411380513.4272,
+      "ticker": "KXTEMPAUSH-26AUG2212-T92.99",
+      "market": "Will the temp in Austin be above 92.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:40.513Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411380893.0706,
+      "ticker": "KXTEMPAUSH-26AUG2212-T91.99",
+      "market": "Will the temp in Austin be above 91.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:40.893Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411381273.4102,
+      "ticker": "KXTEMPAUSH-26AUG2212-T90.99",
+      "market": "Will the temp in Austin be above 90.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:41.273Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411381653.9106,
+      "ticker": "KXTEMPAUSH-26AUG2212-T89.99",
+      "market": "Will the temp in Austin be above 89.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:41.653Z",
       "closedAt": null,
       "ticksOpen": 0,
       "conf": "high",
@@ -34343,36 +34443,11 @@
       "status": "open",
       "openedAt": "2026-08-22T07:06:07.439Z",
       "closedAt": null,
-      "ticksOpen": 20,
+      "ticksOpen": 21,
       "conf": "high",
       "shortTerm": false,
       "term": "long",
       "expires": "2026-09-05T10:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787399682208.788,
-      "ticker": "KXTEMPAUSH-26AUG2209-T80.99",
-      "market": "Will the temp in Austin be above 80.99° on Aug 22, 2026 at 9am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-22T11:54:42.208Z",
-      "closedAt": null,
-      "ticksOpen": 8,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T13:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -34393,36 +34468,11 @@
       "status": "open",
       "openedAt": "2026-08-22T12:13:31.747Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-22T13:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787403556613.0095,
-      "ticker": "KXTEMPAUSH-26AUG2210-T84.99",
-      "market": "Will the temp in Austin be above 84.99° on Aug 22, 2026 at 10am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-22T12:59:16.613Z",
-      "closedAt": null,
-      "ticksOpen": 6,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T14:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -34443,61 +34493,11 @@
       "status": "open",
       "openedAt": "2026-08-22T13:56:11.979Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-24T17:30:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787406972624.3787,
-      "ticker": "KXTEMPAUSH-26AUG2211-T90.99",
-      "market": "Will the temp in Austin be above 90.99° on Aug 22, 2026 at 11am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0.01,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-22T13:56:12.624Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T15:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787407894566.8545,
-      "ticker": "KXTEMPAUSH-26AUG2211-T88.99",
-      "market": "Will the temp in Austin be above 88.99° on Aug 22, 2026 at 11am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-22T14:11:34.566Z",
-      "closedAt": null,
-      "ticksOpen": 3,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T15:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -34518,7 +34518,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:11:34.946Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34543,7 +34543,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:11:35.326Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34568,7 +34568,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:11:35.707Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34593,32 +34593,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:35:28.601Z",
       "closedAt": null,
-      "ticksOpen": 2,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-22T15:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787409328985.4546,
-      "ticker": "KXTEMPAUSH-26AUG2211-T83.99",
-      "market": "Will the temp in Austin be above 83.99° on Aug 22, 2026 at 11am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-22T14:35:28.985Z",
-      "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34643,7 +34618,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:35:29.369Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34668,7 +34643,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:35:29.752Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34693,7 +34668,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:55:37.829Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34718,7 +34693,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:55:38.210Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34743,7 +34718,7 @@
       "status": "open",
       "openedAt": "2026-08-22T14:55:38.590Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -34768,6 +34743,106 @@
       "status": "open",
       "openedAt": "2026-08-22T14:55:38.970Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411380513.4272,
+      "ticker": "KXTEMPAUSH-26AUG2212-T92.99",
+      "market": "Will the temp in Austin be above 92.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:40.513Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411380893.0706,
+      "ticker": "KXTEMPAUSH-26AUG2212-T91.99",
+      "market": "Will the temp in Austin be above 91.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:40.893Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411381273.4102,
+      "ticker": "KXTEMPAUSH-26AUG2212-T90.99",
+      "market": "Will the temp in Austin be above 90.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:41.273Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-22T16:00:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787411381653.9106,
+      "ticker": "KXTEMPAUSH-26AUG2212-T89.99",
+      "market": "Will the temp in Austin be above 89.99° on Aug 22, 2026 at 12pm EDT?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-22T15:09:41.653Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "high",
       "shortTerm": true,
@@ -34781,6 +34856,408 @@
     }
   ],
   "log": [
+    {
+      "t": "3:09:48 PM",
+      "who": "System",
+      "msg": "Portfolio: $286.34 · Realized P&L: +$86.34 · Trades: 1377",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T89.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:48 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T89.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T90.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T90.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T91.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T91.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T92.99 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:47 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T92.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T93.99 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T93.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T94.99 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T94.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T95.99 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2212-T95.99 open · mark 1¢ · ~50min left",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTWEEDEDIVSPREAD-26AUG22KONBAR-BAR4 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "3:09:46 PM",
+      "who": "Knox",
+      "msg": "KXTWEEDEDIVSPREAD-26AUG22KONBAR-BAR4 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T81.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T81.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T82.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T82.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2211-T83.99 tick:3 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:45 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T83.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T84.99 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T84.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T85.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T85.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T86.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T86.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T87.99 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:09:44 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T87.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2211-T88.99 tick:4 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T88.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2211-T90.99 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2211-T90.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG22HULMUN-HUL4 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "3:09:43 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG22HULMUN-HUL4 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2210-T84.99 tick:7 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2210-T84.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2209-T77.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2209-T77.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2209-T80.99 tick:9 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2209-T80.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTTMATCH-26AUG220600SZASIP-SIP [long] tick:21 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:09:42 PM",
+      "who": "Knox",
+      "msg": "KXTTMATCH-26AUG220600SZASIP-SIP open · mark 0¢ · ~14d left",
+      "type": ""
+    },
+    {
+      "t": "3:09:41 PM",
+      "who": "Knox",
+      "msg": "Checking 22 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:09:41 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:09:41 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Axel",
+      "msg": "Exposure: 23% · Cash: $240.24",
+      "type": ""
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Nova",
+      "msg": "Diversified: 6 short (75%) · 2 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Flash",
+      "msg": "87 short · 9 long · YES:0 NO:96 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:09:40 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$76,965 SPY $$765.72",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:09:38 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:09:38 PM",
+      "who": "System",
+      "msg": "═══ TICK #1238 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "2:55:45 PM",
       "who": "System",
@@ -35578,921 +36055,9 @@
       "who": "System",
       "msg": "Portfolio: $286.08 · Realized P&L: +$86.08 · Trades: 1365",
       "type": "lt-sys"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will the temp in Chicago be ab\" → +$1.19",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T85.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T85.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T86.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:42 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T86.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T87.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T87.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T88.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T88.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T89.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:41 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T89.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T90.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2211-T90.99 open · mark 1¢ · ~48min left",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXCHNL1TOTAL-26AUG22NIPYAN-7 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXCHNL1TOTAL-26AUG22NIPYAN-7 open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXEPLTEAMTOTAL-26AUG22HULMUN-HUL4 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXEPLTEAMTOTAL-26AUG22HULMUN-HUL4 open · mark 1¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T79.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:11:40 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T79.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T80.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T81.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T81.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2210-T82.99 tick:3 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:39 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T82.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG2210-T69.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG2210-T69.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T83.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T83.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T84.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T84.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2210-T85.99 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T85.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2210-T86.99 tick:4 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2210-T86.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2209-T77.99 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2209-T77.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2209-T80.99 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "2:11:37 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2209-T80.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2209-T81.99 tick:6 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2209-T81.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXLOLMAP-26AUG220500GAMMVK-4-GAM [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXLOLMAP-26AUG220500GAMMVK-4-GAM open · mark 0¢ · ~43.1h left",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG2208-T65.99 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2208-T65.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXTTMATCH-26AUG220600SZASIP-SIP [long] tick:18 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "KXTTMATCH-26AUG220600SZASIP-SIP open · mark 0¢ · ~14d left",
-      "type": ""
-    },
-    {
-      "t": "2:11:36 PM",
-      "who": "Knox",
-      "msg": "Checking 23 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "2:11:35 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:11:35 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Zara",
-      "msg": "Order rejected (404): \"404 page not found\"",
-      "type": "lt-warn"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $12.00 · win 96% · profit if win: +$1.19",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Axel",
-      "msg": "Exposure: 24% · Cash: $236.81",
-      "type": ""
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Nova",
-      "msg": "Diversified: 6 short (75%) · 2 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Flash",
-      "msg": "84 short · 12 long · YES:0 NO:96 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "2:11:34 PM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$77,073 SPY $$765.72",
-      "type": "lt-info"
-    },
-    {
-      "t": "2:11:32 PM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
     }
   ],
   "markets": [
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 92.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "93° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 92.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T92.99",
-      "title": "Will the temp in Miami be above 92.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
-      "yes_sub_title": "93° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 91.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "92° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 91.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T91.99",
-      "title": "Will the temp in Miami be above 91.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
-      "yes_sub_title": "92° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 90.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.9300",
-      "no_sub_title": "91° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 90.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T90.99",
-      "title": "Will the temp in Miami be above 90.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0700",
-      "yes_ask_size_fp": "1.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
-      "yes_sub_title": "91° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 89.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "90° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 89.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T89.99",
-      "title": "Will the temp in Miami be above 89.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1490.00",
-      "yes_sub_title": "90° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 88.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "89° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 88.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T88.99",
-      "title": "Will the temp in Miami be above 88.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
-      "yes_sub_title": "89° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 87.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "88° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 87.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T87.99",
-      "title": "Will the temp in Miami be above 87.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
-      "yes_sub_title": "88° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 86.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "87° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 86.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T86.99",
-      "title": "Will the temp in Miami be above 86.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1290.00",
-      "yes_sub_title": "87° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 85.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "86° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 85.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T85.99",
-      "title": "Will the temp in Miami be above 85.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
-      "yes_sub_title": "86° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 84.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "85° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 84.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T84.99",
-      "title": "Will the temp in Miami be above 84.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1330.00",
-      "yes_sub_title": "85° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
-    {
-      "can_close_early": true,
-      "close_time": "2026-08-22T15:00:00Z",
-      "created_time": "2026-08-22T14:07:41.784458Z",
-      "event_ticker": "KXTEMPMIAH-26AUG2211",
-      "exchange_index": 0,
-      "expected_expiration_time": "2026-08-22T15:05:00Z",
-      "expiration_time": "2026-08-22T15:00:00Z",
-      "expiration_value": "",
-      "floor_strike": 83.99,
-      "last_price_dollars": "0.0000",
-      "latest_expiration_time": "2026-08-29T15:00:00Z",
-      "liquidity_dollars": "0.0000",
-      "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
-      "no_sub_title": "84° or above",
-      "notional_value_dollars": "1.0000",
-      "open_interest_fp": "0.00",
-      "open_time": "2026-08-22T14:35:42Z",
-      "previous_price_dollars": "0.0000",
-      "previous_yes_ask_dollars": "0.0000",
-      "previous_yes_bid_dollars": "0.0000",
-      "price_level_structure": "linear_cent",
-      "price_ranges": [
-        {
-          "end": "1.0000",
-          "start": "0.0000",
-          "step": "0.0100"
-        }
-      ],
-      "result": "",
-      "rules_primary": "If the temperature recorded at Miami, FL for Aug 22, 2026 at 11 AM EDT as reported by Synoptic Data, is above 83.99°, then the market resolves to Yes.",
-      "rules_secondary": "The official final value for this market is determined strictly by the temperature reported by Synoptic Data, calculated in accordance with the Kalshi Weather Index Methodology. Alternative sources—such as NWS Climatological Reports or Google Weather—may serve as references, but are not authoritative and will not be used for market resolution.",
-      "settlement_timer_seconds": 3600,
-      "status": "active",
-      "strike_type": "greater",
-      "subtitle": "-1° or below",
-      "ticker": "KXTEMPMIAH-26AUG2211-T83.99",
-      "title": "Will the temp in Miami be above 83.99° on Aug 22, 2026 at 11am EDT?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1330.00",
-      "yes_sub_title": "84° or above",
-      "yes_bid": 0.01,
-      "volume": 0
-    },
     {
       "can_close_early": true,
       "close_time": "2026-08-24T18:00:00Z",
@@ -36542,7 +36107,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Barendrecht wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -36593,7 +36158,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "96° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36644,7 +36209,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1290.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "95° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36695,7 +36260,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "94° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36746,7 +36311,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "93° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36797,7 +36362,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "92° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36848,7 +36413,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "91° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36899,7 +36464,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "90° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -36950,7 +36515,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "89° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37001,7 +36566,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "88° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37052,7 +36617,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1300.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "87° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37071,7 +36636,7 @@
       "latest_expiration_time": "2026-08-29T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.8700",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "80° or above",
       "notional_value_dollars": "1.0000",
@@ -37102,10 +36667,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1490.00",
+      "yes_bid_dollars": "0.1300",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "80° or above",
-      "yes_bid": 0.01,
+      "yes_bid": 0.13,
       "volume": 0
     },
     {
@@ -37154,7 +36719,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "79° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37205,7 +36770,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "78° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37256,7 +36821,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "77° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37307,7 +36872,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "76° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37358,7 +36923,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "75° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37409,7 +36974,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "74° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37460,7 +37025,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "73° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37511,7 +37076,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1310.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "72° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37531,7 +37096,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0300",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "71° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -37559,10 +37124,10 @@
       "updated_time": "2026-08-22T14:35:42.314758Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.9700",
-      "yes_ask_size_fp": "10.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "71° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37613,7 +37178,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "78° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37664,7 +37229,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "77° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37715,7 +37280,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "76° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37766,7 +37331,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "75° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37817,7 +37382,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "74° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37836,7 +37401,7 @@
       "latest_expiration_time": "2026-08-29T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9000",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "73° or above",
       "notional_value_dollars": "1.0000",
@@ -37867,10 +37432,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.1000",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "73° or above",
-      "yes_bid": 0.1,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -37919,7 +37484,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "72° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -37938,7 +37503,7 @@
       "latest_expiration_time": "2026-08-29T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8600",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "71° or above",
       "notional_value_dollars": "1.0000",
@@ -37969,10 +37534,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.1400",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "71° or above",
-      "yes_bid": 0.14,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -38021,7 +37586,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "70° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38072,7 +37637,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "69° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38123,7 +37688,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "77° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38174,7 +37739,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "76° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38225,7 +37790,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1320.00",
+      "yes_bid_size_fp": "1350.00",
       "yes_sub_title": "75° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38276,7 +37841,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "74° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38327,7 +37892,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "73° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38378,7 +37943,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1290.00",
+      "yes_bid_size_fp": "1350.00",
       "yes_sub_title": "72° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38429,7 +37994,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1310.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "71° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38531,7 +38096,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "69° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38582,7 +38147,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1310.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "68° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38633,7 +38198,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "79° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38684,7 +38249,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "78° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38735,7 +38300,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1480.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "77° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38786,7 +38351,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1300.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "76° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38837,7 +38402,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "75° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38888,7 +38453,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "74° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38939,7 +38504,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "73° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -38990,7 +38555,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1300.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "72° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -39041,7 +38606,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "71° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -39092,7 +38657,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "70° or above",
       "yes_bid": 0.01,
       "volume": 0
@@ -39137,13 +38702,13 @@
       "strike_type": "greater",
       "ticker": "KXTWEEDEDIVTOTAL-26AUG22KONBAR-7",
       "title": "Will over 6.5 goals be scored?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
+      "updated_time": "2026-08-22T15:03:26.580377Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -39198,7 +38763,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1290.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Reg Time: Hoffenheim over 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39253,7 +38818,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Hoffenheim over 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39308,7 +38873,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Hannover over 6.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39363,7 +38928,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "Reg Time: Hannover over 5.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39418,7 +38983,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Hannover over 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39473,7 +39038,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Elversberg over 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39528,7 +39093,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Reg Time: Nuremberg over 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39583,7 +39148,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Bremen over 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39638,7 +39203,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1290.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Bremen over 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39692,7 +39257,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Jong Sparta wins by more than 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39746,7 +39311,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Jong Sparta wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -39791,13 +39356,13 @@
       "strike_type": "greater",
       "ticker": "KXTWEEDEDIVTOTAL-26AUG22RIJSPJ-9",
       "title": "Will over 8.5 goals be scored?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
+      "updated_time": "2026-08-22T15:03:26.510418Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Over 8.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -39842,13 +39407,13 @@
       "strike_type": "greater",
       "ticker": "KXTWEEDEDIVTOTAL-26AUG22RIJSPJ-8",
       "title": "Will over 7.5 goals be scored?",
-      "updated_time": "2026-08-22T14:35:42.314758Z",
+      "updated_time": "2026-08-22T15:03:26.510418Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Over 7.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -39902,7 +39467,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Kloetinge wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40010,7 +39575,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Terengganu wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40061,7 +39626,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40112,7 +39677,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40163,7 +39728,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40217,7 +39782,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1310.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Hoffenheim wins by more than 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40271,7 +39836,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1300.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "Reg Time: Hoffenheim wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40325,7 +39890,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Hannover wins by more than 6.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40379,7 +39944,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1320.00",
       "yes_sub_title": "Reg Time: Hannover wins by more than 5.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40433,7 +39998,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Reg Time: Hannover wins by more than 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40487,7 +40052,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Hannover wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40592,7 +40157,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Bremen wins by more than 3.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -40643,7 +40208,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "Reg Time: Over 7.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40694,7 +40259,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1450.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Reg Time: Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40745,7 +40310,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Over 8.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40796,7 +40361,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1310.00",
       "yes_sub_title": "Reg Time: Over 7.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40847,7 +40412,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Reg Time: Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40898,7 +40463,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1330.00",
       "yes_sub_title": "Reg Time: Over 11.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -40949,7 +40514,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1300.00",
+      "yes_bid_size_fp": "1340.00",
       "yes_sub_title": "Reg Time: Over 10.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -41000,7 +40565,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Over 9.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -41051,7 +40616,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1440.00",
+      "yes_bid_size_fp": "1300.00",
       "yes_sub_title": "Reg Time: Over 8.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -41102,7 +40667,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1460.00",
+      "yes_bid_size_fp": "1290.00",
       "yes_sub_title": "Reg Time: Over 7.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -41153,8 +40718,554 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1470.00",
+      "yes_bid_size_fp": "1280.00",
       "yes_sub_title": "Reg Time: Over 6.5 goals scored",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-08-24T19:30:00Z",
+      "created_time": "2026-08-22T14:07:40.497204Z",
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXDFBPOKALTOTAL-26AUG22LSKSVW",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T19:30:00Z",
+      "expiration_time": "2026-08-24T19:30:00Z",
+      "expiration_value": "",
+      "floor_strike": 9.5,
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-08-24T19:30:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Reg Time: Over 9.5 goals scored",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "result": "",
+      "rules_primary": "If over 9.5 goals are scored in the Luneburg vs Bremen professional DFB Pokal soccer game originally scheduled for Aug 22, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.",
+      "rules_secondary": "Kalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+      "settlement_timer_seconds": 180,
+      "status": "active",
+      "strike_type": "greater",
+      "ticker": "KXDFBPOKALTOTAL-26AUG22LSKSVW-10",
+      "title": "Will over 9.5 goals be scored?",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1320.00",
+      "yes_sub_title": "Reg Time: Over 9.5 goals scored",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "559b6576-540d-43f8-975e-7164ede31b69",
+        "soccer_team": "8b1ce23e-7d64-4213-85e9-7d12bc8c4d85"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "No Goal",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If no player records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-NOGOAL",
+      "title": "No Goal: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1320.00",
+      "yes_sub_title": "No Goal",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "3c5dfe79-e319-4024-b4a7-db0f10453835",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Vitaliy Mykolenko",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Vitaliy Mykolenko records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEVMYKOL16",
+      "title": "Vitaliy Mykolenko: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1300.00",
+      "yes_sub_title": "Vitaliy Mykolenko",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "9a221f73-f693-4ea9-9606-d4ae13058a1c",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Tyrique George",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Tyrique George records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVETGEORG19",
+      "title": "Tyrique George: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1340.00",
+      "yes_sub_title": "Tyrique George",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "8b33d74f-d537-484a-83f5-b907cfe75379",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Thierno Barry",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Thierno Barry records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVETBARRY11",
+      "title": "Thierno Barry: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1290.00",
+      "yes_sub_title": "Thierno Barry",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "d10ff4f2-db42-4323-a1c1-911cb5bb5307",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Merlin Rohl",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Merlin Rohl records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEMROHL34",
+      "title": "Merlin Rohl: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1290.00",
+      "yes_sub_title": "Merlin Rohl",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "eb21f773-2774-40bd-af31-52172fe2aa99",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Kiernan Dewsbury-Hall",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Kiernan Dewsbury-Hall records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEKDEWSB22",
+      "title": "Kiernan Dewsbury-Hall: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1290.00",
+      "yes_sub_title": "Kiernan Dewsbury-Hall",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "351f7f38-9980-477e-9a74-965dab006a50",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "James Tarkowski",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If James Tarkowski records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEJTARKO6",
+      "title": "James Tarkowski: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1330.00",
+      "yes_sub_title": "James Tarkowski",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "8791b773-b661-41fb-a6a6-e6051ee4f729",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Jarrad Branthwaite",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Jarrad Branthwaite records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEJBRANT32",
+      "title": "Jarrad Branthwaite: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1310.00",
+      "yes_sub_title": "Jarrad Branthwaite",
+      "yes_bid": 0.01,
+      "volume": 0
+    },
+    {
+      "can_close_early": true,
+      "close_time": "2026-09-05T20:00:00Z",
+      "created_time": "2026-08-22T14:07:40.489364Z",
+      "custom_strike": {
+        "soccer_player": "47c86071-da29-45b7-9629-5aad7692cfa0",
+        "soccer_team": "7abb495c-193e-4baf-b3d3-108e99eab8ed"
+      },
+      "early_close_condition": "This market will close and expire early if the event occurs.",
+      "event_ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY",
+      "exchange_index": 0,
+      "expected_expiration_time": "2026-08-22T23:00:00Z",
+      "expiration_time": "2026-09-05T20:00:00Z",
+      "expiration_value": "",
+      "last_price_dollars": "0.0000",
+      "latest_expiration_time": "2026-09-05T20:00:00Z",
+      "liquidity_dollars": "0.0000",
+      "market_type": "binary",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0000",
+      "no_sub_title": "Iliman Ndiaye",
+      "notional_value_dollars": "1.0000",
+      "open_interest_fp": "0.00",
+      "open_time": "2026-08-22T14:35:42Z",
+      "previous_price_dollars": "0.0000",
+      "previous_yes_ask_dollars": "0.0000",
+      "previous_yes_bid_dollars": "0.0000",
+      "price_level_structure": "linear_cent",
+      "price_ranges": [
+        {
+          "end": "1.0000",
+          "start": "0.0000",
+          "step": "0.0100"
+        }
+      ],
+      "primary_participant_key": "soccer_player",
+      "result": "",
+      "rules_primary": "If Iliman Ndiaye records the first goal during the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026, then the market resolves to Yes.",
+      "rules_secondary": "The following market refers to a player in the entire game (regulation, stoppage and any extra time periods) of the Everton vs Crystal Palace professional EPL soccer game originally scheduled for Aug 22, 2026. If a player is active but never enters the match, the market will settle to the fair market price before game start. If the first qualifying goal is scored before the player enters the match as a substitute, the market will also settle to the fair market price. If the player enters the match before the first qualifying goal is scored, the market resolves based on the player's goals scored. If the first goal of the match is an own goal, the first qualifying goal will instead be the first non-own goal scored.",
+      "settlement_timer_seconds": 300,
+      "status": "active",
+      "strike_type": "structured",
+      "ticker": "KXEPLFIRSTGOAL-26AUG22EVECRY-EVEINDIAY10",
+      "title": "Iliman Ndiaye: First Goalscorer",
+      "updated_time": "2026-08-22T14:35:42.217828Z",
+      "volume_24h_fp": "0.00",
+      "volume_fp": "0.00",
+      "yes_ask_dollars": "1.0000",
+      "yes_ask_size_fp": "0.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "1340.00",
+      "yes_sub_title": "Iliman Ndiaye",
       "yes_bid": 0.01,
       "volume": 0
     }
@@ -41186,23 +41297,23 @@
       "pct": 0.07432733759476313
     },
     "BINANCE:BTCUSDT": {
-      "c": 76950.76,
-      "pc": 77274.01,
-      "pct": -0.4183165853564478
+      "c": 76965.03,
+      "pc": 77684.01,
+      "pct": -0.9255186492046381
     },
     "BINANCE:ETHUSDT": {
-      "c": 2409.89,
-      "pc": 2388.2,
-      "pct": 0.908215392345702
+      "c": 2408.73,
+      "pc": 2401.76,
+      "pct": 0.29020385050961794
     },
     "BINANCE:SOLUSDT": {
-      "c": 92.96,
-      "pc": 91.64,
-      "pct": 1.4404190309908262
+      "c": 93.07,
+      "pc": 92.1,
+      "pct": 1.053203040173723
     }
   },
-  "tick": 1237,
-  "totalScanned": 123400,
+  "tick": 1238,
+  "totalScanned": 123500,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 128,
@@ -41213,8 +41324,8 @@
       "total": 110
     },
     "Unknown|NO|short": {
-      "wins": 1013,
-      "total": 1102
+      "wins": 1018,
+      "total": 1107
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -41227,7 +41338,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 1355,
-  "lastRun": "2026-08-22T14:55:35.745Z",
+  "learnTotal": 1360,
+  "lastRun": "2026-08-22T15:09:38.687Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
