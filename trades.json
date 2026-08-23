@@ -1,5 +1,5 @@
 {
-  "cash": 249.36,
+  "cash": 245.4,
   "startCash": 200,
   "trades": [
     {
@@ -39912,10 +39912,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-23T17:53:51.783Z",
-      "closedAt": null,
+      "closedAt": "2026-08-23T19:52:36.221Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -39962,10 +39962,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-23T18:11:24.854Z",
-      "closedAt": null,
+      "closedAt": "2026-08-23T19:52:36.222Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -40110,7 +40110,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0.19,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -40165,6 +40165,106 @@
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-23T19:32:46.519Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514750466.433,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-1",
+      "market": "Wyatt Langford: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:30.466Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514750820.5474,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-2",
+      "market": "Logan O'Hoppe: 2+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:30.820Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514751173.4216,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-1",
+      "market": "Logan O'Hoppe: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:31.173Z",
+      "closedAt": null,
+      "ticksOpen": 0,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514751527.7683,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXJFOSCUE56-1",
+      "market": "Justin Foscue: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:31.527Z",
       "closedAt": null,
       "ticksOpen": 0,
       "conf": "high",
@@ -40193,7 +40293,7 @@
       "status": "open",
       "openedAt": "2026-08-23T16:39:23.892Z",
       "closedAt": null,
-      "ticksOpen": 9,
+      "ticksOpen": 10,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40218,7 +40318,7 @@
       "status": "open",
       "openedAt": "2026-08-23T17:14:57.338Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40243,61 +40343,11 @@
       "status": "open",
       "openedAt": "2026-08-23T17:14:57.678Z",
       "closedAt": null,
-      "ticksOpen": 7,
+      "ticksOpen": 8,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
       "expires": "2026-08-23T18:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787507631783.4238,
-      "ticker": "KXTEMPAUSH-26AUG2315-T99.99",
-      "market": "Will the temp in Austin be above 99.99° on Aug 23, 2026 at 3pm EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-23T17:53:51.783Z",
-      "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-23T19:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787508684854.8926,
-      "ticker": "KXTEMPAUSH-26AUG2315-T107.99",
-      "market": "Will the temp in Austin be above 107.99° on Aug 23, 2026 at 3pm EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-23T18:11:24.854Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-23T19:00:00Z",
       "reasoning": "NO: 99¢",
       "kellyFrac": "0.0",
       "payoutMult": "1.01",
@@ -40318,7 +40368,7 @@
       "status": "open",
       "openedAt": "2026-08-23T18:11:30.166Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40343,7 +40393,7 @@
       "status": "open",
       "openedAt": "2026-08-23T18:11:35.473Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40368,7 +40418,7 @@
       "status": "open",
       "openedAt": "2026-08-23T18:11:40.779Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40393,7 +40443,7 @@
       "status": "open",
       "openedAt": "2026-08-23T18:45:55.748Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40418,7 +40468,7 @@
       "status": "open",
       "openedAt": "2026-08-23T19:32:45.498Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40437,13 +40487,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.01,
+      "currentPrice": 0.19,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-23T19:32:45.838Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40468,7 +40518,7 @@
       "status": "open",
       "openedAt": "2026-08-23T19:32:46.179Z",
       "closedAt": null,
-      "ticksOpen": 1,
+      "ticksOpen": 2,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -40493,6 +40543,106 @@
       "status": "open",
       "openedAt": "2026-08-23T19:32:46.519Z",
       "closedAt": null,
+      "ticksOpen": 2,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514750466.433,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-1",
+      "market": "Wyatt Langford: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:30.466Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514750820.5474,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-2",
+      "market": "Logan O'Hoppe: 2+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:30.820Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514751173.4216,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-1",
+      "market": "Logan O'Hoppe: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:31.173Z",
+      "closedAt": null,
+      "ticksOpen": 1,
+      "conf": "high",
+      "shortTerm": true,
+      "term": "short",
+      "expires": "2026-08-26T18:35:00Z",
+      "reasoning": "NO: 99¢",
+      "kellyFrac": "0.0",
+      "payoutMult": "1.01",
+      "expectedReturn": "0.0",
+      "entryScore": 8
+    },
+    {
+      "id": 1787514751527.7683,
+      "ticker": "KXMLBHR-26AUG231435LAATEX-TEXJFOSCUE56-1",
+      "market": "Justin Foscue: 1+ home runs?",
+      "category": "Unknown",
+      "agent": "Zara",
+      "side": "NO",
+      "entryPrice": 0.99,
+      "currentPrice": 0.01,
+      "size": 2,
+      "pnl": 0,
+      "status": "open",
+      "openedAt": "2026-08-23T19:52:31.527Z",
+      "closedAt": null,
       "ticksOpen": 1,
       "conf": "high",
       "shortTerm": true,
@@ -40506,6 +40656,330 @@
     }
   ],
   "log": [
+    {
+      "t": "7:52:36 PM",
+      "who": "System",
+      "msg": "Portfolio: $295.40 · Realized P&L: +$95.40 · Trades: 1611",
+      "type": "lt-sys"
+    },
+    {
+      "t": "7:52:36 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:52:36 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:52:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXJFOSCUE56-1 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:36 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXJFOSCUE56-1 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-1 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-1 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-2 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXLOHOPPE14-2 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-1 [short] tick:1 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:35 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-1 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-2 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBHR-26AUG231435LAATEX-TEXWLANGFORD36-2 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXUAEPLSPREAD-26AUG23SHJJAZ-JAZ4 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXUAEPLSPREAD-26AUG23SHJJAZ-JAZ4 open · mark 1¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26AUG231335TORNYY-NYY5 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26AUG231335TORNYY-NYY5 open · mark 19¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26AUG231335STLPHI-STL5 [short] tick:2 · waiting · settle chance:0%",
+      "type": ""
+    },
+    {
+      "t": "7:52:34 PM",
+      "who": "Knox",
+      "msg": "KXMLBSPREAD-26AUG231335STLPHI-STL5 open · mark 1¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBTB-26AUG231510CLECOL-COLRRITTER8-2 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXMLBTB-26AUG231510CLECOL-COLRRITTER8-2 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T104.99 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T104.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T105.99 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T105.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T106.99 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:33 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T106.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2315-T107.99 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T107.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2315-T99.99 tick:6 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2315-T99.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2314-T98.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2314-T98.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2314-T99.99 [short] tick:8 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:32 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2314-T99.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "7:52:31 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG231335STLPHI-STLJWALKER18-1 [short] tick:10 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "7:52:31 PM",
+      "who": "Knox",
+      "msg": "KXMLBHIT-26AUG231335STLPHI-STLJWALKER18-1 open · mark 0¢ · ~3d left",
+      "type": ""
+    },
+    {
+      "t": "7:52:31 PM",
+      "who": "Knox",
+      "msg": "Checking 17 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "7:52:31 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:52:31 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Zara",
+      "msg": "Order rejected (404): \"404 page not found\"",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Justin Foscue: 1+ home runs?\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Logan O'Hoppe: 1+ home runs?\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Logan O'Hoppe: 2+ home runs?\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Axel",
+      "msg": "PRE-TRADE: NO \"Wyatt Langford: 1+ home runs\" · $2.00 · win 96% · profit if win: +$0.02",
+      "type": "lt-kelly"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Axel",
+      "msg": "Exposure: 23% · Cash: $249.36",
+      "type": ""
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Nova",
+      "msg": "Diversified: 6 short (100%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Flash",
+      "msg": "96 short · 0 long · YES:0 NO:96 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:52:30 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "7:52:29 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$77,394 SPY $$765.72",
+      "type": "lt-info"
+    },
+    {
+      "t": "7:52:28 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "7:52:28 PM",
+      "who": "System",
+      "msg": "═══ TICK #1304 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "7:32:50 PM",
       "who": "System",
@@ -41381,330 +41855,6 @@
       "who": "Knox",
       "msg": "✓ WIN \"Lommel wins by more than 4.5 g\" → +$0.02",
       "type": "lt-trade"
-    },
-    {
-      "t": "6:13:30 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"JJ Wetherholt: 2+ hits?\" → +$0.04",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:13:30 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Ramón Urías: 2+ hits?\" → +$0.04",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:13:30 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T104.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:30 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:13:25 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T105.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:25 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:13:20 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T106.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:20 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:13:14 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T107.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:14 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:13:09 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T98.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:09 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:13:04 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2315-T99.99 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:13:04 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:59 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23RWESTP-RWE4 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:12:59 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:53 PM",
-      "who": "Knox",
-      "msg": "KXLALIGATEAMTOTAL-26AUG23ATMVIL-VIL4 [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "6:12:53 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:48 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T72.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "6:12:48 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:43 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPCHIH-26AUG2314-T74.99 tick:3 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:12:43 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:38 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T75.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "6:12:38 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:33 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T76.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "6:12:33 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:27 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T73.99 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "6:12:27 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:22 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2314-T98.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:12:22 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:17 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2314-T99.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:12:17 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:12 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T77.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:12:12 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:06 PM",
-      "who": "Knox",
-      "msg": "KXTEMPCHIH-26AUG2314-T78.99 [short] tick:4 · waiting · settle chance:30%",
-      "type": ""
-    },
-    {
-      "t": "6:12:06 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:12:01 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXBELGIANPLSPREAD-26AUG23LOMWES-LOM5 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:12:01 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:56 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG231335STLPHI-STLJWALKER18-1 [short] tick:6 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "6:11:56 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:51 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG231335STLPHI-STLJWETHERHOLT77-2 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:11:51 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:46 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG231335STLPHI-STLRURAS33-2 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "6:11:46 PM",
-      "who": "Knox",
-      "msg": "Error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:41 PM",
-      "who": "Knox",
-      "msg": "Checking 21 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "6:11:40 PM",
-      "who": "Zara",
-      "msg": "Order error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:35 PM",
-      "who": "Zara",
-      "msg": "Order error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:30 PM",
-      "who": "Zara",
-      "msg": "Order error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:24 PM",
-      "who": "Zara",
-      "msg": "Order error: Timeout",
-      "type": "lt-warn"
-    },
-    {
-      "t": "6:11:19 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "6:11:19 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "6:11:19 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "6:11:19 PM",
-      "who": "Axel",
-      "msg": "PRE-TRADE: NO \"Will the temp in Austin be a\" · $2.00 · win 96% · profit if win: +$0.02",
-      "type": "lt-kelly"
-    },
-    {
-      "t": "6:11:19 PM",
-      "who": "Axel",
-      "msg": "Exposure: 27% · Cash: $240.31",
-      "type": ""
     }
   ],
   "markets": [
@@ -41757,7 +41907,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "St. Louis wins by over 4.5 runs",
       "yes_bid": 0.01,
       "volume": 0
@@ -41780,8 +41930,8 @@
       "latest_expiration_time": "2026-08-26T17:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.8100",
+      "no_bid_dollars": "0.8000",
       "no_sub_title": "New York Y wins by over 4.5 runs",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41808,12 +41958,12 @@
       "updated_time": "2026-08-23T19:03:39.387263Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_ask_dollars": "0.2000",
+      "yes_ask_size_fp": "2.00",
+      "yes_bid_dollars": "0.1900",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "New York Y wins by over 4.5 runs",
-      "yes_bid": 0.01,
+      "yes_bid": 0.19,
       "volume": 0
     },
     {
@@ -41860,7 +42010,7 @@
       "ticker": "KXUAEPLSPREAD-26AUG23SHJJAZ-JAZ4",
       "title": "Al Jazira wins by more than 3.5 goals?",
       "updated_time": "2026-08-23T19:03:39.486688Z",
-      "volume_24h_fp": "5.00",
+      "volume_24h_fp": "20.00",
       "volume_fp": "20.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
@@ -41890,7 +42040,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.1200",
       "no_sub_title": "Wyatt Langford: 2+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41918,10 +42068,10 @@
       "updated_time": "2026-08-23T19:03:39.197541Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.8800",
+      "yes_ask_size_fp": "201.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Wyatt Langford: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -41977,7 +42127,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "950.00",
+      "yes_bid_size_fp": "960.00",
       "yes_sub_title": "Wyatt Langford: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42033,7 +42183,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Logan O'Hoppe: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42089,7 +42239,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "960.00",
       "yes_sub_title": "Logan O'Hoppe: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42113,7 +42263,7 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.8400",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Justin Foscue: 2+",
       "notional_value_dollars": "1.0000",
@@ -42144,10 +42294,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_dollars": "0.1600",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Justin Foscue: 2+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.16,
       "volume": 0
     },
     {
@@ -42201,7 +42351,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Justin Foscue: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42257,7 +42407,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jake Burger: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42313,7 +42463,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "960.00",
       "yes_sub_title": "Jake Burger: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42369,7 +42519,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Ezequiel Duran: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42425,7 +42575,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Ezequiel Duran: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42481,7 +42631,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Elias Díaz: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42537,7 +42687,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Elias Díaz: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42593,7 +42743,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Corey Seager: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42649,7 +42799,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Corey Seager: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42705,7 +42855,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Cody Freeman: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42817,7 +42967,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Zach Neto: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42873,7 +43023,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Zach Neto: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42929,7 +43079,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Vaughn Grissom: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -42985,7 +43135,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Vaughn Grissom: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43041,7 +43191,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Tyler Heineman: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43097,7 +43247,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Moisés Ballesteros: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43153,7 +43303,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Moisés Ballesteros: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43209,7 +43359,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jose Siri: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43265,7 +43415,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jose Siri: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43321,7 +43471,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Josh Lowe: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43377,7 +43527,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Josh Lowe: 1+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43431,7 +43581,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Crvena Zvezda wins by more than 4.5 goals",
       "yes_bid": 0.01,
       "volume": 0
@@ -43482,7 +43632,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Over 6.5 goals scored",
       "yes_bid": 0.01,
       "volume": 0
@@ -43538,7 +43688,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Wyatt Langford: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43594,7 +43744,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Wyatt Langford: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43650,7 +43800,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "960.00",
       "yes_sub_title": "Wyatt Langford: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43674,7 +43824,7 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9300",
+      "no_ask_dollars": "0.9900",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Wyatt Langford: 2+",
       "notional_value_dollars": "1.0000",
@@ -43705,10 +43855,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0700",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "960.00",
       "yes_sub_title": "Wyatt Langford: 2+",
-      "yes_bid": 0.07,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -43762,7 +43912,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Logan O'Hoppe: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43818,7 +43968,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Logan O'Hoppe: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43874,7 +44024,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Logan O'Hoppe: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -43898,8 +44048,8 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.6200",
       "no_sub_title": "Logan O'Hoppe: 2+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -43927,12 +44077,12 @@
       "updated_time": "2026-08-23T19:03:39.444599Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_ask_dollars": "0.3800",
+      "yes_ask_size_fp": "101.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "101.00",
       "yes_sub_title": "Logan O'Hoppe: 2+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.02,
       "volume": 0
     },
     {
@@ -43986,7 +44136,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Justin Foscue: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44042,7 +44192,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Justin Foscue: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44098,7 +44248,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Justin Foscue: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44154,7 +44304,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Justin Foscue: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44210,7 +44360,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jake Burger: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44266,7 +44416,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Jake Burger: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44322,7 +44472,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "950.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jake Burger: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44378,7 +44528,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Jake Burger: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44402,8 +44552,8 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.5200",
       "no_sub_title": "Ezequiel Duran: 5+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -44431,12 +44581,12 @@
       "updated_time": "2026-08-23T19:03:39.444599Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_ask_dollars": "0.4800",
+      "yes_ask_size_fp": "202.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "101.00",
       "yes_sub_title": "Ezequiel Duran: 5+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.02,
       "volume": 0
     },
     {
@@ -44490,7 +44640,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Ezequiel Duran: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44515,7 +44665,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.1700",
+      "no_bid_dollars": "0.1000",
       "no_sub_title": "Ezequiel Duran: 3+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -44543,10 +44693,10 @@
       "updated_time": "2026-08-23T19:03:39.444599Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.8300",
+      "yes_ask_dollars": "0.9000",
       "yes_ask_size_fp": "10.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Ezequiel Duran: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44602,7 +44752,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1010.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Ezequiel Duran: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44658,7 +44808,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Elias Díaz: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44714,7 +44864,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Elias Díaz: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44770,7 +44920,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Elias Díaz: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44826,7 +44976,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Corey Seager: 6+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44850,8 +45000,8 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.8300",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9900",
+      "no_bid_dollars": "0.0900",
       "no_sub_title": "Corey Seager: 5+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -44879,12 +45029,12 @@
       "updated_time": "2026-08-23T19:03:39.444599Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.1700",
-      "yes_bid_size_fp": "10.00",
+      "yes_ask_dollars": "0.9100",
+      "yes_ask_size_fp": "10.00",
+      "yes_bid_dollars": "0.0100",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Corey Seager: 5+",
-      "yes_bid": 0.17,
+      "yes_bid": 0.01,
       "volume": 0
     },
     {
@@ -44938,7 +45088,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1010.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Corey Seager: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -44994,7 +45144,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Corey Seager: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45018,8 +45168,8 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.5000",
       "no_sub_title": "Corey Seager: 2+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -45047,12 +45197,12 @@
       "updated_time": "2026-08-23T19:03:39.444599Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_ask_dollars": "0.5000",
+      "yes_ask_size_fp": "101.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "202.00",
       "yes_sub_title": "Corey Seager: 2+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.02,
       "volume": 0
     },
     {
@@ -45106,7 +45256,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Cody Freeman: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45162,7 +45312,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Cody Freeman: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45218,7 +45368,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Cody Freeman: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45274,7 +45424,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Brandon Nimmo: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45330,7 +45480,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Brandon Nimmo: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45386,7 +45536,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Brandon Nimmo: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45442,7 +45592,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Brandon Nimmo: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45498,7 +45648,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "920.00",
       "yes_sub_title": "Zach Neto: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45554,7 +45704,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Zach Neto: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45610,7 +45760,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Zach Neto: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45666,7 +45816,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Zach Neto: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45722,7 +45872,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Vaughn Grissom: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45778,7 +45928,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Vaughn Grissom: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45834,7 +45984,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Vaughn Grissom: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45890,7 +46040,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Vaughn Grissom: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -45946,7 +46096,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Tyler Heineman: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46002,7 +46152,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Tyler Heineman: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46058,7 +46208,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "950.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Tyler Heineman: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46114,7 +46264,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Moisés Ballesteros: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46170,7 +46320,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Moisés Ballesteros: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46226,7 +46376,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Moisés Ballesteros: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46250,7 +46400,7 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
+      "no_ask_dollars": "0.8200",
       "no_bid_dollars": "0.0000",
       "no_sub_title": "Moisés Ballesteros: 2+",
       "notional_value_dollars": "1.0000",
@@ -46281,10 +46431,10 @@
       "volume_fp": "0.00",
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_dollars": "0.1800",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "Moisés Ballesteros: 2+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.18,
       "volume": 0
     },
     {
@@ -46338,7 +46488,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Jose Siri: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46394,7 +46544,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Jose Siri: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46450,7 +46600,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Jose Siri: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46506,7 +46656,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Jose Siri: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46562,7 +46712,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Josh Lowe: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46587,7 +46737,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.2000",
       "no_sub_title": "Josh Lowe: 4+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -46615,10 +46765,10 @@
       "updated_time": "2026-08-23T19:03:39.387263Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.8000",
+      "yes_ask_size_fp": "201.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Josh Lowe: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46674,7 +46824,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Josh Lowe: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46730,7 +46880,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Josh Lowe: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46755,7 +46905,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_bid_dollars": "0.1600",
       "no_sub_title": "Christian Moore: 4+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -46783,10 +46933,10 @@
       "updated_time": "2026-08-23T19:03:39.387263Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
+      "yes_ask_dollars": "0.8400",
+      "yes_ask_size_fp": "201.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Christian Moore: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46842,7 +46992,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Christian Moore: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46898,7 +47048,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "960.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Christian Moore: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -46921,8 +47071,8 @@
       "latest_expiration_time": "2026-08-26T18:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.8400",
+      "no_bid_dollars": "0.8100",
       "no_sub_title": "Houston wins by over 5.5 runs",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -46949,12 +47099,12 @@
       "updated_time": "2026-08-23T19:03:39.387263Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_ask_dollars": "0.1900",
+      "yes_ask_size_fp": "1.00",
+      "yes_bid_dollars": "0.1600",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Houston wins by over 5.5 runs",
-      "yes_bid": 0.01,
+      "yes_bid": 0.16,
       "volume": 0
     },
     {
@@ -46975,8 +47125,8 @@
       "latest_expiration_time": "2026-08-26T18:10:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.7300",
+      "no_bid_dollars": "0.7100",
       "no_sub_title": "Houston wins by over 4.5 runs",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -47003,12 +47153,12 @@
       "updated_time": "2026-08-23T19:03:39.387263Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1020.00",
+      "yes_ask_dollars": "0.2900",
+      "yes_ask_size_fp": "2.00",
+      "yes_bid_dollars": "0.2700",
+      "yes_bid_size_fp": "1.00",
       "yes_sub_title": "Houston wins by over 4.5 runs",
-      "yes_bid": 0.01,
+      "yes_bid": 0.27,
       "volume": 0
     },
     {
@@ -47062,7 +47212,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "950.00",
       "yes_sub_title": "Wyatt Langford: 5+",
       "yes_bid": 0.01,
       "volume": 0
@@ -47118,7 +47268,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "940.00",
       "yes_sub_title": "Wyatt Langford: 4+",
       "yes_bid": 0.01,
       "volume": 0
@@ -47174,7 +47324,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Wyatt Langford: 3+",
       "yes_bid": 0.01,
       "volume": 0
@@ -47230,7 +47380,7 @@
       "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1040.00",
+      "yes_bid_size_fp": "930.00",
       "yes_sub_title": "Wyatt Langford: 2+",
       "yes_bid": 0.01,
       "volume": 0
@@ -47254,8 +47404,8 @@
       "latest_expiration_time": "2026-08-26T18:35:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "0.9900",
-      "no_bid_dollars": "0.0000",
+      "no_ask_dollars": "0.9800",
+      "no_bid_dollars": "0.0300",
       "no_sub_title": "Wyatt Langford: 1+",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -47283,12 +47433,12 @@
       "updated_time": "2026-08-23T19:03:39.243322Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "1.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0100",
-      "yes_bid_size_fp": "1030.00",
+      "yes_ask_dollars": "0.9700",
+      "yes_ask_size_fp": "101.00",
+      "yes_bid_dollars": "0.0200",
+      "yes_bid_size_fp": "101.00",
       "yes_sub_title": "Wyatt Langford: 1+",
-      "yes_bid": 0.01,
+      "yes_bid": 0.02,
       "volume": 0
     }
   ],
@@ -47319,23 +47469,23 @@
       "pct": 0.07432733759476313
     },
     "BINANCE:BTCUSDT": {
-      "c": 77324,
-      "pc": 77330,
-      "pct": -0.0077589551273761805
+      "c": 77394.28,
+      "pc": 77448,
+      "pct": -0.06936266914575091
     },
     "BINANCE:ETHUSDT": {
-      "c": 2441.27,
-      "pc": 2430.92,
-      "pct": 0.42576473104832363
+      "c": 2448.81,
+      "pc": 2441.38,
+      "pct": 0.3043360722214418
     },
     "BINANCE:SOLUSDT": {
-      "c": 94.99,
-      "pc": 94.55,
-      "pct": 0.4653622421998918
+      "c": 95.22,
+      "pc": 94.69,
+      "pct": 0.5597211954799886
     }
   },
-  "tick": 1303,
-  "totalScanned": 129900,
+  "tick": 1304,
+  "totalScanned": 130000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 130,
@@ -47346,8 +47496,8 @@
       "total": 127
     },
     "Unknown|NO|short": {
-      "wins": 1227,
-      "total": 1322
+      "wins": 1229,
+      "total": 1324
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -47360,7 +47510,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 1594,
-  "lastRun": "2026-08-23T19:32:43.143Z",
+  "learnTotal": 1596,
+  "lastRun": "2026-08-23T19:52:28.238Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
