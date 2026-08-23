@@ -1,5 +1,5 @@
 {
-  "cash": 276.7,
+  "cash": 280.74,
   "startCash": 200,
   "trades": [
     {
@@ -39112,10 +39112,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-23T14:18:21.542Z",
-      "closedAt": null,
+      "closedAt": "2026-08-23T15:54:53.564Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -39162,10 +39162,10 @@
       "entryPrice": 0.99,
       "currentPrice": 0,
       "size": 2,
-      "pnl": 0,
-      "status": "open",
+      "pnl": 0.02,
+      "status": "win",
       "openedAt": "2026-08-23T14:18:22.224Z",
-      "closedAt": null,
+      "closedAt": "2026-08-23T15:54:53.565Z",
       "ticksOpen": 0,
       "conf": "high",
       "shortTerm": true,
@@ -39210,7 +39210,7 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.02,
+      "currentPrice": 0.03,
       "size": 2,
       "pnl": 0,
       "status": "open",
@@ -39343,7 +39343,7 @@
       "status": "open",
       "openedAt": "2026-08-23T13:58:17.811Z",
       "closedAt": null,
-      "ticksOpen": 5,
+      "ticksOpen": 6,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39368,57 +39368,7 @@
       "status": "open",
       "openedAt": "2026-08-23T13:58:18.127Z",
       "closedAt": null,
-      "ticksOpen": 5,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-23T15:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787494701542.6973,
-      "ticker": "KXTEMPAUSH-26AUG2311-T87.99",
-      "market": "Will the temp in Austin be above 87.99° on Aug 23, 2026 at 11am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-23T14:18:21.542Z",
-      "closedAt": null,
-      "ticksOpen": 4,
-      "conf": "high",
-      "shortTerm": true,
-      "term": "short",
-      "expires": "2026-08-23T15:00:00Z",
-      "reasoning": "NO: 99¢",
-      "kellyFrac": "0.0",
-      "payoutMult": "1.01",
-      "expectedReturn": "0.0",
-      "entryScore": 8
-    },
-    {
-      "id": 1787494702224.4644,
-      "ticker": "KXTEMPAUSH-26AUG2311-T85.99",
-      "market": "Will the temp in Austin be above 85.99° on Aug 23, 2026 at 11am EDT?",
-      "category": "Unknown",
-      "agent": "Zara",
-      "side": "NO",
-      "entryPrice": 0.99,
-      "currentPrice": 0,
-      "size": 2,
-      "pnl": 0,
-      "status": "open",
-      "openedAt": "2026-08-23T14:18:22.224Z",
-      "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 6,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39437,13 +39387,13 @@
       "agent": "Zara",
       "side": "NO",
       "entryPrice": 0.99,
-      "currentPrice": 0.02,
+      "currentPrice": 0.03,
       "size": 2,
       "pnl": 0,
       "status": "open",
       "openedAt": "2026-08-23T14:45:28.242Z",
       "closedAt": null,
-      "ticksOpen": 3,
+      "ticksOpen": 4,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39468,7 +39418,7 @@
       "status": "open",
       "openedAt": "2026-08-23T15:09:42.938Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39493,7 +39443,7 @@
       "status": "open",
       "openedAt": "2026-08-23T15:09:43.305Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39518,7 +39468,7 @@
       "status": "open",
       "openedAt": "2026-08-23T15:09:43.672Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39543,7 +39493,7 @@
       "status": "open",
       "openedAt": "2026-08-23T15:09:44.039Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -39556,6 +39506,186 @@
     }
   ],
   "log": [
+    {
+      "t": "3:54:53 PM",
+      "who": "System",
+      "msg": "Portfolio: $294.74 · Realized P&L: +$94.74 · Trades: 1573",
+      "type": "lt-sys"
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "✓ WIN \"Will the temp in Austin be abo\" → +$0.02",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI4 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI4 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI5 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:54:53 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI5 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI6 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI6 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI7 [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXEPLTEAMTOTAL-26AUG23BRIAVL-BRI7 open · mark 0¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALSPREAD-26AUG23FCCZD98-D984 [short] tick:4 · waiting · settle chance:30%",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXDFBPOKALSPREAD-26AUG23FCCZD98-D984 open · mark 3¢ · ~2d left",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2311-T85.99 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T85.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "[PAPER SETTLE] KXTEMPAUSH-26AUG2311-T87.99 tick:5 → WIN ✓ (winP:96%)",
+      "type": "lt-trade"
+    },
+    {
+      "t": "3:54:52 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T87.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T88.99 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T88.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T89.99 [short] tick:6 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Knox",
+      "msg": "KXTEMPAUSH-26AUG2311-T89.99 open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Knox",
+      "msg": "Checking 9 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Axel",
+      "msg": "Exposure: 9% · Cash: $276.70",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (10 killed)",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Rex",
+      "msg": "Got 100 REAL live markets",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "3:54:51 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$77,182 SPY $$765.72",
+      "type": "lt-info"
+    },
+    {
+      "t": "3:54:49 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "3:54:49 PM",
+      "who": "System",
+      "msg": "═══ TICK #1293 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "3:33:50 PM",
       "who": "System",
@@ -40575,186 +40705,6 @@
       "who": "Knox",
       "msg": "✓ WIN \"Bobby Witt Jr.: 2+ total bases\" → +$0.04",
       "type": "lt-trade"
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Bobby Witt Jr.: 2+ hits?\" → +$0.50",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "✓ WIN \"Will Team Spirit win map 4 in \" → +$0.02",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T88.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T88.99 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T89.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T89.99 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T90.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:58:21 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T90.99 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T91.99 [short] tick:1 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXTEMPAUSH-26AUG2311-T91.99 open · mark 1¢ · ~1.0h left",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-FCH5 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-FCH5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-JED4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-JED4 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-JED5 tick:3 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:20 PM",
-      "who": "Knox",
-      "msg": "KXDFBPOKALTEAMTOTAL-26AUG23JEDFCH-JED5 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXDENSUPERLIGASPREAD-26AUG23SONNJA-NJA4 [short] tick:3 · waiting · settle chance:15%",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXDENSUPERLIGASPREAD-26AUG23SONNJA-NJA4 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXCLUBFSPREAD-26AUG23TONCFB-TON2 [short] tick:5 · waiting · settle chance:40%",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXCLUBFSPREAD-26AUG23TONCFB-TON2 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXCLUBFSPREAD-26AUG23TONCFB-TON3 tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXCLUBFSPREAD-26AUG23TONCFB-TON3 open · mark 0¢ · ~2d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXVALORANTMAP-26AUG230400TYLOOJDG-4-JDG tick:5 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXVALORANTMAP-26AUG230400TYLOOJDG-4-JDG open · mark 0¢ · ~42.5h left",
-      "type": ""
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXTEMPNYCH-26AUG2308-T67.99 tick:6 → WIN ✓ (winP:92%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:19 PM",
-      "who": "Knox",
-      "msg": "KXTEMPNYCH-26AUG2308-T67.99 open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "1:58:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBTB-26AUG231410DETKC-KCBWITT7-2 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBTB-26AUG231410DETKC-KCBWITT7-2 open · mark 4¢ · ~3d left",
-      "type": ""
-    },
-    {
-      "t": "1:58:18 PM",
-      "who": "Knox",
-      "msg": "[PAPER SETTLE] KXMLBHIT-26AUG231410DETKC-KCBWITT7-2 tick:7 → WIN ✓ (winP:96%)",
-      "type": "lt-trade"
-    },
-    {
-      "t": "1:58:18 PM",
-      "who": "Knox",
-      "msg": "KXMLBHIT-26AUG231410DETKC-KCBWITT7-2 open · mark 2¢ · ~3d left",
-      "type": ""
     }
   ],
   "markets": [
@@ -40776,7 +40726,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "Spirit",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -40803,7 +40753,7 @@
       "updated_time": "2026-08-23T15:33:40.169135Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -40879,7 +40829,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "94° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -40907,7 +40857,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -40925,12 +40875,12 @@
       "expiration_time": "2026-08-23T16:00:00Z",
       "expiration_value": "",
       "floor_strike": 92.99,
-      "last_price_dollars": "0.0000",
+      "last_price_dollars": "0.3000",
       "latest_expiration_time": "2026-08-30T16:00:00Z",
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
-      "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_ask_dollars": "0.7000",
+      "no_bid_dollars": "0.6800",
       "no_sub_title": "93° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -40956,15 +40906,15 @@
       "ticker": "KXTEMPMIAH-26AUG2312-T92.99",
       "title": "Will the temp in Miami be above 92.99° on Aug 23, 2026 at 12pm EDT?",
       "updated_time": "2026-08-23T15:33:40.204477Z",
-      "volume_24h_fp": "0.00",
-      "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
-      "yes_ask_size_fp": "0.00",
-      "yes_bid_dollars": "0.0000",
-      "yes_bid_size_fp": "0.00",
+      "volume_24h_fp": "2.00",
+      "volume_fp": "2.00",
+      "yes_ask_dollars": "0.3200",
+      "yes_ask_size_fp": "10.00",
+      "yes_bid_dollars": "0.3000",
+      "yes_bid_size_fp": "10.00",
       "yes_sub_title": "93° or above",
-      "yes_bid": 0,
-      "volume": 0
+      "yes_bid": 0.3,
+      "volume": 2
     },
     {
       "can_close_early": true,
@@ -40981,7 +40931,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "92° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41009,7 +40959,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41032,7 +40982,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "91° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41060,7 +41010,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41083,7 +41033,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "90° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41111,7 +41061,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41134,7 +41084,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "89° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41162,7 +41112,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41185,7 +41135,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "88° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41213,7 +41163,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41236,7 +41186,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "87° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41264,7 +41214,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41287,7 +41237,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "86° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41315,7 +41265,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -41338,7 +41288,7 @@
       "liquidity_dollars": "0.0000",
       "market_type": "binary",
       "no_ask_dollars": "1.0000",
-      "no_bid_dollars": "1.0000",
+      "no_bid_dollars": "0.0000",
       "no_sub_title": "85° or above",
       "notional_value_dollars": "1.0000",
       "open_interest_fp": "0.00",
@@ -41366,7 +41316,7 @@
       "updated_time": "2026-08-23T15:33:40.204477Z",
       "volume_24h_fp": "0.00",
       "volume_fp": "0.00",
-      "yes_ask_dollars": "0.0000",
+      "yes_ask_dollars": "1.0000",
       "yes_ask_size_fp": "0.00",
       "yes_bid_dollars": "0.0000",
       "yes_bid_size_fp": "0.00",
@@ -45963,23 +45913,23 @@
       "pct": 0.07432733759476313
     },
     "BINANCE:BTCUSDT": {
-      "c": 77164.29,
-      "pc": 77096.31,
-      "pct": 0.08817542629471622
+      "c": 77182.24,
+      "pc": 76967.93,
+      "pct": 0.2784406440448798
     },
     "BINANCE:ETHUSDT": {
-      "c": 2436.7,
-      "pc": 2414.01,
-      "pct": 0.9399298263055911
+      "c": 2441.76,
+      "pc": 2410.17,
+      "pct": 1.3106959260135238
     },
     "BINANCE:SOLUSDT": {
-      "c": 95.57,
-      "pc": 93.47,
-      "pct": 2.246710174387498
+      "c": 95.52,
+      "pc": 93.09,
+      "pct": 2.6103770544634144
     }
   },
-  "tick": 1292,
-  "totalScanned": 128900,
+  "tick": 1293,
+  "totalScanned": 129000,
   "learnData": {
     "Unknown|NO|long": {
       "wins": 130,
@@ -45990,8 +45940,8 @@
       "total": 126
     },
     "Unknown|NO|short": {
-      "wins": 1199,
-      "total": 1293
+      "wins": 1201,
+      "total": 1295
     },
     "Unknown|YES|long": {
       "wins": 9,
@@ -46004,7 +45954,7 @@
     "Unknown|NO|short": 1.4,
     "Unknown|YES|long": 1.4
   },
-  "learnTotal": 1564,
-  "lastRun": "2026-08-23T15:33:45.438Z",
+  "learnTotal": 1566,
+  "lastRun": "2026-08-23T15:54:49.540Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
