@@ -54343,7 +54343,7 @@
       "status": "open",
       "openedAt": "2026-11-10T17:59:23.083Z",
       "closedAt": null,
-      "ticksOpen": 4,
+      "ticksOpen": 5,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -54368,7 +54368,7 @@
       "status": "open",
       "openedAt": "2026-11-11T02:19:36.922Z",
       "closedAt": null,
-      "ticksOpen": 2,
+      "ticksOpen": 3,
       "conf": "high",
       "shortTerm": true,
       "term": "short",
@@ -54381,6 +54381,96 @@
     }
   ],
   "log": [
+    {
+      "t": "5:26:51 PM",
+      "who": "System",
+      "msg": "Portfolio: $275.83 · Realized P&L: +$75.83 · Trades: 2173",
+      "type": "lt-sys"
+    },
+    {
+      "t": "5:26:51 PM",
+      "who": "Knox",
+      "msg": "All 2 positions pending real Kalshi settlement",
+      "type": ""
+    },
+    {
+      "t": "5:26:51 PM",
+      "who": "Knox",
+      "msg": "KXDEMOFUTHOURLY-26NOV11H03-UP [short] tick:3 · waiting · settle chance:15%",
+      "type": ""
+    },
+    {
+      "t": "5:26:51 PM",
+      "who": "Knox",
+      "msg": "KXDEMOFUTHOURLY-26NOV11H03-UP open · mark 0¢ · ~expired left",
+      "type": ""
+    },
+    {
+      "t": "5:26:47 PM",
+      "who": "Knox",
+      "msg": "KXQEXLOAD-26NOV101745FIXMMC8AT-M044 [short] tick:5 · waiting · settle chance:40%",
+      "type": ""
+    },
+    {
+      "t": "5:26:47 PM",
+      "who": "Knox",
+      "msg": "Error: socket hang up",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:26:42 PM",
+      "who": "Knox",
+      "msg": "Checking 2 position(s) for settlement...",
+      "type": ""
+    },
+    {
+      "t": "5:26:42 PM",
+      "who": "Axel",
+      "msg": "Exposure: 7% · Cash: $261.83",
+      "type": ""
+    },
+    {
+      "t": "5:26:42 PM",
+      "who": "Nova",
+      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
+      "type": ""
+    },
+    {
+      "t": "5:26:42 PM",
+      "who": "Flash",
+      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
+      "type": ""
+    },
+    {
+      "t": "5:26:42 PM",
+      "who": "Rex",
+      "msg": "Error: socket hang up",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:26:37 PM",
+      "who": "Rex",
+      "msg": "Scanning Kalshi demo markets...",
+      "type": ""
+    },
+    {
+      "t": "5:26:37 PM",
+      "who": "Nova",
+      "msg": "Finnhub: 8 prices — BTC $$74,609 SPY $$760.83",
+      "type": "lt-info"
+    },
+    {
+      "t": "5:26:36 PM",
+      "who": "Auth",
+      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
+      "type": "lt-warn"
+    },
+    {
+      "t": "5:26:30 PM",
+      "who": "System",
+      "msg": "═══ TICK #1853 — North Pointe Capital ═══",
+      "type": "lt-sys"
+    },
     {
       "t": "9:38:10 AM",
       "who": "System",
@@ -55490,96 +55580,6 @@
       "who": "System",
       "msg": "═══ TICK #1846 — North Pointe Capital ═══",
       "type": "lt-sys"
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "System",
-      "msg": "Portfolio: $273.05 · Realized P&L: +$73.05 · Trades: 2163",
-      "type": "lt-sys"
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Knox",
-      "msg": "All 1 positions pending real Kalshi settlement",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Knox",
-      "msg": "KXDEMOFUTHOURLY-26NOV09H03-UP [short] tick:2 · waiting · settle chance:0%",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Knox",
-      "msg": "KXDEMOFUTHOURLY-26NOV09H03-UP open · mark 0¢ · ~expired left",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Knox",
-      "msg": "Checking 1 position(s) for settlement...",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Axel",
-      "msg": "Exposure: 1% · Cash: $271.05",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Nova",
-      "msg": "Diversified: 0 short (0%) · 0 long — target 70% short",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Flash",
-      "msg": "0 short · 0 long · YES:0 NO:0 (0 killed)",
-      "type": ""
-    },
-    {
-      "t": "9:41:17 AM",
-      "who": "Rex",
-      "msg": "Got 100 REAL live markets",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:41:16 AM",
-      "who": "Rex",
-      "msg": "Scanning Kalshi demo markets...",
-      "type": ""
-    },
-    {
-      "t": "9:41:16 AM",
-      "who": "Nova",
-      "msg": "Finnhub: 8 prices — BTC $$74,294 SPY $$735.29",
-      "type": "lt-info"
-    },
-    {
-      "t": "9:41:15 AM",
-      "who": "Auth",
-      "msg": "✗ No session — orders may be rejected (check KALSHI_EMAIL/KALSHI_PASS secrets)",
-      "type": "lt-warn"
-    },
-    {
-      "t": "9:41:15 AM",
-      "who": "System",
-      "msg": "═══ TICK #1845 — North Pointe Capital ═══",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:09:08 AM",
-      "who": "System",
-      "msg": "Portfolio: $273.05 · Realized P&L: +$73.05 · Trades: 2163",
-      "type": "lt-sys"
-    },
-    {
-      "t": "2:09:08 AM",
-      "who": "Knox",
-      "msg": "All 1 positions pending real Kalshi settlement",
-      "type": ""
     }
   ],
   "markets": [
@@ -63432,47 +63432,47 @@
   ],
   "prices": {
     "SPY": {
-      "c": 749.92,
-      "pc": 752.69,
-      "pct": -0.3680133919674893
+      "c": 760.83,
+      "pc": 749.92,
+      "pct": 1.4548218476637618
     },
     "QQQ": {
-      "c": 674.76,
-      "pc": 679.35,
-      "pct": -0.6756458379333233
+      "c": 694.14,
+      "pc": 674.76,
+      "pct": 2.8721323137115413
     },
     "GLD": {
-      "c": 369.36,
-      "pc": 379.53,
-      "pct": -2.679630068769257
+      "c": 366.97,
+      "pc": 369.36,
+      "pct": -0.6470651938488159
     },
     "AAPL": {
-      "c": 348.51,
-      "pc": 350.69,
-      "pct": -0.6216316404801981
+      "c": 354.46,
+      "pc": 348.51,
+      "pct": 1.7072680841295769
     },
     "USO": {
-      "c": 141.45,
-      "pc": 142.66,
-      "pct": -0.8481704752558586
+      "c": 142.47,
+      "pc": 141.45,
+      "pct": 0.7211028632025523
     },
     "BINANCE:BTCUSDT": {
-      "c": 73620.47,
-      "pc": 74367.63,
-      "pct": -1.004684430578201
+      "c": 74608.9,
+      "pc": 73044.04,
+      "pct": 2.1423513814405677
     },
     "BINANCE:ETHUSDT": {
-      "c": 2053.12,
-      "pc": 2097.98,
-      "pct": -2.1382472664181797
+      "c": 2096.73,
+      "pc": 2023.72,
+      "pct": 3.6077125294013004
     },
     "BINANCE:SOLUSDT": {
-      "c": 83.09,
-      "pc": 85.31,
-      "pct": -2.602274059313092
+      "c": 85.57,
+      "pc": 82.39,
+      "pct": 3.859691710158991
     }
   },
-  "tick": 1852,
+  "tick": 1853,
   "totalScanned": 184800,
   "learnData": {
     "Unknown|NO|long": {
@@ -63499,6 +63499,6 @@
     "Unknown|YES|long": 1.4
   },
   "learnTotal": 2171,
-  "lastRun": "2026-11-11T09:38:06.456Z",
+  "lastRun": "2026-11-11T17:26:30.881Z",
   "created": "2026-06-14T00:00:00.000Z"
 }
